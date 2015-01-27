@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: frontmatter/dedication.aux
+A level-1 auxiliary file: frontmatter/acknowledgement.aux
+A level-1 auxiliary file: frontmatter/abstract.aux
+A level-1 auxiliary file: frontmatter/preface.aux
+A level-1 auxiliary file: introduction/introduction.aux
+A level-1 auxiliary file: example_chapter/aims.aux
+A level-1 auxiliary file: conclusion/conclusion.aux
+A level-1 auxiliary file: backmatter/appendix.aux
+A level-1 auxiliary file: backmatter/glossary.aux
+The style file: Latex/Classes/PhDbiblio-url2.bst
+Database file #1: ./backmatter/references.bib
+You've used 1 entry,
+            2776 wiz_defined-function locations,
+            615 strings with 5192 characters,
+and the built_in function-call counts, 323 in all, are:
+= -- 30
+> -- 7
+< -- 0
++ -- 3
+- -- 2
+* -- 14
+:= -- 71
+add.period$ -- 3
+call.type$ -- 1
+change.case$ -- 3
+chr.to.int$ -- 0
+cite$ -- 1
+duplicate$ -- 13
+empty$ -- 29
+format.name$ -- 2
+if$ -- 71
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 1
+newline$ -- 8
+num.names$ -- 2
+pop$ -- 8
+preamble$ -- 1
+purify$ -- 3
+quote$ -- 0
+skip$ -- 21
+stack$ -- 0
+substring$ -- 5
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 4
+warning$ -- 0
+while$ -- 2
+width$ -- 2
+write$ -- 12

@@ -1,0 +1,26 @@
+\select@language {english}
+\contentsline {chapter}{Title}{i}{section*.1}
+\contentsline {chapter}{Copyright}{ii}{section*.2}
+\contentsline {chapter}{Dedication}{iii}{section*.3}
+\contentsline {chapter}{Acknowledgements}{iv}{section*.4}
+\contentsline {chapter}{Abstract}{v}{section*.5}
+\contentsline {chapter}{Contents}{vi}{chapter*.6}
+\contentsline {chapter}{List of Tables}{viii}{chapter*.7}
+\contentsline {chapter}{List of Figures}{ix}{chapter*.8}
+\contentsline {chapter}{Preface}{x}{section*.9}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}put section name here}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Name your subsection}{1}{subsection.1.1.1}
+\contentsline {part}{I\hspace {1em}In the Beginning\ldots }{4}{part.1}
+\contentsline {chapter}{\numberline {2}Aims}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Junk}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Blah}{6}{section.2.2}
+\contentsline {part}{II\hspace {1em}A New Paradigm\ldots }{11}{part.2}
+\contentsline {chapter}{\numberline {3}Conclusion}{12}{chapter.3}
+\contentsline {section}{\numberline {3.1}Wrapping up\ldots }{12}{section.3.1}
+\contentsline {chapter}{\numberline {A}Some Appendix}{16}{Appendix.1.A}
+\contentsline {section}{\numberline {A.1}first section}{18}{section.1.A.1}
+\contentsline {chapter}{\numberline {B}Another Appendix}{21}{Appendix.1.B}
+\contentsline {chapter}{Glossary}{24}{chapter*.12}
+\contentsline {chapter}{References}{25}{chapter*.13}
+\contentsline {chapter}{Index}{26}{chapter*.13}
