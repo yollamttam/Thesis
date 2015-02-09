@@ -6,50 +6,101 @@ A level-1 auxiliary file: frontmatter/acknowledgement.aux
 A level-1 auxiliary file: frontmatter/abstract.aux
 A level-1 auxiliary file: frontmatter/preface.aux
 A level-1 auxiliary file: introduction/introduction.aux
+A level-1 auxiliary file: bubble_finding/bubble_finding.aux
+A level-1 auxiliary file: neutral_islands/neutral_islands.aux
 A level-1 auxiliary file: example_chapter/aims.aux
 A level-1 auxiliary file: conclusion/conclusion.aux
 A level-1 auxiliary file: backmatter/appendix.aux
 A level-1 auxiliary file: backmatter/glossary.aux
-The style file: Latex/Classes/PhDbiblio-url2.bst
+The style file: plainnat.bst
 Database file #1: ./backmatter/references.bib
-You've used 1 entry,
-            2776 wiz_defined-function locations,
-            615 strings with 5192 characters,
-and the built_in function-call counts, 323 in all, are:
-= -- 30
-> -- 7
-< -- 0
-+ -- 3
-- -- 2
-* -- 14
-:= -- 71
-add.period$ -- 3
-call.type$ -- 1
-change.case$ -- 3
-chr.to.int$ -- 0
-cite$ -- 1
-duplicate$ -- 13
-empty$ -- 29
-format.name$ -- 2
-if$ -- 71
-int.to.chr$ -- 0
+Warning--I didn't find a database entry for "1965ApJ...142.1633G"
+Warning--I didn't find a database entry for "Fan:2001ff"
+Warning--I didn't find a database entry for "Becker:2001ee"
+Warning--I didn't find a database entry for "Djorgovski:2001ez"
+Warning--I didn't find a database entry for "Mesinger:2009mv"
+Warning--I didn't find a database entry for "Lidz:2007mz"
+Warning--I didn't find a database entry for "McGreer:2011dm"
+Warning--I didn't find a database entry for "Robertson:2013bq"
+Warning--I didn't find a database entry for "2012ApJ...744..179S"
+Warning--I didn't find a database entry for "Pentericci:2014nia"
+Warning--I didn't find a database entry for "2013MNRAS.429.1695B"
+Warning--I didn't find a database entry for "Taylor:2013qia"
+Warning--I didn't find a database entry for "Becker:2014oga"
+Warning--I didn't find a database entry for "Mesinger:2006kn"
+Warning--I didn't find a database entry for "2013MNRAS.428.3058S"
+Warning--I didn't find a database entry for "McQuinn:2007dy"
+Warning--I didn't find a database entry for "2010MNRAS.407.1328M"
+Warning--I didn't find a database entry for "Ade:2013zuv"
+Warning--I didn't find a database entry for "Xu:2013npa"
+Warning--I didn't find a database entry for "KuhlenConcordance"
+Warning--I didn't find a database entry for "Bolton:2007b"
+Warning--I didn't find a database entry for "Becker:2013ffa"
+Warning--I didn't find a database entry for "Zuo"
+Warning--I didn't find a database entry for "Worseck:2014fya"
+Warning--I didn't find a database entry for "Lidz:2014jxa"
+Warning--I didn't find a database entry for "Croft:2000hs"
+Warning--I didn't find a database entry for "Lee:2013fga"
+Warning--I didn't find a database entry for "Cooke:2013cba"
+Warning--I didn't find a database entry for "2013MNRAS.430.2067B"
+Warning--I didn't find a database entry for "Gallerani:2005mf"
+Warning--I didn't find a database entry for "MiraldaEscude:1997en"
+Warning--I didn't find a database entry for "Viel:2013fqw"
+Warning--I didn't find a database entry for "Wolfe:2005jd"
+Warning--I didn't find a database entry for "Rahmati:2013hsa"
+Warning--I didn't find a database entry for "Prochaska:2005wy"
+Warning--I didn't find a database entry for "Cooray:2002dia"
+Warning--empty journal in Beardsley:2012za
+Warning--empty journal in Bouwens:2011xu
+Warning--empty journal in Datta:2011hv
+Warning--empty journal in Friedrich:2012fy
+Warning--empty journal in Kuhlen:2012vy
+Warning--empty journal in Mesinger:2007pd
+Warning--empty journal in Parsons:2009in
+Warning--empty journal in Parsons:2012qh
+Warning--empty journal in Petrovic:2010me
+Warning--empty journal in Tingay:2012ps
+Warning--empty journal in Zahn:2010yw
+Warning--empty journal in Zaroubi:2012cy
+You've used 61 entries,
+            2773 wiz_defined-function locations,
+            1061 strings with 18307 characters,
+and the built_in function-call counts, 31452 in all, are:
+= -- 2654
+> -- 2385
+< -- 17
++ -- 807
+- -- 744
+* -- 2773
+:= -- 5099
+add.period$ -- 215
+call.type$ -- 61
+change.case$ -- 404
+chr.to.int$ -- 59
+cite$ -- 134
+duplicate$ -- 1248
+empty$ -- 2211
+format.name$ -- 833
+if$ -- 6432
+int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 1
-newline$ -- 8
-num.names$ -- 2
-pop$ -- 8
+missing$ -- 62
+newline$ -- 345
+num.names$ -- 244
+pop$ -- 721
 preamble$ -- 1
-purify$ -- 3
+purify$ -- 344
 quote$ -- 0
-skip$ -- 21
+skip$ -- 1002
 stack$ -- 0
-substring$ -- 5
-swap$ -- 3
+substring$ -- 860
+swap$ -- 53
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 4
-warning$ -- 0
-while$ -- 2
-width$ -- 2
-write$ -- 12
+type$ -- 666
+warning$ -- 12
+while$ -- 227
+width$ -- 0
+write$ -- 835
+(There were 48 warnings)

@@ -2,31 +2,32 @@
 
  \nomgroup{A}
 
-  \item [{M}]\begingroup Mass of object\nomeqref {3.0}\nompageref{24}
+  \item [{M}]\begingroup Mass of object\nomeqref {5.0}\nompageref{129}
 
  \nomgroup{G}
 
-  \item [{$\tau$}]\begingroup Optical depth\nomeqref {3.0}
-		\nompageref{24}
+  \item [{$\tau$}]\begingroup Optical depth\nomeqref {5.0}
+		\nompageref{129}
 
  \nomgroup{R}
 
-  \item [{$\ ^{*}$}]\begingroup Conjugate\nomeqref {3.0}\nompageref{24}
+  \item [{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}
+		\nompageref{129}
 
  \nomgroup{S}
 
-  \item [{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {3.0}
-		\nompageref{24}
+  \item [{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}
+		\nompageref{129}
 
  \nomgroup{X}
 
-  \item [{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {3.0}
-		\nompageref{24}
+  \item [{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}
+		\nompageref{129}
 
  \nomgroup{Z}
 
   \item [{Ph.D}]\begingroup Acronym\nomeqref {1.0}\nompageref{1}
-  \item [{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {3.0}
-		\nompageref{24}
+  \item [{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}
+		\nompageref{129}
 
 \end{thenomenclature}

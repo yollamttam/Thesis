@@ -1,5 +1,5 @@
 % ----------------------------------------------------------------------
-%                   LATEX TEMPLATE FOR PhD THESIS
+%                   LATEX TEMPLATE FOR PhD THESISau
 % ----------------------------------------------------------------------
 
 % based on Harish Bhanderi's PhD/MPhil template, then Uni Cambridge
@@ -32,6 +32,7 @@
 %: The end user may modify these files to personalize and define macros
 %: --------------------------------------------------------------------------
 \usepackage{Latex/StyleFiles/UserDefs} % Define any user-defined Macros and functions in this file.
+\usepackage{Latex/StyleFiles/matt}
 \include{Latex/Macros/MacroFile1} % Some prewritten Macros for Use in Latex
 
 
@@ -113,7 +114,7 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/}
 \include{frontmatter/abstract}
 
 %: ----------------------- generate Table of Contents ---------------------
-\setcounter{secnumdepth}{3} % organisational level that receives a numbers
+\setcounter{secnumdepth}{1} % organisational level that receives a numbers
 \setcounter{tocdepth}{3}    % print table of contents for level 3
 \tableofcontents            % print the table of contents
 % levels are: 0 - chapter, 1 - section, 2 - subsection, 3 - subsection
@@ -138,7 +139,8 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/}
 \include{introduction/introduction}	
 
 \part{In the Beginning\ldots}
-
+\include{bubble_finding/bubble_finding}
+\include{neutral_islands/neutral_islands}
 \include{example_chapter/aims}		
 			
 \part{A New Paradigm\ldots}
@@ -208,7 +210,8 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/}
 \begin{multicols}{2} % \begin{multicols}{ # columns}[ header text][ space]
 \begin{tiny} % tiny(5) < scriptsize(7) < footnotesize(8) < small (9)
 
-\bibliographystyle{Latex/Classes/PhDbiblio-url2} % Title is link if provided
+%\bibliographystyle{Latex/Classes/PhDbiblio-url2} % Title is link if provided
+\bibliographystyle{plainnat}
 \renewcommand{\bibname}{References} % changes the header; default: Bibliography
 
 \bibliography{./backmatter/references} % adjust this to fit your BibTex file

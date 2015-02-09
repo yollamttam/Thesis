@@ -1,8 +1,437 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{61}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem{name06}
-{\sc Name}.
-\newblock {\bf Title}.
-\newblock {\em Journal of Sth}, 2006.
+\bibitem[Barkana and Loeb(2001)]{Barkana:2000fd}
+Rennan Barkana and Abraham Loeb.
+\newblock {In the beginning: The First sources of light and the reionization of
+  the Universe}.
+\newblock \emph{Phys.Rept.}, 349:\penalty0 125--238, 2001.
+\newblock \doi{10.1016/S0370-1573(01)00019-9}.
+
+\bibitem[Beardsley et~al.(2012)Beardsley, Hazelton, Morales, Arcus, Barnes,
+  et~al.]{Beardsley:2012za}
+A.P. Beardsley, B.J. Hazelton, M.F. Morales, W.~Arcus, D.~Barnes, et~al.
+\newblock {The EoR Sensitivity of the 128 Antenna Murchison Widefield Array}.
+\newblock 2012.
+
+\bibitem[Bouwens et~al.(2011{\natexlab{a}})Bouwens, Illingworth, Labbe, Oesch,
+  Trenti, et~al.]{Bouwens:2009qs}
+R.J. Bouwens, G.D. Illingworth, I.~Labbe, P.A. Oesch, M.~Trenti, et~al.
+\newblock {A candidate redshift z ~ 10 galaxy and rapid changes in that
+  population at an age of 500 Myr}.
+\newblock \emph{Nature}, 469:\penalty0 504--507, 2011{\natexlab{a}}.
+\newblock \doi{10.1038/nature09717}.
+
+\bibitem[Bouwens et~al.(2011{\natexlab{b}})Bouwens, Illingworth, Oesch, Trenti,
+  Labbe, et~al.]{Bouwens:2011xu}
+R.J. Bouwens, G.D. Illingworth, P.A. Oesch, M.~Trenti, I.~Labbe, et~al.
+\newblock {Lower-Luminosity Galaxies could reionize the Universe: Very Steep
+  Faint-End Slopes to the UV Luminosity Functions at z>=5-8 from the HUDF09
+  WFC3/IR Observations}.
+\newblock 2011{\natexlab{b}}.
+
+\bibitem[Bowman et~al.(2006)Bowman, Morales, and Hewitt]{Bowman:2005cr}
+Judd~D. Bowman, Miguel~F. Morales, and Jacqueline~N. Hewitt.
+\newblock {The Sensitivity of first generation epoch of reionization
+  observatories and their potential for differentiating theoretical power
+  spectra}.
+\newblock \emph{Astrophys.J.}, 638:\penalty0 20--26, 2006.
+\newblock \doi{10.1086/498703}.
+
+\bibitem[Bowman et~al.(2007)Bowman, Morales, and Hewitt]{Bowman:2005hj}
+Judd~D. Bowman, Miguel~F. Morales, and Jacqueline~N. Hewitt.
+\newblock {Constraints on fundamental cosmological parameters with upcoming
+  epoch of reionization observations}.
+\newblock \emph{Astrophys.J.}, 661:\penalty0 1--9, 2007.
+\newblock \doi{10.1086/516560}.
+
+\bibitem[Chapman et~al.(2012)Chapman, Abdalla, Harker, Jelic, Labropoulos,
+  et~al.]{Chapman:2012yj}
+Emma Chapman, Filipe~B. Abdalla, Geraint Harker, Vibor Jelic, Panagiotis
+  Labropoulos, et~al.
+\newblock {Foreground Removal using FastICA: A Showcase of LOFAR-EoR}.
+\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 423:\penalty0 2518--2532, 2012.
+\newblock \doi{10.1111/j.1365-2966.2012.21065.x}.
+
+\bibitem[Ciardi and Madau(2003)]{Ciardi:2003hg}
+Benedetta Ciardi and Piero Madau.
+\newblock {Probing beyond the epoch of hydrogen reionization with 21 centimeter
+  radiation}.
+\newblock \emph{Astrophys.J.}, 596:\penalty0 1--8, 2003.
+\newblock \doi{10.1086/377634}.
+
+\bibitem[Datta et~al.(2010)Datta, Bowman, and Carilli]{Datta:2010pk}
+A.~Datta, J.D. Bowman, and C.L. Carilli.
+\newblock {Bright Source Subtraction Requirements For Redshifted 21 cm
+  Measurements}.
+\newblock \emph{Astrophys.J.}, 724:\penalty0 526--538, 2010.
+\newblock \doi{10.1088/0004-637X/724/1/526}.
+
+\bibitem[Datta et~al.(2007)Datta, Bharadwaj, and Choudhury]{Datta:2007nj}
+Kanan~K. Datta, Somnath Bharadwaj, and T.~Roy Choudhury.
+\newblock {Detecting ionized bubbles in redshifted 21 cm maps}.
+\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 382:\penalty0 809, 2007.
+\newblock \doi{10.1111/j.1365-2966.2007.12421.x}.
+
+\bibitem[Datta et~al.(2008)Datta, Majumdar, Bharadwaj, and
+  Choudhury]{Datta:2008ry}
+Kanan~K. Datta, Suman Majumdar, Somnath Bharadwaj, and T.~Roy Choudhury.
+\newblock {Simulating the impact of HI fluctuations on matched filter search
+  for ionized bubbles in redshifted 21 cm maps}.
+\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 391:\penalty0 1900, 2008.
+
+\bibitem[Datta et~al.(2011)Datta, Mellema, Mao, Iliev, Shapiro,
+  et~al.]{Datta:2011hv}
+Kanan~K. Datta, Garrelt Mellema, Yi~Mao, Ilian~T. Iliev, Paul~R. Shapiro,
+  et~al.
+\newblock {Light cone effect on the reionization 21-cm power spectrum}.
+\newblock 2011.
+
+\bibitem[Dunkley et~al.(2009)]{Dunkley:2008ie}
+J.~Dunkley et~al.
+\newblock {Five-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations:
+  Likelihoods and Parameters from the WMAP data}.
+\newblock \emph{Astrophys.J.Suppl.}, 180:\penalty0 306--329, 2009.
+\newblock \doi{10.1088/0067-0049/180/2/306}.
+
+\bibitem[Fan et~al.(2006)Fan, Strauss, Becker, White, Gunn, et~al.]{Fan:2005es}
+Xiao-Hui Fan, Michael~A. Strauss, Robert~H. Becker, Richard~L. White, James~E.
+  Gunn, et~al.
+\newblock {Constraining the evolution of the ionizing background and the epoch
+  of reionization with z~6 quasars. 2. a sample of 19 quasars}.
+\newblock \emph{Astron.J.}, 132:\penalty0 117--136, 2006.
+\newblock \doi{10.1086/504836}.
+
+\bibitem[Friedrich et~al.(2012)Friedrich, Datta, Mellema, and
+  Iliev]{Friedrich:2012fy}
+Martina~M. Friedrich, Kanan~K. Datta, Garrelt Mellema, and Ilian~T. Iliev.
+\newblock {Prospects of observing a quasar HII region during the Epoch of
+  Reionization with redshifted 21cm}.
+\newblock 2012.
+
+\bibitem[Furlanetto and Lidz(2006)]{Furlanetto:2006pg}
+Steven Furlanetto and Adam Lidz.
+\newblock {The Cross-Correlation of High-Redshift 21 cm and Galaxy Surveys}.
+\newblock \emph{Astrophys.J.}, 2006.
+
+\bibitem[Furlanetto et~al.(2004{\natexlab{a}})Furlanetto, Zaldarriaga, and
+  Hernquist]{Furlanetto:2004ha}
+Steven Furlanetto, Matias Zaldarriaga, and Lars Hernquist.
+\newblock {Statistical probes of reionization with 21 cm tomography}.
+\newblock \emph{Astrophys.J.}, 613:\penalty0 16--22, 2004{\natexlab{a}}.
+\newblock \doi{10.1086/423028}.
+
+\bibitem[Furlanetto et~al.(2004{\natexlab{b}})Furlanetto, Zaldarriaga, and
+  Hernquist]{Furlanetto:2004nh}
+Steven Furlanetto, Matias Zaldarriaga, and Lars Hernquist.
+\newblock {The Growth of HII regions during reionization}.
+\newblock \emph{Astrophys.J.}, 613:\penalty0 1--15, 2004{\natexlab{b}}.
+\newblock \doi{10.1086/423025}.
+
+\bibitem[Furlanetto et~al.(2006)Furlanetto, Oh, and Briggs]{Furlanetto:2006jb}
+Steven Furlanetto, S.~Peng Oh, and Frank Briggs.
+\newblock {Cosmology at Low Frequencies: The 21 cm Transition and the
+  High-Redshift Universe}.
+\newblock \emph{Phys.Rept.}, 433:\penalty0 181--301, 2006.
+
+\bibitem[Haehnelt and Tegmark(1996)]{Haehnelt:1995dg}
+Martin~G. Haehnelt and Max Tegmark.
+\newblock {Using the kinematic Sunyaev-Zeldovich effect to determine the
+  peculiar velocities of clusters of galaxies}.
+\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 279:\penalty0 545--556, 1996.
+
+\bibitem[Harker et~al.(2009)Harker, Zaroubi, Bernardi, Brentjens, de~Bruyn,
+  et~al.]{Harker:2009hg}
+Geraint Harker, Saleem Zaroubi, Gianni Bernardi, Michiel~A. Brentjens, A.G.
+  de~Bruyn, et~al.
+\newblock {Non-parametric foreground subtraction for 21cm epoch of reionization
+  experiments}.
+\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 397:\penalty0 1138, 2009.
+
+\bibitem[Harker et~al.(2010)Harker, Zaroubi, Bernardi, Brentjens, de~Bruyn,
+  et~al.]{Harker:2010ht}
+Geraint Harker, Saleem Zaroubi, Gianni Bernardi, Michiel~A. Brentjens, A.G.
+  de~Bruyn, et~al.
+\newblock {Power spectrum extraction for redshifted 21-cm epoch of reionization
+  experiments: the LOFAR case}.
+\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 405:\penalty0 2492--2504, 2010.
+
+\bibitem[Hennawi and Spergel(2004)]{Hennawi:2004ai}
+Joseph~F. Hennawi and David~N. Spergel.
+\newblock {Mass selected cluster cosmology. 1: Tomography and optimal
+  filtering}.
+\newblock \emph{Astrophys.J.}, 2004.
+
+\bibitem[Iliev et~al.(2006)Iliev, Mellema, Pen, Merz, Shapiro,
+  et~al.]{Iliev:2005sz}
+Ilian~T. Iliev, Garrelt Mellema, Ue-Li Pen, Hugh Merz, Paul~R. Shapiro, et~al.
+\newblock {Simulating cosmic reionization at large scales. 1. the geometry of
+  reionization}.
+\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 369:\penalty0 1625--1638, 2006.
+\newblock \doi{10.1111/j.1365-2966.2006.10502.x}.
+
+\bibitem[Komatsu et~al.(2011)]{Komatsu:2010fb}
+E.~Komatsu et~al.
+\newblock {Seven-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations:
+  Cosmological Interpretation}.
+\newblock \emph{Astrophys.J.Suppl.}, 192:\penalty0 18, 2011.
+\newblock \doi{10.1088/0067-0049/192/2/18}.
+
+\bibitem[Kuhlen and Faucher-Giguere(2012)]{Kuhlen:2012vy}
+M.~Kuhlen and C.A. Faucher-Giguere.
+\newblock {Concordance models of reionization: implications for faint galaxies
+  and escape fraction evolution}.
+\newblock 2012.
+
+\bibitem[Lidz et~al.(2007)Lidz, Zahn, McQuinn, Zaldarriaga, and
+  Dutta]{Lidz:2006vj}
+Adam Lidz, Oliver Zahn, Matthew McQuinn, Matias Zaldarriaga, and Suvendra
+  Dutta.
+\newblock {Higher Order Contributions to the 21 cm Power Spectrum}.
+\newblock \emph{Astrophys.J.}, 659:\penalty0 865--876, 2007.
+\newblock \doi{10.1086/511670}.
+
+\bibitem[Lidz et~al.(2008)Lidz, Zahn, McQuinn, Zaldarriaga, and
+  Hernquist]{Lidz:2007az}
+Adam Lidz, Oliver Zahn, Matthew McQuinn, Matias Zaldarriaga, and Lars
+  Hernquist.
+\newblock {Detecting the Rise and Fall of 21 cm Fluctuations with the Murchison
+  Widefield Array}.
+\newblock \emph{Astrophys.J.}, 680:\penalty0 962--974, 2008.
+\newblock \doi{10.1086/587618}.
+
+\bibitem[Liu and Tegmark(2012)]{Liu:2011ih}
+Adrian Liu and Max Tegmark.
+\newblock {How well can we measure and understand foregrounds with 21 cm
+  experiments?}
+\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 419:\penalty0 3491--3504, 2012.
+\newblock \doi{10.1111/j.1365-2966.2011.19989.x}.
+
+\bibitem[Liu et~al.(2009)Liu, Tegmark, Bowman, Hewitt, and
+  Zaldarriaga]{Liu:2009qga}
+Adrian Liu, Max Tegmark, Judd Bowman, Jacqueline Hewitt, and Matias
+  Zaldarriaga.
+\newblock {An Improved Method for 21cm Foreground Removal}.
+\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 298:\penalty0 401, 2009.
+
+\bibitem[Lonsdale et~al.(2009)Lonsdale, Cappallo, Morales, Briggs, Benkevitch,
+  et~al.]{Lonsdale:2009cb}
+Colin~J. Lonsdale, Roger~J. Cappallo, Miguel~F. Morales, Frank~H. Briggs,
+  Leonid Benkevitch, et~al.
+\newblock {The Murchison Widefield Array: Design Overview}.
+\newblock \emph{IEEEP}, 97:\penalty0 1497, 2009.
+
+\bibitem[Madau et~al.(1997)Madau, Meiksin, and Rees]{Madau:1996cs}
+Piero Madau, Avery Meiksin, and Martin~J. Rees.
+\newblock {21-CM tomography of the intergalactic medium at high redshift}.
+\newblock \emph{Astrophys.J.}, 475:\penalty0 429, 1997.
+\newblock \doi{10.1086/303549}.
+
+\bibitem[Mao et~al.(2012)Mao, Shapiro, Mellema, Iliev, Koda,
+  et~al.]{Mao:2011xp}
+Yi~Mao, Paul~R. Shapiro, Garrelt Mellema, Ilian~T. Iliev, Jun Koda, et~al.
+\newblock {Redshift Space Distortion of the 21cm Background from the Epoch of
+  Reionization I: Methodology Re-examined}.
+\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 422:\penalty0 926--954, 2012.
+\newblock \doi{10.1111/j.1365-2966.2012.20471.x}.
+
+\bibitem[Marian et~al.(2009)Marian, Smith, and Bernstein]{Marian:2008fd}
+Laura Marian, Robert~E. Smith, and Gary~M. Bernstein.
+\newblock {The cosmology dependence of weak lensing cluster counts}.
+\newblock \emph{Astrophys.J.}, 698:\penalty0 L33--L36, 2009.
+\newblock \doi{10.1088/0004-637X/698/1/L33}.
+
+\bibitem[McQuinn et~al.(2006)McQuinn, Zahn, Zaldarriaga, Hernquist, and
+  Furlanetto]{McQuinn:2005hk}
+Matthew McQuinn, Oliver Zahn, Matias Zaldarriaga, Lars Hernquist, and Steven~R.
+  Furlanetto.
+\newblock {Cosmological parameter estimation using 21 cm radiation from the
+  epoch of reionization}.
+\newblock \emph{Astrophys.J.}, 653:\penalty0 815--830, 2006.
+\newblock \doi{10.1086/505167}.
+
+\bibitem[McQuinn et~al.(2007)McQuinn, Lidz, Zahn, Dutta, Hernquist,
+  et~al.]{McQuinn:2006et}
+Matthew McQuinn, Adam Lidz, Oliver Zahn, Suvendra Dutta, Lars Hernquist, et~al.
+\newblock {The Morphology of HII Regions during Reionization}.
+\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 377:\penalty0 1043--1063, 2007.
+\newblock \doi{10.1111/j.1365-2966.2007.11489.x}.
+
+\bibitem[Mesinger and Furlanetto(2007)]{Mesinger:2007pd}
+Andrei Mesinger and Steven Furlanetto.
+\newblock {Efficient Simulations of Early Structure Formation and
+  Reionization}.
+\newblock 2007.
+
+\bibitem[Mesinger et~al.(2010)Mesinger, Furlanetto, and Cen]{Mesinger:2010ne}
+Andrei Mesinger, Steven Furlanetto, and Renyue Cen.
+\newblock {21cmFAST: A Fast, Semi-Numerical Simulation of the High-Redshift
+  21-cm Signal}.
+\newblock \emph{MNRAS}, 411:\penalty0 955, 2010.
+
+\bibitem[Miralda-Escude(1998)]{MiraldaEscude:1997qb}
+Jordi Miralda-Escude.
+\newblock {Reionization of the intergalactic medium and the damping wing of the
+  Gunn-Peterson trough}.
+\newblock \emph{Astrophys.J.}, 501:\penalty0 15--22, 1998.
+\newblock \doi{10.1086/305799}.
+
+\bibitem[Morales and Hewitt(2004)]{Morales:2003vn}
+Miguel~F. Morales and Jacqueline Hewitt.
+\newblock {Toward epoch of re-ionization measurements with wide - field LOFAR
+  observations}.
+\newblock \emph{Astrophys.J.}, 615:\penalty0 7--18, 2004.
+\newblock \doi{10.1086/424437}.
+
+\bibitem[Morales et~al.(2012)Morales, Hazelton, Sullivan, and
+  Beardsley]{Morales:2012kf}
+Miguel~F. Morales, Bryna Hazelton, Ian Sullivan, and Adam Beardsley.
+\newblock {Four Fundamental Foreground Power Spectrum Shapes for 21 cm
+  Cosmology Observations}.
+\newblock \emph{Astrophys.J.}, 752:\penalty0 137, 2012.
+
+\bibitem[Mortlock et~al.(2011)Mortlock, Warren, Venemans, Patel, Hewett,
+  et~al.]{Mortlock:2011va}
+Daniel~J. Mortlock, Stephen~J. Warren, Bram~P. Venemans, Mitesh Patel, Paul~C.
+  Hewett, et~al.
+\newblock {A luminous quasar at a redshift of z = 7.085}.
+\newblock \emph{Nature}, 474:\penalty0 616, 2011.
+
+\bibitem[Name(2006)]{name06}
+Name.
+\newblock Title.
+\newblock \emph{Journal of Sth}, 2006.
+
+\bibitem[Ouchi et~al.(2010)Ouchi, Shimasaku, Furusawa, et~al.]{Ouchi:2010}
+Masami Ouchi, Kazuhiro Shimasaku, Hisanori Furusawa, et~al.
+\newblock {Statistics of 207 Ly$\alpha$ Emitters at a Redshift Near 7:
+  Constraints on Reionization and Galaxy Formation Models}.
+\newblock \emph{Astrophys.J.}, 723:\penalty0 869, 2010.
+
+\bibitem[Owen and Sathyaprakash(1999)]{Owen:1998dk}
+Benjamin~J. Owen and B.S. Sathyaprakash.
+\newblock {Matched filtering of gravitational waves from inspiraling compact
+  binaries: Computational cost and template placement}.
+\newblock \emph{Phys.Rev.}, D60:\penalty0 022002, 1999.
+\newblock \doi{10.1103/PhysRevD.60.022002}.
+
+\bibitem[Paciga et~al.(2011)Paciga, Chang, Gupta, Nityanada, Odegova,
+  et~al.]{Paciga:2010yy}
+Gregory Paciga, Tzu-Ching Chang, Yashwant Gupta, Rajaram Nityanada, Julia
+  Odegova, et~al.
+\newblock {The GMRT Epoch of Reionization experiment: A New upper limit on the
+  neutral hydrogen power spectrum at z~8.6}.
+\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 413:\penalty0 1174--1183, 2011.
+\newblock \doi{10.1111/j.1365-2966.2011.18208.x}.
+
+\bibitem[Parsons et~al.(2009)Parsons, Backer, Bradley, Aguirre, Benoit,
+  et~al.]{Parsons:2009in}
+Aaron~R. Parsons, Donald~C. Backer, Richard~F. Bradley, James~E. Aguirre,
+  Erin~E. Benoit, et~al.
+\newblock {The Precision Array for Probing the Epoch of Reionization: 8 Station
+  Results}.
+\newblock 2009.
+
+\bibitem[Parsons et~al.(2012)Parsons, Pober, Aguirre, Carilli, Jacobs, Moore,
+  et~al.]{Parsons:2012qh}
+Aaron~R. Parsons, Jonathan~C. Pober, James~E. Aguirre, Christopher~L. Carilli,
+  Daniel~C. Jacobs, David Moore, et~al.
+\newblock {A Per-Baseline, Delay-Spectrum Technique for Accessing the 21cm
+  Cosmic Reionization Signature}.
+\newblock 2012.
+
+\bibitem[Petrovic and Oh(2010)]{Petrovic:2010me}
+Nada Petrovic and S.~Peng Oh.
+\newblock {Systematic Effects of Foreground Removal in 21cm Surveys of
+  Reionization}.
+\newblock 2010.
+
+\bibitem[Press et~al.(2002)Press, Teukolsky, Vetterling, and
+  Flannery]{NRecipes}
+William Press, Saul Teukolsky, William Vetterling, and Brian Flannery.
+\newblock \emph{{Numerical Recipes in C++: The Art of Scientific Computing}}.
+\newblock Cambridge University Press, 2002.
+
+\bibitem[Schenker et~al.(2012)Schenker, Stark, Ellis, Robertson, Dunlop,
+  et~al.]{Schenker:2011ea}
+M.A. Schenker, D.P Stark, R.S. Ellis, B.E. Robertson, J.S. Dunlop, et~al.
+\newblock {Keck Spectroscopy of Faint 3<z<8 Lyman Break Galaxies:- Evidence for
+  a Declining Fraction of Emission Line Sources In the Redshift Range 6<z<8}.
+\newblock \emph{Astrophys.J.}, 744:\penalty0 179, 2012.
+\newblock \doi{10.1088/0004-637X/744/2/179}.
+
+\bibitem[Tingay et~al.(2012)Tingay, Goeke, Bowman, Emrich, Ord,
+  et~al.]{Tingay:2012ps}
+S.J. Tingay, R.~Goeke, J.D. Bowman, D.~Emrich, S.M. Ord, et~al.
+\newblock {The Murchison Widefield Array: the Square Kilometre Array Precursor
+  at low radio frequencies}.
+\newblock 2012.
+
+\bibitem[Totani et~al.(2006)Totani, Kawai, Kosugi, Aoki, Yamada,
+  et~al.]{Totani:2005ng}
+Tomonori Totani, Nobuyuki Kawai, George Kosugi, Kentaro Aoki, Toru Yamada,
+  et~al.
+\newblock {Implications for the cosmic reionization from the optical afterglow
+  spectrum of the gamma-ray burst 050904 at z = 6.3}.
+\newblock \emph{Publ.Astron.Soc.Jap.}, 58:\penalty0 485--498, 2006.
+
+\bibitem[Wang et~al.(2006)Wang, Tegmark, Santos, and Knox]{Wang:2005zj}
+Xiao-Min Wang, Max Tegmark, Mario Santos, and Lloyd Knox.
+\newblock {Twenty-one centimeter tomography with foregrounds}.
+\newblock \emph{Astrophys.J.}, 650:\penalty0 529--537, 2006.
+\newblock \doi{10.1086/506597}.
+
+\bibitem[Wyithe and Loeb(2004)]{Wyithe:2004ta}
+J.~Stuart~B. Wyithe and Abraham Loeb.
+\newblock {Redshifted 21cm signatures around the highest redshift quasars}.
+\newblock \emph{Astrophys.J.}, 610:\penalty0 117--127, 2004.
+\newblock \doi{10.1086/421042}.
+
+\bibitem[Wyithe and Morales(2007)]{Wyithe:2007if}
+Stuart Wyithe and Miguel~F. Morales.
+\newblock {Biased Reionisation and Non-Gaussianity in Redshifted 21cm Intensity
+  Maps of the Reionisation Epoch}.
+\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 2007.
+
+\bibitem[Zahn et~al.(2012)Zahn, Reichardt, Shaw, Lidz, Aird,
+  et~al.]{Zahn:2011vp}
+O.~Zahn, C.L. Reichardt, L.~Shaw, A.~Lidz, K.A. Aird, et~al.
+\newblock {Cosmic microwave background constraints on the duration and timing
+  of reionization from the South Pole Telescope}.
+\newblock \emph{Astrophys.J.}, 756:\penalty0 65, 2012.
+\newblock \doi{10.1088/0004-637X/756/1/65}.
+
+\bibitem[Zahn et~al.(2006)Zahn, Lidz, McQuinn, Dutta, Hernquist,
+  et~al.]{Zahn:2006sg}
+Oliver Zahn, Adam Lidz, Matthew McQuinn, Suvendra Dutta, Lars Hernquist, et~al.
+\newblock {Simulations and Analytic Calculations of Bubble Growth During
+  Hydrogen Reionization}.
+\newblock \emph{Astrophys.J.}, 654:\penalty0 12--26, 2006.
+\newblock \doi{10.1086/509597}.
+
+\bibitem[Zahn et~al.(2010)Zahn, Mesinger, McQuinn, Trac, Cen,
+  et~al.]{Zahn:2010yw}
+Oliver Zahn, Andrei Mesinger, Matthew McQuinn, Hy~Trac, Renyue Cen, et~al.
+\newblock {Comparison Of Reionization Models: Radiative Transfer Simulations
+  And Approximate, Semi-Numeric Models}.
+\newblock 2010.
+
+\bibitem[Zaldarriaga et~al.(2004)Zaldarriaga, Furlanetto, and
+  Hernquist]{Zaldarriaga:2003du}
+Matias Zaldarriaga, Steven~R. Furlanetto, and Lars Hernquist.
+\newblock {21 Centimeter fluctuations from cosmic gas at high redshifts}.
+\newblock \emph{Astrophys.J.}, 608:\penalty0 622--635, 2004.
+\newblock \doi{10.1086/386327}.
+
+\bibitem[Zaroubi et~al.(2012)Zaroubi, de~Bruyn, Harker, Thomas, Labropolous,
+  et~al.]{Zaroubi:2012cy}
+S.~Zaroubi, A.G. de~Bruyn, G.~Harker, R.M. Thomas, P.~Labropolous, et~al.
+\newblock {Imaging neutral hydrogen on large-scales during the Epoch of
+  Reionization with LOFAR}.
+\newblock 2012.
 
 \end{thebibliography}

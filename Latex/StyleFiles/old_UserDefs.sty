@@ -1,0 +1,88 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{UserDefs}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% USER DEFINITIONS
+%
+% Here is where you define anything you want to call in the .tex document:
+%   This includes items specific to your paper.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Definitions                     %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\def\uv{$uv$-}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Function definitions            %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\Fig}[1]{Fig.~\ref{#1}}
+\newcommand{\Sec}[1]{Section~\ref{#1}}
+\newcommand{\Eqn}[1]{Eq.~\ref{#1}} 
+\newcommand{\lya}{Ly$\,\alpha$ }
+\newcommand{\trec}{\ensuremath{t_{\rm rec}}}
+\newcommand{\tq}{\ensuremath{t_{\rm q}}}
+\newcommand{\nbar}[1]{\ensuremath{\bar{n}_{\rm #1}}}
+\newcommand{\pow}[2]{\ensuremath{#1 \times 10^{#2}}}
+\newcommand{\hmpc}{\ensuremath{\,h^{-1}\,{\rm Mpc}\,}}
+\newcommand{\hgpc}{\ensuremath{\,h^{-1}\,{\rm Gpc}\,}}
+\newcommand{\mpch}{\, \text{Mpc}/h}
+\newcommand{\gpch}{\, \text{Gpc}/h}
+\newcommand{\ihmpc}{\ensuremath{\,h\,{\rm Mpc^{-1}}}}
+\newcommand{\Ang}{\mbox{ \AA}}     \newcommand{\K}{\mbox{ K}}
+\newcommand{\avg}[1]{\ensuremath{\langle #1 \rangle}}
+\newcommand{\bma}{\begin{math}}
+\newcommand{\ema}{\end{math}}
+\newcommand{\beq}{\begin{equation}}
+\newcommand{\eeq}{\end{equation}}
+\newcommand{\beqa}{\begin{eqnarray}}
+\newcommand{\eeqa}{\end{eqnarray}}
+\newcommand{\bc}{\begin{center}}
+\newcommand{\ec}{\end{center}} 
+\newcommand{\bit}{\begin{itemize}}
+\newcommand{\eit}{\end{itemize}}
+
+\newcommand{\axi}{\left\langle x_i \right\rangle}
+\newcommand{\rt}{R_{\text{T}}}
+\font\BFd=cmmib10
+\font\BFt=cmmib10
+\font\BFs=cmmib10 scaled 700
+\font\BFss=cmmib10 scaled 500
+
+
+\def\bbox#1{%
+\relax\ifmmode
+\mathchoice
+{{\hbox{\BFd #1}}}
+{{\hbox{\BFt #1}}}
+{{\hbox{\BFs #1}}}
+{{\hbox{\BFss #1}}}
+\else \mbox{#1} \fi }
+
+\def\k{{\bbox{k}}}
+\def\q{{\bbox{q}}}
+\def\r{{\bbox{r}}}
+\def\x{{\bbox{x}}}
+\def\dk{\frac{d^3k}{2 \pi^3}}
+\def\dq{\frac{d^3q}{2 \pi^3}}
+\def\dkc{\frac{d^3k_3}{(2 \pi)^3}}
+\def\dqa{\frac{d^3q_1}{(2 \pi)^3}}
+\def\dqb{\frac{d^3q_2}{(2 \pi)^3}}
+\newcommand{\MHz}{\,\mbox{MHz}}
+\newcommand{\meter}{\,\mbox{m}}
+\newcommand{\kelvin}{\,\mbox{K}}
+\newcommand{\xhi}{x_{\text{HI}}}
+\newcommand{\axhi}{\langle x_{\text{HI}}\rangle}
+\newcommand{\dd}{\text{d}}
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% End of Document                 %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\endinput
