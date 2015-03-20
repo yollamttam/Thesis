@@ -5,65 +5,62 @@
 \contentsline {chapter}{Acknowledgements}{iv}{section*.4}
 \contentsline {chapter}{Abstract}{v}{section*.5}
 \contentsline {chapter}{Contents}{vi}{chapter*.6}
-\contentsline {chapter}{List of Tables}{x}{chapter*.7}
-\contentsline {chapter}{List of Figures}{xi}{chapter*.8}
-\contentsline {chapter}{Preface}{xx}{section*.9}
-\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}put section name here}{1}{section.1.1}
-\contentsline {subsection}{Name your subsection}{1}{section*.10}
-\contentsline {part}{I\hspace {1em}In the Beginning\ldots }{4}{part.1}
-\contentsline {chapter}{\numberline {2}Aims}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}Junk}{5}{section.2.1}
-\contentsline {section}{\numberline {2.2}Introduction}{5}{section.2.2}
-\contentsline {section}{\numberline {2.3}Method}{8}{section.2.3}
-\contentsline {subsection}{The 21 cm Signal}{8}{section*.11}
-\contentsline {subsection}{Semi-Numeric Simulations}{9}{section*.12}
-\contentsline {subsection}{Redshifted 21 cm Surveys and Thermal Noise}{10}{section*.13}
-\contentsline {subsection}{Foregrounds}{13}{section*.14}
-\contentsline {section}{\numberline {2.4}Prospects for Imaging}{14}{section.2.4}
-\contentsline {subsection}{The Wiener Filter}{14}{section*.15}
-\contentsline {subsection}{Application to a Simulated 21 cm Signal}{18}{section*.17}
-\contentsline {section}{\numberline {2.5}Prospects for Identifying Ionized Regions}{19}{section.2.5}
-\contentsline {subsection}{The Optimal Matched Filter}{20}{section*.20}
-\contentsline {subsection}{Application to Isolated Spherical Ionized Regions with Noise}{21}{section*.21}
-\contentsline {subsection}{Application to a Simulated 21 cm Signal}{24}{section*.23}
-\contentsline {subsection}{Success of Detecting Ionized Regions}{28}{section*.28}
-\contentsline {subsection}{Range of Template Radius Considered}{30}{section*.30}
-\contentsline {section}{\numberline {2.6}Variations on the Fiducial Model}{32}{section.2.6}
-\contentsline {subsection}{Ionized Fraction}{32}{section*.31}
-\contentsline {subsection}{Timing of Reionization}{34}{section*.33}
-\contentsline {subsection}{Effects of Foreground Cleaning}{35}{section*.34}
-\contentsline {subsection}{128 Antenna Tile Configurations}{36}{section*.35}
-\contentsline {section}{\numberline {2.7}Favorable Antenna Configurations for Bubble Detection}{37}{section.2.7}
-\contentsline {section}{\numberline {2.8}Comparisons to Previous Work}{39}{section.2.8}
-\contentsline {section}{\numberline {2.9}Conclusion}{40}{section.2.9}
-\contentsline {chapter}{\numberline {3}Aims}{54}{chapter.3}
-\contentsline {section}{\numberline {3.1}HI Gives You Wiiings}{54}{section.3.1}
-\contentsline {section}{\numberline {3.2}Introduction}{54}{section.3.2}
-\contentsline {section}{\numberline {3.3}Viability of Transmission Through a Partially Neutral IGM}{58}{section.3.3}
-\contentsline {section}{\numberline {3.4}Simulations and Mock Spectra}{61}{section.3.4}
-\contentsline {section}{\numberline {3.5}Dark Gap Statistics}{65}{section.3.5}
-\contentsline {section}{\numberline {3.6}Stacking Toy Spectra}{68}{section.3.6}
-\contentsline {subsection}{HI Damping Wing}{68}{section*.41}
-\contentsline {subsection}{Deuterium}{70}{section*.43}
-\contentsline {section}{\numberline {3.7}Steps of Approach}{73}{section.3.7}
-\contentsline {section}{\numberline {3.8}Results}{76}{section.3.8}
-\contentsline {subsection}{Detecting the Damping Wing}{76}{section*.45}
-\contentsline {subsection}{Deuterium Feature Results}{79}{section*.49}
-\contentsline {subsection}{Dark Gap Statistics}{82}{section*.52}
-\contentsline {section}{\numberline {3.9}Forecasts}{83}{section.3.9}
-\contentsline {subsection}{Deuterium}{84}{section*.54}
-\contentsline {subsection}{HI Damping Wing}{85}{section*.55}
-\contentsline {section}{\numberline {3.10}Conclusion}{86}{section.3.10}
-\contentsline {chapter}{\numberline {4}Aims}{110}{chapter.4}
-\contentsline {section}{\numberline {4.1}Junk}{110}{section.4.1}
-\contentsline {section}{\numberline {4.2}Blah}{111}{section.4.2}
-\contentsline {part}{II\hspace {1em}A New Paradigm\ldots }{116}{part.2}
-\contentsline {chapter}{\numberline {5}Conclusion}{117}{chapter.5}
-\contentsline {section}{\numberline {5.1}Wrapping up\ldots }{117}{section.5.1}
-\contentsline {chapter}{\numberline {A}Some Appendix}{121}{Appendix.1.A}
-\contentsline {section}{\numberline {A.1}first section}{123}{section.1.A.1}
-\contentsline {chapter}{\numberline {B}Another Appendix}{126}{Appendix.1.B}
-\contentsline {chapter}{Glossary}{129}{chapter*.63}
-\contentsline {chapter}{References}{130}{chapter*.64}
-\contentsline {chapter}{Index}{133}{chapter*.64}
+\contentsline {chapter}{List of Tables}{ix}{chapter*.7}
+\contentsline {chapter}{List of Figures}{x}{chapter*.8}
+\contentsline {chapter}{Preface}{xix}{section*.9}
+\contentsline {chapter}{\numberline {1}First Things First}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Cosmic Context}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Overview of Selected Probes of the EoR}{2}{section.1.2}
+\contentsline {subsection}{The Ly$\alpha $ Forest}{2}{section*.10}
+\contentsline {subsection}{The 21-cm Line}{2}{section*.11}
+\contentsline {subsection}{The Cosmic Microwave Background}{2}{section*.12}
+\contentsline {subsection}{Ly$\alpha $ Emitters}{2}{section*.13}
+\contentsline {subsection}{Luminosity Function Measurements}{2}{section*.14}
+\contentsline {section}{\numberline {1.3}Current Constraints on the Timing and Nature of the EoR}{2}{section.1.3}
+\contentsline {chapter}{\numberline {2}How to Search for Islands of Neutral Hydrogen in the $z \sim 5.5$ IGM}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Viability of Transmission Through a Partially Neutral IGM}{7}{section.2.2}
+\contentsline {section}{\numberline {2.3}Simulations and Mock Spectra}{10}{section.2.3}
+\contentsline {section}{\numberline {2.4}Dark Gap Statistics}{14}{section.2.4}
+\contentsline {section}{\numberline {2.5}Stacking Toy Spectra}{17}{section.2.5}
+\contentsline {subsection}{HI Damping Wing}{17}{section*.18}
+\contentsline {subsection}{Deuterium}{19}{section*.20}
+\contentsline {section}{\numberline {2.6}Steps of Approach}{22}{section.2.6}
+\contentsline {section}{\numberline {2.7}Results}{25}{section.2.7}
+\contentsline {subsection}{Detecting the Damping Wing}{25}{section*.22}
+\contentsline {subsection}{Deuterium Feature Results}{28}{section*.26}
+\contentsline {subsection}{Dark Gap Statistics}{31}{section*.29}
+\contentsline {section}{\numberline {2.8}Forecasts}{32}{section.2.8}
+\contentsline {subsection}{Deuterium}{33}{section*.31}
+\contentsline {subsection}{HI Damping Wing}{34}{section*.32}
+\contentsline {section}{\numberline {2.9}Conclusion}{35}{section.2.9}
+\contentsline {section}{\numberline {2.10}Introduction}{59}{section.2.10}
+\contentsline {section}{\numberline {2.11}Method}{61}{section.2.11}
+\contentsline {subsection}{The 21 cm Signal}{62}{section*.38}
+\contentsline {subsection}{Semi-Numeric Simulations}{62}{section*.39}
+\contentsline {subsection}{Redshifted 21 cm Surveys and Thermal Noise}{63}{section*.40}
+\contentsline {subsection}{Foregrounds}{66}{section*.41}
+\contentsline {section}{\numberline {2.12}Prospects for Imaging}{67}{section.2.12}
+\contentsline {subsection}{The Wiener Filter}{68}{section*.42}
+\contentsline {subsection}{Application to a Simulated 21 cm Signal}{71}{section*.44}
+\contentsline {section}{\numberline {2.13}Prospects for Identifying Ionized Regions}{73}{section.2.13}
+\contentsline {subsection}{The Optimal Matched Filter}{73}{section*.47}
+\contentsline {subsection}{Application to Isolated Spherical Ionized Regions with Noise}{74}{section*.48}
+\contentsline {subsection}{Application to a Simulated 21 cm Signal}{77}{section*.50}
+\contentsline {subsection}{Success of Detecting Ionized Regions}{82}{section*.55}
+\contentsline {subsection}{Range of Template Radius Considered}{84}{section*.57}
+\contentsline {section}{\numberline {2.14}Variations on the Fiducial Model}{85}{section.2.14}
+\contentsline {subsection}{Ionized Fraction}{86}{section*.58}
+\contentsline {subsection}{Timing of Reionization}{87}{section*.60}
+\contentsline {subsection}{Effects of Foreground Cleaning}{88}{section*.61}
+\contentsline {subsection}{128 Antenna Tile Configurations}{89}{section*.62}
+\contentsline {section}{\numberline {2.15}Favorable Antenna Configurations for Bubble Detection}{91}{section.2.15}
+\contentsline {section}{\numberline {2.16}Comparisons to Previous Work}{93}{section.2.16}
+\contentsline {section}{\numberline {2.17}Conclusion}{94}{section.2.17}
+\contentsline {chapter}{\numberline {3}Conclusion}{107}{chapter.3}
+\contentsline {section}{\numberline {3.1}Wrapping up\ldots }{107}{section.3.1}
+\contentsline {chapter}{\numberline {A}Some Appendix}{111}{Appendix.1.A}
+\contentsline {section}{\numberline {A.1}first section}{111}{section.1.A.1}
+\contentsline {chapter}{\numberline {B}Another Appendix}{112}{Appendix.1.B}
+\contentsline {chapter}{Glossary}{113}{chapter*.65}
+\contentsline {chapter}{References}{114}{chapter*.66}

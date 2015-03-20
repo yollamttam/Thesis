@@ -1,4 +1,4 @@
-\begin{thebibliography}{61}
+\begin{thebibliography}{60}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -300,11 +300,6 @@ Daniel~J. Mortlock, Stephen~J. Warren, Bram~P. Venemans, Mitesh Patel, Paul~C.
   Hewett, et~al.
 \newblock {A luminous quasar at a redshift of z = 7.085}.
 \newblock \emph{Nature}, 474:\penalty0 616, 2011.
-
-\bibitem[Name(2006)]{name06}
-Name.
-\newblock Title.
-\newblock \emph{Journal of Sth}, 2006.
 
 \bibitem[Ouchi et~al.(2010)Ouchi, Shimasaku, Furusawa, et~al.]{Ouchi:2010}
 Masami Ouchi, Kazuhiro Shimasaku, Hisanori Furusawa, et~al.
