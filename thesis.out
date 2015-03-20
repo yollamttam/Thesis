@@ -33,33 +33,48 @@
 \BOOKMARK [2][]{section*.31}{Deuterium}{section.2.8}% 33
 \BOOKMARK [2][]{section*.32}{HI Damping Wing}{section.2.8}% 34
 \BOOKMARK [1][]{section.2.9}{2.9 Conclusion}{chapter.2}% 35
-\BOOKMARK [1][]{section.2.10}{2.10 Introduction}{chapter.2}% 36
-\BOOKMARK [1][]{section.2.11}{2.11 Method}{chapter.2}% 37
-\BOOKMARK [2][]{section*.38}{The 21 cm Signal}{section.2.11}% 38
-\BOOKMARK [2][]{section*.39}{Semi-Numeric Simulations}{section.2.11}% 39
-\BOOKMARK [2][]{section*.40}{Redshifted 21 cm Surveys and Thermal Noise}{section.2.11}% 40
-\BOOKMARK [2][]{section*.41}{Foregrounds}{section.2.11}% 41
-\BOOKMARK [1][]{section.2.12}{2.12 Prospects for Imaging}{chapter.2}% 42
-\BOOKMARK [2][]{section*.42}{The Wiener Filter}{section.2.12}% 43
-\BOOKMARK [2][]{section*.44}{Application to a Simulated 21 cm Signal}{section.2.12}% 44
-\BOOKMARK [1][]{section.2.13}{2.13 Prospects for Identifying Ionized Regions}{chapter.2}% 45
-\BOOKMARK [2][]{section*.47}{The Optimal Matched Filter}{section.2.13}% 46
-\BOOKMARK [2][]{section*.48}{Application to Isolated Spherical Ionized Regions with Noise}{section.2.13}% 47
-\BOOKMARK [2][]{section*.50}{Application to a Simulated 21 cm Signal}{section.2.13}% 48
-\BOOKMARK [2][]{section*.55}{Success of Detecting Ionized Regions}{section.2.13}% 49
-\BOOKMARK [2][]{section*.57}{Range of Template Radius Considered}{section.2.13}% 50
-\BOOKMARK [1][]{section.2.14}{2.14 Variations on the Fiducial Model}{chapter.2}% 51
-\BOOKMARK [2][]{section*.58}{Ionized Fraction}{section.2.14}% 52
-\BOOKMARK [2][]{section*.60}{Timing of Reionization}{section.2.14}% 53
-\BOOKMARK [2][]{section*.61}{Effects of Foreground Cleaning}{section.2.14}% 54
-\BOOKMARK [2][]{section*.62}{128 Antenna Tile Configurations}{section.2.14}% 55
-\BOOKMARK [1][]{section.2.15}{2.15 Favorable Antenna Configurations for Bubble Detection}{chapter.2}% 56
-\BOOKMARK [1][]{section.2.16}{2.16 Comparisons to Previous Work}{chapter.2}% 57
-\BOOKMARK [1][]{section.2.17}{2.17 Conclusion}{chapter.2}% 58
-\BOOKMARK [-1][]{chapter.3}{3 Conclusion}{}% 59
-\BOOKMARK [0][]{section.3.1}{3.1 Wrapping up\203}{chapter.3}% 60
-\BOOKMARK [-1][]{Appendix.1.A}{A Some Appendix}{}% 61
-\BOOKMARK [0][]{section.1.A.1}{A.1 first section}{Appendix.1.A}% 62
-\BOOKMARK [-1][]{Appendix.1.B}{B Another Appendix}{}% 63
-\BOOKMARK [-1][]{chapter*.65}{Glossary}{}% 64
-\BOOKMARK [-1][]{chapter*.66}{References}{}% 65
+\BOOKMARK [0][]{chapter.3}{3 On Modelling and Measuring the Temperature of the z 5 IGM}{}% 36
+\BOOKMARK [1][]{section.3.1}{3.1 Introduction}{chapter.3}% 37
+\BOOKMARK [1][]{section.3.2}{3.2 Simulations}{chapter.3}% 38
+\BOOKMARK [1][]{section.3.3}{3.3 Reionization Histories}{chapter.3}% 39
+\BOOKMARK [1][]{section.3.4}{3.4 The Thermal State of the IGM}{chapter.3}% 40
+\BOOKMARK [2][]{section*.39}{Modeling the Thermal State}{section.3.4}% 41
+\BOOKMARK [2][]{section*.40}{Simulated Temperature Field}{section.3.4}% 42
+\BOOKMARK [2][]{section*.47}{Variations around Fiducial Parameters}{section.3.4}% 43
+\BOOKMARK [1][]{section.3.5}{3.5 Measuring the Temperature of the z 5 IGM}{chapter.3}% 44
+\BOOKMARK [2][]{section*.50}{Hydrodynamic Simulations: Perfect Temperate-Density Relation Models}{section.3.5}% 45
+\BOOKMARK [2][]{section*.53}{Degeneracy with the Mean Transmitted Flux}{section.3.5}% 46
+\BOOKMARK [2][]{section*.55}{Wavelet Amplitude PDFs in Inhomogeneous Reionization Models}{section.3.5}% 47
+\BOOKMARK [2][]{section*.58}{Forecasts}{section.3.5}% 48
+\BOOKMARK [1][]{section.3.6}{3.6 Conclusions}{chapter.3}% 49
+\BOOKMARK [0][]{chapter.4}{4 Identifying Ionized Regions in Noisy Redshifted 21-cm Observations}{}% 50
+\BOOKMARK [1][]{section.4.1}{4.1 Introduction}{chapter.4}% 51
+\BOOKMARK [1][]{section.4.2}{4.2 Method}{chapter.4}% 52
+\BOOKMARK [2][]{section*.61}{The 21 cm Signal}{section.4.2}% 53
+\BOOKMARK [2][]{section*.62}{Semi-Numeric Simulations}{section.4.2}% 54
+\BOOKMARK [2][]{section*.63}{Redshifted 21 cm Surveys and Thermal Noise}{section.4.2}% 55
+\BOOKMARK [2][]{section*.64}{Foregrounds}{section.4.2}% 56
+\BOOKMARK [1][]{section.4.3}{4.3 Prospects for Imaging}{chapter.4}% 57
+\BOOKMARK [2][]{section*.65}{The Wiener Filter}{section.4.3}% 58
+\BOOKMARK [2][]{section*.67}{Application to a Simulated 21 cm Signal}{section.4.3}% 59
+\BOOKMARK [1][]{section.4.4}{4.4 Prospects for Identifying Ionized Regions}{chapter.4}% 60
+\BOOKMARK [2][]{section*.70}{The Optimal Matched Filter}{section.4.4}% 61
+\BOOKMARK [2][]{section*.71}{Application to Isolated Spherical Ionized Regions with Noise}{section.4.4}% 62
+\BOOKMARK [2][]{section*.73}{Application to a Simulated 21 cm Signal}{section.4.4}% 63
+\BOOKMARK [2][]{section*.78}{Success of Detecting Ionized Regions}{section.4.4}% 64
+\BOOKMARK [2][]{section*.80}{Range of Template Radius Considered}{section.4.4}% 65
+\BOOKMARK [1][]{section.4.5}{4.5 Variations on the Fiducial Model}{chapter.4}% 66
+\BOOKMARK [2][]{section*.81}{Ionized Fraction}{section.4.5}% 67
+\BOOKMARK [2][]{section*.83}{Timing of Reionization}{section.4.5}% 68
+\BOOKMARK [2][]{section*.84}{Effects of Foreground Cleaning}{section.4.5}% 69
+\BOOKMARK [2][]{section*.85}{128 Antenna Tile Configurations}{section.4.5}% 70
+\BOOKMARK [1][]{section.4.6}{4.6 Favorable Antenna Configurations for Bubble Detection}{chapter.4}% 71
+\BOOKMARK [1][]{section.4.7}{4.7 Comparisons to Previous Work}{chapter.4}% 72
+\BOOKMARK [1][]{section.4.8}{4.8 Conclusion}{chapter.4}% 73
+\BOOKMARK [-1][]{chapter.5}{5 Conclusion}{}% 74
+\BOOKMARK [0][]{section.5.1}{5.1 Wrapping up\203}{chapter.5}% 75
+\BOOKMARK [-1][]{Appendix.1.A}{A Some Appendix}{}% 76
+\BOOKMARK [0][]{section.1.A.1}{A.1 first section}{Appendix.1.A}% 77
+\BOOKMARK [-1][]{Appendix.1.B}{B Another Appendix}{}% 78
+\BOOKMARK [-1][]{chapter*.88}{Glossary}{}% 79
+\BOOKMARK [-1][]{chapter*.89}{References}{}% 80

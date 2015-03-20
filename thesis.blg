@@ -7,6 +7,7 @@ A level-1 auxiliary file: frontmatter/abstract.aux
 A level-1 auxiliary file: frontmatter/preface.aux
 A level-1 auxiliary file: introduction/introduction.aux
 A level-1 auxiliary file: neutral_islands/neutral_islands.aux
+A level-1 auxiliary file: igm_temperature/igm_temperature.aux
 A level-1 auxiliary file: bubble_finding/bubble_finding.aux
 A level-1 auxiliary file: conclusion/conclusion.aux
 A level-1 auxiliary file: backmatter/appendix.aux
@@ -49,6 +50,54 @@ Warning--I didn't find a database entry for "Wolfe:2005jd"
 Warning--I didn't find a database entry for "Rahmati:2013hsa"
 Warning--I didn't find a database entry for "Prochaska:2005wy"
 Warning--I didn't find a database entry for "Cooray:2002dia"
+Warning--I didn't find a database entry for "1994MNRAS.266..343M"
+Warning--I didn't find a database entry for "Hui:1997dp"
+Warning--I didn't find a database entry for "Theuns:2002yc"
+Warning--I didn't find a database entry for "Hui:2003hn"
+Warning--I didn't find a database entry for "Trac:2008yz"
+Warning--I didn't find a database entry for "Cen:2009bg"
+Warning--I didn't find a database entry for "Furlanetto:2009kr"
+Warning--I didn't find a database entry for "Worseck:2011qk"
+Warning--I didn't find a database entry for "Syphers:2011uw"
+Warning--I didn't find a database entry for "Schaye:1999vr"
+Warning--I didn't find a database entry for "Ricotti:1999hx"
+Warning--I didn't find a database entry for "McDonald:2000nn"
+Warning--I didn't find a database entry for "Zaldarriaga:2000mz"
+Warning--I didn't find a database entry for "Theuns:2001my"
+Warning--I didn't find a database entry for "Lidz:2009ca"
+Warning--I didn't find a database entry for "McQuinn:2008am"
+Warning--I didn't find a database entry for "Becker:2012aq"
+Warning--I didn't find a database entry for "Bolton:2011ck"
+Warning--I didn't find a database entry for "Raskutti:2012qz"
+Warning--I didn't find a database entry for "Lai:2005ha"
+Warning--I didn't find a database entry for "MiraldaEscude:1995bu"
+Warning--I didn't find a database entry for "2005MNRAS.364.1105S"
+Warning--I didn't find a database entry for "Sheth:1999su"
+Warning--I didn't find a database entry for "1987ApJ...321L.107S"
+Warning--I didn't find a database entry for "1999ApJ...514..648M"
+Warning--I didn't find a database entry for "Pawlik:2008mr"
+Warning--I didn't find a database entry for "McQuinn:2011aa"
+Warning--I didn't find a database entry for "Gnedin:1997td"
+Warning--I didn't find a database entry for "Bennett:2012zja"
+Warning--I didn't find a database entry for "Abel:1999vj"
+Warning--I didn't find a database entry for "Chang:2011bf"
+Warning--I didn't find a database entry for "1970A&A.....5...84Z"
+Warning--I didn't find a database entry for "1995ApJ...449..476R"
+Warning--I didn't find a database entry for "1970Afz.....6..581D"
+Warning--I didn't find a database entry for "Hui:1999ku"
+Warning--I didn't find a database entry for "Bertschinger:1993zv"
+Warning--I didn't find a database entry for "McQuinn:2012bq"
+Warning--I didn't find a database entry for "1993ApJ...418...28Z"
+Warning--I didn't find a database entry for "Peeples:2009ue"
+Warning--I didn't find a database entry for "2008ApJ...681..831F"
+Warning--I didn't find a database entry for "McDonald:2004eu"
+Warning--I didn't find a database entry for "Dijkstra:2003pd"
+Warning--I didn't find a database entry for "2007ApJ...657...15K"
+Warning--I didn't find a database entry for "Becker:2010cu"
+Warning--I didn't find a database entry for "Hui:2000rw"
+Warning--I didn't find a database entry for "Becker:2011ee"
+Warning--I didn't find a database entry for "McQuinn:2010mq"
+Warning--I didn't find a database entry for "Levi:2013gra"
 Warning--empty journal in Beardsley:2012za
 Warning--empty journal in Bouwens:2011xu
 Warning--empty journal in Datta:2011hv
@@ -63,7 +112,7 @@ Warning--empty journal in Zahn:2010yw
 Warning--empty journal in Zaroubi:2012cy
 You've used 60 entries,
             2773 wiz_defined-function locations,
-            1056 strings with 18254 characters,
+            1153 strings with 19683 characters,
 and the built_in function-call counts, 31154 in all, are:
 = -- 2628
 > -- 2375
@@ -102,4 +151,4 @@ warning$ -- 12
 while$ -- 224
 width$ -- 0
 write$ -- 823
-(There were 48 warnings)
+(There were 96 warnings)

@@ -5,9 +5,9 @@
 \contentsline {chapter}{Acknowledgements}{iv}{section*.4}
 \contentsline {chapter}{Abstract}{v}{section*.5}
 \contentsline {chapter}{Contents}{vi}{chapter*.6}
-\contentsline {chapter}{List of Tables}{ix}{chapter*.7}
-\contentsline {chapter}{List of Figures}{x}{chapter*.8}
-\contentsline {chapter}{Preface}{xix}{section*.9}
+\contentsline {chapter}{List of Tables}{x}{chapter*.7}
+\contentsline {chapter}{List of Figures}{xi}{chapter*.8}
+\contentsline {chapter}{Preface}{xxv}{section*.9}
 \contentsline {chapter}{\numberline {1}First Things First}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Cosmic Context}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Overview of Selected Probes of the EoR}{2}{section.1.2}
@@ -34,33 +34,48 @@
 \contentsline {subsection}{Deuterium}{33}{section*.31}
 \contentsline {subsection}{HI Damping Wing}{34}{section*.32}
 \contentsline {section}{\numberline {2.9}Conclusion}{35}{section.2.9}
-\contentsline {section}{\numberline {2.10}Introduction}{59}{section.2.10}
-\contentsline {section}{\numberline {2.11}Method}{61}{section.2.11}
-\contentsline {subsection}{The 21 cm Signal}{62}{section*.38}
-\contentsline {subsection}{Semi-Numeric Simulations}{62}{section*.39}
-\contentsline {subsection}{Redshifted 21 cm Surveys and Thermal Noise}{63}{section*.40}
-\contentsline {subsection}{Foregrounds}{66}{section*.41}
-\contentsline {section}{\numberline {2.12}Prospects for Imaging}{67}{section.2.12}
-\contentsline {subsection}{The Wiener Filter}{68}{section*.42}
-\contentsline {subsection}{Application to a Simulated 21 cm Signal}{71}{section*.44}
-\contentsline {section}{\numberline {2.13}Prospects for Identifying Ionized Regions}{73}{section.2.13}
-\contentsline {subsection}{The Optimal Matched Filter}{73}{section*.47}
-\contentsline {subsection}{Application to Isolated Spherical Ionized Regions with Noise}{74}{section*.48}
-\contentsline {subsection}{Application to a Simulated 21 cm Signal}{77}{section*.50}
-\contentsline {subsection}{Success of Detecting Ionized Regions}{82}{section*.55}
-\contentsline {subsection}{Range of Template Radius Considered}{84}{section*.57}
-\contentsline {section}{\numberline {2.14}Variations on the Fiducial Model}{85}{section.2.14}
-\contentsline {subsection}{Ionized Fraction}{86}{section*.58}
-\contentsline {subsection}{Timing of Reionization}{87}{section*.60}
-\contentsline {subsection}{Effects of Foreground Cleaning}{88}{section*.61}
-\contentsline {subsection}{128 Antenna Tile Configurations}{89}{section*.62}
-\contentsline {section}{\numberline {2.15}Favorable Antenna Configurations for Bubble Detection}{91}{section.2.15}
-\contentsline {section}{\numberline {2.16}Comparisons to Previous Work}{93}{section.2.16}
-\contentsline {section}{\numberline {2.17}Conclusion}{94}{section.2.17}
-\contentsline {chapter}{\numberline {3}Conclusion}{107}{chapter.3}
-\contentsline {section}{\numberline {3.1}Wrapping up\ldots }{107}{section.3.1}
-\contentsline {chapter}{\numberline {A}Some Appendix}{111}{Appendix.1.A}
-\contentsline {section}{\numberline {A.1}first section}{111}{section.1.A.1}
-\contentsline {chapter}{\numberline {B}Another Appendix}{112}{Appendix.1.B}
-\contentsline {chapter}{Glossary}{113}{chapter*.65}
-\contentsline {chapter}{References}{114}{chapter*.66}
+\contentsline {chapter}{\numberline {3}On Modelling and Measuring the Temperature of the $z \sim 5$ IGM}{59}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{59}{section.3.1}
+\contentsline {section}{\numberline {3.2}Simulations}{62}{section.3.2}
+\contentsline {section}{\numberline {3.3}Reionization Histories}{63}{section.3.3}
+\contentsline {section}{\numberline {3.4}The Thermal State of the IGM}{68}{section.3.4}
+\contentsline {subsection}{Modeling the Thermal State}{71}{section*.39}
+\contentsline {subsection}{Simulated Temperature Field}{73}{section*.40}
+\contentsline {subsection}{Variations around Fiducial Parameters}{78}{section*.47}
+\contentsline {section}{\numberline {3.5}Measuring the Temperature of the $z \sim 5$ IGM}{81}{section.3.5}
+\contentsline {subsection}{Hydrodynamic Simulations: Perfect Temperate-Density Relation Models}{83}{section*.50}
+\contentsline {subsection}{Degeneracy with the Mean Transmitted Flux}{86}{section*.53}
+\contentsline {subsection}{Wavelet Amplitude PDFs in Inhomogeneous Reionization Models}{88}{section*.55}
+\contentsline {subsection}{Forecasts}{92}{section*.58}
+\contentsline {section}{\numberline {3.6}Conclusions}{96}{section.3.6}
+\contentsline {chapter}{\numberline {4}Identifying Ionized Regions in Noisy Redshifted 21-cm Observations}{115}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{115}{section.4.1}
+\contentsline {section}{\numberline {4.2}Method}{118}{section.4.2}
+\contentsline {subsection}{The 21 cm Signal}{118}{section*.61}
+\contentsline {subsection}{Semi-Numeric Simulations}{119}{section*.62}
+\contentsline {subsection}{Redshifted 21 cm Surveys and Thermal Noise}{120}{section*.63}
+\contentsline {subsection}{Foregrounds}{123}{section*.64}
+\contentsline {section}{\numberline {4.3}Prospects for Imaging}{124}{section.4.3}
+\contentsline {subsection}{The Wiener Filter}{124}{section*.65}
+\contentsline {subsection}{Application to a Simulated 21 cm Signal}{128}{section*.67}
+\contentsline {section}{\numberline {4.4}Prospects for Identifying Ionized Regions}{129}{section.4.4}
+\contentsline {subsection}{The Optimal Matched Filter}{130}{section*.70}
+\contentsline {subsection}{Application to Isolated Spherical Ionized Regions with Noise}{131}{section*.71}
+\contentsline {subsection}{Application to a Simulated 21 cm Signal}{134}{section*.73}
+\contentsline {subsection}{Success of Detecting Ionized Regions}{138}{section*.78}
+\contentsline {subsection}{Range of Template Radius Considered}{140}{section*.80}
+\contentsline {section}{\numberline {4.5}Variations on the Fiducial Model}{142}{section.4.5}
+\contentsline {subsection}{Ionized Fraction}{142}{section*.81}
+\contentsline {subsection}{Timing of Reionization}{144}{section*.83}
+\contentsline {subsection}{Effects of Foreground Cleaning}{145}{section*.84}
+\contentsline {subsection}{128 Antenna Tile Configurations}{146}{section*.85}
+\contentsline {section}{\numberline {4.6}Favorable Antenna Configurations for Bubble Detection}{147}{section.4.6}
+\contentsline {section}{\numberline {4.7}Comparisons to Previous Work}{149}{section.4.7}
+\contentsline {section}{\numberline {4.8}Conclusion}{150}{section.4.8}
+\contentsline {chapter}{\numberline {5}Conclusion}{164}{chapter.5}
+\contentsline {section}{\numberline {5.1}Wrapping up\ldots }{164}{section.5.1}
+\contentsline {chapter}{\numberline {A}Some Appendix}{168}{Appendix.1.A}
+\contentsline {section}{\numberline {A.1}first section}{168}{section.1.A.1}
+\contentsline {chapter}{\numberline {B}Another Appendix}{169}{Appendix.1.B}
+\contentsline {chapter}{Glossary}{170}{chapter*.88}
+\contentsline {chapter}{References}{171}{chapter*.89}
