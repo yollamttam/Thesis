@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=latex 2013.4.25)  20 MAR 2015 19:03
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=latex 2013.4.25)  3 APR 2015 18:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -495,26 +495,26 @@ LaTeX Warning: Label `sec:Conclusion' multiply defined.
 (./backmatter/glossary.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box55
-Package backref Info: ** backref set up for natbib ** on input line 91.
-Package hyperref Info: Link coloring OFF on input line 91.
+Package backref Info: ** backref set up for natbib ** on input line 94.
+Package hyperref Info: Link coloring OFF on input line 94.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -524,25 +524,25 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count128
 )
-LaTeX Info: Redefining \ref on input line 91.
-LaTeX Info: Redefining \pageref on input line 91.
-LaTeX Info: Redefining \nameref on input line 91.
+LaTeX Info: Redefining \ref on input line 94.
+LaTeX Info: Redefining \pageref on input line 94.
+LaTeX Info: Redefining \nameref on input line 94.
 
 (./thesis.out) (./thesis.out)
 \@outlinefile=\write5
 \openout5 = `thesis.out'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 102.
+LaTeX Font Info:    Try loading font information for U+msa on input line 105.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 102.
+LaTeX Font Info:    Try loading font information for U+msb on input line 105.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+wasy on input line 102.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 105.
 
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
@@ -553,13 +553,13 @@ File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 \FN@pp@footnotehinttrue 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 105.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 108.
 
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 105.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 108.
  [2
 
 ]
@@ -599,51 +599,110 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 ] (./thesis.lof [11
 
 ] [12] [13] [14] [15]
-[16] [17] [18] [19] [20] [21] [22] [23])
+[16] [17] [18] [19] [20] [21] [22] [23] [24])
 \tf@lof=\write8
 \openout8 = `thesis.lof'.
 
- [24]
+ [25]
 \openout2 = `frontmatter/preface.aux'.
 
  (./frontmatter/preface.tex
-[25
+[26
 
 ])
 \openout2 = `introduction/introduction.aux'.
 
  (./introduction/introduction.tex
 Chapter 1.
+[1
+
+
+
+
+]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 22.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 22.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 22.
+(hyperref)                removing `math shift' on input line 23.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 25.
+(hyperref)                \kern 1.8254pt
+(hyperref)                removed on input line 23.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 25.
+(hyperref)                removing `\alpha' on input line 23.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 25.
+(hyperref)                removing `math shift' on input line 23.
 
-) [1
+[2]
+File: introduction/figures/EPS/lyaf-75.eps Graphic file (type eps)
+ <introduction/figures/EPS/lyaf-75.eps> [3]
+File: introduction/figures/EPS/Lya-forest-60.eps Graphic file (type eps)
+
+<introduction/figures/EPS/Lya-forest-60.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4] [5]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 73.
 
 
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\tau' on input line 73.
 
 
-] [2]
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 77.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                \kern 1.8254pt
+(hyperref)                removed on input line 77.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\alpha' on input line 77.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 77.
+
+File: introduction/figures/EPS/z7p085_DampingWing.eps Graphic file (type eps)
+<introduction/figures/EPS/z7p085_DampingWing.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 90.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                \kern 1.8254pt
+(hyperref)                removed on input line 90.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\alpha' on input line 90.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 90.
+
+) [6] [7]
 \openout2 = `neutral_islands/neutral_islands.aux'.
 
  (./neutral_islands/neutral_islands.tex
@@ -660,225 +719,24 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 14.
 
-
-Package natbib Warning: Citation `1965ApJ...142.1633G' on page 3 undefined on i
-nput line 18.
-
-
-Package natbib Warning: Citation `Fan:2001ff' on page 3 undefined on input line
- 24.
-
-
-Package natbib Warning: Citation `Becker:2001ee' on page 3 undefined on input l
-ine 24.
-
-
-Package natbib Warning: Citation `Djorgovski:2001ez' on page 3 undefined on inp
-ut line 24.
-
-
-Package natbib Warning: Citation `1965ApJ...142.1633G' on page 3 undefined on i
-nput line 29.
-
-[3
+[8
 
 
 
-]
-
-Package natbib Warning: Citation `Mesinger:2009mv' on page 4 undefined on input
- line 37.
-
-
-Package natbib Warning: Citation `Lidz:2007mz' on page 4 undefined on input lin
-e 37.
-
-
-Package natbib Warning: Citation `Lidz:2007mz' on page 4 undefined on input lin
-e 43.
-
-
-Package natbib Warning: Citation `Mesinger:2009mv' on page 4 undefined on input
- line 43.
-
-
-Package natbib Warning: Citation `McGreer:2011dm' on page 4 undefined on input 
-line 51.
-
-
-Package natbib Warning: Citation `McGreer:2011dm' on page 4 undefined on input 
-line 54.
-
-
-Package natbib Warning: Citation `Robertson:2013bq' on page 4 undefined on inpu
-t line 63.
-
-
-Package natbib Warning: Citation `2012ApJ...744..179S' on page 4 undefined on i
-nput line 64.
-
-
-Package natbib Warning: Citation `Pentericci:2014nia' on page 4 undefined on in
-put line 64.
-
-
-Package natbib Warning: Citation `2013MNRAS.429.1695B' on page 4 undefined on i
-nput line 64.
-
-
-Package natbib Warning: Citation `Taylor:2013qia' on page 4 undefined on input 
-line 64.
-
-
-Package natbib Warning: Citation `Becker:2014oga' on page 4 undefined on input 
-line 65.
-
-
-Package natbib Warning: Citation `Mesinger:2006kn' on page 4 undefined on input
- line 66.
-
-
-Package natbib Warning: Citation `2013MNRAS.428.3058S' on page 4 undefined on i
-nput line 66.
-
-[4]
-
-Package natbib Warning: Citation `McGreer:2011dm' on page 5 undefined on input 
-line 70.
-
-
-Package natbib Warning: Citation `McQuinn:2007dy' on page 5 undefined on input 
-line 77.
-
-
-Package natbib Warning: Citation `2010MNRAS.407.1328M' on page 5 undefined on i
-nput line 78.
-
-
-Package natbib Warning: Citation `McGreer:2011dm' on page 5 undefined on input 
-line 78.
-
-
-Package natbib Warning: Citation `Mesinger:2006kn' on page 5 undefined on input
- line 84.
-
-
-Package natbib Warning: Citation `2013MNRAS.428.3058S' on page 5 undefined on i
-nput line 84.
-
-[5]
+] [9] [10]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 89.
-
-
-Package natbib Warning: Citation `Ade:2013zuv' on page 6 undefined on input lin
-e 90.
-
-
-Package natbib Warning: Citation `McQuinn:2007dy' on page 6 undefined on input 
-line 99.
-
-[6]
-
-Package natbib Warning: Citation `Xu:2013npa' on page 7 undefined on input line
- 108.
-
-[7]
-
-Package natbib Warning: Citation `KuhlenConcordance' on page 8 undefined on inp
-ut line 111.
-
-
-Package natbib Warning: Citation `Bolton:2007b' on page 8 undefined on input li
-ne 111.
-
-
-Package natbib Warning: Citation `Bolton:2007b' on page 8 undefined on input li
-ne 113.
-
-
-Package natbib Warning: Citation `Bolton:2007b' on page 8 undefined on input li
-ne 115.
-
-
-Package natbib Warning: Citation `Becker:2013ffa' on page 8 undefined on input 
-line 115.
-
-
-Package natbib Warning: Citation `Robertson:2013bq' on page 8 undefined on inpu
-t line 115.
-
-
-Package natbib Warning: Citation `Zuo' on page 8 undefined on input line 123.
-
-[8]
-
-Package natbib Warning: Citation `Worseck:2014fya' on page 9 undefined on input
- line 134.
-
-
-Package natbib Warning: Citation `Lidz:2014jxa' on page 9 undefined on input li
-ne 144.
-
-[9]
-
-Package natbib Warning: Citation `McQuinn:2007dy' on page 10 undefined on input
- line 155.
-
-
-Package natbib Warning: Citation `Croft:2000hs' on page 10 undefined on input l
-ine 158.
-
-[10]
-
-Package natbib Warning: Citation `Lidz:2014jxa' on page 11 undefined on input l
-ine 171.
-
-[11]
-
-Package natbib Warning: Citation `Lee:2013fga' on page 12 undefined on input li
-ne 179.
-
-
-Package natbib Warning: Citation `Cooke:2013cba' on page 12 undefined on input 
-line 184.
-
-[12]
-
-Package natbib Warning: Citation `Becker:2001ee' on page 13 undefined on input 
-line 186.
-
-
-Package natbib Warning: Citation `2013MNRAS.430.2067B' on page 13 undefined on 
-input line 192.
-
-[13]
+ [11] [12] [13] [14] [15] [16] [17] [18]
 File: neutral_islands/figures/EPS/fig1a.eps Graphic file (type eps)
- <neutral_islands/figures/EPS/fig1a.eps>
+
+<neutral_islands/figures/EPS/fig1a.eps>
 File: neutral_islands/figures/EPS/fig1b.eps Graphic file (type eps)
 
 <neutral_islands/figures/EPS/fig1b.eps>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Package natbib Warning: Citation `Gallerani:2005mf' on page 14 undefined on inp
-ut line 215.
-
-
-Package natbib Warning: Citation `2010MNRAS.407.1328M' on page 14 undefined on 
-input line 215.
-
-
-Package natbib Warning: Citation `McGreer:2011dm' on page 14 undefined on input
- line 215.
-
-[14]
-
-Package natbib Warning: Citation `2010MNRAS.407.1328M' on page 15 undefined on 
-input line 217.
-
-[15]
+[19] [20] [21]
 File: neutral_islands/figures/EPS/fig2.eps Graphic file (type eps)
  <neutral_islands/figures/EPS/fig2.eps>
 
@@ -889,37 +747,19 @@ File: neutral_islands/figures/EPS/fig3.eps Graphic file (type eps)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[16]
-
-Package natbib Warning: Citation `MiraldaEscude:1997en' on page 17 undefined on
- input line 268.
-
-[17]
+[22] [23]
 File: neutral_islands/figures/EPS/fig4.eps Graphic file (type eps)
- <neutral_islands/figures/EPS/fig4.eps> [18]
+ <neutral_islands/figures/EPS/fig4.eps>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Package natbib Warning: Citation `Cooke:2013cba' on page 19 undefined on input 
-line 293.
-
-[19] [20] [21]
+[24] [25] [26]
 File: neutral_islands/figures/EPS/fig5.eps Graphic file (type eps)
  <neutral_islands/figures/EPS/fig5.eps>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[22] [23] [24] [25] [26]
-
-Package natbib Warning: Citation `Becker:2001ee' on page 27 undefined on input 
-line 404.
-
-
-Package natbib Warning: Citation `Viel:2013fqw' on page 27 undefined on input l
-ine 407.
-
-[27]
+[27] [28] [29] [30] [31] [32]
 File: neutral_islands/figures/EPS/fig6a.eps Graphic file (type eps)
  <neutral_islands/figures/EPS/fig6a.eps>
 File: neutral_islands/figures/EPS/fig6b.eps Graphic file (type eps)
@@ -941,7 +781,7 @@ File: neutral_islands/figures/EPS/fig8.eps Graphic file (type eps)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[28] [29]
+[33] [34] [35]
 File: neutral_islands/figures/EPS/fig9a.eps Graphic file (type eps)
  <neutral_islands/figures/EPS/fig9a.eps>
 File: neutral_islands/figures/EPS/fig9b.eps Graphic file (type eps)
@@ -953,35 +793,19 @@ File: neutral_islands/figures/EPS/fig10.eps Graphic file (type eps)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[30]
+[36]
 File: neutral_islands/figures/EPS/fig11.eps Graphic file (type eps)
  <neutral_islands/figures/EPS/fig11.eps>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[31] [32] [33] [34] [35]
-
-Package natbib Warning: Citation `Wolfe:2005jd' on page 36 undefined on input l
-ine 592.
-
-
-Package natbib Warning: Citation `Rahmati:2013hsa' on page 36 undefined on inpu
-t line 596.
-
-[36] [37]
-
-Package natbib Warning: Citation `Prochaska:2005wy' on page 38 undefined on inp
-ut line 629.
-
+[37] [38] [39] [40] [41] [42]
 LaTeX Font Info:    Try loading font information for U+eus on input line 633.
+
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueus.fd
 File: ueus.fd 2009/06/22 v3.00 Euler Script
-) [38]
-
-Package natbib Warning: Citation `Wolfe:2005jd' on page 39 undefined on input l
-ine 662.
-
-[39] [40] [41]
+) [43] [44] [45]
+[46]
 File: neutral_islands/figures/EPS/fig12a.eps Graphic file (type eps)
  <neutral_islands/figures/EPS/fig12a.eps>
 File: neutral_islands/figures/EPS/fig12b.eps Graphic file (type eps)
@@ -990,19 +814,11 @@ File: neutral_islands/figures/EPS/fig12b.eps Graphic file (type eps)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Package natbib Warning: Citation `Zuo' on page 42 undefined on input line 704.
-
-[42]
+[47]
 Missing character: There is no â in font cmr8!
 Missing character: There is no € in font cmr8!
 Missing character: There is no ¢ in font cmr8!
- [43]
-
-Package natbib Warning: Citation `Cooray:2002dia' on page 44 undefined on input
- line 733.
-
-[44] [45]
+ [48] [49] [50]
 File: neutral_islands/figures/EPS/fig13a.eps Graphic file (type eps)
  <neutral_islands/figures/EPS/fig13a.eps>
 File: neutral_islands/figures/EPS/fig13b.eps Graphic file (type eps)
@@ -1014,7 +830,7 @@ LaTeX Warning: Float too large for page by 58.57478pt on input line 760.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58]
+) [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63]
 \openout2 = `igm_temperature/igm_temperature.aux'.
 
 
@@ -1033,349 +849,305 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 14.
 
 
-Package natbib Warning: Citation `1994MNRAS.266..343M' on page 59 undefined on 
+Package natbib Warning: Citation `1994MNRAS.266..343M' on page 64 undefined on 
 input line 19.
 
 
-Package natbib Warning: Citation `Hui:1997dp' on page 59 undefined on input lin
+Package natbib Warning: Citation `Hui:1997dp' on page 64 undefined on input lin
 e 19.
 
 
-Package natbib Warning: Citation `Theuns:2002yc' on page 59 undefined on input 
+Package natbib Warning: Citation `Theuns:2002yc' on page 64 undefined on input 
 line 19.
 
 
-Package natbib Warning: Citation `Hui:2003hn' on page 59 undefined on input lin
+Package natbib Warning: Citation `Hui:2003hn' on page 64 undefined on input lin
 e 19.
 
 
-Package natbib Warning: Citation `Trac:2008yz' on page 59 undefined on input li
+Package natbib Warning: Citation `Trac:2008yz' on page 64 undefined on input li
 ne 27.
 
 
-Package natbib Warning: Citation `Cen:2009bg' on page 59 undefined on input lin
+Package natbib Warning: Citation `Cen:2009bg' on page 64 undefined on input lin
 e 27.
 
 
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 59 undefined on in
+Package natbib Warning: Citation `Furlanetto:2009kr' on page 64 undefined on in
 put line 27.
 
-[59
+[64
 
 
 
 ]
 
-Package natbib Warning: Citation `McGreer:2011dm' on page 60 undefined on input
- line 35.
-
-
-Package natbib Warning: Citation `Mesinger:2009mv' on page 60 undefined on inpu
-t line 35.
-
-
-Package natbib Warning: Citation `Lidz:2007mz' on page 60 undefined on input li
-ne 35.
-
-
-Package natbib Warning: Citation `Worseck:2011qk' on page 60 undefined on input
+Package natbib Warning: Citation `Worseck:2011qk' on page 65 undefined on input
  line 36.
 
 
-Package natbib Warning: Citation `Syphers:2011uw' on page 60 undefined on input
+Package natbib Warning: Citation `Syphers:2011uw' on page 65 undefined on input
  line 36.
 
 
-Package natbib Warning: Citation `Schaye:1999vr' on page 60 undefined on input 
+Package natbib Warning: Citation `Schaye:1999vr' on page 65 undefined on input 
 line 38.
 
 
-Package natbib Warning: Citation `Ricotti:1999hx' on page 60 undefined on input
+Package natbib Warning: Citation `Ricotti:1999hx' on page 65 undefined on input
  line 38.
 
 
-Package natbib Warning: Citation `McDonald:2000nn' on page 60 undefined on inpu
+Package natbib Warning: Citation `McDonald:2000nn' on page 65 undefined on inpu
 t line 38.
 
 
-Package natbib Warning: Citation `Zaldarriaga:2000mz' on page 60 undefined on i
+Package natbib Warning: Citation `Zaldarriaga:2000mz' on page 65 undefined on i
 nput line 38.
 
 
-Package natbib Warning: Citation `Theuns:2001my' on page 60 undefined on input 
+Package natbib Warning: Citation `Theuns:2001my' on page 65 undefined on input 
 line 38.
 
 
-Package natbib Warning: Citation `Lidz:2009ca' on page 60 undefined on input li
+Package natbib Warning: Citation `Lidz:2009ca' on page 65 undefined on input li
 ne 38.
 
 
-Package natbib Warning: Citation `McQuinn:2008am' on page 60 undefined on input
+Package natbib Warning: Citation `McQuinn:2008am' on page 65 undefined on input
  line 40.
 
 
-Package natbib Warning: Citation `Becker:2012aq' on page 60 undefined on input 
+Package natbib Warning: Citation `Becker:2012aq' on page 65 undefined on input 
 line 47.
 
 
-Package natbib Warning: Citation `Bolton:2011ck' on page 60 undefined on input 
+Package natbib Warning: Citation `Bolton:2011ck' on page 65 undefined on input 
 line 48.
 
 
-Package natbib Warning: Citation `Raskutti:2012qz' on page 60 undefined on inpu
+Package natbib Warning: Citation `Raskutti:2012qz' on page 65 undefined on inpu
 t line 48.
 
+[65]
 
-Package natbib Warning: Citation `Viel:2013fqw' on page 60 undefined on input l
-ine 50.
-
-
-Package natbib Warning: Citation `1965ApJ...142.1633G' on page 60 undefined on 
-input line 59.
-
-
-Package natbib Warning: Citation `Becker:2001ee' on page 60 undefined on input 
-line 59.
-
-[60]
-
-Package natbib Warning: Citation `Trac:2008yz' on page 61 undefined on input li
+Package natbib Warning: Citation `Trac:2008yz' on page 66 undefined on input li
 ne 73.
 
 
-Package natbib Warning: Citation `Cen:2009bg' on page 61 undefined on input lin
+Package natbib Warning: Citation `Cen:2009bg' on page 66 undefined on input lin
 e 73.
 
 
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 61 undefined on in
+Package natbib Warning: Citation `Furlanetto:2009kr' on page 66 undefined on in
 put line 73.
 
 
-Package natbib Warning: Citation `Lai:2005ha' on page 61 undefined on input lin
+Package natbib Warning: Citation `Lai:2005ha' on page 66 undefined on input lin
 e 75.
 
 
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 61 undefined on in
+Package natbib Warning: Citation `Furlanetto:2009kr' on page 66 undefined on in
 put line 77.
 
 
-Package natbib Warning: Citation `Trac:2008yz' on page 61 undefined on input li
+Package natbib Warning: Citation `Trac:2008yz' on page 66 undefined on input li
 ne 79.
 
 
-Package natbib Warning: Citation `Cen:2009bg' on page 61 undefined on input lin
+Package natbib Warning: Citation `Cen:2009bg' on page 66 undefined on input lin
 e 79.
 
 
-Package natbib Warning: Citation `McQuinn:2007dy' on page 61 undefined on input
- line 90.
+Package natbib Warning: Citation `Zahn:2006sg' on page 66 undefined on input li
+ne 89.
 
 
-Package natbib Warning: Citation `McQuinn:2007dy' on page 61 undefined on input
- line 90.
-
-
-Package natbib Warning: Citation `Hui:1997dp' on page 61 undefined on input lin
+Package natbib Warning: Citation `Hui:1997dp' on page 66 undefined on input lin
 e 98.
 
+[66]
 
-Package natbib Warning: Citation `MiraldaEscude:1995bu' on page 61 undefined on
- input line 99.
-
-
-Package natbib Warning: Citation `Croft:2000hs' on page 61 undefined on input l
-ine 99.
-
-[61]
-
-Package natbib Warning: Citation `Lidz:2009ca' on page 62 undefined on input li
+Package natbib Warning: Citation `Lidz:2009ca' on page 67 undefined on input li
 ne 103.
 
 
-Package natbib Warning: Citation `2005MNRAS.364.1105S' on page 62 undefined on 
+Package natbib Warning: Citation `2005MNRAS.364.1105S' on page 67 undefined on 
 input line 104.
 
-[62]
+[67]
 
-Package natbib Warning: Citation `Sheth:1999su' on page 63 undefined on input l
+Package natbib Warning: Citation `Sheth:1999su' on page 68 undefined on input l
 ine 125.
 
 
-Package natbib Warning: Citation `1987ApJ...321L.107S' on page 63 undefined on 
+Package natbib Warning: Citation `1987ApJ...321L.107S' on page 68 undefined on 
 input line 126.
 
 
-Package natbib Warning: Citation `1999ApJ...514..648M' on page 63 undefined on 
+Package natbib Warning: Citation `1999ApJ...514..648M' on page 68 undefined on 
 input line 126.
 
 
-Package natbib Warning: Citation `Pawlik:2008mr' on page 63 undefined on input 
+Package natbib Warning: Citation `Pawlik:2008mr' on page 68 undefined on input 
 line 135.
 
 
-Package natbib Warning: Citation `McQuinn:2011aa' on page 63 undefined on input
+Package natbib Warning: Citation `McQuinn:2011aa' on page 68 undefined on input
  line 135.
 
-[63] [64]
 
-Package natbib Warning: Citation `McQuinn:2007dy' on page 65 undefined on input
- line 174.
+Package natbib Warning: Citation `Zahn:2006sg' on page 68 undefined on input li
+ne 144.
 
+[68] [69]
 
-Package natbib Warning: Citation `Gnedin:1997td' on page 65 undefined on input 
+Package natbib Warning: Citation `Gnedin:1997td' on page 70 undefined on input 
 line 180.
 
-[65]
+
+Package natbib Warning: Citation `Zahn:2006sg' on page 70 undefined on input li
+ne 184.
+
+[70]
 File: igm_temperature/figures/EPS/f1.eps Graphic file (type eps)
- <igm_temperature/figures/EPS/f1.eps> [66] [67]
+ <igm_temperature/figures/EPS/f1.eps> [71] [72]
 
-Package natbib Warning: Citation `Ade:2013zuv' on page 68 undefined on input li
-ne 229.
-
-
-Package natbib Warning: Citation `Bennett:2012zja' on page 68 undefined on inpu
+Package natbib Warning: Citation `Bennett:2012zja' on page 73 undefined on inpu
 t line 230.
 
 
-Package natbib Warning: Citation `Hui:2003hn' on page 68 undefined on input lin
+Package natbib Warning: Citation `Hui:2003hn' on page 73 undefined on input lin
 e 237.
 
 
-Package natbib Warning: Citation `Hui:1997dp' on page 68 undefined on input lin
+Package natbib Warning: Citation `Hui:1997dp' on page 73 undefined on input lin
 e 249.
 
-[68]
+[73]
 
-Package natbib Warning: Citation `1994MNRAS.266..343M' on page 69 undefined on 
+Package natbib Warning: Citation `1994MNRAS.266..343M' on page 74 undefined on 
 input line 262.
 
 
-Package natbib Warning: Citation `Hui:1997dp' on page 69 undefined on input lin
+Package natbib Warning: Citation `Hui:1997dp' on page 74 undefined on input lin
 e 262.
 
 
-Package natbib Warning: Citation `Hui:2003hn' on page 69 undefined on input lin
+Package natbib Warning: Citation `Hui:2003hn' on page 74 undefined on input lin
 e 262.
 
 
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 69 undefined on in
+Package natbib Warning: Citation `Furlanetto:2009kr' on page 74 undefined on in
 put line 262.
 
+[74]
 
-Package natbib Warning: Citation `Robertson:2013bq' on page 69 undefined on inp
-ut line 277.
-
-[69]
-
-Package natbib Warning: Citation `Abel:1999vj' on page 70 undefined on input li
+Package natbib Warning: Citation `Abel:1999vj' on page 75 undefined on input li
 ne 294.
 
 
-Package natbib Warning: Citation `Hui:1997dp' on page 70 undefined on input lin
+Package natbib Warning: Citation `Hui:1997dp' on page 75 undefined on input lin
 e 307.
 
 
-Package natbib Warning: Citation `Hui:1997dp' on page 70 undefined on input lin
+Package natbib Warning: Citation `Hui:1997dp' on page 75 undefined on input lin
 e 312.
 
 
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 70 undefined on in
+Package natbib Warning: Citation `Furlanetto:2009kr' on page 75 undefined on in
 put line 314.
 
 
-Package natbib Warning: Citation `Hui:2003hn' on page 70 undefined on input lin
+Package natbib Warning: Citation `Hui:2003hn' on page 75 undefined on input lin
 e 314.
 
-[70]
+[75]
 
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 71 undefined on in
+Package natbib Warning: Citation `Furlanetto:2009kr' on page 76 undefined on in
 put line 323.
 
 
-Package natbib Warning: Citation `Hui:1997dp' on page 71 undefined on input lin
+Package natbib Warning: Citation `Hui:1997dp' on page 76 undefined on input lin
 e 329.
 
 
-Package natbib Warning: Citation `Hui:2003hn' on page 71 undefined on input lin
+Package natbib Warning: Citation `Hui:2003hn' on page 76 undefined on input lin
 e 330.
 
 
-Package natbib Warning: Citation `Chang:2011bf' on page 71 undefined on input l
+Package natbib Warning: Citation `Chang:2011bf' on page 76 undefined on input l
 ine 330.
 
 
-Package natbib Warning: Citation `Hui:1997dp' on page 71 undefined on input lin
+Package natbib Warning: Citation `Hui:1997dp' on page 76 undefined on input lin
 e 333.
 
-[71]
+[76]
 
-Package natbib Warning: Citation `McQuinn:2007dy' on page 72 undefined on input
- line 335.
-
-
-Package natbib Warning: Citation `Hui:1997dp' on page 72 undefined on input lin
+Package natbib Warning: Citation `Hui:1997dp' on page 77 undefined on input lin
 e 338.
 
 
-Package natbib Warning: Citation `1970A&A.....5...84Z' on page 72 undefined on 
+Package natbib Warning: Citation `1970A&A.....5...84Z' on page 77 undefined on 
 input line 338.
 
 
-Package natbib Warning: Citation `Hui:1997dp' on page 72 undefined on input lin
+Package natbib Warning: Citation `Hui:1997dp' on page 77 undefined on input lin
 e 342.
 
-[72]
+[77]
 
-Package natbib Warning: Citation `Hui:1997dp' on page 73 undefined on input lin
+Package natbib Warning: Citation `Hui:1997dp' on page 78 undefined on input lin
 e 360.
 
 
-Package natbib Warning: Citation `1995ApJ...449..476R' on page 73 undefined on 
+Package natbib Warning: Citation `1995ApJ...449..476R' on page 78 undefined on 
 input line 360.
 
 
-Package natbib Warning: Citation `1970Afz.....6..581D' on page 73 undefined on 
+Package natbib Warning: Citation `1970Afz.....6..581D' on page 78 undefined on 
 input line 361.
 
 
-Package natbib Warning: Citation `Hui:1999ku' on page 73 undefined on input lin
+Package natbib Warning: Citation `Hui:1999ku' on page 78 undefined on input lin
 e 361.
 
 
-Package natbib Warning: Citation `Bertschinger:1993zv' on page 73 undefined on 
+Package natbib Warning: Citation `Bertschinger:1993zv' on page 78 undefined on 
 input line 361.
 
 
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 73 undefined on in
+Package natbib Warning: Citation `Furlanetto:2009kr' on page 78 undefined on in
 put line 364.
 
 
-Package natbib Warning: Citation `McQuinn:2012bq' on page 73 undefined on input
+Package natbib Warning: Citation `McQuinn:2012bq' on page 78 undefined on input
  line 364.
 
 
-Package natbib Warning: Citation `1993ApJ...418...28Z' on page 73 undefined on 
+Package natbib Warning: Citation `1993ApJ...418...28Z' on page 78 undefined on 
 input line 370.
 
 
-Package natbib Warning: Citation `Hui:2003hn' on page 73 undefined on input lin
+Package natbib Warning: Citation `Hui:2003hn' on page 78 undefined on input lin
 e 370.
 
 
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 73 undefined on in
+Package natbib Warning: Citation `Furlanetto:2009kr' on page 78 undefined on in
 put line 370.
 
 File: igm_temperature/figures/EPS/f2.eps Graphic file (type eps)
 <igm_temperature/figures/EPS/f2.eps>
 
-Package natbib Warning: Citation `Hui:1997dp' on page 73 undefined on input lin
+Package natbib Warning: Citation `Hui:1997dp' on page 78 undefined on input lin
 e 401.
 
 
-Package natbib Warning: Citation `Robertson:2013bq' on page 73 undefined on inp
-ut line 402.
+Package natbib Warning: Citation `Kuhlen:2012vy' on page 78 undefined on input 
+line 402.
 
-[73] [74]
+[78] [79]
 File: igm_temperature/figures/EPS/f3a.ps Graphic file (type eps)
  <igm_temperature/figures/EPS/f3a.ps>
 File: igm_temperature/figures/EPS/f3b.ps Graphic file (type eps)
@@ -1387,44 +1159,44 @@ File: igm_temperature/figures/EPS/f4b.ps Graphic file (type eps)
 
 <igm_temperature/figures/EPS/f4b.ps>
 
-Package natbib Warning: Citation `Trac:2008yz' on page 75 undefined on input li
+Package natbib Warning: Citation `Trac:2008yz' on page 80 undefined on input li
 ne 457.
 
 
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 75 undefined on in
+Package natbib Warning: Citation `Furlanetto:2009kr' on page 80 undefined on in
 put line 457.
 
-[75]
+[80]
 File: igm_temperature/figures/EPS/f5.eps Graphic file (type eps)
  <igm_temperature/figures/EPS/f5.eps>
 File: igm_temperature/figures/EPS/f6.eps Graphic file (type eps)
  <igm_temperature/figures/EPS/f6.eps>
 
-Package natbib Warning: Citation `Trac:2008yz' on page 76 undefined on input li
+Package natbib Warning: Citation `Trac:2008yz' on page 81 undefined on input li
 ne 492.
 
 
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 76 undefined on in
+Package natbib Warning: Citation `Furlanetto:2009kr' on page 81 undefined on in
 put line 492.
 
-[76]
+[81]
 
-Package natbib Warning: Citation `Trac:2008yz' on page 77 undefined on input li
+Package natbib Warning: Citation `Trac:2008yz' on page 82 undefined on input li
 ne 503.
 
 
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 77 undefined on in
+Package natbib Warning: Citation `Furlanetto:2009kr' on page 82 undefined on in
 put line 503.
 
 File: igm_temperature/figures/EPS/f7.eps Graphic file (type eps)
-<igm_temperature/figures/EPS/f7.eps> [77]
+<igm_temperature/figures/EPS/f7.eps> [82]
 
-Package natbib Warning: Citation `McQuinn:2012bq' on page 78 undefined on input
+Package natbib Warning: Citation `McQuinn:2012bq' on page 83 undefined on input
  line 566.
 
-[78]
+[83]
 File: igm_temperature/figures/EPS/f8.eps Graphic file (type eps)
- <igm_temperature/figures/EPS/f8.eps> [79]
+ <igm_temperature/figures/EPS/f8.eps> [84]
 File: igm_temperature/figures/EPS/f9.eps Graphic file (type eps)
 
 <igm_temperature/figures/EPS/f9.eps>
@@ -1441,67 +1213,67 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 630.
 
 
-Package natbib Warning: Citation `Lidz:2009ca' on page 80 undefined on input li
+Package natbib Warning: Citation `Lidz:2009ca' on page 85 undefined on input li
 ne 636.
 
 
-Package natbib Warning: Citation `Gnedin:1997td' on page 80 undefined on input 
+Package natbib Warning: Citation `Gnedin:1997td' on page 85 undefined on input 
 line 640.
 
-[80]
+[85]
 
-Package natbib Warning: Citation `Zaldarriaga:2000mz' on page 81 undefined on i
+Package natbib Warning: Citation `Zaldarriaga:2000mz' on page 86 undefined on i
 nput line 645.
 
 
-Package natbib Warning: Citation `Zaldarriaga:2000mz' on page 81 undefined on i
+Package natbib Warning: Citation `Zaldarriaga:2000mz' on page 86 undefined on i
 nput line 646.
 
 
-Package natbib Warning: Citation `Peeples:2009ue' on page 81 undefined on input
+Package natbib Warning: Citation `Peeples:2009ue' on page 86 undefined on input
  line 646.
 
 
-Package natbib Warning: Citation `Lidz:2009ca' on page 81 undefined on input li
+Package natbib Warning: Citation `Lidz:2009ca' on page 86 undefined on input li
 ne 646.
 
 
-Package natbib Warning: Citation `Lidz:2009ca' on page 81 undefined on input li
+Package natbib Warning: Citation `Lidz:2009ca' on page 86 undefined on input li
 ne 659.
 
-[81]
+[86]
 
-Package natbib Warning: Citation `Lidz:2009ca' on page 82 undefined on input li
+Package natbib Warning: Citation `Lidz:2009ca' on page 87 undefined on input li
 ne 664.
 
 
-Package natbib Warning: Citation `Lidz:2009ca' on page 82 undefined on input li
+Package natbib Warning: Citation `Lidz:2009ca' on page 87 undefined on input li
 ne 674.
 
 
-Package natbib Warning: Citation `Lidz:2009ca' on page 82 undefined on input li
+Package natbib Warning: Citation `Lidz:2009ca' on page 87 undefined on input li
 ne 680.
 
-[82]
+[87]
 File: igm_temperature/figures/EPS/f10.eps Graphic file (type eps)
  <igm_temperature/figures/EPS/f10.eps>
 
-Package natbib Warning: Citation `Becker:2012aq' on page 83 undefined on input 
+Package natbib Warning: Citation `Becker:2012aq' on page 88 undefined on input 
 line 730.
 
-[83] [84]
+[88] [89]
 File: igm_temperature/figures/EPS/f11.eps Graphic file (type eps)
- <igm_temperature/figures/EPS/f11.eps> [85]
+ <igm_temperature/figures/EPS/f11.eps> [90]
 
-Package natbib Warning: Citation `Becker:2012aq' on page 86 undefined on input 
+Package natbib Warning: Citation `Becker:2012aq' on page 91 undefined on input 
 line 804.
 
 
-Package natbib Warning: Citation `2008ApJ...681..831F' on page 86 undefined on 
+Package natbib Warning: Citation `2008ApJ...681..831F' on page 91 undefined on 
 input line 806.
 
 
-Package natbib Warning: Citation `Lidz:2009ca' on page 86 undefined on input li
+Package natbib Warning: Citation `Lidz:2009ca' on page 91 undefined on input li
 ne 809.
 
 File: igm_temperature/figures/EPS/f12a.eps Graphic file (type eps)
@@ -1512,39 +1284,35 @@ Overfull \hbox (80.96294pt too wide) in paragraph at lines 813--823
 [][] [] 
  []
 
-[86]
+[91]
 
-Package natbib Warning: Citation `McDonald:2004eu' on page 87 undefined on inpu
+Package natbib Warning: Citation `McDonald:2004eu' on page 92 undefined on inpu
 t line 851.
 
-[87]
+[92]
 
-Package natbib Warning: Citation `Dijkstra:2003pd' on page 88 undefined on inpu
+Package natbib Warning: Citation `Dijkstra:2003pd' on page 93 undefined on inpu
 t line 870.
 
 
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 88 undefined on in
+Package natbib Warning: Citation `Furlanetto:2009kr' on page 93 undefined on in
 put line 870.
 
 
-Package natbib Warning: Citation `McQuinn:2007dy' on page 88 undefined on input
- line 877.
-
-
-Package natbib Warning: Citation `2007ApJ...657...15K' on page 88 undefined on 
+Package natbib Warning: Citation `2007ApJ...657...15K' on page 93 undefined on 
 input line 884.
 
 
-Package natbib Warning: Citation `Gnedin:1997td' on page 88 undefined on input 
+Package natbib Warning: Citation `Gnedin:1997td' on page 93 undefined on input 
 line 886.
 
 
-Package natbib Warning: Citation `2007ApJ...657...15K' on page 88 undefined on 
+Package natbib Warning: Citation `2007ApJ...657...15K' on page 93 undefined on 
 input line 887.
 
-[88]
+[93]
 File: igm_temperature/figures/EPS/f13.eps Graphic file (type eps)
- <igm_temperature/figures/EPS/f13.eps> [89]
+ <igm_temperature/figures/EPS/f13.eps> [94]
 File: igm_temperature/figures/EPS/f14a.eps Graphic file (type eps)
 
 <igm_temperature/figures/EPS/f14a.eps>
@@ -1554,85 +1322,85 @@ File: igm_temperature/figures/EPS/f14b.eps Graphic file (type eps)
 LaTeX Warning: Float too large for page by 202.13213pt on input line 950.
 
 
-Package natbib Warning: Citation `Becker:2012aq' on page 90 undefined on input 
+Package natbib Warning: Citation `Becker:2012aq' on page 95 undefined on input 
 line 955.
 
-[90] [91] [92]
+[95] [96] [97]
 
-Package natbib Warning: Citation `Becker:2010cu' on page 93 undefined on input 
+Package natbib Warning: Citation `Becker:2010cu' on page 98 undefined on input 
 line 1016.
 
 
-Package natbib Warning: Citation `Hui:2000rw' on page 93 undefined on input lin
+Package natbib Warning: Citation `Hui:2000rw' on page 98 undefined on input lin
 e 1018.
 
 
-Package natbib Warning: Citation `Lidz:2009ca' on page 93 undefined on input li
+Package natbib Warning: Citation `Lidz:2009ca' on page 98 undefined on input li
 ne 1018.
 
 
-Package natbib Warning: Citation `Becker:2011ee' on page 93 undefined on input 
+Package natbib Warning: Citation `Becker:2011ee' on page 98 undefined on input 
 line 1028.
 
 
-Package natbib Warning: Citation `Becker:2012aq' on page 93 undefined on input 
+Package natbib Warning: Citation `Becker:2012aq' on page 98 undefined on input 
 line 1030.
 
-[93]
+[98]
 
-Package natbib Warning: Citation `Lidz:2009ca' on page 94 undefined on input li
+Package natbib Warning: Citation `Lidz:2009ca' on page 99 undefined on input li
 ne 1052.
 
-[94] [95]
+[99] [100]
 
-Package natbib Warning: Citation `Trac:2008yz' on page 96 undefined on input li
-ne 1110.
-
-
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 96 undefined on in
-put line 1110.
+Package natbib Warning: Citation `Trac:2008yz' on page 101 undefined on input l
+ine 1110.
 
 
-Package natbib Warning: Citation `Theuns:2002yc' on page 96 undefined on input 
-line 1113.
+Package natbib Warning: Citation `Furlanetto:2009kr' on page 101 undefined on i
+nput line 1110.
 
 
-Package natbib Warning: Citation `Hui:2003hn' on page 96 undefined on input lin
-e 1113.
+Package natbib Warning: Citation `Theuns:2002yc' on page 101 undefined on input
+ line 1113.
 
 
-Package natbib Warning: Citation `Lidz:2009ca' on page 96 undefined on input li
-ne 1120.
-
-[96]
-
-Package natbib Warning: Citation `McQuinn:2010mq' on page 97 undefined on input
- line 1140.
+Package natbib Warning: Citation `Hui:2003hn' on page 101 undefined on input li
+ne 1113.
 
 
-Package natbib Warning: Citation `Lai:2005ha' on page 97 undefined on input lin
-e 1140.
+Package natbib Warning: Citation `Lidz:2009ca' on page 101 undefined on input l
+ine 1120.
+
+[101]
+
+Package natbib Warning: Citation `McQuinn:2010mq' on page 102 undefined on inpu
+t line 1140.
 
 
-Package natbib Warning: Citation `McQuinn:2010mq' on page 97 undefined on input
- line 1145.
+Package natbib Warning: Citation `Lai:2005ha' on page 102 undefined on input li
+ne 1140.
 
 
-Package natbib Warning: Citation `Levi:2013gra' on page 97 undefined on input l
-ine 1146.
+Package natbib Warning: Citation `McQuinn:2010mq' on page 102 undefined on inpu
+t line 1145.
 
 
-Package natbib Warning: Citation `McQuinn:2010mq' on page 97 undefined on input
- line 1146.
-
-[97]
-
-Package natbib Warning: Citation `Gnedin:1997td' on page 98 undefined on input 
-line 1151.
+Package natbib Warning: Citation `Levi:2013gra' on page 102 undefined on input 
+line 1146.
 
 
-Package natbib Warning: Citation `Hui:1997dp' on page 98 undefined on input lin
-e 1164.
+Package natbib Warning: Citation `McQuinn:2010mq' on page 102 undefined on inpu
+t line 1146.
+
+[102]
+
+Package natbib Warning: Citation `Gnedin:1997td' on page 103 undefined on input
+ line 1151.
+
+
+Package natbib Warning: Citation `Hui:1997dp' on page 103 undefined on input li
+ne 1164.
 
 File: igm_temperature/figures/EPS/f15a.eps Graphic file (type eps)
 <igm_temperature/figures/EPS/f15a.eps>
@@ -1642,34 +1410,344 @@ Overfull \hbox (80.96294pt too wide) in paragraph at lines 1169--1174
 [][] [] 
  []
 
-[98]
+[103]
 
-Package natbib Warning: Citation `Hui:1997dp' on page 99 undefined on input lin
-e 1206.
+Package natbib Warning: Citation `Hui:1997dp' on page 104 undefined on input li
+ne 1206.
 
-[99]
+[104]
 
-Package natbib Warning: Citation `Hui:1997dp' on page 100 undefined on input li
+Package natbib Warning: Citation `Hui:1997dp' on page 105 undefined on input li
 ne 1215.
 
-[100]) [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111]
-[112] [113] [114]
+[105]) [106] [107] [108] [109] [110] [111] [112] [113] [114] [115] [116]
+[117] [118] [119]
 \openout2 = `bubble_finding/bubble_finding.aux'.
 
  (./bubble_finding/bubble_finding.tex
 Chapter 4.
-[115
+
+Package natbib Warning: Citation `Dunkley:2008ie' on page 120 undefined on inpu
+t line 33.
+
+
+Package natbib Warning: Citation `Ouchi:2010' on page 120 undefined on input li
+ne 33.
+
+
+Package natbib Warning: Citation `Bouwens:2011xu' on page 120 undefined on inpu
+t line 33.
+
+
+Package natbib Warning: Citation `Mortlock:2011va' on page 120 undefined on inp
+ut line 33.
+
+
+Package natbib Warning: Citation `Zahn:2011vp' on page 120 undefined on input l
+ine 33.
+
+
+Package natbib Warning: Citation `Schenker:2011ea' on page 120 undefined on inp
+ut line 33.
+
+[120
 
 
 
-] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125]
-File: bubble_finding/figures/EPS/f1.eps Graphic file (type eps)
+]
 
-<bubble_finding/figures/EPS/f1.eps>
+Package natbib Warning: Citation `Madau:1996cs' on page 121 undefined on input 
+line 37.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package natbib Warning: Citation `Zaldarriaga:2003du' on page 121 undefined on 
+input line 37.
+
+
+Package natbib Warning: Citation `Furlanetto:2006jb' on page 121 undefined on i
+nput line 37.
+
+
+Package natbib Warning: Citation `Paciga:2010yy' on page 121 undefined on input
+ line 37.
+
+
+Package natbib Warning: Citation `Harker:2010ht' on page 121 undefined on input
+ line 37.
+
+
+Package natbib Warning: Citation `Lonsdale:2009cb' on page 121 undefined on inp
+ut line 37.
+
+
+Package natbib Warning: Citation `Parsons:2009in' on page 121 undefined on inpu
+t line 38.
+
+
+Package natbib Warning: Citation `Liu:2009qga' on page 121 undefined on input l
+ine 43.
+
+
+Package natbib Warning: Citation `Datta:2010pk' on page 121 undefined on input 
+line 43.
+
+
+Package natbib Warning: Citation `Harker:2010ht' on page 121 undefined on input
+ line 43.
+
+
+Package natbib Warning: Citation `Petrovic:2010me' on page 121 undefined on inp
+ut line 43.
+
+
+Package natbib Warning: Citation `Morales:2012kf' on page 121 undefined on inpu
+t line 43.
+
+
+Package natbib Warning: Citation `Parsons:2012qh' on page 121 undefined on inpu
+t line 43.
+
+
+Package natbib Warning: Citation `McQuinn:2005hk' on page 121 undefined on inpu
+t line 45.
+
+
+Package natbib Warning: Citation `Zaldarriaga:2003du' on page 121 undefined on 
+input line 48.
+
+
+Package natbib Warning: Citation `Morales:2003vn' on page 121 undefined on inpu
+t line 48.
+
+
+Package natbib Warning: Citation `Bowman:2005cr' on page 121 undefined on input
+ line 48.
+
+
+Package natbib Warning: Citation `McQuinn:2005hk' on page 121 undefined on inpu
+t line 49.
+
+
+Package natbib Warning: Citation `Furlanetto:2004ha' on page 121 undefined on i
+nput line 52.
+
+
+Package natbib Warning: Citation `Lidz:2007az' on page 121 undefined on input l
+ine 52.
+
+
+Package natbib Warning: Citation `Mesinger:2010ne' on page 121 undefined on inp
+ut line 52.
+
+
+Package natbib Warning: Citation `Lidz:2007az' on page 121 undefined on input l
+ine 55.
+
+
+Package natbib Warning: Citation `Wyithe:2004ta' on page 121 undefined on input
+ line 60.
+
+
+Package natbib Warning: Citation `Friedrich:2012fy' on page 121 undefined on in
+put line 60.
+
+
+Package natbib Warning: Citation `Iliev:2005sz' on page 121 undefined on input 
+line 62.
+
+
+Package natbib Warning: Citation `Zahn:2006sg' on page 121 undefined on input l
+ine 62.
+
+
+Package natbib Warning: Citation `Datta:2007nj' on page 121 undefined on input 
+line 67.
+
+
+Package natbib Warning: Citation `Datta:2008ry' on page 121 undefined on input 
+line 67.
+
+
+Package natbib Warning: Citation `Haehnelt:1995dg' on page 121 undefined on inp
+ut line 70.
+
+
+Package natbib Warning: Citation `Hennawi:2004ai' on page 121 undefined on inpu
+t line 70.
+
+
+Package natbib Warning: Citation `Marian:2008fd' on page 121 undefined on input
+ line 70.
+
+
+Package natbib Warning: Citation `Owen:1998dk' on page 121 undefined on input l
+ine 71.
+
+[121]
+
+Package natbib Warning: Citation `Komatsu:2010fb' on page 122 undefined on inpu
+t line 85.
+
+[122]
+
+Package natbib Warning: Citation `Zaldarriaga:2003du' on page 123 undefined on 
+input line 107.
+
+
+Package natbib Warning: Citation `Mesinger:2007pd' on page 123 undefined on inp
+ut line 113.
+
+
+Package natbib Warning: Citation `Mao:2011xp' on page 123 undefined on input li
+ne 113.
+
+
+Package natbib Warning: Citation `Ciardi:2003hg' on page 123 undefined on input
+ line 117.
+
+[123]
+
+Package natbib Warning: Citation `Zahn:2006sg' on page 124 undefined on input l
+ine 129.
+
+
+Package natbib Warning: Citation `Mesinger:2010ne' on page 124 undefined on inp
+ut line 129.
+
+
+Package natbib Warning: Citation `Zahn:2006sg' on page 124 undefined on input l
+ine 131.
+
+
+Package natbib Warning: Citation `Zahn:2006sg' on page 124 undefined on input l
+ine 134.
+
+
+Package natbib Warning: Citation `Zahn:2010yw' on page 124 undefined on input l
+ine 134.
+
+
+Package natbib Warning: Citation `Zahn:2006sg' on page 124 undefined on input l
+ine 138.
+
+
+Package natbib Warning: Citation `Barkana:2000fd' on page 124 undefined on inpu
+t line 140.
+
+
+Package natbib Warning: Citation `Kuhlen:2012vy' on page 124 undefined on input
+ line 148.
+
+
+Package natbib Warning: Citation `Zahn:2011vp' on page 124 undefined on input l
+ine 148.
+
+[124]
+
+Package natbib Warning: Citation `Tingay:2012ps' on page 125 undefined on input
+ line 163.
+
+
+Package natbib Warning: Citation `Lonsdale:2009cb' on page 125 undefined on inp
+ut line 165.
+
+
+Package natbib Warning: Citation `McQuinn:2005hk' on page 125 undefined on inpu
+t line 165.
+
+
+Package natbib Warning: Citation `Lidz:2007az' on page 125 undefined on input l
+ine 165.
+
+
+Package natbib Warning: Citation `Liu:2009qga' on page 125 undefined on input l
+ine 193.
+
+[125]
+
+Package natbib Warning: Citation `McQuinn:2005hk' on page 126 undefined on inpu
+t line 208.
+
+
+Package natbib Warning: Citation `Furlanetto:2006pg' on page 126 undefined on i
+nput line 208.
+
+
+Package natbib Warning: Citation `Wyithe:2007if' on page 126 undefined on input
+ line 218.
+
+
+Package natbib Warning: Citation `Bowman:2005hj' on page 126 undefined on input
+ line 228.
+
+
+Package natbib Warning: Citation `McQuinn:2005hk' on page 126 undefined on inpu
+t line 231.
+
+
+Package natbib Warning: Citation `McQuinn:2005hk' on page 126 undefined on inpu
+t line 234.
+
+
+Package natbib Warning: Citation `Bowman:2005cr' on page 126 undefined on input
+ line 234.
+
+
+Package natbib Warning: Citation `McQuinn:2005hk' on page 126 undefined on inpu
+t line 234.
 
 [126]
+
+Package natbib Warning: Citation `Wang:2005zj' on page 127 undefined on input l
+ine 280.
+
+
+Package natbib Warning: Citation `Harker:2009hg' on page 127 undefined on input
+ line 281.
+
+
+Package natbib Warning: Citation `Petrovic:2010me' on page 127 undefined on inp
+ut line 281.
+
+
+Package natbib Warning: Citation `Chapman:2012yj' on page 127 undefined on inpu
+t line 282.
+
+[127]
+
+Package natbib Warning: Citation `McQuinn:2005hk' on page 128 undefined on inpu
+t line 303.
+
+
+Package natbib Warning: Citation `Zaroubi:2012cy' on page 128 undefined on inpu
+t line 309.
+
+
+Package natbib Warning: Citation `Zaroubi:2012cy' on page 128 undefined on inpu
+t line 311.
+
+[128]
+
+Package natbib Warning: Citation `NRecipes' on page 129 undefined on input line
+ 327.
+
+
+Package natbib Warning: Citation `Datta:2011hv' on page 129 undefined on input 
+line 347.
+
+[129]
+
+Package natbib Warning: Citation `Liu:2009qga' on page 130 undefined on input l
+ine 373.
+
+[130]
+File: bubble_finding/figures/EPS/f1.eps Graphic file (type eps)
+ <bubble_finding/figures/EPS/f1.eps>
+
+Package natbib Warning: Citation `Lidz:2007az' on page 131 undefined on input l
+ine 437.
+
+[131]
 File: bubble_finding/figures/EPS/f2a.eps Graphic file (type eps)
  <bubble_finding/figures/EPS/f2a.eps>
 File: bubble_finding/figures/EPS/f2b.eps Graphic file (type eps)
@@ -1688,13 +1766,36 @@ File: bubble_finding/figures/EPS/f3b.eps Graphic file (type eps)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[127] [128] [129] [130] [131] [132]
+[132] [133]
+
+Package natbib Warning: Citation `Iliev:2005sz' on page 134 undefined on input 
+line 586.
+
+
+Package natbib Warning: Citation `Zahn:2006sg' on page 134 undefined on input l
+ine 586.
+
+[134] [135]
+
+Package natbib Warning: Citation `Lidz:2006vj' on page 136 undefined on input l
+ine 661.
+
+[136]
+
+Package natbib Warning: Citation `Zahn:2006sg' on page 137 undefined on input l
+ine 687.
+
+
+Package natbib Warning: Citation `Zahn:2006sg' on page 137 undefined on input l
+ine 697.
+
+[137]
 File: bubble_finding/figures/EPS/f4.eps Graphic file (type eps)
  <bubble_finding/figures/EPS/f4.eps>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[133] [134]
+[138]
 File: bubble_finding/figures/EPS/f5a.eps Graphic file (type eps)
  <bubble_finding/figures/EPS/f5a.eps>
 File: bubble_finding/figures/EPS/f5b.eps Graphic file (type eps)
@@ -1715,7 +1816,7 @@ File: bubble_finding/figures/EPS/f6b.eps Graphic file (type eps)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[135] [136]
+[139] [140]
 File: bubble_finding/figures/EPS/f7.eps Graphic file (type eps)
  <bubble_finding/figures/EPS/f7.eps>
 Overfull \hbox (44.38638pt too wide) in paragraph at lines 883--896
@@ -1730,28 +1831,62 @@ File: bubble_finding/figures/EPS/f8.eps Graphic file (type eps)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[137] [138]
+[141] [142]
 File: bubble_finding/figures/EPS/f9.eps Graphic file (type eps)
- <bubble_finding/figures/EPS/f9.eps> [139]
+ <bubble_finding/figures/EPS/f9.eps> [143] [144]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1108.
 
- [140] [141] [142]
+ [145] [146]
+
+Package natbib Warning: Citation `Zahn:2006sg' on page 147 undefined on input l
+ine 1162.
+
+
+Package natbib Warning: Citation `Lidz:2007az' on page 147 undefined on input l
+ine 1168.
+
+[147]
 File: bubble_finding/figures/EPS/f10a.eps Graphic file (type eps)
-
-<bubble_finding/figures/EPS/f10a.eps>
+ <bubble_finding/figures/EPS/f10a.eps>
 File: bubble_finding/figures/EPS/f10b.eps Graphic file (type eps)
- <bubble_finding/figures/EPS/f10b.eps>
-File: bubble_finding/figures/EPS/f10c.eps Graphic file (type eps)
 
-<bubble_finding/figures/EPS/f10c.eps>
+<bubble_finding/figures/EPS/f10b.eps>
+File: bubble_finding/figures/EPS/f10c.eps Graphic file (type eps)
+ <bubble_finding/figures/EPS/f10c.eps>
 File: bubble_finding/figures/EPS/f10d.eps Graphic file (type eps)
- <bubble_finding/figures/EPS/f10d.eps>
-[143]
+
+<bubble_finding/figures/EPS/f10d.eps>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[144] [145]
+
+Package natbib Warning: Citation `Kuhlen:2012vy' on page 148 undefined on input
+ line 1250.
+
+
+Package natbib Warning: Citation `Komatsu:2010fb' on page 148 undefined on inpu
+t line 1252.
+
+
+Package natbib Warning: Citation `Bouwens:2009qs' on page 148 undefined on inpu
+t line 1253.
+
+[148]
+
+Package natbib Warning: Citation `Liu:2011ih' on page 149 undefined on input li
+ne 1268.
+
+[149]
+
+Package natbib Warning: Citation `Beardsley:2012za' on page 150 undefined on in
+put line 1312.
+
+
+Package natbib Warning: Citation `Lidz:2007az' on page 150 undefined on input l
+ine 1323.
+
+[150]
 File: bubble_finding/figures/EPS/f11a.eps Graphic file (type eps)
  <bubble_finding/figures/EPS/f11a.eps>
 File: bubble_finding/figures/EPS/f11b.eps Graphic file (type eps)
@@ -1765,7 +1900,20 @@ File: bubble_finding/figures/EPS/f11d.eps Graphic file (type eps)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[146] [147] [148]
+
+Package natbib Warning: Citation `Wyithe:2004ta' on page 151 undefined on input
+ line 1361.
+
+
+Package natbib Warning: Citation `Friedrich:2012fy' on page 151 undefined on in
+put line 1361.
+
+[151]
+
+Package natbib Warning: Citation `Zaroubi:2012cy' on page 152 undefined on inpu
+t line 1397.
+
+[152] [153]
 File: bubble_finding/figures/EPS/f12a.eps Graphic file (type eps)
  <bubble_finding/figures/EPS/f12a.eps>
 File: bubble_finding/figures/EPS/f12b.eps Graphic file (type eps)
@@ -1779,8 +1927,33 @@ File: bubble_finding/figures/EPS/f12d.eps Graphic file (type eps)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[149] [150] [151]) [152] [153] [154] [155] [156] [157] [158] [159] [160]
-[161] [162] [163]
+
+Package natbib Warning: Citation `Datta:2007nj' on page 154 undefined on input 
+line 1468.
+
+
+Package natbib Warning: Citation `Datta:2008ry' on page 154 undefined on input 
+line 1468.
+
+
+Package natbib Warning: Citation `Datta:2007nj' on page 154 undefined on input 
+line 1491.
+
+
+Package natbib Warning: Citation `Friedrich:2012fy' on page 154 undefined on in
+put line 1512.
+
+[154]
+
+Package natbib Warning: Citation `Petrovic:2010me' on page 155 undefined on inp
+ut line 1533.
+
+
+Package natbib Warning: Citation `Petrovic:2010me' on page 155 undefined on inp
+ut line 1535.
+
+[155]) [156] [157] [158] [159] [160] [161] [162] [163] [164] [165] [166]
+[167]
 \openout2 = `conclusion/conclusion.aux'.
 
  (./conclusion/conclusion.tex
@@ -1789,28 +1962,20 @@ Chapter 5.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 15.
 
-[164
+[168
 
 
 
-] [165]) [166]
+] [169]) [170]
 \openout2 = `backmatter/appendix.aux'.
 
- (./backmatter/appendix.tex [167
+ (./backmatter/appendix.tex [171
 
 
 
 ]
 Appendix A.
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 5.
-
-[168
-
-]
-Appendix B.
-) [169
+) [172
 
 ]
 \openout2 = `backmatter/glossary.aux'.
@@ -1841,16 +2006,26 @@ Underfull \hbox (badness 10000) detected at line 24
  []
 
 
-Underfull \hbox (badness 10000) detected at line 29
-[]\OT1/cmr/bx/n/9 Ph.D[]
+Underfull \hbox (badness 10000) detected at line 31
+[]\OT1/cmr/bx/n/9 GRB[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 30
+Underfull \hbox (badness 10000) detected at line 35
+[]\OT1/cmr/bx/n/9 Quasar[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 37
+[]\OT1/cmr/bx/n/9 Redshift[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 39
 []\OT1/cmr/bx/n/9 2MASS[]
  []
 
-) [170
+) [173
 
 
 
@@ -1863,50 +2038,52 @@ Underfull \hbox (badness 10000) detected at line 30
 \tf@brf=\write9
 \openout9 = `thesis.brf'.
 
-
-Underfull \hbox (badness 8170) in paragraph at lines 154--154
-[]\OT1/cmr/m/n/6 Geraint Harker, Saleem Zaroubi, Gi-anni Bernardi,
- []
-
-
-Underfull \hbox (badness 8170) in paragraph at lines 162--162
-[]\OT1/cmr/m/n/6 Geraint Harker, Saleem Zaroubi, Gi-anni Bernardi,
- []
-
-[171
+Missing character: There is no Î in font cmr6!
+Missing character: There is no ± in font cmr6!
+Missing character: There is no Î in font cmr6!
+Missing character: There is no ² in font cmr6!
+Missing character: There is no Î in font cmr6!
+Missing character: There is no ± in font cmr6!
+ [174
 
 
-] [172]) [173] (./thesis.ind)
+]
+Missing character: There is no Î in font cmr6!
+Missing character: There is no ± in font cmr6!
+Missing character: There is no ï in font cmr6!
+Missing character: There is no ¿ in font cmr6!
+Missing character: There is no ½ in font cmr6!
+) [175] (./thesis.ind)
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 231.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 231.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 235.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 235.
 (./thesis.aux (./frontmatter/dedication.aux) (./frontmatter/acknowledgement.aux
 ) (./frontmatter/abstract.aux) (./frontmatter/preface.aux)
 (./introduction/introduction.aux) (./neutral_islands/neutral_islands.aux)
 (./igm_temperature/igm_temperature.aux) (./bubble_finding/bubble_finding.aux)
 (./conclusion/conclusion.aux) (./backmatter/appendix.aux)
 (./backmatter/glossary.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 231.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 231.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 235.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 235.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: F4B97229FB9BA13B62658F1C6A152368;5618.
+(rerunfilecheck)             Checksum: BBCA98FE4DE98581D551D6D2523FB9B6;5768.
 Package rerunfilecheck Info: File `thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 136222B36429FD0C2263FEE0D8AD3801;6669.
+(rerunfilecheck)             Checksum: D2D522EC8A2DAC461CAD374815C5173D;5255.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 231.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 235.
  ) 
 Here is how much of TeX's memory you used:
- 9515 strings out of 495060
- 140476 string characters out of 3182053
- 377932 words of memory out of 3000000
- 12371 multiletter control sequences out of 15000+200000
- 30572 words of font info for 119 fonts, out of 3000000 for 9000
+ 9442 strings out of 495060
+ 139243 string characters out of 3182053
+ 384643 words of memory out of 3000000
+ 12293 multiletter control sequences out of 15000+200000
+ 30908 words of font info for 121 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 43i,21n,50p,1750b,713s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,21n,50p,1750b,671s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on thesis.dvi (198 pages, 819424 bytes).
+Output written on thesis.dvi (201 pages, 820576 bytes).

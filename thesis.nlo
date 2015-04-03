@@ -1,7 +1,11 @@
-\nomenclatureentry{ZpPh.D@[{Ph.D}]\begingroup Acronym\nomeqref {1.0}|nompageref}{1}
-\nomenclatureentry{Xe 11HUGS@[{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}|nompageref}{170}
-\nomenclatureentry{Zt 2MASS@[{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}|nompageref}{170}
-\nomenclatureentry{Am M@[{M}]\begingroup Mass of object\nomeqref {5.0}|nompageref}{170}
-\nomenclatureentry{Gm $\tau$@[{$\tau$}]\begingroup Optical depth\nomeqref {5.0}|nompageref}{170}
-\nomenclatureentry{Rs $\ ^{*}$@[{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}|nompageref}{170}
-\nomenclatureentry{Ss $\astrosun$@[{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}|nompageref}{170}
+\nomenclatureentry{Zp\lya\ Forest@[{\lya\ Forest}]\begingroup This describes the pattern of absorption lines seen blueward of the rest-frame \lya\ line, typically in quasar spectra. These absorption lines can be due to significantly neutral gas in the diffuse IGM or due to dense ionized gas.\nomeqref {1.0}|nompageref}{2}
+\nomenclatureentry{ZpRedshift@[{Redshift}]\begingroup A quantity commonly used to refer to cosmic periods of time or distances. The redshift of an object or location in space is defined as the fractional increase in wavelength that a photon undergoes due to the expansion of the Universe while travelling from the object or location to us.\nomeqref {1.0}|nompageref}{2}
+\nomenclatureentry{ZpQuasar@[{Quasar}]\begingroup It's bright, OK?\nomeqref {1.1}|nompageref}{2}
+\nomenclatureentry{ZpGRB@[{GRB}]\begingroup Gamma-Ray Burst. They are also really bright, OK?\nomeqref {1.1}|nompageref}{2}
+\nomenclatureentry{ZpOptical Depth@[{Optical Depth}]\begingroup Optical depth, denoted by $\tau$, is a quantity that describes that likelihood for a photon to be absorbed, usually by a gas. The fraction of photons that will pass through the gas unabsorbed is $e^{-\tau}$.\nomeqref {1.1}|nompageref}{4}
+\nomenclatureentry{Xe 11HUGS@[{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}|nompageref}{173}
+\nomenclatureentry{Zt 2MASS@[{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}|nompageref}{173}
+\nomenclatureentry{Am M@[{M}]\begingroup Mass of object\nomeqref {5.0}|nompageref}{173}
+\nomenclatureentry{Gm $\tau$@[{$\tau$}]\begingroup Optical depth\nomeqref {5.0}|nompageref}{173}
+\nomenclatureentry{Rs $\ ^{*}$@[{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}|nompageref}{173}
+\nomenclatureentry{Ss $\astrosun$@[{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}|nompageref}{173}
