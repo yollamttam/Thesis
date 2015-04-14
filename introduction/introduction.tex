@@ -52,7 +52,7 @@ We show two example quasar spectra in Figure \ref{fig:LyaExample}. The spectrum 
 At this point, the \lya\ forest should sound like a perfect tool: if we want to map the distribution of neutral hydrogen along the line of sight to a distant bright source, we can simply map each absorption line in the \lya\ forest to a parcel of neutral hydrogen. However, the story becomes complicated here due to the extremely large cross section for \lya\ absorption. Namely, the optical depth\nomenclature[Zp]{Optical Depth}{Optical depth, denoted by $\tau$, is a quantity that describes that likelihood for a photon to be absorbed, usually by a gas. The fraction of photons that will pass through the gas unabsorbed is $e^{-\tau}$.} for \lya\ absorption of a neutral hydrogen gas parcel obeys the relationship
 
 \begin{align}
-\tau_{\alpha} &\approx 3.3 \times 10^{4} \xhi (1 + \delta) \left[\dfrac{1+z}{6.5}\right]^{3/2}.
+\tau_{\alpha} &\approx 3.3 \times 10^{4} \xhi (1 + \delta) \left[\dfrac{1+z}{6.5}\right]^{3/2}. \label{eq:tauGP}
 \end{align}
 
 Using this expression, we can calculate the minimum neutral fraction needed for a gas parcel at mean density to allow 1\% transmission at $z = 5.5$:
@@ -85,6 +85,10 @@ A common assumption made in analyzing quasar spectra at $z < 6$ is that, due to 
 
 
 \subsubsection{Dark Pixel Covering Fraction}
+
+As demonstrated in the previous section, interpreting measurements of the effective optical depth in the context of reionization is complicated and model-dependent. However, an alternative approach is to consider what constraints can be made without resorting to model-dependent assumptions. In this regard, an important method in estimating $\axhi$ from high-redshift quasar observations is the dark pixel covering fraction. This approach is rooted in the fact that neutral parcels of gas are certain to result in saturated absorption in quasar spectra due to their optical depths being $\tau_{\text{HI}} \gtrsim 10^5$ (Eq. \ref{eq:tauGP}
+
+
 \subsubsection{Dark Gap Sizes}
 \subsubsection{Damping Wing Redward of \lya}
 
