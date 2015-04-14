@@ -45,7 +45,7 @@ We show two example quasar spectra in Figure \ref{fig:LyaExample}. The spectrum 
 \begin{figure}[h]
   \centering
   \includegraphics[width=12cm]{Lya-forest-60.eps}
-  \caption{Flux as a function of rest-frame wavelength for a quasar at $z = 0.158$ (top) and $z = 3.62$ (bottom). The denser IGM at higher $z$ results in a dense ``forest" of absorption lines redward of the rest-frame \lya\ line in the lower panel. (Image from {\tt http://www.astro.ucla.edu/})}
+  \caption{Flux as a function of rest-frame wavelength for a quasar at $z = 0.158$ (top) and $z = 3.62$ (bottom). The denser IGM at higher $z$ results in a dense ``forest" of absorption lines blueward of the rest-frame \lya\ line in the lower panel. (Image from {\tt http://www.astro.ucla.edu/})}
   \label{fig:LyaExample}
 \end{figure}
 
@@ -86,7 +86,33 @@ A common assumption made in analyzing quasar spectra at $z < 6$ is that, due to 
 
 \subsubsection{Dark Pixel Covering Fraction}
 
-As demonstrated in the previous section, interpreting measurements of the effective optical depth in the context of reionization is complicated and model-dependent. However, an alternative approach is to consider what constraints can be made without resorting to model-dependent assumptions. In this regard, an important method in estimating $\axhi$ from high-redshift quasar observations is the dark pixel covering fraction. This approach is rooted in the fact that neutral parcels of gas are certain to result in saturated absorption in quasar spectra due to their optical depths being $\tau_{\text{HI}} \gtrsim 10^5$ (Eq. \ref{eq:tauGP}
+As demonstrated in the previous section, interpreting measurements of the effective optical depth in the context of reionization is complicated and model-dependent. However, an alternative approach is to consider what constraints can be made without resorting to model-dependent assumptions. In this regard, an important method in estimating $\axhi$ from high-redshift quasar observations is the dark pixel covering fraction. This approach is rooted in the fact that neutral parcels of gas are certain to result in saturated absorption in quasar spectra due to their optical depths being $\tau_{\text{HI}} \gtrsim 10^4$ (Eq. \ref{eq:tauGP}). Therefore, a reliable upper bound on the neutral fraction at a given redshift can be estimated by the fraction of pixels in quasar spectra that are completely absorbed at that redshift. 
+
+An obvious drawback of this method is that, at $z \sim 6$, overdense yet ionized regions can very well result in saturated absorption as well and significantly increase the upper bound on the neutral fraction. One approach to combat this effect is to incorporate the \lyb\ forest into the analysis. The optical depth for Lyman-series transitions scales as $f\lambda$, where $f$ is the oscillator strength of the transition and $\lambda$ is the corresponding wavelength. Therefore, the analogous expression of Eq. \ref{eq:tauGP} for \lyb\ is:
+
+%Useful quantities:                                                                                                   
+% Oscillator Strengths                                                                                                
+% f_21 = 0.4162 (1s-2p)  lambda_21 = 1215.67 AA                                                                       
+% f_31 = 0.0791 (1s-3p)  lambda_31 = 1025.72 AA                                                                       
+% f_32 = 0.4349 (2s-3p)  lambda_32 = 6562.74 AA 
+\begin{align}
+\tau_{\beta} &= \tau_{\alpha} \times \dfrac{f_{\beta}\lambda_{\beta}}{f_{\alpha}\lambda_{\alpha}} \approx 5.3 \times 10^{3} \xhi (1 + \delta) \left[\dfrac{1+z}{6.5}\right]^{3/2}. \label{eq:tauGPB}
+\end{align}
+
+where $f_{\alpha} = 0.4162$, $\lambda_{\alpha} = 1216 \AA$, $f_{\beta} = 0.0791$, and $\lambda_{\beta} = 1026\AA$. From this expression, we can see that a mean-density parcel of neutral gas should cause saturated absorption in both the \lya\ and \lyb\ transitions. Meanwhile, ionized overdense regions are less likely to cause saturated absorption as their optical depth in \lyb\ is reduced by a factor of $f_{\beta}\lambda_{\beta}/f_{\alpha}\lambda_{\alpha} \approx 1/6$. Therefore, limits from the dark-pixel covering fraction may be improved by requiring simultaneous absorption in both \lya\ and \lyb\ as part of the definition of a dark pixel. Additionally, the \lyb\ dark pixel covering fraction on its own is a viable tool for establishing an upper bound on the neutral fraction, although foreground \lya\ absorption may undo some of the gains from the lower $\tau_{\beta}$ value.
+
+This procedure faces several complications when actually carried out, however. First, quasar observations are subject to the noise from the night sky which effectively adds mean-zero random noise to the spectra. The addition of this random noise can result in spurious transmission in pixels that otherwise would have been completely absorbed. Therefore, to measure the dark pixel fraction in quasar spectra, one first needs to create a suitable definition of what classifies as a ``dark" pixel. One approach here is to define dark pixels as being within a set number of noise standard deviations from zero. This presents us with a tradeoff, however, since larger thresholds will reduce the number of neutral pixels we miss but also increase the number of ionized pixels that get incorporated into the dark pixel population.
+
+A second complication is that, since pixels have a finite width, their transmission values effectively represent an average of the transmission over some region in the spectra. If the pixel width is large enough, then it is possible for a pixel to have non-zero transmission despite corresponding to a physical region that contains significantly-neutral gas. For example, if the physical region in space associated with the pixel is 80\% composed of completely-neutral gas and 20\% composed of completely ionized gas which allows full transmission, then the transmission of that pixel will be 20\% and will likely not qualify as a ``dark pixel" despite containing neutral gas. Thus, even in a measurement as seemingly-simple as the dark-pixel covering fraction, these details must be kept in mind when interpreting results.
+
+Regardless, \cite{McGreer:2011dm} and \cite{McGreer:2014qwa} apply the dark-pixel covering fraction approach to 22 high-redshift quasar spectra to produce the constraints on $\axhi$ shown in Figure \ref{fig:McGreer}. Dimly-colored points correspond to \cite{McGreer:2011dm} while bold-colored points correspond to \cite{McGreer:2014qwa}. 
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=8cm]{xhi_newdata.eps}
+  \caption{Current limits on $\axhi$ derived from the dark-pixel covering fraction in \cite{McGreer:2014qwa}. Lightly-shaded points are older limits obtained in \cite{McGreer:2011:dm}.}
+  \label{fig:McGreer}
+\end{figure}
 
 
 \subsubsection{Dark Gap Sizes}

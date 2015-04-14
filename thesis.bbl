@@ -1,4 +1,4 @@
-\begin{thebibliography}{42}
+\begin{thebibliography}{43}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -145,6 +145,14 @@ Adam Lidz, Matthew McQuinn, and Matias Zaldarriaga.
 \newblock {Quasar Proximity Zones and Patchy Reionization}.
 \newblock \emph{Astrophys.J.}, 670:\penalty0 39--59, 2007.
 \newblock \doi{10.1086/521974}.
+
+\bibitem[McGreer et~al.(2015)McGreer, Mesinger, and D'Odorico]{McGreer:2014qwa}
+Ian McGreer, Andrei Mesinger, and Valentina D'Odorico.
+\newblock {Model-independent evidence in favour of an end to reionization by $z
+  \approx$ 6}.
+\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 447\penalty0 (1):\penalty0 499--505,
+  2015.
+\newblock \doi{10.1093/mnras/stu2449}.
 
 \bibitem[McGreer et~al.(2011)McGreer, Mesinger, and Fan]{McGreer:2011dm}
 Ian~D. McGreer, Andrei Mesinger, and Xiaohui Fan.

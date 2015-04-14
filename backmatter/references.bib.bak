@@ -2,6 +2,26 @@
 % Encoding: UTF-8
 
 
+@Article{Abel1999,
+  Title                    = {{Radiative Transfer Effects during Photoheating of the Intergalactic Medium}},
+  Author                   = {{Abel}, T. and {Haehnelt}, M.~G.},
+  Journal                  = {ApJl},
+  Year                     = {1999},
+
+  Month                    = jul,
+  Pages                    = {L13-L16},
+  Volume                   = {520},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1999ApJ...520L..13A},
+  Doi                      = {10.1086/312136},
+  Eprint                   = {astro-ph/9903102},
+  Keywords                 = {COSMOLOGY: THEORY, GALAXIES: FORMATION, GALAXIES: QUASARS: ABSORPTION LINES, Cosmology: Theory, Galaxies: Formation, Galaxies: Quasars: Absorption Lines},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
 @Article{Ade:2013zuv,
   Title                    = {{Planck 2013 results. XVI. Cosmological parameters}},
   Author                   = {Ade, P.A.R. and others},
@@ -21,7 +41,7 @@
  Arcus, W. and Barnes, D. and others},
   Year                     = {2012},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {1204.3111},
   Owner                    = {matt},
@@ -32,7 +52,7 @@
 
 @Article{Becker:2013ffa,
   Title                    = {{New Measurements of the Ionizing Ultraviolet Background
- over 2 \&lt; z \&lt; 5 and Implications for Hydrogen
+ over {$2 < z < 5$} and Implications for Hydrogen
  Reionization}},
   Author                   = {Becker, George D. and Bolton, James S.},
   Year                     = {2013},
@@ -43,9 +63,31 @@
   Slaccitation             = {%%CITATION = ARXIV:1307.2259;%%}
 }
 
+@Article{Becker2011,
+  Title                    = {{Detection of extended He II reionization in the temperature evolution of the intergalactic medium}},
+  Author                   = {{Becker}, G.~D. and {Bolton}, J.~S. and {Haehnelt}, M.~G. and {Sargent}, W.~L.~W.},
+  Journal                  = {MNRAS},
+  Year                     = {2011},
+
+  Month                    = jan,
+  Pages                    = {1096-1112},
+  Volume                   = {410},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2011MNRAS.410.1096B},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1111/j.1365-2966.2010.17507.x},
+  Eprint                   = {1008.2622},
+  Keywords                 = {intergalactic medium, quasars: absorption lines, cosmology: observations, dark ages, reionization, first stars, early Universe},
+  Owner                    = {matt},
+  Primaryclass             = {astro-ph.CO},
+  Timestamp                = {2015.04.01}
+}
+
 @Article{Becker:2014oga,
   Title                    = {{Evidence of patchy hydrogen reionization from an extreme
- Ly$\alpha$ trough below redshift six}},
+ Ly{$\alpha$} trough below redshift six}},
   Author                   = {Becker, George D. and Bolton, James S. and Madau, Piero
  and Pettini, Max and Ryan-Weber, Emma V. and others},
   Year                     = {2014},
@@ -57,9 +99,9 @@
 }
 
 @Article{2013MNRAS.430.2067B,
-  Title                    = {{A refined measurement of the mean transmitted flux in the Ly{$\alpha$} forest over 2 {\lt} z {\lt} 5 using composite quasar spectra}},
+  Title                    = {{A refined measurement of the mean transmitted flux in the Ly{$\alpha$} forest over {$2 < z < 5$} using composite quasar spectra}},
   Author                   = {{Becker}, G.~D. and {Hewett}, P.~C. and {Worseck}, G. and {Prochaska}, J.~X. },
-  Journal                  = {\mnras},
+  Journal                  = {MNRAS},
   Year                     = {2013},
 
   Month                    = apr,
@@ -73,6 +115,70 @@
   Eprint                   = {1208.2584},
   Keywords                 = {intergalactic medium, quasars: absorption lines, cosmology: observations, large-scale structure of Universe},
   Primaryclass             = {astro-ph.CO}
+}
+
+@Article{Becker2013,
+  Title                    = {{A refined measurement of the mean transmitted flux in the Ly{$\alpha$} forest over {$2 < z < 5$} using composite quasar spectra}},
+  Author                   = {{Becker}, G.~D. and {Hewett}, P.~C. and {Worseck}, G. and {Prochaska}, J.~X. },
+  Journal                  = {MNRAS},
+  Year                     = {2013},
+
+  Month                    = apr,
+  Pages                    = {2067-2081},
+  Volume                   = {430},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2013MNRAS.430.2067B},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1093/mnras/stt031},
+  Eprint                   = {1208.2584},
+  Keywords                 = {intergalactic medium, quasars: absorption lines, cosmology: observations, large-scale structure of Universe},
+  Owner                    = {matt},
+  Primaryclass             = {astro-ph.CO},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Becker2011a,
+  Title                    = {{High-redshift Metals. II. Probing Reionization Galaxies with Low-ionization Absorption Lines at Redshift Six}},
+  Author                   = {{Becker}, G.~D. and {Sargent}, W.~L.~W. and {Rauch}, M. and {Calverley}, A.~P.},
+  Journal                  = {ApJ},
+  Year                     = {2011},
+
+  Month                    = jul,
+  Pages                    = {93},
+  Volume                   = {735},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2011ApJ...735...93B},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1088/0004-637X/735/2/93},
+  Eid                      = {93},
+  Eprint                   = {1101.4399},
+  Keywords                 = {cosmology: observations, early universe, intergalactic medium, quasars: absorption lines},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Becker2001,
+  Title                    = {{Evidence for Reionization at z\~{}6: Detection of a Gunn-Peterson Trough in a z=6.28 Quasar}},
+  Author                   = {{Becker}, R.~H. and {Fan}, X. and {White}, R.~L. and {Strauss}, M.~A. and {Narayanan}, V.~K. and {Lupton}, R.~H. and {Gunn}, J.~E. and {Annis}, J. and {Bahcall}, N.~A. and {Brinkmann}, J. and {Connolly}, A.~J. and {Csabai}, I. and {Czarapata}, P.~C. and {Doi}, M. and {Heckman}, T.~M. and {Hennessy}, G.~S. and {Ivezi{\'c}}, {\v Z}. and {Knapp}, G.~R. and {Lamb}, D.~Q. and {McKay}, T.~A. and {Munn}, J.~A. and {Nash}, T. and {Nichol}, R. and {Pier}, J.~R. and {Richards}, G.~T. and {Schneider}, D.~P. and {Stoughton}, C. and {Szalay}, A.~S. and {Thakar}, A.~R. and {York}, D.~G.},
+  Journal                  = {\aj},
+  Year                     = {2001},
+
+  Month                    = dec,
+  Pages                    = {2850-2857},
+  Volume                   = {122},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2001AJ....122.2850B},
+  Doi                      = {10.1086/324231},
+  Eprint                   = {astro-ph/0108097},
+  Keywords                 = {Cosmology: Observations, Galaxies: Formation, Galaxies: Quasars: Absorption Lines, Galaxies: Quasars: General},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
 }
 
 @Article{Becker:2001ee,
@@ -93,10 +199,72 @@
   Slaccitation             = {%%CITATION = ASTRO-PH/0108097;%%}
 }
 
+@Article{Bennett2013,
+  Title                    = {{Nine-year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Final Maps and Results}},
+  Author                   = {{Bennett}, C.~L. and {Larson}, D. and {Weiland}, J.~L. and {Jarosik}, N. and {Hinshaw}, G. and {Odegard}, N. and {Smith}, K.~M. and {Hill}, R.~S. and {Gold}, B. and {Halpern}, M. and {Komatsu}, E. and {Nolta}, M.~R. and {Page}, L. and {Spergel}, D.~N. and {Wollack}, E. and {Dunkley}, J. and {Kogut}, A. and {Limon}, M. and {Meyer}, S.~S. and {Tucker}, G.~S. and {Wright}, E.~L.},
+  Journal                  = {ApJs},
+  Year                     = {2013},
+
+  Month                    = oct,
+  Pages                    = {20},
+  Volume                   = {208},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2013ApJS..208...20B},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1088/0067-0049/208/2/20},
+  Eid                      = {20},
+  Eprint                   = {1212.5225},
+  Keywords                 = {cosmic background radiation, cosmology: observations, dark matter, early universe, instrumentation: detectors, space vehicles, space vehicles: instruments, telescopes},
+  Owner                    = {matt},
+  Primaryclass             = {astro-ph.CO},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Bertschinger1994,
+  Title                    = {{Gravitational instability of cold matter}},
+  Author                   = {{Bertschinger}, E. and {Jain}, B.},
+  Journal                  = {ApJ},
+  Year                     = {1994},
+
+  Month                    = aug,
+  Pages                    = {486-494},
+  Volume                   = {431},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1994ApJ...431..486B},
+  Doi                      = {10.1086/174501},
+  Eprint                   = {astro-ph/9307033},
+  Keywords                 = {Cold Plasmas, Dark Matter, Galactic Evolution, Gravitational Collapse, Gravitational Fields, Cosmology, Differential Equations, Gravity Anomalies, Perturbation Theory, Red Shift, Velocity Distribution},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Bolton2011,
+  Title                    = {{Improved measurements of the intergalactic medium temperature around quasars: possible evidence for the initial stages of He-II reionisation at z\~{}6}},
+  Author                   = {{Bolton}, J.~S. and {Becker}, G.~D. and {Raskutti}, S. and {Wyithe}, J.~S.~B. and {Haehnelt}, M.~G. and {Sargent}, W.~L.~W.},
+  Journal                  = {ArXiv e-prints},
+  Year                     = {2011},
+
+  Month                    = oct,
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2011arXiv1110.0539B},
+  Archiveprefix            = {arXiv},
+  Eprint                   = {1110.0539},
+  Keywords                 = {Astrophysics - Cosmology and Extragalactic Astrophysics},
+  Owner                    = {matt},
+  Primaryclass             = {astro-ph.CO},
+  Timestamp                = {2015.04.01}
+}
+
 @Article{2013MNRAS.429.1695B,
-  Title                    = {{On the rapid demise of Ly {$\alpha$} emitters at redshift z {\gsim} 7 due to the increasing incidence of optically thick absorption systems}},
+  Title                    = {{On the rapid demise of Ly {$\alpha$} emitters at redshift {$z \gtrsim 7$} due to the increasing incidence of optically thick absorption systems}},
   Author                   = {{Bolton}, J.~S. and {Haehnelt}, M.~G.},
-  Journal                  = {\mnras},
+  Journal                  = {MNRAS},
   Year                     = {2013},
 
   Month                    = feb,
@@ -113,9 +281,9 @@
 }
 
 @Article{Bolton:2007,
-  Title                    = {{The observed ionization rate of the intergalactic medium and the ionizing emissivity at z {\gt}= 5: evidence for a photon-starved and extended epoch of reionization}},
+  Title                    = {{The observed ionization rate of the intergalactic medium and the ionizing emissivity at {$z > 5$}: evidence for a photon-starved and extended epoch of reionization}},
   Author                   = {{Bolton}, J.~S. and {Haehnelt}, M.~G.},
-  Journal                  = {\mnras},
+  Journal                  = {MNRAS},
   Year                     = {2007},
 
   Month                    = nov,
@@ -130,9 +298,9 @@
 }
 
 @Article{Bolton:2007b,
-  Title                    = {{The observed ionization rate of the intergalactic medium and the ionizing emissivity at z {\gt}= 5: evidence for a photon-starved and extended epoch of reionization}},
+  Title                    = {{The observed ionization rate of the intergalactic medium and the ionizing emissivity at {$z > 5$}: evidence for a photon-starved and extended epoch of reionization}},
   Author                   = {{Bolton}, J.~S. and {Haehnelt}, M.~G.},
-  Journal                  = {\mnras},
+  Journal                  = {MNRAS},
   Year                     = {2007},
 
   Month                    = nov,
@@ -163,12 +331,12 @@
 @Article{Bouwens2011,
   Title                    = {{Lower-Luminosity Galaxies could reionize the Universe:
  Very Steep Faint-End Slopes to the UV Luminosity Functions
- at z\&gt;=5-8 from the HUDF09 WFC3/IR Observations}},
+ at {$z \geq 5-8$} from the HUDF09 WFC3/IR Observations}},
   Author                   = {Bouwens, R.J. and Illingworth, G.D. and Oesch, P.A. and
  Trenti, M. and Labbe, I. and others},
   Year                     = {2011},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {1105.2038},
   Owner                    = {matt},
@@ -187,7 +355,7 @@
   Pages                    = {183-199},
   Volume                   = {695},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1088/0004-637X/695/1/183},
   Eprint                   = {0807.3956},
@@ -207,7 +375,7 @@
   Pages                    = {1-9},
   Volume                   = {661},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1086/516560},
   Eprint                   = {astro-ph/0512262},
@@ -228,13 +396,58 @@
   Pages                    = {20-26},
   Volume                   = {638},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1086/498703},
   Eprint                   = {astro-ph/0507357},
   Owner                    = {matt},
   Primaryclass             = {astro-ph},
   Slaccitation             = {%%CITATION = ASTRO-PH/0507357;%%},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Cen2009,
+  Title                    = {{Probing the Epoch of Reionization with the Ly{$\alpha$} Forest at z \~{} 4-5}},
+  Author                   = {{Cen}, R. and {McDonald}, P. and {Trac}, H. and {Loeb}, A.},
+  Journal                  = {ApJl},
+  Year                     = {2009},
+
+  Month                    = nov,
+  Pages                    = {L164-L167},
+  Volume                   = {706},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2009ApJ...706L.164C},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1088/0004-637X/706/1/L164},
+  Eprint                   = {0907.0735},
+  Keywords                 = {galaxies: high-redshift, hydrodynamics, intergalactic medium, large-scale structure of universe, quasars: absorption lines, radiative transfer},
+  Owner                    = {matt},
+  Primaryclass             = {astro-ph.CO},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Chang2012,
+  Title                    = {{The Cosmological Impact of Luminous TeV Blazars. II. Rewriting the Thermal History of the Intergalactic Medium}},
+  Author                   = {{Chang}, P. and {Broderick}, A.~E. and {Pfrommer}, C.},
+  Journal                  = {ApJ},
+  Year                     = {2012},
+
+  Month                    = jun,
+  Pages                    = {23},
+  Volume                   = {752},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2012ApJ...752...23C},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1088/0004-637X/752/1/23},
+  Eid                      = {23},
+  Eprint                   = {1106.5504},
+  Keywords                 = {BL Lacertae objects: general, cosmology: theory, gamma rays: general, intergalactic medium, large-scale structure of Universe},
+  Owner                    = {matt},
+  Primaryclass             = {astro-ph.CO},
   Timestamp                = {2015.04.01}
 }
 
@@ -248,7 +461,7 @@
   Pages                    = {2518-2532},
   Volume                   = {423},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1111/j.1365-2966.2012.21065.x},
   Eprint                   = {1201.2190},
@@ -285,13 +498,35 @@
   Pages                    = {1-8},
   Volume                   = {596},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1086/377634},
   Eprint                   = {astro-ph/0303249},
   Owner                    = {matt},
   Primaryclass             = {astro-ph},
   Slaccitation             = {%%CITATION = ASTRO-PH/0303249;%%},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Compostella2013,
+  Title                    = {{The imprint of inhomogeneous He II reionization on the H I and He II Ly{$\alpha$} forest}},
+  Author                   = {{Compostella}, M. and {Cantalupo}, S. and {Porciani}, C.},
+  Journal                  = {MNRAS},
+  Year                     = {2013},
+
+  Month                    = nov,
+  Pages                    = {3169-3190},
+  Volume                   = {435},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2013MNRAS.435.3169C},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1093/mnras/stt1510},
+  Eprint                   = {1306.5745},
+  Keywords                 = {radiative transfer, intergalactic medium, quasars: absorption lines, cosmology: theory, large-scale structure of the Universe},
+  Owner                    = {matt},
+  Primaryclass             = {astro-ph.CO},
   Timestamp                = {2015.04.01}
 }
 
@@ -341,6 +576,26 @@
   Slaccitation             = {%%CITATION = ASTRO-PH/0012324;%%}
 }
 
+@Article{Croft2002,
+  Title                    = {{Toward a Precise Measurement of Matter Clustering: Ly{$\alpha$} Forest Data at Redshifts 2-4}},
+  Author                   = {{Croft}, R.~A.~C. and {Weinberg}, D.~H. and {Bolte}, M. and {Burles}, S. and {Hernquist}, L. and {Katz}, N. and {Kirkman}, D. and {Tytler}, D.},
+  Journal                  = {ApJ},
+  Year                     = {2002},
+
+  Month                    = dec,
+  Pages                    = {20-52},
+  Volume                   = {581},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2002ApJ...581...20C},
+  Doi                      = {10.1086/344099},
+  Eprint                   = {astro-ph/0012324},
+  Keywords                 = {Cosmology: Observations, Cosmology: Large-Scale Structure of Universe, Galaxies: Quasars: Absorption Lines},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
 @Article{Datta2010,
   Title                    = {{Bright Source Subtraction Requirements For Redshifted 21
  cm Measurements}},
@@ -350,7 +605,7 @@
   Pages                    = {526-538},
   Volume                   = {724},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1088/0004-637X/724/1/526},
   Eprint                   = {1005.4071},
@@ -369,7 +624,7 @@
   Pages                    = {809},
   Volume                   = {382},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1111/j.1365-2966.2007.12421.x},
   Eprint                   = {astro-ph/0703677},
@@ -390,7 +645,7 @@
   Pages                    = {1900},
   Volume                   = {391},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {0805.1734},
   Owner                    = {matt},
@@ -406,12 +661,32 @@
  Iliev, Ilian T. and Shapiro, Paul R. and others},
   Year                     = {2011},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {1109.1284},
   Owner                    = {matt},
   Primaryclass             = {astro-ph.CO},
   Slaccitation             = {%%CITATION = ARXIV:1109.1284;%%},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Dijkstra2004,
+  Title                    = {{Beyond Ly{$\alpha$}: Constraints and Consistency Tests from the Ly{$\beta$} Forest}},
+  Author                   = {{Dijkstra}, M. and {Lidz}, A. and {Hui}, L.},
+  Journal                  = {ApJ},
+  Year                     = {2004},
+
+  Month                    = apr,
+  Pages                    = {7-13},
+  Volume                   = {605},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2004ApJ...605....7D},
+  Doi                      = {10.1086/382199},
+  Eprint                   = {astro-ph/0305498},
+  Keywords                 = {Cosmology: Theory, Galaxies: Intergalactic Medium, Cosmology: Large-Scale Structure of Universe, Galaxies: Quasars: Absorption Lines},
+  Owner                    = {matt},
   Timestamp                = {2015.04.01}
 }
 
@@ -427,6 +702,21 @@
   Slaccitation             = {%%CITATION = ASTRO-PH/0108069;%%}
 }
 
+@Article{Doroshkevich1970,
+  Title                    = {{The space structure of perturbations and the origin of rotation of galaxies in the theory of fluctuation.}},
+  Author                   = {{Doroshkevich}, A.~G.},
+  Journal                  = {Astrofizika},
+  Year                     = {1970},
+  Pages                    = {581-600},
+  Volume                   = {6},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1970Afz.....6..581D},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
 @Article{Dunkley2009,
   Title                    = {{Five-Year Wilkinson Microwave Anisotropy Probe (WMAP)
  Observations: Likelihoods and Parameters from the WMAP
@@ -437,7 +727,7 @@
   Pages                    = {306-329},
   Volume                   = {180},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Collaboration            = {WMAP Collaboration},
   Doi                      = {10.1088/0067-0049/180/2/306},
@@ -449,7 +739,7 @@
 }
 
 @Article{Fan:2001ff,
-  Title                    = {{A Survey of z \&gt; 5.8 quasars in the Sloan Digital Sky
+  Title                    = {{A Survey of {$z > 5.8$} quasars in the Sloan Digital Sky
  Survey I: Discovery of three new quasars and the spatial
  density of luminous quasars at z ~ 6}},
   Author                   = {Fan, Xiaohui and others},
@@ -464,6 +754,26 @@
   Eprint                   = {astro-ph/0108063},
   Primaryclass             = {astro-ph},
   Slaccitation             = {%%CITATION = ASTRO-PH/0108063;%%}
+}
+
+@Article{Fan2006a,
+  Title                    = {{Constraining the Evolution of the Ionizing Background and the Epoch of Reionization with z\~{}6 Quasars. II. A Sample of 19 Quasars}},
+  Author                   = {{Fan}, X. and {Strauss}, M.~A. and {Becker}, R.~H. and {White}, R.~L. and {Gunn}, J.~E. and {Knapp}, G.~R. and {Richards}, G.~T. and {Schneider}, D.~P. and {Brinkmann}, J. and {Fukugita}, M.},
+  Journal                  = {\aj},
+  Year                     = {2006},
+
+  Month                    = jul,
+  Pages                    = {117-136},
+  Volume                   = {132},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2006AJ....132..117F},
+  Doi                      = {10.1086/504836},
+  Eprint                   = {astro-ph/0512082},
+  Keywords                 = {Cosmology: Observations, Galaxies: Intergalactic Medium, Galaxies: Quasars: Absorption Lines, Galaxies: Quasars: General},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
 }
 
 @Article{Fan:2005es,
@@ -495,13 +805,56 @@
   Pages                    = {117-136},
   Volume                   = {132},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1086/504836},
   Eprint                   = {astro-ph/0512082},
   Owner                    = {matt},
   Primaryclass             = {astro-ph},
   Slaccitation             = {%%CITATION = ASTRO-PH/0512082;%%},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Faucher-Giguere2009,
+  Title                    = {{A New Calculation of the Ionizing Background Spectrum and the Effects of He II Reionization}},
+  Author                   = {{Faucher-Gigu{\`e}re}, C.-A. and {Lidz}, A. and {Zaldarriaga}, M. and {Hernquist}, L.},
+  Journal                  = {ApJ},
+  Year                     = {2009},
+
+  Month                    = oct,
+  Pages                    = {1416-1443},
+  Volume                   = {703},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2009ApJ...703.1416F},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1088/0004-637X/703/2/1416},
+  Eprint                   = {0901.4554},
+  Keywords                 = {cosmology: theory, diffuse radiation, galaxies: evolution, galaxies: formation, galaxies: high-redshift, quasars: absorption lines},
+  Owner                    = {matt},
+  Primaryclass             = {astro-ph.CO},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Faucher-Giguere2008,
+  Title                    = {{A Direct Precision Measurement of the Intergalactic Ly{$\alpha$} Opacity at {$2 \leq z \leq 4.2$}}},
+  Author                   = {{Faucher-Gigu{\`e}re}, C.-A. and {Prochaska}, J.~X. and {Lidz}, A. and {Hernquist}, L. and {Zaldarriaga}, M.},
+  Journal                  = {ApJ},
+  Year                     = {2008},
+
+  Month                    = jul,
+  Pages                    = {831-855},
+  Volume                   = {681},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2008ApJ...681..831F},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1086/588648},
+  Eprint                   = {0709.2382},
+  Keywords                 = {Cosmology: Observations, Cosmology: Theory, Methods: Data Analysis, Methods: Numerical, Methods: Statistical, Galaxies: Quasars: Absorption Lines},
+  Owner                    = {matt},
   Timestamp                = {2015.04.01}
 }
 
@@ -526,7 +879,7 @@
   Pages                    = {181-301},
   Volume                   = {433},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {astro-ph/0608032},
   Owner                    = {matt},
@@ -560,7 +913,7 @@
   Pages                    = {1-15},
   Volume                   = {613},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1086/423025},
   Eprint                   = {astro-ph/0403697},
@@ -580,13 +933,34 @@
   Pages                    = {16-22},
   Volume                   = {613},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1086/423028},
   Eprint                   = {astro-ph/0404112},
   Owner                    = {matt},
   Primaryclass             = {astro-ph},
   Slaccitation             = {%%CITATION = ASTRO-PH/0404112;%%},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Furlanetto2009,
+  Title                    = {{The Temperature-Density Relation of the Intergalactic Medium after Hydrogen Reionization}},
+  Author                   = {{Furlanetto}, S.~R. and {Oh}, S.~P.},
+  Journal                  = {ApJ},
+  Year                     = {2009},
+
+  Month                    = aug,
+  Pages                    = {94-104},
+  Volume                   = {701},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2009ApJ...701...94F},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1088/0004-637X/701/1/94},
+  Eprint                   = {0901.1888},
+  Keywords                 = {cosmology: theory, intergalactic medium},
+  Owner                    = {matt},
   Timestamp                = {2015.04.01}
 }
 
@@ -599,13 +973,33 @@
   Pages                    = {1031-1048},
   Volume                   = {363},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1111/j.1365-2966.2005.09505.x},
   Eprint                   = {astro-ph/0505065},
   Owner                    = {matt},
   Primaryclass             = {astro-ph},
   Slaccitation             = {%%CITATION = ASTRO-PH/0505065;%%},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Furlanetto2004b,
+  Title                    = {{The Growth of H II Regions During Reionization}},
+  Author                   = {{Furlanetto}, S.~R. and {Zaldarriaga}, M. and {Hernquist}, L. },
+  Journal                  = {ApJ},
+  Year                     = {2004},
+
+  Month                    = sep,
+  Pages                    = {1-15},
+  Volume                   = {613},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2004ApJ...613....1F},
+  Doi                      = {10.1086/423025},
+  Eprint                   = {astro-ph/0403697},
+  Keywords                 = {Cosmology: Theory, Cosmology: Diffuse Radiation, ISM: H II Regions, Galaxies: Intergalactic Medium},
+  Owner                    = {matt},
   Timestamp                = {2015.04.01}
 }
 
@@ -625,10 +1019,30 @@
   Slaccitation             = {%%CITATION = ASTRO-PH/0512129;%%}
 }
 
+@Article{Gnedin1998,
+  Title                    = {{Probing the Universe with the Lyalpha forest - I. Hydrodynamics of the low-density intergalactic medium}},
+  Author                   = {{Gnedin}, N.~Y. and {Hui}, L.},
+  Journal                  = {MNRAS},
+  Year                     = {1998},
+
+  Month                    = may,
+  Pages                    = {44-55},
+  Volume                   = {296},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1998MNRAS.296...44G},
+  Doi                      = {10.1046/j.1365-8711.1998.01249.x},
+  Eprint                   = {astro-ph/9706219},
+  Keywords                 = {HYDRODYNAMICS, METHODS: NUMERICAL, INTERGALACTIC MEDIUM, QUASARS: ABSORPTION LINES, COSMOLOGY: THEORY},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
 @Article{1965ApJ...142.1633G,
   Title                    = {{On the Density of Neutral Hydrogen in Intergalactic Space.}},
   Author                   = {{Gunn}, J.~E. and {Peterson}, B.~A.},
-  Journal                  = {\apj},
+  Journal                  = {ApJ},
   Year                     = {1965},
 
   Month                    = nov,
@@ -638,6 +1052,24 @@
   Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
   Adsurl                   = {http://adsabs.harvard.edu/abs/1965ApJ...142.1633G},
   Doi                      = {10.1086/148444}
+}
+
+@Article{Gunn1965,
+  Title                    = {{On the Density of Neutral Hydrogen in Intergalactic Space.}},
+  Author                   = {{Gunn}, J.~E. and {Peterson}, B.~A.},
+  Journal                  = {ApJ},
+  Year                     = {1965},
+
+  Month                    = nov,
+  Pages                    = {1633-1641},
+  Volume                   = {142},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1965ApJ...142.1633G},
+  Doi                      = {10.1086/148444},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
 }
 
 @Article{Haehnelt1996,
@@ -650,7 +1082,7 @@
   Pages                    = {545-556},
   Volume                   = {279},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {astro-ph/9507077},
   Owner                    = {matt},
@@ -670,7 +1102,7 @@
   Pages                    = {2492-2504},
   Volume                   = {405},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {1003.0965},
   Owner                    = {matt},
@@ -689,12 +1121,91 @@
   Pages                    = {1138},
   Volume                   = {397},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {0903.2760},
   Owner                    = {matt},
   Primaryclass             = {astro-ph.CO},
   Slaccitation             = {%%CITATION = ARXIV:0903.2760;%%},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Hui2001,
+  Title                    = {{On Estimating the QSO Transmission Power Spectrum}},
+  Author                   = {{Hui}, L. and {Burles}, S. and {Seljak}, U. and {Rutledge}, R.~E. and {Magnier}, E. and {Tytler}, D.},
+  Journal                  = {ApJ},
+  Year                     = {2001},
+
+  Month                    = may,
+  Pages                    = {15-35},
+  Volume                   = {552},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2001ApJ...552...15H},
+  Doi                      = {10.1086/320436},
+  Eprint                   = {astro-ph/0005049},
+  Keywords                 = {Cosmology: Observations, Galaxies: Intergalactic Medium, Cosmology: Large-Scale Structure of Universe, Methods: Data Analysis, Galaxies: Quasars: Absorption Lines},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Hui1997,
+  Title                    = {{Equation of state of the photoionized intergalactic medium}},
+  Author                   = {{Hui}, L. and {Gnedin}, N.~Y.},
+  Journal                  = {MNRAS},
+  Year                     = {1997},
+
+  Month                    = nov,
+  Pages                    = {27},
+  Volume                   = {292},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1997MNRAS.292...27H},
+  Eprint                   = {astro-ph/9612232},
+  Keywords                 = {Equations Of State, Intergalactic Media, Photoionization, Absorption Spectra, Quasars},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Hui2003,
+  Title                    = {{The Thermal Memory of Reionization History}},
+  Author                   = {{Hui}, L. and {Haiman}, Z.},
+  Journal                  = {ApJ},
+  Year                     = {2003},
+
+  Month                    = oct,
+  Pages                    = {9-18},
+  Volume                   = {596},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2003ApJ...596....9H},
+  Doi                      = {10.1086/377229},
+  Eprint                   = {astro-ph/0302439},
+  Keywords                 = {Cosmology: Cosmic Microwave Background, Cosmology: Theory, Galaxies: Intergalactic Medium, Galaxies: Quasars: Absorption Lines},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Hui2000,
+  Title                    = {{Multiple Streaming and the Probability Distribution of Density in Redshift Space}},
+  Author                   = {{Hui}, L. and {Kofman}, L. and {Shandarin}, S.~F.},
+  Journal                  = {ApJ},
+  Year                     = {2000},
+
+  Month                    = jul,
+  Pages                    = {12-20},
+  Volume                   = {537},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2000ApJ...537...12H},
+  Doi                      = {10.1086/308991},
+  Eprint                   = {astro-ph/9901104},
+  Keywords                 = {Cosmology: Theory, Galaxies: Distances and Redshifts, Gravitation, Cosmology: Large-Scale Structure of Universe},
+  Owner                    = {matt},
   Timestamp                = {2015.04.01}
 }
 
@@ -708,13 +1219,33 @@
   Pages                    = {1625-1638},
   Volume                   = {369},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1111/j.1365-2966.2006.10502.x},
   Eprint                   = {astro-ph/0512187},
   Owner                    = {matt},
   Primaryclass             = {astro-ph},
   Slaccitation             = {%%CITATION = ASTRO-PH/0512187;%%},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Kohler2007,
+  Title                    = {{Large-Scale Simulations of Reionization}},
+  Author                   = {{Kohler}, K. and {Gnedin}, N.~Y. and {Hamilton}, A.~J.~S.},
+  Journal                  = {ApJ},
+  Year                     = {2007},
+
+  Month                    = mar,
+  Pages                    = {15-29},
+  Volume                   = {657},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2007ApJ...657...15K},
+  Doi                      = {10.1086/509907},
+  Eprint                   = {astro-ph/0511627},
+  Keywords                 = {Cosmology: Theory, Cosmology: Large-Scale Structure of Universe},
+  Owner                    = {matt},
   Timestamp                = {2015.04.01}
 }
 
@@ -727,7 +1258,7 @@
   Pages                    = {18},
   Volume                   = {192},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Collaboration            = {WMAP Collaboration},
   Doi                      = {10.1088/0067-0049/192/2/18},
@@ -741,7 +1272,7 @@
 @Article{2011ApJS..192...18K,
   Title                    = {{Seven-year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Cosmological Interpretation}},
   Author                   = {{Komatsu}, E. and {Smith}, K.~M. and {Dunkley}, J. and {Bennett}, C.~L. and {Gold}, B. and {Hinshaw}, G. and {Jarosik}, N. and {Larson}, D. and {Nolta}, M.~R. and {Page}, L. and {Spergel}, D.~N. and {Halpern}, M. and {Hill}, R.~S. and {Kogut}, A. and {Limon}, M. and {Meyer}, S.~S. and {Odegard}, N. and {Tucker}, G.~S. and {Weiland}, J.~L. and {Wollack}, E. and {Wright}, E.~L.},
-  Journal                  = {\apjs},
+  Journal                  = {ApJs},
   Year                     = {2011},
 
   Month                    = feb,
@@ -758,10 +1289,32 @@
   Primaryclass             = {astro-ph.CO}
 }
 
+@Article{Kuhlen2012a,
+  Title                    = {{Concordance models of reionization: implications for faint galaxies and escape fraction evolution}},
+  Author                   = {{Kuhlen}, M. and {Faucher-Gigu{\`e}re}, C.-A.},
+  Journal                  = {MNRAS},
+  Year                     = {2012},
+
+  Month                    = jun,
+  Pages                    = {862-876},
+  Volume                   = {423},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2012MNRAS.423..862K},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1111/j.1365-2966.2012.20924.x},
+  Eprint                   = {1201.0757},
+  Keywords                 = {galaxies: dwarf, galaxies: formation, galaxies: high-redshift, intergalactic medium, cosmology: theory, dark ages, reionization, first stars},
+  Owner                    = {matt},
+  Primaryclass             = {astro-ph.CO},
+  Timestamp                = {2015.04.01}
+}
+
 @Article{KuhlenConcordance,
   Title                    = {{Concordance models of reionization: implications for faint galaxies and escape fraction evolution}},
   Author                   = {{Kuhlen}, M. and {Faucher-Gigu{\`e}re}, C.-A.},
-  Journal                  = {\mnras},
+  Journal                  = {MNRAS},
   Year                     = {2012},
 
   Month                    = jun,
@@ -783,12 +1336,32 @@
   Author                   = {Kuhlen, M. and Faucher-Giguere, C.A.},
   Year                     = {2012},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {1201.0757},
   Owner                    = {matt},
   Primaryclass             = {astro-ph.CO},
   Slaccitation             = {%%CITATION = ARXIV:1201.0757;%%},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Lai2006,
+  Title                    = {{The Impact of Temperature Fluctuations on the Ly{$\alpha$} Forest Power Spectrum}},
+  Author                   = {{Lai}, K. and {Lidz}, A. and {Hernquist}, L. and {Zaldarriaga}, M. },
+  Journal                  = {ApJ},
+  Year                     = {2006},
+
+  Month                    = jun,
+  Pages                    = {61-70},
+  Volume                   = {644},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2006ApJ...644...61L},
+  Doi                      = {10.1086/503320},
+  Eprint                   = {astro-ph/0510841},
+  Keywords                 = {Cosmology: Theory, Galaxies: Intergalactic Medium, Cosmology: Large-Scale Structure of Universe, Galaxies: Quasars: Absorption Lines},
+  Owner                    = {matt},
   Timestamp                = {2015.04.01}
 }
 
@@ -806,6 +1379,46 @@
   Eprint                   = {1306.0181},
   Primaryclass             = {astro-ph.CO},
   Slaccitation             = {%%CITATION = ARXIV:1306.0181;%%}
+}
+
+@Article{Levi2013,
+  Title                    = {{The DESI Experiment, a whitepaper for Snowmass 2013}},
+  Author                   = {{Levi}, M. and {Bebek}, C. and {Beers}, T. and {Blum}, R. and {Cahn}, R. and {Eisenstein}, D. and {Flaugher}, B. and {Honscheid}, K. and {Kron}, R. and {Lahav}, O. and {McDonald}, P. and {Roe}, N. and {Schlegel}, D. and {representing the DESI collaboration}},
+  Journal                  = {ArXiv e-prints},
+  Year                     = {2013},
+
+  Month                    = aug,
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2013arXiv1308.0847L},
+  Archiveprefix            = {arXiv},
+  Eprint                   = {1308.0847},
+  Keywords                 = {Astrophysics - Cosmology and Extragalactic Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
+  Owner                    = {matt},
+  Primaryclass             = {astro-ph.CO},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Lidz2010,
+  Title                    = {{A Measurement of Small-scale Structure in the {$2.2 \leq z \leq 4.2$} Ly{$\alpha$} Forest}},
+  Author                   = {{Lidz}, A. and {Faucher-Gigu{\`e}re}, C.-A. and {Dall'Aglio}, A. and {McQuinn}, M. and {Fechner}, C. and {Zaldarriaga}, M. and {Hernquist}, L. and {Dutta}, S.},
+  Journal                  = {ApJ},
+  Year                     = {2010},
+
+  Month                    = jul,
+  Pages                    = {199-230},
+  Volume                   = {718},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2010ApJ...718..199L},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1088/0004-637X/718/1/199},
+  Eprint                   = {0909.5210},
+  Keywords                 = {cosmology: theory, intergalactic medium, large-scale structure of universe},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
 }
 
 @Article{Lidz:2001yc,
@@ -855,6 +1468,26 @@
   Slaccitation             = {%%CITATION = ASTRO-PH/0703667;%%}
 }
 
+@Article{Lidz2007,
+  Title                    = {{Quasar Proximity Zones and Patchy Reionization}},
+  Author                   = {{Lidz}, A. and {McQuinn}, M. and {Zaldarriaga}, M. and {Hernquist}, L. and {Dutta}, S.},
+  Journal                  = {ApJ},
+  Year                     = {2007},
+
+  Month                    = nov,
+  Pages                    = {39-59},
+  Volume                   = {670},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2007ApJ...670...39L},
+  Doi                      = {10.1086/521974},
+  Eprint                   = {astro-ph/0703667},
+  Keywords                 = {Cosmology: Theory, Galaxies: Intergalactic Medium, Cosmology: Large-Scale Structure of Universe},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
 @Article{Lidz2009,
   Title                    = {{Probing Reionization with the 21 cm-Galaxy Cross Power
  Spectrum}},
@@ -865,7 +1498,7 @@
   Pages                    = {252-266},
   Volume                   = {690},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1088/0004-637X/690/1/252},
   Eprint                   = {0806.1055},
@@ -885,7 +1518,7 @@
   Pages                    = {962-974},
   Volume                   = {680},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1086/587618},
   Eprint                   = {0711.4373},
@@ -904,7 +1537,7 @@
   Pages                    = {401},
   Volume                   = {298},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {0903.4890},
   Owner                    = {matt},
@@ -918,7 +1551,7 @@
   Author                   = {Liu, Adrian and Tegmark, Max and Zaldarriaga, Matias},
   Year                     = {2008},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {0807.3952},
   Owner                    = {matt},
@@ -933,7 +1566,7 @@
   Publisher                = {Princeton University Press},
   Year                     = {2010},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Owner                    = {matt},
   Timestamp                = {2015.04.01}
 }
@@ -948,12 +1581,32 @@
   Pages                    = {1497},
   Volume                   = {97},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {0903.1828},
   Owner                    = {matt},
   Primaryclass             = {astro-ph.IM},
   Slaccitation             = {%%CITATION = ARXIV:0903.1828;%%},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Madau1999,
+  Title                    = {{Radiative Transfer in a Clumpy Universe. III. The Nature of Cosmological Ionizing Sources}},
+  Author                   = {{Madau}, P. and {Haardt}, F. and {Rees}, M.~J.},
+  Journal                  = {ApJ},
+  Year                     = {1999},
+
+  Month                    = apr,
+  Pages                    = {648-659},
+  Volume                   = {514},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1999ApJ...514..648M},
+  Doi                      = {10.1086/306975},
+  Eprint                   = {astro-ph/9809058},
+  Keywords                 = {COSMOLOGY: DIFFUSE RADIATION, GALAXIES: INTERGALACTIC MEDIUM, RADIATIVE TRANSFER, Cosmology: Diffuse Radiation, Galaxies: Intergalactic Medium, Radiative Transfer},
+  Owner                    = {matt},
   Timestamp                = {2015.04.01}
 }
 
@@ -966,13 +1619,53 @@
   Pages                    = {429},
   Volume                   = {475},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1086/303549},
   Eprint                   = {astro-ph/9608010},
   Owner                    = {matt},
   Primaryclass             = {astro-ph},
   Slaccitation             = {%%CITATION = ASTRO-PH/9608010;%%},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{McDonald2001,
+  Title                    = {{A Measurement of the Temperature-Density Relation in the Intergalactic Medium Using a New Ly{$\alpha$} Absorption-Line Fitting Method}},
+  Author                   = {{McDonald}, P. and {Miralda-Escud{\'e}}, J. and {Rauch}, M. and {Sargent}, W.~L.~W. and {Barlow}, T.~A. and {Cen}, R.},
+  Journal                  = {ApJ},
+  Year                     = {2001},
+
+  Month                    = nov,
+  Pages                    = {52-75},
+  Volume                   = {562},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2001ApJ...562...52M},
+  Doi                      = {10.1086/323426},
+  Eprint                   = {astro-ph/0005553},
+  Keywords                 = {Cosmology: Observations, Galaxies: Intergalactic Medium, Galaxies: Quasars: Absorption Lines},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{McDonald2006,
+  Title                    = {{The Ly{$\alpha$} Forest Power Spectrum from the Sloan Digital Sky Survey}},
+  Author                   = {{McDonald}, P. and {Seljak}, U. and {Burles}, S. and {Schlegel}, D.~J. and {Weinberg}, D.~H. and {Cen}, R. and {Shih}, D. and {Schaye}, J. and {Schneider}, D.~P. and {Bahcall}, N.~A. and {Briggs}, J.~W. and {Brinkmann}, J. and {Brunner}, R.~J. and {Fukugita}, M. and {Gunn}, J.~E. and {Ivezi{\'c}}, {\v Z}. and {Kent}, S. and {Lupton}, R.~H. and {Vanden Berk}, D.~E.},
+  Journal                  = {ApJs},
+  Year                     = {2006},
+
+  Month                    = mar,
+  Pages                    = {80-109},
+  Volume                   = {163},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2006ApJS..163...80M},
+  Doi                      = {10.1086/444361},
+  Eprint                   = {astro-ph/0405013},
+  Keywords                 = {Cosmology: Observations, Galaxies: Intergalactic Medium, Cosmology: Large-Scale Structure of Universe, Methods: Data Analysis, Galaxies: Quasars: Absorption Lines},
+  Owner                    = {matt},
   Timestamp                = {2015.04.01}
 }
 
@@ -988,6 +1681,71 @@
   Slaccitation             = {%%CITATION = ARXIV:1101.3314;%%}
 }
 
+@Article{McGreer2011,
+  Title                    = {{The first (nearly) model-independent constraint on the neutral hydrogen fraction at {$z \sim 6$}}},
+  Author                   = {{McGreer}, I.~D. and {Mesinger}, A. and {Fan}, X.},
+  Journal                  = {MNRAS},
+  Year                     = {2011},
+
+  Month                    = aug,
+  Pages                    = {3237-3246},
+  Volume                   = {415},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2011MNRAS.415.3237M},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1111/j.1365-2966.2011.18935.x},
+  Eprint                   = {1101.3314},
+  Keywords                 = {galaxies: high-redshift, quasars: absorption lines, cosmology: observations, dark ages, reionization, first stars, diffuse radiation, early Universe},
+  Owner                    = {matt},
+  Primaryclass             = {astro-ph.CO},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{McQuinn2012,
+  Title                    = {{Constraints on X-ray emissions from the reionization era}},
+  Author                   = {{McQuinn}, M.},
+  Journal                  = {MNRAS},
+  Year                     = {2012},
+
+  Month                    = oct,
+  Pages                    = {1349-1360},
+  Volume                   = {426},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2012MNRAS.426.1349M},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1111/j.1365-2966.2012.21792.x},
+  Eprint                   = {1206.1335},
+  Keywords                 = {quasars: absorption lines, cosmology: theory, large-scale structure of Universe},
+  Owner                    = {matt},
+  Primaryclass             = {astro-ph.CO},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{McQuinn2011a,
+  Title                    = {{The signatures of large-scale temperature and intensity fluctuations in the Lyman {$\alpha$} forest}},
+  Author                   = {{McQuinn}, M. and {Hernquist}, L. and {Lidz}, A. and {Zaldarriaga}, M. },
+  Journal                  = {MNRAS},
+  Year                     = {2011},
+
+  Month                    = jul,
+  Pages                    = {977-992},
+  Volume                   = {415},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2011MNRAS.415..977M},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1111/j.1365-2966.2011.18788.x},
+  Eprint                   = {1010.5250},
+  Keywords                 = {intergalactic medium, quasars: absorption lines, cosmology: theory, large-scale structure of Universe},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
 @Article{McQuinn:2007dy,
   Title                    = {{Studying Reionization with Ly-alpha Emitters}},
   Author                   = {McQuinn, Matthew and Hernquist, Lars and Zaldarriaga,
@@ -1001,6 +1759,27 @@
   Eprint                   = {0704.2239},
   Primaryclass             = {astro-ph},
   Slaccitation             = {%%CITATION = ARXIV:0704.2239;%%}
+}
+
+@Article{McQuinn2007b,
+  Title                    = {{Studying reionization with Ly{$\alpha$} emitters}},
+  Author                   = {{McQuinn}, M. and {Hernquist}, L. and {Zaldarriaga}, M. and {Dutta}, S.},
+  Journal                  = {MNRAS},
+  Year                     = {2007},
+
+  Month                    = oct,
+  Pages                    = {75-96},
+  Volume                   = {381},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2007MNRAS.381...75M},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1111/j.1365-2966.2007.12085.x},
+  Eprint                   = {0704.2239},
+  Keywords                 = {line: profiles, galaxies: high-redshift, intergalactic medium, cosmology: theory, diffuse radiation, large-scale structure of Universe},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
 }
 
 @Article{McQuinn:2006et,
@@ -1028,13 +1807,77 @@
   Pages                    = {1043-1063},
   Volume                   = {377},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1111/j.1365-2966.2007.11489.x},
   Eprint                   = {astro-ph/0610094},
   Owner                    = {matt},
   Primaryclass             = {astro-ph},
   Slaccitation             = {%%CITATION = ASTRO-PH/0610094;%%},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{McQuinn2007a,
+  Title                    = {{The morphology of HII regions during reionization}},
+  Author                   = {{McQuinn}, M. and {Lidz}, A. and {Zahn}, O. and {Dutta}, S. and {Hernquist}, L. and {Zaldarriaga}, M.},
+  Journal                  = {MNRAS},
+  Year                     = {2007},
+
+  Month                    = may,
+  Pages                    = {1043-1063},
+  Volume                   = {377},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2007MNRAS.377.1043M},
+  Doi                      = {10.1111/j.1365-2966.2007.11489.x},
+  Eprint                   = {astro-ph/0610094},
+  Keywords                 = {galaxies: formation, intergalactic medium, cosmology: theory, diffuse radiation, large-scale structure of Universe, radio lines: galaxies},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{McQuinn2009,
+  Title                    = {{He II Reionization and its Effect on the Intergalactic Medium}},
+  Author                   = {{McQuinn}, M. and {Lidz}, A. and {Zaldarriaga}, M. and {Hernquist}, L. and {Hopkins}, P.~F. and {Dutta}, S. and {Faucher-Gigu{\`e}re}, C.-A. },
+  Journal                  = {ApJ},
+  Year                     = {2009},
+
+  Month                    = apr,
+  Pages                    = {842-866},
+  Volume                   = {694},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2009ApJ...694..842M},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1088/0004-637X/694/2/842},
+  Eprint                   = {0807.2799},
+  Keywords                 = {cosmology: theory, intergalactic medium},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{McQuinn2011,
+  Title                    = {{On Lyman-limit Systems and the Evolution of the Intergalactic Ionizing Background}},
+  Author                   = {{McQuinn}, M. and {Oh}, S.~P. and {Faucher-Gigu{\`e}re}, C.-A. },
+  Journal                  = {ApJ},
+  Year                     = {2011},
+
+  Month                    = dec,
+  Pages                    = {82},
+  Volume                   = {743},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2011ApJ...743...82M},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1088/0004-637X/743/1/82},
+  Eid                      = {82},
+  Eprint                   = {1101.1964},
+  Keywords                 = {cosmology: theory, large-scale structure of Universe, quasars: absorption lines},
+  Owner                    = {matt},
+  Primaryclass             = {astro-ph.CO},
   Timestamp                = {2015.04.01}
 }
 
@@ -1048,7 +1891,7 @@
   Pages                    = {815-830},
   Volume                   = {653},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1086/505167},
   Eprint                   = {astro-ph/0512263},
@@ -1061,7 +1904,7 @@
 @Article{2010MNRAS.407.1328M,
   Title                    = {{Was reionization complete by z \~{} 5-6?}},
   Author                   = {{Mesinger}, A.},
-  Journal                  = {\mnras},
+  Journal                  = {MNRAS},
   Year                     = {2010},
 
   Month                    = sep,
@@ -1075,6 +1918,28 @@
   Eprint                   = {0910.4161},
   Keywords                 = {galaxies: formation, galaxies: high-redshift, cosmology: theory, dark ages, reionization, first stars, diffuse radiation, early Universe},
   Primaryclass             = {astro-ph.CO}
+}
+
+@Article{Mesinger2010a,
+  Title                    = {{Was reionization complete by z \~{} 5-6?}},
+  Author                   = {{Mesinger}, A.},
+  Journal                  = {MNRAS},
+  Year                     = {2010},
+
+  Month                    = sep,
+  Pages                    = {1328-1337},
+  Volume                   = {407},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2010MNRAS.407.1328M},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1111/j.1365-2966.2010.16995.x},
+  Eprint                   = {0910.4161},
+  Keywords                 = {galaxies: formation, galaxies: high-redshift, cosmology: theory, dark ages, reionization, first stars, diffuse radiation, early Universe},
+  Owner                    = {matt},
+  Primaryclass             = {astro-ph.CO},
+  Timestamp                = {2015.04.01}
 }
 
 @Article{Mesinger:2009mv,
@@ -1097,7 +1962,7 @@
   Pages                    = {955},
   Volume                   = {411},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {1003.3878},
   Owner                    = {matt},
@@ -1108,7 +1973,7 @@
 
 @Article{Mesinger:2006kn,
   Title                    = {{Constraints on Reionization and Source Properties from
- the Absorption Spectra of z\&gt;6.2 Quasars}},
+ the Absorption Spectra of {$z>6.2$} Quasars}},
   Author                   = {Mesinger, Andrei and Haiman, Zoltan},
   Journal                  = {Astrophys.J.},
   Year                     = {2007},
@@ -1120,6 +1985,44 @@
   Eprint                   = {astro-ph/0610258},
   Primaryclass             = {astro-ph},
   Slaccitation             = {%%CITATION = ASTRO-PH/0610258;%%}
+}
+
+@Article{Miralda-Escude1996,
+  Title                    = {{The Ly alpha Forest from Gravitational Collapse in the Cold Dark Matter + Lambda Model}},
+  Author                   = {{Miralda-Escud{\'e}}, J. and {Cen}, R. and {Ostriker}, J.~P. and {Rauch}, M.},
+  Journal                  = {ApJ},
+  Year                     = {1996},
+
+  Month                    = nov,
+  Pages                    = {582},
+  Volume                   = {471},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1996ApJ...471..582M},
+  Doi                      = {10.1086/177992},
+  Eprint                   = {astro-ph/9511013},
+  Keywords                 = {COSMOLOGY: THEORY, HYDRODYNAMICS, COSMOLOGY: LARGE-SCALE STRUCTURE OF UNIVERSE, GALAXIES: INTERGALACTIC MEDIUM, GALAXIES: QUASARS: ABSORPTION LINES},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Miralda-Escude1994,
+  Title                    = {{Reionization and thermal evolution of a photoionized intergalactic medium.}},
+  Author                   = {{Miralda-Escud{\'e}}, J. and {Rees}, M.~J.},
+  Journal                  = {MNRAS},
+  Year                     = {1994},
+
+  Month                    = jan,
+  Pages                    = {343-352},
+  Volume                   = {266},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1994MNRAS.266..343M},
+  Keywords                 = {Intergalactic Gas: Heating, Intergalactic Gas: Photoionization, Intergalactic Gas: Quasars, Intergalactic Gas: Thermal Evolution, Intergalactic Gas: UV Radiation, Intergalactic Matter: Cosmology},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
 }
 
 @Article{MiraldaEscude:1997qb,
@@ -1174,7 +2077,7 @@
   Author                   = {Morales, Miguel and Hewitt, Jacqueline},
   Year                     = {2004},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {0312437},
   Owner                    = {matt},
@@ -1193,7 +2096,7 @@
   Pages                    = {137},
   Volume                   = {752},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {1202.3830},
   Owner                    = {matt},
@@ -1211,7 +2114,7 @@
   Pages                    = {7-18},
   Volume                   = {615},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1086/424437},
   Eprint                   = {astro-ph/0312437},
@@ -1230,7 +2133,7 @@
   Pages                    = {616},
   Volume                   = {474},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {1106.6088},
   Owner                    = {matt},
@@ -1248,7 +2151,7 @@
   Pages                    = {869},
   Volume                   = {723},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {1007.2961},
   Owner                    = {matt},
@@ -1267,13 +2170,34 @@
   Pages                    = {1174-1183},
   Volume                   = {413},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1111/j.1365-2966.2011.18208.x},
   Eprint                   = {1006.1351},
   Owner                    = {matt},
   Primaryclass             = {astro-ph.CO},
   Slaccitation             = {%%CITATION = ARXIV:1006.1351;%%},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Paranjape2014,
+  Title                    = {{An improved model of H II bubbles during the epoch of reionization}},
+  Author                   = {{Paranjape}, A. and {Choudhury}, T.~R.},
+  Journal                  = {MNRAS},
+  Year                     = {2014},
+
+  Month                    = aug,
+  Pages                    = {1470-1482},
+  Volume                   = {442},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2014MNRAS.442.1470P},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1093/mnras/stu911},
+  Eprint                   = {1401.7994},
+  Keywords                 = {intergalactic medium, cosmology: theory, dark ages, reionization, first stars, large-scale structure of Universe},
+  Owner                    = {matt},
   Timestamp                = {2015.04.01}
 }
 
@@ -1285,12 +2209,55 @@
  and others},
   Year                     = {2012},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {1204.4749},
   Owner                    = {matt},
   Primaryclass             = {astro-ph.IM},
   Slaccitation             = {%%CITATION = ARXIV:1204.4749;%%},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Pawlik2009,
+  Title                    = {{Keeping the Universe ionized: photoheating and the clumping factor of the high-redshift intergalactic medium}},
+  Author                   = {{Pawlik}, A.~H. and {Schaye}, J. and {van Scherpenzeel}, E.},
+  Journal                  = {MNRAS},
+  Year                     = {2009},
+
+  Month                    = apr,
+  Pages                    = {1812-1824},
+  Volume                   = {394},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2009MNRAS.394.1812P},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1111/j.1365-2966.2009.14486.x},
+  Eprint                   = {0807.3963},
+  Keywords                 = {hydrodynamics , radiative transfer , methods: numerical , galaxies: formation , intergalactic medium , cosmology: theory},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Peeples2010,
+  Title                    = {{Pressure support versus thermal broadening in the Lyman {$\alpha$} forest - II. Effects of the equation of state on transverse structure}},
+  Author                   = {{Peeples}, M.~S. and {Weinberg}, D.~H. and {Dav{\'e}}, R. and {Fardal}, M.~A. and {Katz}, N.},
+  Journal                  = {MNRAS},
+  Year                     = {2010},
+
+  Month                    = may,
+  Pages                    = {1295-1305},
+  Volume                   = {404},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2010MNRAS.404.1295P},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1111/j.1365-2966.2010.16384.x},
+  Eprint                   = {0910.0250},
+  Keywords                 = {methods: numerical, intergalactic medium, cosmology: miscellaneous},
+  Owner                    = {matt},
+  Primaryclass             = {astro-ph.CO},
   Timestamp                = {2015.04.01}
 }
 
@@ -1313,12 +2280,35 @@
   Author                   = {Petrovic, Nada and Oh, S. Peng},
   Year                     = {2010},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {1010.4109},
   Owner                    = {matt},
   Primaryclass             = {astro-ph.CO},
   Slaccitation             = {%%CITATION = ARXIV:1010.4109;%%},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{PlanckCollaboration2014,
+  Title                    = {{Planck 2013 results. XVI. Cosmological parameters}},
+  Author                   = {{Planck Collaboration} and {Ade}, P.~A.~R. and {Aghanim}, N. and {Armitage-Caplan}, C. and {Arnaud}, M. and {Ashdown}, M. and {Atrio-Barandela}, F. and {Aumont}, J. and {Baccigalupi}, C. and {Banday}, A.~J. and et al.},
+  Journal                  = {\aap},
+  Year                     = {2014},
+
+  Month                    = nov,
+  Pages                    = {A16},
+  Volume                   = {571},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2014A%26A...571A..16P},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1051/0004-6361/201321591},
+  Eid                      = {A16},
+  Eprint                   = {1303.5076},
+  Keywords                 = {cosmic background radiation, cosmological parameters, early Universe, inflation, primordial nucleosynthesis},
+  Owner                    = {matt},
+  Primaryclass             = {astro-ph.CO},
   Timestamp                = {2015.04.01}
 }
 
@@ -1328,7 +2318,7 @@
   Publisher                = {Cambridge University Press},
   Year                     = {2002},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Owner                    = {matt},
   Timestamp                = {2015.04.01}
 }
@@ -1361,6 +2351,68 @@
   Slaccitation             = {%%CITATION = ARXIV:1310.3317;%%}
 }
 
+@Article{Raskutti2012,
+  Title                    = {{Thermal constraints on the reionization of hydrogen by Population II stellar sources}},
+  Author                   = {{Raskutti}, S. and {Bolton}, J.~S. and {Wyithe}, J.~S.~B. and {Becker}, G.~D.},
+  Journal                  = {MNRAS},
+  Year                     = {2012},
+
+  Month                    = apr,
+  Pages                    = {1969-1981},
+  Volume                   = {421},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2012MNRAS.421.1969R},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1111/j.1365-2966.2011.20401.x},
+  Eprint                   = {1201.5138},
+  Keywords                 = {intergalactic medium, quasars: absorption lines, cosmology: observations, dark ages, reionization, first stars},
+  Owner                    = {matt},
+  Primaryclass             = {astro-ph.CO},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Reisenegger1995,
+  Title                    = {{The Gunn-Peterson Effect from Underdense Regions in a Photoionized Intergalactic Medium}},
+  Author                   = {{Reisenegger}, A. and {Miralda-Escude}, J.},
+  Journal                  = {ApJ},
+  Year                     = {1995},
+
+  Month                    = aug,
+  Pages                    = {476},
+  Volume                   = {449},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1995ApJ...449..476R},
+  Doi                      = {10.1086/176072},
+  Eprint                   = {astro-ph/9502063},
+  Keywords                 = {COSMOLOGY: LARGE-SCALE STRUCTURE OF UNIVERSE, GALAXIES: INTERGALACTIC MEDIUM, GALAXIES: QUASARS: ABSORPTION LINES},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Ricotti2000,
+  Title                    = {{The Evolution of the Effective Equation of State of the Intergalactic Medium}},
+  Author                   = {{Ricotti}, M. and {Gnedin}, N.~Y. and {Shull}, J.~M.},
+  Journal                  = {ApJ},
+  Year                     = {2000},
+
+  Month                    = may,
+  Pages                    = {41-56},
+  Volume                   = {534},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2000ApJ...534...41R},
+  Doi                      = {10.1086/308733},
+  Eprint                   = {astro-ph/9906413},
+  Keywords                 = {COSMOLOGY: THEORY, EQUATION OF STATE, GALAXIES: INTERGALACTIC MEDIUM, GALAXIES: QUASARS: ABSORPTION LINES},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
 @Article{Robertson:2013bq,
   Title                    = {{New Constraints on Cosmic Reionization from the 2012
  Hubble Ultra Deep Field Campaign}},
@@ -1379,10 +2431,53 @@
   Slaccitation             = {%%CITATION = ARXIV:1301.1228;%%}
 }
 
+@Article{Robertson2013,
+  Title                    = {{New Constraints on Cosmic Reionization from the 2012 Hubble Ultra Deep Field Campaign}},
+  Author                   = {{Robertson}, B.~E. and {Furlanetto}, S.~R. and {Schneider}, E. and {Charlot}, S. and {Ellis}, R.~S. and {Stark}, D.~P. and {McLure}, R.~J. and {Dunlop}, J.~S. and {Koekemoer}, A. and {Schenker}, M.~A. and {Ouchi}, M. and {Ono}, Y. and {Curtis-Lake}, E. and {Rogers}, A.~B. and {Bowler}, R.~A.~A. and {Cirasuolo}, M.},
+  Journal                  = {ApJ},
+  Year                     = {2013},
+
+  Month                    = may,
+  Pages                    = {71},
+  Volume                   = {768},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2013ApJ...768...71R},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1088/0004-637X/768/1/71},
+  Eid                      = {71},
+  Eprint                   = {1301.1228},
+  Keywords                 = {dark ages, reionization, first stars, galaxies: evolution, galaxies: formation},
+  Owner                    = {matt},
+  Primaryclass             = {astro-ph.CO},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Schaye2000,
+  Title                    = {{The thermal history of the intergalactic medium$^{*}$}},
+  Author                   = {{Schaye}, J. and {Theuns}, T. and {Rauch}, M. and {Efstathiou}, G. and {Sargent}, W.~L.~W.},
+  Journal                  = {MNRAS},
+  Year                     = {2000},
+
+  Month                    = nov,
+  Pages                    = {817-826},
+  Volume                   = {318},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2000MNRAS.318..817S},
+  Doi                      = {10.1046/j.1365-8711.2000.03815.x},
+  Eprint                   = {astro-ph/9912432},
+  Keywords                 = {INTERGALACTIC MEDIUM, QUASARS: ABSORPTION LINES, COSMOLOGY: MISCELLANEOUS},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
 @Article{2012ApJ...744..179S,
-  Title                    = {{Keck Spectroscopy of Faint 3 {\lt} z {\lt} 8 Lyman Break Galaxies: Evidence for a Declining Fraction of Emission Line Sources in the Redshift Range 6 {\lt} z {\lt} 8}},
+  Title                    = {{Keck Spectroscopy of Faint {$3 < z < 8$} Lyman Break Galaxies: Evidence for a Declining Fraction of Emission Line Sources in the Redshift Range {$6 < z < 8$}}},
   Author                   = {{Schenker}, M.~A. and {Stark}, D.~P. and {Ellis}, R.~S. and {Robertson}, B.~E. and {Dunlop}, J.~S. and {McLure}, R.~J. and {Kneib}, J.-P. and {Richard}, J.},
-  Journal                  = {\apj},
+  Journal                  = {ApJ},
   Year                     = {2012},
 
   Month                    = jan,
@@ -1400,9 +2495,9 @@
 }
 
 @Article{Schenker2012,
-  Title                    = {{Keck Spectroscopy of Faint 3\&lt;z\&lt;8 Lyman Break
+  Title                    = {{Keck Spectroscopy of Faint {$3 < z < 8$} Lyman Break
  Galaxies:- Evidence for a Declining Fraction of Emission
- Line Sources In the Redshift Range 6\&lt;z\&lt;8}},
+ Line Sources In the Redshift Range {$6 < z < 8$}}},
   Author                   = {Schenker, M.A. and Stark, D.P and Ellis, R.S. and
  Robertson, B.E. and Dunlop, J.S. and others},
   Journal                  = {Astrophys.J.},
@@ -1410,7 +2505,7 @@
   Pages                    = {179},
   Volume                   = {744},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1088/0004-637X/744/2/179},
   Eprint                   = {1107.1261},
@@ -1421,9 +2516,9 @@
 }
 
 @Article{2013MNRAS.428.3058S,
-  Title                    = {{Evidence of Gunn-Peterson damping wings in high-z quasar spectra: strengthening the case for incomplete reionization at z {\tilde} 6-7}},
+  Title                    = {{Evidence of Gunn-Peterson damping wings in high-z quasar spectra: strengthening the case for incomplete reionization at {$z \sim 6-7$}}},
   Author                   = {{Schroeder}, J. and {Mesinger}, A. and {Haiman}, Z.},
-  Journal                  = {\mnras},
+  Journal                  = {MNRAS},
   Year                     = {2013},
 
   Month                    = feb,
@@ -1439,6 +2534,25 @@
   Primaryclass             = {astro-ph.CO}
 }
 
+@Article{Shapiro1987,
+  Title                    = {{Cosmological H II regions and the photoionization of the intergalactic medium}},
+  Author                   = {{Shapiro}, P.~R. and {Giroux}, M.~L.},
+  Journal                  = {ApJl},
+  Year                     = {1987},
+
+  Month                    = oct,
+  Pages                    = {L107-L112},
+  Volume                   = {321},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1987ApJ...321L.107S},
+  Doi                      = {10.1086/185015},
+  Keywords                 = {Cosmology, H Ii Regions, Intergalactic Media, Photoionization, Quasars, Stellar Coronas, Computational Astrophysics, Ionizing Radiation, Red Shift, Universe},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
 @Article{Shaver1999,
   Title                    = {{Can the reionization epoch be detected as a global
  signature in the cosmic background?}},
@@ -1446,7 +2560,7 @@
  Bruyn, A.G.},
   Year                     = {1999},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {astro-ph/9901320},
   Owner                    = {matt},
@@ -1455,9 +2569,71 @@
   Timestamp                = {2015.04.01}
 }
 
+@Article{Sheth2001,
+  Title                    = {{Ellipsoidal collapse and an improved model for the number and spatial distribution of dark matter haloes}},
+  Author                   = {{Sheth}, R.~K. and {Mo}, H.~J. and {Tormen}, G.},
+  Journal                  = {MNRAS},
+  Year                     = {2001},
+
+  Month                    = may,
+  Pages                    = {1-12},
+  Volume                   = {323},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2001MNRAS.323....1S},
+  Doi                      = {10.1046/j.1365-8711.2001.04006.x},
+  Eprint                   = {astro-ph/9907024},
+  Keywords                 = {GALAXIES: CLUSTERS: GENERAL, COSMOLOGY: THEORY, DARK MATTER},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Springel2005,
+  Title                    = {{The cosmological simulation code GADGET-2}},
+  Author                   = {{Springel}, V.},
+  Journal                  = {MNRAS},
+  Year                     = {2005},
+
+  Month                    = dec,
+  Pages                    = {1105-1134},
+  Volume                   = {364},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2005MNRAS.364.1105S},
+  Doi                      = {10.1111/j.1365-2966.2005.09655.x},
+  Eprint                   = {astro-ph/0505010},
+  Keywords                 = {methods: numerical, galaxies: interactions, dark matter},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Syphers2011,
+  Title                    = {{He II Ly{$\beta$} Gunn-Peterson Absorption: New HST Observations and Theoretical Expectations}},
+  Author                   = {{Syphers}, D. and {Anderson}, S.~F. and {Zheng}, W. and {Smith}, B. and {Pieri}, M. and {Kriss}, G.~A. and {Meiksin}, A. and {Schneider}, D.~P. and {Shull}, J.~M. and {York}, D.~G.},
+  Journal                  = {ApJ},
+  Year                     = {2011},
+
+  Month                    = dec,
+  Pages                    = {99},
+  Volume                   = {742},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2011ApJ...742...99S},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1088/0004-637X/742/2/99},
+  Eid                      = {99},
+  Eprint                   = {1108.4727},
+  Keywords                 = {galaxies: active, intergalactic medium, quasars: absorption lines, ultraviolet: galaxies},
+  Owner                    = {matt},
+  Primaryclass             = {astro-ph.CO},
+  Timestamp                = {2015.04.01}
+}
+
 @Article{Taylor:2013qia,
-  Title                    = {{What do observations of the Lyman-alpha fraction tell us
- about reionization?}},
+  Title                    = {{What do observations of the Lyman-alpha fraction tell us about reionization?}},
   Author                   = {Taylor, Jessie and Lidz, Adam},
   Year                     = {2013},
 
@@ -1467,6 +2643,46 @@
   Slaccitation             = {%%CITATION = ARXIV:1308.6322;%%}
 }
 
+@Article{Theuns2002,
+  Title                    = {{Constraints on Reionization from the Thermal History of the Intergalactic Medium}},
+  Author                   = {{Theuns}, T. and {Schaye}, J. and {Zaroubi}, S. and {Kim}, T.-S. and {Tzanavaris}, P. and {Carswell}, B.},
+  Journal                  = {ApJl},
+  Year                     = {2002},
+
+  Month                    = mar,
+  Pages                    = {L103-L106},
+  Volume                   = {567},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2002ApJ...567L.103T},
+  Doi                      = {10.1086/339998},
+  Eprint                   = {astro-ph/0201514},
+  Keywords                 = {Cosmology: Observations, Cosmology: Theory, Galaxies: Formation, Galaxies: Intergalactic Medium, Galaxies: Quasars: Absorption Lines},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Theuns2002a,
+  Title                    = {{Temperature fluctuations in the intergalactic medium}},
+  Author                   = {{Theuns}, T. and {Zaroubi}, S. and {Kim}, T.-S. and {Tzanavaris}, P. and {Carswell}, R.~F.},
+  Journal                  = {MNRAS},
+  Year                     = {2002},
+
+  Month                    = may,
+  Pages                    = {367-382},
+  Volume                   = {332},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2002MNRAS.332..367T},
+  Doi                      = {10.1046/j.1365-8711.2002.05316.x},
+  Eprint                   = {astro-ph/0110600},
+  Keywords                 = {hydrodynamics, intergalactic medium, quasars: absorption lines, cosmology: theory, large-scale structure of Universe},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
 @Article{Tingay2012,
   Title                    = {{The Murchison Widefield Array: the Square Kilometre
  Array Precursor at low radio frequencies}},
@@ -1474,7 +2690,7 @@
  D. and Ord, S.M. and others},
   Year                     = {2012},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {1206.6945},
   Owner                    = {matt},
@@ -1525,12 +2741,33 @@
   Pages                    = {485-498},
   Volume                   = {58},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {astro-ph/0512154},
   Owner                    = {matt},
   Primaryclass             = {astro-ph},
   Slaccitation             = {%%CITATION = ASTRO-PH/0512154;%%},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Trac2008,
+  Title                    = {{Imprint of Inhomogeneous Hydrogen Reionization on the Temperature Distribution of the Intergalactic Medium}},
+  Author                   = {{Trac}, H. and {Cen}, R. and {Loeb}, A.},
+  Journal                  = {ApJl},
+  Year                     = {2008},
+
+  Month                    = dec,
+  Pages                    = {L81-L84},
+  Volume                   = {689},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2008ApJ...689L..81T},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1086/595678},
+  Eprint                   = {0807.4530},
+  Keywords                 = {Cosmology: Theory, Hydrodynamics, Galaxies: Intergalactic Medium, Cosmology: Large-Scale Structure of Universe, Methods: Numerical, Radiative Transfer},
+  Owner                    = {matt},
   Timestamp                = {2015.04.01}
 }
 
@@ -1553,6 +2790,30 @@
   Slaccitation             = {%%CITATION = ARXIV:1306.2314;%%}
 }
 
+@Article{Viel2013,
+  Title                    = {{Warm dark matter as a solution to the small scale crisis: New constraints from high redshift Lyman-{$\alpha$} forest data}},
+  Author                   = {{Viel}, M. and {Becker}, G.~D. and {Bolton}, J.~S. and {Haehnelt}, M.~G. },
+  Journal                  = {\prd},
+  Year                     = {2013},
+
+  Month                    = aug,
+  Number                   = {4},
+  Pages                    = {043502},
+  Volume                   = {88},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2013PhRvD..88d3502V},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1103/PhysRevD.88.043502},
+  Eid                      = {043502},
+  Eprint                   = {1306.2314},
+  Keywords                 = {Particle-theory and field-theory models of the early Universe, Dark matter, Intergalactic matter, quasar absorption and emission-line systems, Lyman forest},
+  Owner                    = {matt},
+  Primaryclass             = {astro-ph.CO},
+  Timestamp                = {2015.04.01}
+}
+
 @Article{Wang2006,
   Title                    = {{Twenty-one centimeter tomography with foregrounds}},
   Author                   = {Wang, Xiao-Min and Tegmark, Max and Santos, Mario and
@@ -1562,7 +2823,7 @@
   Pages                    = {529-537},
   Volume                   = {650},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1086/506597},
   Eprint                   = {astro-ph/0501081},
@@ -1588,8 +2849,31 @@
   Slaccitation             = {%%CITATION = ASTRO-PH/0509481;%%}
 }
 
+@Article{Worseck2011,
+  Title                    = {{The End of Helium Reionization at z \~{}= 2.7 Inferred from Cosmic Variance in HST/COS He II Ly{$\alpha$} Absorption Spectra}},
+  Author                   = {{Worseck}, G. and {Prochaska}, J.~X. and {McQuinn}, M. and {Dall'Aglio}, A. and {Fechner}, C. and {Hennawi}, J.~F. and {Reimers}, D. and {Richter}, P. and {Wisotzki}, L.},
+  Journal                  = {ApJl},
+  Year                     = {2011},
+
+  Month                    = jun,
+  Pages                    = {L24},
+  Volume                   = {733},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2011ApJ...733L..24W},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1088/2041-8205/733/2/L24},
+  Eid                      = {L24},
+  Eprint                   = {1103.5752},
+  Keywords                 = {dark ages, reionization, first stars, diffuse radiation, intergalactic medium, quasars: absorption lines, quasars: individual: SDSS J092447.36+485242.8 SDSS J110155.74+105302.3},
+  Owner                    = {matt},
+  Primaryclass             = {astro-ph.CO},
+  Timestamp                = {2015.04.01}
+}
+
 @Article{Worseck:2014fya,
-  Title                    = {{The Giant Gemini GMOS survey of z\&gt;4.4 quasars - I.
+  Title                    = {{The Giant Gemini GMOS survey of {$z>4.4$} quasars - I.
  Measuring the mean free path across cosmic time}},
   Author                   = {Worseck, G�bor and Prochaska, J. Xavier and O'Meara,
  John M. and Becker, George D. and Ellison, Sara and
@@ -1609,7 +2893,7 @@
   Journal                  = {Mon.Not.Roy.Astron.Soc.},
   Year                     = {2007},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {astro-ph/0703070},
   Owner                    = {matt},
@@ -1645,13 +2929,33 @@
   Pages                    = {12-26},
   Volume                   = {654},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1086/509597},
   Eprint                   = {astro-ph/0604177},
   Owner                    = {matt},
   Primaryclass             = {astro-ph},
   Slaccitation             = {%%CITATION = ASTRO-PH/0604177;%%},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Zahn2007,
+  Title                    = {{Simulations and Analytic Calculations of Bubble Growth during Hydrogen Reionization}},
+  Author                   = {{Zahn}, O. and {Lidz}, A. and {McQuinn}, M. and {Dutta}, S. and {Hernquist}, L. and {Zaldarriaga}, M. and {Furlanetto}, S.~R. },
+  Journal                  = {ApJ},
+  Year                     = {2007},
+
+  Month                    = jan,
+  Pages                    = {12-26},
+  Volume                   = {654},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2007ApJ...654...12Z},
+  Doi                      = {10.1086/509597},
+  Eprint                   = {astro-ph/0604177},
+  Keywords                 = {Cosmology: Theory, Galaxies: Intergalactic Medium, Cosmology: Large-Scale Structure of Universe},
+  Owner                    = {matt},
   Timestamp                = {2015.04.01}
 }
 
@@ -1665,7 +2969,7 @@
   Pages                    = {65},
   Volume                   = {756},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1088/0004-637X/756/1/65},
   Eprint                   = {1111.6386},
@@ -1684,7 +2988,7 @@
   Pages                    = {657-666},
   Volume                   = {630},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1086/431947},
   Eprint                   = {astro-ph/0503166},
@@ -1704,13 +3008,33 @@
   Pages                    = {622-635},
   Volume                   = {608},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Doi                      = {10.1086/386327},
   Eprint                   = {astro-ph/0311514},
   Owner                    = {matt},
   Primaryclass             = {astro-ph},
   Slaccitation             = {%%CITATION = ASTRO-PH/0311514;%%},
+  Timestamp                = {2015.04.01}
+}
+
+@Article{Zaldarriaga2001,
+  Title                    = {{Constraints from the Ly{$\alpha$} Forest Power Spectrum}},
+  Author                   = {{Zaldarriaga}, M. and {Hui}, L. and {Tegmark}, M.},
+  Journal                  = {ApJ},
+  Year                     = {2001},
+
+  Month                    = aug,
+  Pages                    = {519-526},
+  Volume                   = {557},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2001ApJ...557..519Z},
+  Doi                      = {10.1086/321652},
+  Eprint                   = {astro-ph/0011559},
+  Keywords                 = {Cosmology: Theory, Galaxies: Intergalactic Medium, Cosmology: Large-Scale Structure of Universe, Methods: Data Analysis, Galaxies: Quasars: Absorption Lines},
+  Owner                    = {matt},
   Timestamp                = {2015.04.01}
 }
 
@@ -1723,7 +3047,7 @@
  R.M. and Labropolous, P. and others},
   Year                     = {2012},
 
-  __markedentry            = {[matt:6]},
+  __markedentry            = {[matt:]},
   Archiveprefix            = {arXiv},
   Eprint                   = {1205.3449},
   Owner                    = {matt},
@@ -1732,10 +3056,27 @@
   Timestamp                = {2015.04.01}
 }
 
+@Article{Zeldovich1970,
+  Title                    = {{Gravitational instability: An approximate theory for large density perturbations.}},
+  Author                   = {{Zel'dovich}, Y.~B.},
+  Journal                  = {\aap},
+  Year                     = {1970},
+
+  Month                    = mar,
+  Pages                    = {84-89},
+  Volume                   = {5},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1970A%26A.....5...84Z},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
+}
+
 @Article{Zuo,
   Title                    = {{Absorption by Discrete Intergalactic Clouds: Theory and Some Applications}},
   Author                   = {{Zuo}, L. and {Phinney}, E.~S.},
-  Journal                  = {\apj},
+  Journal                  = {ApJ},
   Year                     = {1993},
 
   Month                    = nov,
@@ -1746,5 +3087,24 @@
   Adsurl                   = {http://adsabs.harvard.edu/abs/1993ApJ...418...28Z},
   Doi                      = {10.1086/173367},
   Keywords                 = {COSMOLOGY: OBSERVATIONS, GALAXIES: INTERGALACTIC MEDIUM, GALAXIES: QUASARS: ABSORPTION LINES}
+}
+
+@Article{Zuo1993,
+  Title                    = {{Absorption by Discrete Intergalactic Clouds: Theory and Some Applications}},
+  Author                   = {{Zuo}, L. and {Phinney}, E.~S.},
+  Journal                  = {ApJ},
+  Year                     = {1993},
+
+  Month                    = nov,
+  Pages                    = {28},
+  Volume                   = {418},
+
+  __markedentry            = {[matt:6]},
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1993ApJ...418...28Z},
+  Doi                      = {10.1086/173367},
+  Keywords                 = {COSMOLOGY: OBSERVATIONS, GALAXIES: INTERGALACTIC MEDIUM, GALAXIES: QUASARS: ABSORPTION LINES},
+  Owner                    = {matt},
+  Timestamp                = {2015.04.01}
 }
 
