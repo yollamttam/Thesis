@@ -16,7 +16,7 @@
 \section{Cosmic Context}
 Before diving into the details of the work that was completed as part of this Ph.D, it is important that we first put the work in the proper context. When spending such a large proportion of our time concerned with the details of a given research area, it is easy to lose perspective of the big picture. The big picture here is that, without having any say in the matter, we have come to occupy the Universe that we see around us and would like to understand it. 
 
-\section{Overview of Selected Probes of the EoR}
+\section{The Shoulders of Giants}
 
 Before we begin, it is first worth appreciating the difficulty of what we are trying to do. Essentially, we care about measuring the properties of the intergalactic gas -- not stars or galaxies -- when the Universe was only $\sim$1 billion years old, a seemingly impossible task. Fortunately, we are given the invaluable gift that light travels at a finite speed and, as such, if we look at distant objects, we see them as they were in the past. Therefore, if we look at the at the gas between galaxies $\sim$13 billion light years away from us, we will see it was it was roughly 13 billion years ago, when the Universe was only 1 billion years old. This means that, in principle, this information is available to us. However, even taking this into account, the intergalactic gas we care about is not bright and it is located $\text{extremely}^{\text{extremely}}$ far away, so how are we supposed to observe it? An exciting aspect of studying the Epoch of Reionization is that, when confronted with such a seemingly impossible task, experts in the field have developed many different creative approaches toward constraining the properties of the young IGM in order to learn about the Epoch of Reionization. We discuss a selection of these methods in this chapter.
 
@@ -118,19 +118,33 @@ Regardless, \cite{McGreer:2011dm} and \cite{McGreer:2014qwa} apply the dark-pixe
 \subsubsection{Dark Gap Sizes}
 \subsubsection{Damping Wing Redward of \lya}
 
-Much of the difficulties in using the \lya\ forest to constrain the timing of the EoR can be boiled down to the following problem: interpreting \lya\ absorption in high-redshift quasar spectra is difficult because both neutral and ionized gas can result in saturated absorption. Therefore, it is worth asking if there are any ways to break this degeneracy in \lya\ absorption in order to determine which absorption is likely due to neutral hydrogen. One potential approach which breaks this degeneracy, and which has received much attention ({\bf cites}), is looking for the hydrogen damping wing redward of the \lya\ line. 
+Much of the difficulties in using the \lya\ forest to constrain the timing of the EoR can be boiled down to the following problem: interpreting \lya\ absorption in high-redshift quasar spectra is difficult because both neutral and ionized gas can result in saturated absorption. Therefore, it is worth asking if there are any ways to break this degeneracy in \lya\ absorption in order to determine which absorption is likely due to neutral hydrogen. One potential approach toward this goal, which has received much attention ({\bf cites}), is looking for the hydrogen damping wing redward of the \lya\ line. 
 
 
 To understand this approach, let us first understand what the hydrogen damping wing is. For many applications, it is suitable to consider an atom's ability to absorb radiation as a series of delta functions in frequency: when incident radiation has a frequency exactly coinciding with the energy of the transition, then there is a non-zero probability for absorption and zero probability otherwise. In reality, the probability of absorbing a photon of a given frequency, e.g., the line profile, is a continuous distribution which, while small for frequencies $\nu \neq \nu_{0}$, is non-zero. 
 
 
-The intrinsic line profile for the \lya\ transition in the hydrogen atom can be seen as arising from the time/energy uncertainty principle, $\Delta E \cdot \Delta t \gtrsim \hbar$. Specifically, the finite lifetime of the $n = 2$ excited state implies the existence of a range of energies can excite or result from the transition. The distribution of this range of energies follows a Lorentzian distribution ({\bf glossary}):
+The intrinsic line profile for the \lya\ transition in the hydrogen atom can be seen as arising from the time/energy uncertainty principle, $\Delta E \cdot \Delta t \gtrsim \hbar$. Specifically, the finite lifetime of the $n = 2$ excited state implies the existence of a range of energies that can excite or result from the transition. The distribution of this range of energies follows a Lorentzian distribution ({\bf glossary}):
 
 \begin{align}
-\phi(\nu) &= \dfrac{\Gamma/4\pi^{2}}{(\nu - \nu_{0})^{2} + (\Gamma/4\pi)^2}
+\phi(\nu) &= \frac{1}{\pi} \dfrac{\Gamma/4\pi^{2}}{(\nu - \nu_{0})^{2} + (\Gamma/4\pi)^2}
 \end{align}
 
-Alternatively, the line profile for the hydrogen atom can be calculated classically by treating the electron as being harmonically-bound in the potential of the proton. The oscillations of the electron are intrinsically damped due to the fact that accelerating charges emit radiation. Furthermore, when we consider the probability of incident radiation being absorbed, the incident radiation can be seen as a driving force for the oscillator. 
+with the corresponding absorption cross section
+
+\begin{align}
+\sigma_{\alpha}(\nu) &= \dfrac{\pi e^2}{m_{e}c} f_{\alpha} \phi(\nu).
+\end{align}
+
+The ``damping wing" refers to the $\sigma \sim 1/(\nu-\nu_{0})^{2}$ behavior far from line center. This can be used to break the degeneracy between HII absorption and HI absorption because the optical depth is so much smaller in the damping wing that, without significantly-neutral gas (optical depth scales with neutral fraction), the optical depth at such frequency separations will not be sufficient to cause absorption. Furthermore, the damping wing has a distinct shape which can be fit for in order to infer the properties of the neutral gas which sources it. 
+
+
+While the damping wing from an isolated neutral region in a sea of fully-ionized, $\tau = 0$ hydrogen would stand out like a sore thumb, in reality absorption from the surrounding dense, yet ionized, gas will punctuate the damping wing with additional absorption features and will make it harder to detect. However, photons emitted slightly \textit{redward} of \lya\ cannot be absorbed by dense ionized gas since ionized gas has a negligible optical depth for $\nu \neq \nu_{\alpha}$. Neutral hydrogen, on the other hand, \textit{will} allow absorption to take place redward of \lya\ due to the significant optical depth in the damping wing. Because of this, most damping-wing searches up until now have looked slightly redward of \lya.
+
+
+It is worth pointing out, however, that this method is not without drawbacks. First, detecting the damping wing redward of \lya\ relies on your ability to understand what the quasar flux \textit{would have} been in the absence of the absorbing gas nearby the \lya\ line (this unabsorbed flux is referred to as the quasar \textit{continuum} and predicting the unabsorbed flux for a given quasar is called \textit{continuum fitting}). Predicting the \lya\ line properties in quasars is notoriously complicated. Second, searching for the damping wing redward of \lya\ inherently involves measuring the gas properties nearby the quasar. However, quasars are extremely rare and special objects and it is not obvious that their surroundings are representative of the IGM on average ({\bf cite Lidz}). For example, ({\bf cite Lidz} et al.) found that quasars are more likely to inhabit over-dense regions which ionize earlier, suggesting that interpreting the \textit{lack} of a damping wing is not straightforward. Gamma-ray burst spectra are gaining attention in this regard ({\bf cites}) as they tend to occupy more typical regions of space and have an easier-to-model continuum flux. The drawbacks of GRBs, though, is that they are often accompanied by a host absorber whose damping-wing absorption must be separated from that of the IGM. Third, even when provided with a clean detection of the damping wing redward of \lya, this will only tell you about one region of space and it will be difficult to use this single observation to extrapolate to the ionization state of the IGM as a whole. In \SS 
+
+%Alternatively, the line profile for the hydrogen atom can be calculated classically by treating the electron as being harmonically-bound in the potential of the proton. The oscillations of the electron are intrinsically damped due to the fact that accelerating charges emit radiation. Furthermore, when we consider the probability of incident radiation being absorbed, the incident radiation can be seen as a driving force for the oscillator. 
 
 
 % There is always a small damping of the oscillations by the radiation reaction force. I think this basically means that, since the charge is accelerating, it must be emitting radiation and losing energy and therefore its motion must be damped. Tau in this context is the time for radiation to cross a distance comparable to the size of the classical electron radius
@@ -150,7 +164,7 @@ Alternatively, the line profile for the hydrogen atom can be calculated classica
 \subsection{\lya Emitters}
 \subsection{Luminosity Function Measurements}
 
-\section{Current Constraints on the Timing and Nature of the EoR}
+\section{Where We Stand}
 
 \begin{enumerate}
 \item Bouwens et al. (2015) might be good to include here. Strengthens argument that galaxies reionized the Universe and that quasars/AGN did not.

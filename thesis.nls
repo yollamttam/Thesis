@@ -2,27 +2,27 @@
 
  \nomgroup{A}
 
-  \item [{M}]\begingroup Mass of object\nomeqref {5.0}\nompageref{177}
+  \item [{M}]\begingroup Mass of object\nomeqref {5.0}\nompageref{178}
 
  \nomgroup{G}
 
   \item [{$\tau$}]\begingroup Optical depth\nomeqref {5.0}
-		\nompageref{177}
+		\nompageref{178}
 
  \nomgroup{R}
 
   \item [{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}
-		\nompageref{177}
+		\nompageref{178}
 
  \nomgroup{S}
 
   \item [{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}
-		\nompageref{177}
+		\nompageref{178}
 
  \nomgroup{X}
 
   \item [{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}
-		\nompageref{177}
+		\nompageref{178}
 
  \nomgroup{Z}
 
@@ -37,6 +37,6 @@
   \item [{Redshift}]\begingroup A quantity commonly used to refer to cosmic periods of time or distances. The redshift of an object or location in space is defined as the fractional increase in wavelength that a photon undergoes due to the expansion of the Universe while travelling from the object or location to us.\nomeqref {1.0}
 		\nompageref{2}
   \item [{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}
-		\nompageref{177}
+		\nompageref{178}
 
 \end{thenomenclature}
