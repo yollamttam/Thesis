@@ -471,6 +471,34 @@
   Timestamp                = {2015.04.01}
 }
 
+@Article{Chornock:2014fva,
+  Title                    = {{GRB 140515A at z=6.33: Constraints on the End of
+ Reionization From a Gamma-ray Burst in a Low Hydrogen
+ Column Density Environment}},
+  Author                   = {Chornock, R. and Berger, E. and Fox, D.B. and Fong, W.
+ and Laskar, T. and others},
+  Year                     = {2014},
+
+  Archiveprefix            = {arXiv},
+  Eprint                   = {1405.7400},
+  Primaryclass             = {astro-ph.CO},
+  Slaccitation             = {%%CITATION = ARXIV:1405.7400;%%}
+}
+
+@Article{Chornock:2014fva,
+  Title                    = {{GRB 140515A at z=6.33: Constraints on the End of
+ Reionization From a Gamma-ray Burst in a Low Hydrogen
+ Column Density Environment}},
+  Author                   = {Chornock, R. and Berger, E. and Fox, D.B. and Fong, W.
+ and Laskar, T. and others},
+  Year                     = {2014},
+
+  Archiveprefix            = {arXiv},
+  Eprint                   = {1405.7400},
+  Primaryclass             = {astro-ph.CO},
+  Slaccitation             = {%%CITATION = ARXIV:1405.7400;%%}
+}
+
 @Article{Chornock:2013una,
   Title                    = {{GRB 130606A as a Probe of the Intergalactic Medium and
  the Interstellar Medium in a Star-forming Galaxy in the
@@ -738,6 +766,18 @@
   Timestamp                = {2015.04.01}
 }
 
+@Article{fan2002evolution,
+  Title                    = {Evolution of the Ionizing Background and the Epoch of Reionization from the Spectra of z\~{} 6 Quasars},
+  Author                   = {Fan, Xiaohui and Narayanan, Vijay K and Strauss, Michael A and White, Richard L and Becker, Robert H and Pentericci, Laura and Rix, Hans-Walter},
+  Journal                  = {The Astronomical Journal},
+  Year                     = {2002},
+  Number                   = {3},
+  Pages                    = {1247},
+  Volume                   = {123},
+
+  Publisher                = {IOP Publishing}
+}
+
 @Article{Fan:2001ff,
   Title                    = {{A Survey of {$z > 5.8$} quasars in the Sloan Digital Sky
  Survey I: Discovery of three new quasars and the spatial
@@ -759,7 +799,7 @@
 @Article{Fan2006a,
   Title                    = {{Constraining the Evolution of the Ionizing Background and the Epoch of Reionization with z\~{}6 Quasars. II. A Sample of 19 Quasars}},
   Author                   = {{Fan}, X. and {Strauss}, M.~A. and {Becker}, R.~H. and {White}, R.~L. and {Gunn}, J.~E. and {Knapp}, G.~R. and {Richards}, G.~T. and {Schneider}, D.~P. and {Brinkmann}, J. and {Fukugita}, M.},
-  Journal                  = {\aj},
+  Journal                  = {Astrophysical Journal},
   Year                     = {2006},
 
   Month                    = jul,
@@ -856,6 +896,23 @@
   Keywords                 = {Cosmology: Observations, Cosmology: Theory, Methods: Data Analysis, Methods: Numerical, Methods: Statistical, Galaxies: Quasars: Absorption Lines},
   Owner                    = {matt},
   Timestamp                = {2015.04.01}
+}
+
+@Article{FaucherGiguere:2007jc,
+  Title                    = {{The Line-of-Sight Proximity Effect and the Mass of
+ Quasar Host Halos}},
+  Author                   = {Faucher-Giguere, Claude-Andre and Lidz, A. and
+ Zaldarriaga, M. and Hernquist, L.},
+  Journal                  = {Astrophys.J.},
+  Year                     = {2008},
+  Pages                    = {39},
+  Volume                   = {673},
+
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1086/521639},
+  Eprint                   = {astro-ph/0701042},
+  Primaryclass             = {astro-ph},
+  Slaccitation             = {%%CITATION = ASTRO-PH/0701042;%%}
 }
 
 @Article{Fialkov:2014kta,
@@ -1669,6 +1726,24 @@
   Timestamp                = {2015.04.01}
 }
 
+@Article{McGreer:2014qwa,
+  Title                    = {{Model-independent evidence in favour of an end to
+ reionization by $z \approx$ 6}},
+  Author                   = {McGreer, Ian and Mesinger, Andrei and D'Odorico,
+ Valentina},
+  Journal                  = {Mon.Not.Roy.Astron.Soc.},
+  Year                     = {2015},
+  Number                   = {1},
+  Pages                    = {499-505},
+  Volume                   = {447},
+
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1093/mnras/stu2449},
+  Eprint                   = {1411.5375},
+  Primaryclass             = {astro-ph.CO},
+  Slaccitation             = {%%CITATION = ARXIV:1411.5375;%%}
+}
+
 @Article{McGreer:2011dm,
   Title                    = {{The first (nearly) model-independent constraint on the
  neutral hydrogen fraction at z~5--6}},
@@ -2454,6 +2529,17 @@
   Timestamp                = {2015.04.01}
 }
 
+@Article{Salvaterra:2015gpa,
+  Title                    = {{High redshift Gamma-Ray Bursts}},
+  Author                   = {Salvaterra, R.},
+  Year                     = {2015},
+
+  Archiveprefix            = {arXiv},
+  Eprint                   = {1503.03072},
+  Primaryclass             = {astro-ph.CO},
+  Slaccitation             = {%%CITATION = ARXIV:1503.03072;%%}
+}
+
 @Article{Schaye2000,
   Title                    = {{The thermal history of the intergalactic medium$^{*}$}},
   Author                   = {{Schaye}, J. and {Theuns}, T. and {Rauch}, M. and {Efstathiou}, G. and {Sargent}, W.~L.~W.},
@@ -2587,6 +2673,24 @@
   Keywords                 = {GALAXIES: CLUSTERS: GENERAL, COSMOLOGY: THEORY, DARK MATTER},
   Owner                    = {matt},
   Timestamp                = {2015.04.01}
+}
+
+@Article{Simcoe,
+  Title                    = {{Extremely metal-poor gas at a redshift of 7}},
+  Author                   = {{Simcoe}, R.~A. and {Sullivan}, P.~W. and {Cooksey}, K.~L. and {Kao}, M.~M. and {Matejek}, M.~S. and {Burgasser}, A.~J.},
+  Journal                  = {Nature},
+  Year                     = {2012},
+
+  Month                    = dec,
+  Pages                    = {79-82},
+  Volume                   = {492},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2012Natur.492...79S},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1038/nature11612},
+  Eprint                   = {1212.0548},
+  Primaryclass             = {astro-ph.CO}
 }
 
 @Article{Springel2005,

@@ -14,6 +14,10 @@ A level-1 auxiliary file: backmatter/appendix.aux
 A level-1 auxiliary file: backmatter/glossary.aux
 The style file: plainnat.bst
 Database file #1: ./backmatter/references.bib
+Repeated entry---line 488 of file ./backmatter/references.bib
+ : @article{Chornock:2014fva
+ :                          ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "1994MNRAS.266..343M"
 Warning--I didn't find a database entry for "Hui:1997dp"
 Warning--I didn't find a database entry for "Theuns:2002yc"
@@ -119,6 +123,8 @@ Warning--I didn't find a database entry for "Beardsley:2012za"
 Warning--empty journal in Ade:2013zuv
 Warning--empty journal in Becker:2013ffa
 Warning--empty journal in Becker:2014oga
+Warning--empty journal in Bolton:2011vb
+Warning--empty journal in Chornock:2014fva
 Warning--empty journal in Cooke:2013cba
 Warning--empty journal in Djorgovski:2001ez
 Warning--empty journal in McGreer:2011dm
@@ -126,47 +132,48 @@ Warning--empty journal in Mesinger:2009mv
 Warning--empty journal in MiraldaEscude:1997en
 Warning--empty journal in Pentericci:2014nia
 Warning--empty journal in Rahmati:2013hsa
+Warning--empty journal in Salvaterra:2015gpa
 Warning--empty journal in Taylor:2013qia
 Warning--empty journal in Worseck:2014fya
-You've used 43 entries,
+You've used 53 entries,
             2773 wiz_defined-function locations,
-            1095 strings with 16544 characters,
-and the built_in function-call counts, 20816 in all, are:
-= -- 1807
-> -- 1406
-< -- 19
-+ -- 476
-- -- 432
-* -- 1782
-:= -- 3339
-add.period$ -- 158
-call.type$ -- 43
-change.case$ -- 262
-chr.to.int$ -- 42
-cite$ -- 98
-duplicate$ -- 872
-empty$ -- 1555
-format.name$ -- 502
-if$ -- 4290
+            1153 strings with 18799 characters,
+and the built_in function-call counts, 26470 in all, are:
+= -- 2257
+> -- 1916
+< -- 21
++ -- 648
+- -- 594
+* -- 2309
+:= -- 4273
+add.period$ -- 192
+call.type$ -- 53
+change.case$ -- 342
+chr.to.int$ -- 52
+cite$ -- 121
+duplicate$ -- 1077
+empty$ -- 1903
+format.name$ -- 676
+if$ -- 5420
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 43
-newline$ -- 252
-num.names$ -- 172
-pop$ -- 464
+missing$ -- 53
+newline$ -- 306
+num.names$ -- 212
+pop$ -- 613
 preamble$ -- 1
-purify$ -- 219
+purify$ -- 289
 quote$ -- 0
-skip$ -- 676
+skip$ -- 849
 stack$ -- 0
-substring$ -- 617
-swap$ -- 42
+substring$ -- 712
+swap$ -- 52
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 473
-warning$ -- 12
-while$ -- 159
+type$ -- 583
+warning$ -- 15
+while$ -- 196
 width$ -- 0
-write$ -- 600
-(There were 114 warnings)
+write$ -- 732
+(There was 1 error message)

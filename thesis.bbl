@@ -1,4 +1,4 @@
-\begin{thebibliography}{43}
+\begin{thebibliography}{53}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -55,6 +55,31 @@ J.~S. {Bolton} and M.~G. {Haehnelt}.
 \newblock \emph{MNRAS}, 429:\penalty0 1695--1704, February 2013.
 \newblock \doi{10.1093/mnras/sts455}.
 
+\bibitem[Bolton et~al.(2011)Bolton, Haehnelt, Warren, Hewett, Mortlock,
+  et~al.]{Bolton:2011vb}
+James~S. Bolton, Martin~G. Haehnelt, Stephen~J. Warren, Paul~C. Hewett,
+  Daniel~J. Mortlock, et~al.
+\newblock {How neutral is the intergalactic medium surrounding the redshift
+  z=7.085 quasar ULAS J1120+0641?}
+\newblock 2011.
+
+\bibitem[Chornock et~al.(2014)Chornock, Berger, Fox, Fong, Laskar,
+  et~al.]{Chornock:2014fva}
+R.~Chornock, E.~Berger, D.B. Fox, W.~Fong, T.~Laskar, et~al.
+\newblock {GRB 140515A at z=6.33: Constraints on the End of Reionization From a
+  Gamma-ray Burst in a Low Hydrogen Column Density Environment}.
+\newblock 2014.
+
+\bibitem[Chornock et~al.(2013)Chornock, Berger, Fox, Lunnan, Drout,
+  et~al.]{Chornock:2013una}
+Ryan Chornock, Edo Berger, Derek~B. Fox, Ragnhild Lunnan, Maria~R. Drout,
+  et~al.
+\newblock {GRB 130606A as a Probe of the Intergalactic Medium and the
+  Interstellar Medium in a Star-forming Galaxy in the First Gyr After the Big
+  Bang}.
+\newblock \emph{Astrophys.J.}, 774:\penalty0 26, 2013.
+\newblock \doi{10.1088/0004-637X/774/1/26}.
+
 \bibitem[Cooke et~al.(2013)Cooke, Pettini, Jorgenson, Murphy, and
   Steidel]{Cooke:2013cba}
 Ryan Cooke, Max Pettini, Regina~A. Jorgenson, Michael~T. Murphy, and Charles~C.
@@ -83,6 +108,16 @@ S.G. Djorgovski, S.M. Castro, D.~Stern, and A.~Mahabal.
 \newblock {On the threshold of the reionization epoch}.
 \newblock 2001.
 
+\bibitem[{Fan} et~al.(2006){Fan}, {Strauss}, {Becker}, {White}, {Gunn},
+  {Knapp}, {Richards}, {Schneider}, {Brinkmann}, and {Fukugita}]{Fan2006a}
+X.~{Fan}, M.~A. {Strauss}, R.~H. {Becker}, R.~L. {White}, J.~E. {Gunn}, G.~R.
+  {Knapp}, G.~T. {Richards}, D.~P. {Schneider}, J.~{Brinkmann}, and
+  M.~{Fukugita}.
+\newblock {Constraining the Evolution of the Ionizing Background and the Epoch
+  of Reionization with z\~{}6 Quasars. II. A Sample of 19 Quasars}.
+\newblock \emph{Astrophysical Journal}, 132:\penalty0 117--136, July 2006.
+\newblock \doi{10.1086/504836}.
+
 \bibitem[Fan et~al.(2006)Fan, Strauss, Becker, White, Gunn, et~al.]{Fan:2005es}
 Xiao-Hui Fan, Michael~A. Strauss, Robert~H. Becker, Richard~L. White, James~E.
   Gunn, et~al.
@@ -91,6 +126,15 @@ Xiao-Hui Fan, Michael~A. Strauss, Robert~H. Becker, Richard~L. White, James~E.
 \newblock \emph{Astron.J.}, 132:\penalty0 117--136, 2006.
 \newblock \doi{10.1086/504836}.
 
+\bibitem[Fan et~al.(2002)Fan, Narayanan, Strauss, White, Becker, Pentericci,
+  and Rix]{fan2002evolution}
+Xiaohui Fan, Vijay~K Narayanan, Michael~A Strauss, Richard~L White, Robert~H
+  Becker, Laura Pentericci, and Hans-Walter Rix.
+\newblock Evolution of the ionizing background and the epoch of reionization
+  from the spectra of z\~{} 6 quasars.
+\newblock \emph{The Astronomical Journal}, 123\penalty0 (3):\penalty0 1247,
+  2002.
+
 \bibitem[Fan et~al.(2001)]{Fan:2001ff}
 Xiaohui Fan et~al.
 \newblock {A Survey of {$z > 5.8$} quasars in the Sloan Digital Sky Survey I:
@@ -98,6 +142,14 @@ Xiaohui Fan et~al.
   z ~ 6}.
 \newblock \emph{Astron.J.}, 122:\penalty0 2833, 2001.
 \newblock \doi{10.1086/324111}.
+
+\bibitem[Faucher-Giguere et~al.(2008)Faucher-Giguere, Lidz, Zaldarriaga, and
+  Hernquist]{FaucherGiguere:2007jc}
+Claude-Andre Faucher-Giguere, A.~Lidz, M.~Zaldarriaga, and L.~Hernquist.
+\newblock {The Line-of-Sight Proximity Effect and the Mass of Quasar Host
+  Halos}.
+\newblock \emph{Astrophys.J.}, 673:\penalty0 39, 2008.
+\newblock \doi{10.1086/521639}.
 
 \bibitem[Furlanetto et~al.(2004)Furlanetto, Zaldarriaga, and
   Hernquist]{Furlanetto:2004nh}
@@ -118,6 +170,11 @@ J.~E. {Gunn} and B.~A. {Peterson}.
 \newblock {On the Density of Neutral Hydrogen in Intergalactic Space.}
 \newblock \emph{ApJ}, 142:\penalty0 1633--1641, November 1965.
 \newblock \doi{10.1086/148444}.
+
+\bibitem[{Hui} and {Gnedin}(1997)]{Hui1997}
+L.~{Hui} and N.~Y. {Gnedin}.
+\newblock {Equation of state of the photoionized intergalactic medium}.
+\newblock \emph{MNRAS}, 292:\penalty0 27, November 1997.
 
 \bibitem[{Kuhlen} and {Faucher-Gigu{\`e}re}(2012)]{KuhlenConcordance}
 M.~{Kuhlen} and C.-A. {Faucher-Gigu{\`e}re}.
@@ -214,6 +271,13 @@ Jordi Miralda-Escude, Ren-yue Cen, Jeremiah~P. Ostriker, and Michael Rauch.
 \newblock \emph{Astrophys.J.}, 471:\penalty0 582, 1996.
 \newblock \doi{10.1086/177992}.
 
+\bibitem[Mortlock et~al.(2011)Mortlock, Warren, Venemans, Patel, Hewett,
+  et~al.]{Mortlock2011}
+Daniel~J. Mortlock, Stephen~J. Warren, Bram~P. Venemans, Mitesh Patel, Paul~C.
+  Hewett, et~al.
+\newblock {A luminous quasar at a redshift of z = 7.085}.
+\newblock \emph{Nature}, 474:\penalty0 616, 2011.
+
 \bibitem[Pentericci et~al.(2014)Pentericci, Vanzella, Fontana, Castellano,
   Treu, et~al.]{Pentericci:2014nia}
 L.~Pentericci, E.~Vanzella, A.~Fontana, M.~Castellano, T.~Treu, et~al.
@@ -243,6 +307,11 @@ Brant~E. Robertson, Steven~R. Furlanetto, Evan Schneider, Stephane Charlot,
 \newblock \emph{Astrophys.J.}, 768:\penalty0 71, 2013.
 \newblock \doi{10.1088/0004-637X/768/1/71}.
 
+\bibitem[Salvaterra(2015)]{Salvaterra:2015gpa}
+R.~Salvaterra.
+\newblock {High redshift Gamma-Ray Bursts}.
+\newblock 2015.
+
 \bibitem[{Schenker} et~al.(2012){Schenker}, {Stark}, {Ellis}, {Robertson},
   {Dunlop}, {McLure}, {Kneib}, and {Richard}]{2012ApJ...744..179S}
 M.~A. {Schenker}, D.~P. {Stark}, R.~S. {Ellis}, B.~E. {Robertson}, J.~S.
@@ -260,6 +329,14 @@ J.~{Schroeder}, A.~{Mesinger}, and Z.~{Haiman}.
   strengthening the case for incomplete reionization at {$z \sim 6-7$}}.
 \newblock \emph{MNRAS}, 428:\penalty0 3058--3071, February 2013.
 \newblock \doi{10.1093/mnras/sts253}.
+
+\bibitem[{Simcoe} et~al.(2012){Simcoe}, {Sullivan}, {Cooksey}, {Kao},
+  {Matejek}, and {Burgasser}]{Simcoe}
+R.~A. {Simcoe}, P.~W. {Sullivan}, K.~L. {Cooksey}, M.~M. {Kao}, M.~S.
+  {Matejek}, and A.~J. {Burgasser}.
+\newblock {Extremely metal-poor gas at a redshift of 7}.
+\newblock \emph{Nature}, 492:\penalty0 79--82, December 2012.
+\newblock \doi{10.1038/nature11612}.
 
 \bibitem[Taylor and Lidz(2013)]{Taylor:2013qia}
 Jessie Taylor and Adam Lidz.

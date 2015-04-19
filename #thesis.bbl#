@@ -1,0 +1,358 @@
+\begin{thebibliography}{49}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Ade et~al.(2013)]{Ade:2013zuv}
+P.A.R. Ade et~al.
+\newblock {Planck 2013 results. XVI. Cosmological parameters}.
+\newblock 2013.
+
+\bibitem[{Becker} et~al.(2013){Becker}, {Hewett}, {Worseck}, and
+  {Prochaska}]{2013MNRAS.430.2067B}
+G.~D. {Becker}, P.~C. {Hewett}, G.~{Worseck}, and J.~X. {Prochaska}.
+\newblock {A refined measurement of the mean transmitted flux in the
+  Ly{$\alpha$} forest over {$2 < z < 5$} using composite quasar spectra}.
+\newblock \emph{MNRAS}, 430:\penalty0 2067--2081, April 2013.
+\newblock \doi{10.1093/mnras/stt031}.
+
+\bibitem[Becker and Bolton(2013)]{Becker:2013ffa}
+George~D. Becker and James~S. Bolton.
+\newblock {New Measurements of the Ionizing Ultraviolet Background over {$2 < z
+  < 5$} and Implications for Hydrogen Reionization}.
+\newblock 2013.
+
+\bibitem[Becker et~al.(2014)Becker, Bolton, Madau, Pettini, Ryan-Weber,
+  et~al.]{Becker:2014oga}
+George~D. Becker, James~S. Bolton, Piero Madau, Max Pettini, Emma~V.
+  Ryan-Weber, et~al.
+\newblock {Evidence of patchy hydrogen reionization from an extreme
+  Ly{$\alpha$} trough below redshift six}.
+\newblock 2014.
+
+\bibitem[Becker et~al.(2001)]{Becker:2001ee}
+Robert~H. Becker et~al.
+\newblock {Evidence for reionization at Z ~ 6: Detection of a Gunn-Peterson
+  trough in a Z = 6.28 quasar}.
+\newblock \emph{Astron.J.}, 122:\penalty0 2850, 2001.
+\newblock \doi{10.1086/324231}.
+
+\bibitem[{Bolton} and {Haehnelt}(2007)]{Bolton:2007b}
+J.~S. {Bolton} and M.~G. {Haehnelt}.
+\newblock {The observed ionization rate of the intergalactic medium and the
+  ionizing emissivity at {$z > 5$}: evidence for a photon-starved and extended
+  epoch of reionization}.
+\newblock \emph{MNRAS}, 382:\penalty0 325--341, November 2007.
+\newblock \doi{10.1111/j.1365-2966.2007.12372.x}.
+
+\bibitem[{Bolton} and {Haehnelt}(2013)]{2013MNRAS.429.1695B}
+J.~S. {Bolton} and M.~G. {Haehnelt}.
+\newblock {On the rapid demise of Ly {$\alpha$} emitters at redshift {$z
+  \gtrsim 7$} due to the increasing incidence of optically thick absorption
+  systems}.
+\newblock \emph{MNRAS}, 429:\penalty0 1695--1704, February 2013.
+\newblock \doi{10.1093/mnras/sts455}.
+
+\bibitem[Bolton et~al.(2011)Bolton, Haehnelt, Warren, Hewett, Mortlock,
+  et~al.]{Bolton:2011vb}
+James~S. Bolton, Martin~G. Haehnelt, Stephen~J. Warren, Paul~C. Hewett,
+  Daniel~J. Mortlock, et~al.
+\newblock {How neutral is the intergalactic medium surrounding the redshift
+  z=7.085 quasar ULAS J1120+0641?}
+\newblock 2011.
+
+\bibitem[Chornock et~al.(2014)Chornock, Berger, Fox, Fong, Laskar,
+  et~al.]{Chornock:2014fva}
+R.~Chornock, E.~Berger, D.B. Fox, W.~Fong, T.~Laskar, et~al.
+\newblock {GRB 140515A at z=6.33: Constraints on the End of Reionization From a
+  Gamma-ray Burst in a Low Hydrogen Column Density Environment}.
+\newblock 2014.
+
+\bibitem[Chornock et~al.(2013)Chornock, Berger, Fox, Lunnan, Drout,
+  et~al.]{Chornock:2013una}
+Ryan Chornock, Edo Berger, Derek~B. Fox, Ragnhild Lunnan, Maria~R. Drout,
+  et~al.
+\newblock {GRB 130606A as a Probe of the Intergalactic Medium and the
+  Interstellar Medium in a Star-forming Galaxy in the First Gyr After the Big
+  Bang}.
+\newblock \emph{Astrophys.J.}, 774:\penalty0 26, 2013.
+\newblock \doi{10.1088/0004-637X/774/1/26}.
+
+\bibitem[Cooke et~al.(2013)Cooke, Pettini, Jorgenson, Murphy, and
+  Steidel]{Cooke:2013cba}
+Ryan Cooke, Max Pettini, Regina~A. Jorgenson, Michael~T. Murphy, and Charles~C.
+  Steidel.
+\newblock {Precision measures of the primordial abundance of deuterium}.
+\newblock 2013.
+
+\bibitem[Cooray and Sheth(2002)]{Cooray:2002dia}
+Asantha Cooray and Ravi~K. Sheth.
+\newblock {Halo models of large scale structure}.
+\newblock \emph{Phys.Rept.}, 372:\penalty0 1--129, 2002.
+\newblock \doi{10.1016/S0370-1573(02)00276-4}.
+
+\bibitem[Croft et~al.(2002)Croft, Weinberg, Bolte, Burles, Hernquist,
+  et~al.]{Croft:2000hs}
+Rupert~A.C. Croft, David~H. Weinberg, Mike Bolte, Scott Burles, Lars Hernquist,
+  et~al.
+\newblock {Towards a precise measurement of matter clustering: Lyman alpha
+  forest data at redshifts 2-4}.
+\newblock \emph{Astrophys.J.}, 581:\penalty0 20--52, 2002.
+\newblock \doi{10.1086/344099}.
+
+\bibitem[Djorgovski et~al.(2001)Djorgovski, Castro, Stern, and
+  Mahabal]{Djorgovski:2001ez}
+S.G. Djorgovski, S.M. Castro, D.~Stern, and A.~Mahabal.
+\newblock {On the threshold of the reionization epoch}.
+\newblock 2001.
+
+\bibitem[Fan et~al.(2006)Fan, Strauss, Becker, White, Gunn, et~al.]{Fan:2005es}
+Xiao-Hui Fan, Michael~A. Strauss, Robert~H. Becker, Richard~L. White, James~E.
+  Gunn, et~al.
+\newblock {Constraining the evolution of the ionizing background and the epoch
+  of reionization with z~6 quasars. 2. a sample of 19 quasars}.
+\newblock \emph{Astron.J.}, 132:\penalty0 117--136, 2006.
+\newblock \doi{10.1086/504836}.
+
+\bibitem[Fan et~al.(2001)]{Fan:2001ff}
+Xiaohui Fan et~al.
+\newblock {A Survey of {$z > 5.8$} quasars in the Sloan Digital Sky Survey I:
+  Discovery of three new quasars and the spatial density of luminous quasars at
+  z ~ 6}.
+\newblock \emph{Astron.J.}, 122:\penalty0 2833, 2001.
+\newblock \doi{10.1086/324111}.
+
+\bibitem[Furlanetto et~al.(2004)Furlanetto, Zaldarriaga, and
+  Hernquist]{Furlanetto:2004nh}
+Steven Furlanetto, Matias Zaldarriaga, and Lars Hernquist.
+\newblock {The Growth of HII regions during reionization}.
+\newblock \emph{Astrophys.J.}, 613:\penalty0 1--15, 2004.
+\newblock \doi{10.1086/423025}.
+
+\bibitem[Gallerani et~al.(2006)Gallerani, Choudhury, and
+  Ferrara]{Gallerani:2005mf}
+Simona Gallerani, T.~Roy Choudhury, and A.~Ferrara.
+\newblock {Constraining the reionization history with qso absorption spectra}.
+\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 370:\penalty0 1401--1421, 2006.
+\newblock \doi{10.1111/j.1365-2966.2006.10553.x}.
+
+\bibitem[{Gunn} and {Peterson}(1965)]{1965ApJ...142.1633G}
+J.~E. {Gunn} and B.~A. {Peterson}.
+\newblock {On the Density of Neutral Hydrogen in Intergalactic Space.}
+\newblock \emph{ApJ}, 142:\penalty0 1633--1641, November 1965.
+\newblock \doi{10.1086/148444}.
+
+\bibitem[{Kuhlen} and {Faucher-Gigu{\`e}re}(2012)]{KuhlenConcordance}
+M.~{Kuhlen} and C.-A. {Faucher-Gigu{\`e}re}.
+\newblock {Concordance models of reionization: implications for faint galaxies
+  and escape fraction evolution}.
+\newblock \emph{MNRAS}, 423:\penalty0 862--876, June 2012.
+\newblock \doi{10.1111/j.1365-2966.2012.20924.x}.
+
+\bibitem[Lee(2013)]{Lee:2013fga}
+Hee-Won Lee.
+\newblock {Asymmetric Absorption Profiles of Lyα and Lyβ in Damped Lyα
+  Systems}.
+\newblock \emph{Astrophys.J.}, 772:\penalty0 123, 2013.
+\newblock \doi{10.1088/0004-637X/772/2/123}.
+
+\bibitem[Lidz and Malloy(2014)]{Lidz:2014jxa}
+Adam Lidz and Matthew Malloy.
+\newblock {On Modeling and Measuring the Temperature of the z~5 intergalactic
+  medium}.
+\newblock \emph{Astrophys.J.}, 788:\penalty0 175, 2014.
+\newblock \doi{10.1088/0004-637X/788/2/175}.
+
+\bibitem[Lidz et~al.(2007)Lidz, McQuinn, and Zaldarriaga]{Lidz:2007mz}
+Adam Lidz, Matthew McQuinn, and Matias Zaldarriaga.
+\newblock {Quasar Proximity Zones and Patchy Reionization}.
+\newblock \emph{Astrophys.J.}, 670:\penalty0 39--59, 2007.
+\newblock \doi{10.1086/521974}.
+
+\bibitem[McGreer et~al.(2015)McGreer, Mesinger, and D'Odorico]{McGreer:2014qwa}
+Ian McGreer, Andrei Mesinger, and Valentina D'Odorico.
+\newblock {Model-independent evidence in favour of an end to reionization by $z
+  \approx$ 6}.
+\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 447\penalty0 (1):\penalty0 499--505,
+  2015.
+\newblock \doi{10.1093/mnras/stu2449}.
+
+\bibitem[McGreer et~al.(2011)McGreer, Mesinger, and Fan]{McGreer:2011dm}
+Ian~D. McGreer, Andrei Mesinger, and Xiaohui Fan.
+\newblock {The first (nearly) model-independent constraint on the neutral
+  hydrogen fraction at z~5--6}.
+\newblock 2011.
+
+\bibitem[McQuinn et~al.(2007{\natexlab{a}})McQuinn, Hernquist, Zaldarriaga, and
+  Dutta]{McQuinn:2007dy}
+Matthew McQuinn, Lars Hernquist, Matias Zaldarriaga, and Suvendra Dutta.
+\newblock {Studying Reionization with Ly-alpha Emitters}.
+\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 381:\penalty0 75--96,
+  2007{\natexlab{a}}.
+
+\bibitem[McQuinn et~al.(2007{\natexlab{b}})McQuinn, Lidz, Zahn, Dutta,
+  Hernquist, et~al.]{McQuinn:2006et}
+Matthew McQuinn, Adam Lidz, Oliver Zahn, Suvendra Dutta, Lars Hernquist, et~al.
+\newblock {The Morphology of HII Regions during Reionization}.
+\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 377:\penalty0 1043--1063,
+  2007{\natexlab{b}}.
+\newblock \doi{10.1111/j.1365-2966.2007.11489.x}.
+
+\bibitem[{Mesinger}(2010)]{2010MNRAS.407.1328M}
+A.~{Mesinger}.
+\newblock {Was reionization complete by z \~{} 5-6?}
+\newblock \emph{MNRAS}, 407:\penalty0 1328--1337, September 2010.
+\newblock \doi{10.1111/j.1365-2966.2010.16995.x}.
+
+\bibitem[Mesinger(2009)]{Mesinger:2009mv}
+Andrei Mesinger.
+\newblock {Was reionization complete by z ~ 5-6?}
+\newblock 2009.
+
+\bibitem[Mesinger and Haiman(2007)]{Mesinger:2006kn}
+Andrei Mesinger and Zoltan Haiman.
+\newblock {Constraints on Reionization and Source Properties from the
+  Absorption Spectra of {$z>6.2$} Quasars}.
+\newblock \emph{Astrophys.J.}, 660:\penalty0 923--932, 2007.
+\newblock \doi{10.1086/513688}.
+
+\bibitem[Miralda-Escude(1998)]{MiraldaEscude:1997qb}
+Jordi Miralda-Escude.
+\newblock {Reionization of the intergalactic medium and the damping wing of the
+  Gunn-Peterson trough}.
+\newblock \emph{Astrophys.J.}, 501:\penalty0 15--22, 1998.
+\newblock \doi{10.1086/305799}.
+
+\bibitem[Miralda-Escude and Rees(1997)]{MiraldaEscude:1997en}
+Jordi Miralda-Escude and Martin~J. Rees.
+\newblock {Searching for the earliest galaxies using the Gunn-Peterson trough
+  and the Lyman alpha emission line}.
+\newblock 1997.
+
+\bibitem[Miralda-Escude et~al.(1996)Miralda-Escude, Cen, Ostriker, and
+  Rauch]{MiraldaEscude:1995bu}
+Jordi Miralda-Escude, Ren-yue Cen, Jeremiah~P. Ostriker, and Michael Rauch.
+\newblock {The Lyman alpha forest from gravitational collapse in the CDM +
+  Lambda Model}.
+\newblock \emph{Astrophys.J.}, 471:\penalty0 582, 1996.
+\newblock \doi{10.1086/177992}.
+
+\bibitem[Mortlock et~al.(2011)Mortlock, Warren, Venemans, Patel, Hewett,
+  et~al.]{Mortlock2011}
+Daniel~J. Mortlock, Stephen~J. Warren, Bram~P. Venemans, Mitesh Patel, Paul~C.
+  Hewett, et~al.
+\newblock {A luminous quasar at a redshift of z = 7.085}.
+\newblock \emph{Nature}, 474:\penalty0 616, 2011.
+
+\bibitem[Pentericci et~al.(2014)Pentericci, Vanzella, Fontana, Castellano,
+  Treu, et~al.]{Pentericci:2014nia}
+L.~Pentericci, E.~Vanzella, A.~Fontana, M.~Castellano, T.~Treu, et~al.
+\newblock {New observations of z~7 galaxies: evidence for a patchy
+  reionization}.
+\newblock 2014.
+
+\bibitem[Prochaska et~al.(2005)Prochaska, Herbert-Fort, and
+  Wolfe]{Prochaska:2005wy}
+Jason~X. Prochaska, Stephane Herbert-Fort, and Arthur~M. Wolfe.
+\newblock {The sdss damped lya survey: data release 3}.
+\newblock \emph{Astrophys.J.}, 635:\penalty0 123--142, 2005.
+\newblock \doi{10.1086/497287}.
+
+\bibitem[Rahmati and Schaye(2013)]{Rahmati:2013hsa}
+Alireza Rahmati and Joop Schaye.
+\newblock {Predictions for the relation between strong HI absorbers and
+  galaxies at redshift 3}.
+\newblock 2013.
+
+\bibitem[Robertson et~al.(2013)Robertson, Furlanetto, Schneider, Charlot,
+  Ellis, et~al.]{Robertson:2013bq}
+Brant~E. Robertson, Steven~R. Furlanetto, Evan Schneider, Stephane Charlot,
+  Richard~S. Ellis, et~al.
+\newblock {New Constraints on Cosmic Reionization from the 2012 Hubble Ultra
+  Deep Field Campaign}.
+\newblock \emph{Astrophys.J.}, 768:\penalty0 71, 2013.
+\newblock \doi{10.1088/0004-637X/768/1/71}.
+
+\bibitem[Salvaterra(2015)]{Salvaterra:2015gpa}
+R.~Salvaterra.
+\newblock {High redshift Gamma-Ray Bursts}.
+\newblock 2015.
+
+\bibitem[{Schenker} et~al.(2012){Schenker}, {Stark}, {Ellis}, {Robertson},
+  {Dunlop}, {McLure}, {Kneib}, and {Richard}]{2012ApJ...744..179S}
+M.~A. {Schenker}, D.~P. {Stark}, R.~S. {Ellis}, B.~E. {Robertson}, J.~S.
+  {Dunlop}, R.~J. {McLure}, J.-P. {Kneib}, and J.~{Richard}.
+\newblock {Keck Spectroscopy of Faint {$3 < z < 8$} Lyman Break Galaxies:
+  Evidence for a Declining Fraction of Emission Line Sources in the Redshift
+  Range {$6 < z < 8$}}.
+\newblock \emph{ApJ}, 744:\penalty0 179, January 2012.
+\newblock \doi{10.1088/0004-637X/744/2/179}.
+
+\bibitem[{Schroeder} et~al.(2013){Schroeder}, {Mesinger}, and
+  {Haiman}]{2013MNRAS.428.3058S}
+J.~{Schroeder}, A.~{Mesinger}, and Z.~{Haiman}.
+\newblock {Evidence of Gunn-Peterson damping wings in high-z quasar spectra:
+  strengthening the case for incomplete reionization at {$z \sim 6-7$}}.
+\newblock \emph{MNRAS}, 428:\penalty0 3058--3071, February 2013.
+\newblock \doi{10.1093/mnras/sts253}.
+
+\bibitem[{Simcoe} et~al.(2012){Simcoe}, {Sullivan}, {Cooksey}, {Kao},
+  {Matejek}, and {Burgasser}]{Simcoe}
+R.~A. {Simcoe}, P.~W. {Sullivan}, K.~L. {Cooksey}, M.~M. {Kao}, M.~S.
+  {Matejek}, and A.~J. {Burgasser}.
+\newblock {Extremely metal-poor gas at a redshift of 7}.
+\newblock Nature, 492:\penalty0 79--82, December 2012.
+\newblock \doi{10.1038/nature11612}.
+
+\bibitem[Taylor and Lidz(2013)]{Taylor:2013qia}
+Jessie Taylor and Adam Lidz.
+\newblock {What do observations of the Lyman-alpha fraction tell us about
+  reionization?}
+\newblock 2013.
+
+\bibitem[Totani et~al.(2006)Totani, Kawai, Kosugi, Aoki, Yamada,
+  et~al.]{Totani:2005ng}
+Tomonori Totani, Nobuyuki Kawai, George Kosugi, Kentaro Aoki, Toru Yamada,
+  et~al.
+\newblock {Implications for the cosmic reionization from the optical afterglow
+  spectrum of the gamma-ray burst 050904 at z = 6.3}.
+\newblock \emph{Publ.Astron.Soc.Jap.}, 58:\penalty0 485--498, 2006.
+
+\bibitem[Viel et~al.(2013)Viel, Becker, Bolton, and Haehnelt]{Viel:2013fqw}
+Matteo Viel, George~D. Becker, James~S. Bolton, and Martin~G. Haehnelt.
+\newblock {Warm dark matter as a solution to the small scale crisis: New
+  constraints from high redshift Lyman-α forest data}.
+\newblock \emph{Phys.Rev.}, D88\penalty0 (4):\penalty0 043502, 2013.
+\newblock \doi{10.1103/PhysRevD.88.043502}.
+
+\bibitem[Wolfe et~al.(2005)Wolfe, Gawiser, and Prochaska]{Wolfe:2005jd}
+Arthur~M. Wolfe, Eric Gawiser, and Jason~X. Prochaska.
+\newblock {Damped lyman alpha systems}.
+\newblock \emph{Ann.Rev.Astron.Astrophys.}, 43:\penalty0 861--918, 2005.
+\newblock \doi{10.1146/annurev.astro.42.053102.133950}.
+
+\bibitem[Worseck et~al.(2014)Worseck, Prochaska, O'Meara, Becker, Ellison,
+  et~al.]{Worseck:2014fya}
+G�bor Worseck, J.~Xavier Prochaska, John~M. O'Meara, George~D. Becker, Sara
+  Ellison, et~al.
+\newblock {The Giant Gemini GMOS survey of {$z>4.4$} quasars - I. Measuring the
+  mean free path across cosmic time}.
+\newblock 2014.
+
+\bibitem[Xu et~al.(2014)Xu, Yue, Su, Fan, and Chen]{Xu:2013npa}
+Yidong Xu, Bin Yue, Meng Su, Zuhui Fan, and Xuelei Chen.
+\newblock {An analytical model of the large neutral regions during the late
+  stage of reionization}.
+\newblock \emph{Astrophys.J.}, 781:\penalty0 97, 2014.
+\newblock \doi{10.1088/0004-637X/781/2/97}.
+
+\bibitem[{Zuo} and {Phinney}(1993)]{Zuo}
+L.~{Zuo} and E.~S. {Phinney}.
+\newblock {Absorption by Discrete Intergalactic Clouds: Theory and Some
+  Applications}.
+\newblock \emph{ApJ}, 418:\penalty0 28, November 1993.
+\newblock \doi{10.1086/173367}.
+
+\end{thebibliography}

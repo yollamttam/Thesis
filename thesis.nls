@@ -2,27 +2,27 @@
 
  \nomgroup{A}
 
-  \item [{M}]\begingroup Mass of object\nomeqref {5.0}\nompageref{178}
+  \item [{M}]\begingroup Mass of object\nomeqref {5.0}\nompageref{184}
 
  \nomgroup{G}
 
   \item [{$\tau$}]\begingroup Optical depth\nomeqref {5.0}
-		\nompageref{178}
+		\nompageref{184}
 
  \nomgroup{R}
 
   \item [{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}
-		\nompageref{178}
+		\nompageref{184}
 
  \nomgroup{S}
 
   \item [{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}
-		\nompageref{178}
+		\nompageref{184}
 
  \nomgroup{X}
 
   \item [{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}
-		\nompageref{178}
+		\nompageref{184}
 
  \nomgroup{Z}
 
@@ -30,13 +30,15 @@
 		\nompageref{2}
   \item [{GRB}]\begingroup Gamma-Ray Burst. They are also really bright, OK?\nomeqref {1.1}
 		\nompageref{2}
+  \item [{Lorentzian Distribution}]\begingroup Probability distribution for the ratio of two standard-normal-distributed variables. This distribution also describes the intrinsic line profile for absorption lines.\nomeqref {1.21}
+		\nompageref{12}
   \item [{Optical Depth}]\begingroup Optical depth, denoted by $\tau$, is a quantity that describes that likelihood for a photon to be absorbed, usually by a gas. The fraction of photons that will pass through the gas unabsorbed is $e^{-\tau}$.\nomeqref {1.1}
-		\nompageref{4}
+		\nompageref{5}
   \item [{Quasar}]\begingroup It's bright, OK?\nomeqref {1.1}
 		\nompageref{2}
   \item [{Redshift}]\begingroup A quantity commonly used to refer to cosmic periods of time or distances. The redshift of an object or location in space is defined as the fractional increase in wavelength that a photon undergoes due to the expansion of the Universe while travelling from the object or location to us.\nomeqref {1.0}
 		\nompageref{2}
   \item [{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}
-		\nompageref{178}
+		\nompageref{184}
 
 \end{thenomenclature}
