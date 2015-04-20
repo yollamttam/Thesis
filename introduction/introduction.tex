@@ -17,7 +17,7 @@
 
 Oh, you know, stars 'n' stuff.
 
-\section{The Shoulders of Giants}
+\section{The Shoulders of Giants} \label{sec:CosmicContext}
 
 Before we begin, it is first worth appreciating the difficulty of what we are trying to do. Essentially, we care about measuring the properties of the intergalactic gas -- not stars or galaxies -- when the Universe was only $\sim$1 billion years old, a seemingly impossible task. Fortunately, we are given the invaluable gift that light travels at a finite speed and, as such, if we look at distant objects, we see them as they were in the past. Therefore, if we look at the at the gas between galaxies $\sim$13 billion light years away from us, we will see it as it was roughly 13 billion years ago, when the Universe was only 1 billion years old. This means that, in principle, this information of how the young IGM evolved is directly available to us. However, even taking this into account, the intergalactic gas we care about is not bright and it is located $\text{extremely}^{\text{extremely}}$ far away, so how are we supposed to observe it? An exciting aspect of studying the Epoch of Reionization is that, when confronted with such a seemingly impossible task, experts in the field have developed many different creative approaches toward constraining the properties of the young IGM in order to learn about the Epoch of Reionization. It is this impressive body of work that we aim to build upon. We discuss a selection of the existing and future methods for constraining the EoR in this chapter.
 
@@ -134,15 +134,14 @@ where $\delta \equiv (\rho - \bar{\rho})/\bar{\rho}$ is the baryon overdensity i
 &= \dfrac{\pi e^2}{m_e c}\dfrac{f_{\alpha}\lambda_{\alpha}}{H(z)} \dfrac{R_4 \bar{n}_{\text{tot}}^{2}(z)}{\Gamma_{\text{HI}}} (1+\delta)^{2-0.7(\gamma-1)}. \label{eq:tauGPfinal}
 \end{align}
 
-At this point, we have an expression for the \lya\ optical depth in terms of several properties of the IGM. The primary unknown in the above expression is the photoionization rate, which depends on the number, intensity, and proximity of ionizing sources. A common assumption in these types of analyses is that the photoionization rate is approximately spatially uniform. This seems like a plausible assumption in a post-reionization Universe, when any given gas parcel can receive ionizing radiation from hundreds of sources. With this approximation, the observed mean transmission in a region of the spectrum is akin to an average of Eq. \ref{eq:tauGPfinal} over the density field:
+Finally, we have an expression for the \lya\ optical depth in terms of several properties of the IGM. The primary unknown in the above expression is the photoionization rate, which is a very complicated parameter which depends on the number, intensity, spectrum, and proximity of ionizing sources among other things. A common assumption in these types of analyses is that the photoionization rate is approximately spatially uniform. This seems like a plausible assumption in a post-reionization Universe, when any given gas parcel can receive ionizing radiation from hundreds of sources. On the other hand, early in reionization, the Universe is opaque to ionizing radiation and gas parcels tend to only see sources within their own ionized regions. Regardless, with this approximation, the observed mean transmission in a region of the spectrum is akin to an average of Eq. \ref{eq:tauGPfinal} over the density field:
 
 \begin{align}
 \left\langle F \right\rangle &= \int \dd \delta\ e^{-\tau(\delta)} P(\delta) \equiv e^{-\tau_{\text{eff}}}.
 \end{align}
 
 
- As such, an intriguing question is, if you have a model for the probability distribution of the underlying density field, what (uniform) value of $\Gamma_{\text{HI}}$ will yield a value for $\left\langle F \right\rangle$ that is consistent with observations? This question has received a lot of attention ({\bf cites}) and has led to many measurements of the photoionization rate. With estimates of the photoionization rate in hand, we can utilize Eq. \ref{eq:xHI} in order to obtain measurements of the IGM neutral fraction in each redshift bin in order to gauge the progress of the EoR. Results for measurements of $\Gamma_{\text{HI}}$ and $\axhi$ via this method, performed by \cite{Fan2006a}, are shown in Figure \ref{fig:tauEffResults}. This figure demonstrates that, using $\tau_{\text{eff}}$ and the assumption of ionization equilibrium, estimate of the neutral fraction are exceedingly small for $z \lesssim 6$. This has played a large part in the common wisdom that reionization must have completed by $z = 6$. 
-
+ As such, an intriguing question is, if you have a model for the probability distribution of the underlying density field, what (uniform) value of $\Gamma_{\text{HI}}$ will yield a value for $\left\langle F \right\rangle$ that is consistent with observations? This question has received a lot of attention ({\bf cites}) and has led to many measurements of the photoionization rate. With estimates of the photoionization rate in hand, we can utilize Eq. \ref{eq:xHI} in order to obtain measurements of the IGM neutral fraction in each redshift bin in order to gauge the progress of the EoR. Results for measurements of $\Gamma_{\text{HI}}$ and $\axhi$ via this method, performed by \cite{Fan2006a}, are shown in Figure \ref{fig:tauEffResults}. This figure demonstrates that, using $\tau_{\text{eff}}$ and the assumption of ionization equilibrium, estimates of the neutral fraction are exceedingly small for $z \lesssim 6$. This argument has played a large part in forming the common knowledge that reionization has ended by $z = 6$. 
 
 \begin{figure}[h]
   \centering
@@ -153,15 +152,18 @@ At this point, we have an expression for the \lya\ optical depth in terms of sev
 \end{figure}
 
 
+Despite the widespread analysis of $\tau_{\text{eff}}$ in constraining the end of reionization, the interpretation of $\tau_{\text{eff}}$ is quite complicated.\footnote{For a more thorough discussion of controversial aspects of these constraints, see the intro for \cite{McGreer:2011dm}.} First, accepting the assumption of the IGM being in ionization equilibrium with a uniform $\Gamma_{\text{HI}}$ is tantamount to assuming that reionization has ended. Specifically, as discussed in \S \ref{sec:CosmicContext}, reionization is likely a highly inhomogeneous process with ionized bubbles forming around the brightest sources, growing, and eventually overlapping. During the period prior to complete overlap, regions of neutral hydrogen will be shielded from the ionizing radiation while ionized bubbles will experience a very large $\Gamma_{\text{HI}}$. This is not reflected in Eq. \ref{eq:IonEquilibrium} and so we expect conclusions derived from this method to be unreliable when we begin to push up against the end of reionization. Additionally, interpretation of the level of flux in quasar spectra in the context of reionization is further complicated by the fact that quasars likely reside in very atypical parts of the Universe. Specifically, \cite{Lidz:2007mz} show that it is likely that many quasar lines of sight will pass through mostly ionized gas even up to neutral fractions of $\axhi \sim 0.5$. 
 
-\cite{fan2002evolution}
+%\subsubsection{Dark Gap Sizes}
+%
+%Yeah, so the main point we want to (briefly) drive home here is that previous constraints on $\axhi$ from the use of dark gap statistics probably assumed a uniform $\Gamma_{\text{HI}}$, which is equivalent to assuming reionization has already ended anyway. 
+%
+%Fan says imperfect sky subtraction in regions with strong OH lines can cause significant residuals resulting in an \textit{underestimate} in the dark gap size. Although, it seems like they don't allow any room for noise fluctuations in what they constitute a dark gap???
 
-
-We probably want to mention in this section things about how quasars are in special zones and are more likely to have purely ionized lines of sight than random lines of sight through the Universe. 
 
 \subsubsection{Dark Pixel Covering Fraction}
 
-As demonstrated in the previous section, interpreting measurements of the effective optical depth in the context of reionization is complicated and model-dependent. However, an alternative approach is to consider what constraints can be made without resorting to model-dependent assumptions. In this regard, an important method in estimating $\axhi$ from high-redshift quasar observations is the dark pixel covering fraction. This approach is rooted in the fact that neutral parcels of gas are certain to result in saturated absorption in quasar spectra due to their optical depths being $\tau_{\text{HI}} \gtrsim 10^4$ (Eq. \ref{eq:tauGP}). Therefore, a reliable upper bound on the neutral fraction at a given redshift can be estimated by the fraction of pixels in quasar spectra that are completely absorbed at that redshift. 
+As demonstrated in the previous section, interpreting measurements of the effective optical depth in the context of reionization is complicated and often relies on suspicious . However, an alternative approach is to consider what constraints can be made without resorting to model-dependent assumptions. In this regard, an important method in estimating $\axhi$ from high-redshift quasar observations is the dark pixel covering fraction. This approach is rooted in the fact that neutral parcels of gas are certain to result in saturated absorption in quasar spectra due to their optical depths being $\tau_{\text{HI}} \gtrsim 10^4$ (Eq. \ref{eq:tauGP}). Therefore, a reliable upper bound on the neutral fraction at a given redshift can be estimated by the fraction of pixels in quasar spectra that are completely absorbed at that redshift. 
 
 An obvious drawback of this method is that, at $z \sim 6$, overdense yet ionized regions can very well result in saturated absorption as well and significantly increase the upper bound on the neutral fraction. One approach to combat this effect is to incorporate the \lyb\ forest into the analysis. The optical depth for Lyman-series transitions scales as $f\lambda$, where $f$ is the oscillator strength of the transition and $\lambda$ is the corresponding wavelength. Therefore, the analogous expression of Eq. \ref{eq:tauGP} for \lyb\ is:
 
@@ -190,7 +192,7 @@ Regardless, \cite{McGreer:2011dm} and \cite{McGreer:2014qwa} apply the dark-pixe
 \end{figure}
 
 
-\subsubsection{Dark Gap Sizes}
+
 \subsubsection{Damping Wing Redward of \lya}
 
 Much of the difficulties in using the \lya\ forest to constrain the timing of the EoR can be boiled down to the following problem: interpreting \lya\ absorption in high-redshift quasar spectra is difficult because both neutral and ionized gas can result in saturated absorption. Therefore, it is worth asking if there are any ways to break this degeneracy in \lya\ absorption in order to determine which absorption is likely due to neutral hydrogen. One potential approach toward this goal, which has received much attention (\cite{Chornock:2013una}, \cite{Chornock:2014fva}, \cite{Mortlock2011}, \cite{Bolton:2011vb}), is looking for the hydrogen damping wing redward of the \lya\ line. 
@@ -245,11 +247,11 @@ It is worth pointing out, however, that the method of searching for the damping 
 
 % There is always a small damping of the oscillations by the radiation reaction force. I think this basically means that, since the charge is accelerating, it must be emitting radiation and losing energy and therefore its motion must be damped. Tau in this context is the time for radiation to cross a distance comparable to the size of the classical electron radius
 
-
+\subsubsection{IGM Temperature?}
 
 \subsection{The 21-cm Line}
 \subsection{The Cosmic Microwave Background}
-\subsection{\lya Emitters}
+\subsection{\lya\ Emitters}
 \subsection{Luminosity Function Measurements}
 
 \section{Where We Stand}
