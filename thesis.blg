@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: frontmatter/dedication.aux
@@ -14,7 +14,7 @@ A level-1 auxiliary file: backmatter/appendix.aux
 A level-1 auxiliary file: backmatter/glossary.aux
 The style file: plainnat.bst
 Database file #1: ./backmatter/references.bib
-Repeated entry---line 488 of file ./backmatter/references.bib
+Repeated entry---line 507 of file ./backmatter/references.bib
  : @article{Chornock:2014fva
  :                          ,
 I'm skipping whatever remains of this entry
@@ -135,45 +135,45 @@ Warning--empty journal in Rahmati:2013hsa
 Warning--empty journal in Salvaterra:2015gpa
 Warning--empty journal in Taylor:2013qia
 Warning--empty journal in Worseck:2014fya
-You've used 53 entries,
+You've used 54 entries,
             2773 wiz_defined-function locations,
-            1153 strings with 18799 characters,
-and the built_in function-call counts, 26470 in all, are:
-= -- 2257
-> -- 1916
+            1160 strings with 19062 characters,
+and the built_in function-call counts, 27077 in all, are:
+= -- 2309
+> -- 1964
 < -- 21
-+ -- 648
-- -- 594
-* -- 2309
-:= -- 4273
-add.period$ -- 192
-call.type$ -- 53
-change.case$ -- 342
-chr.to.int$ -- 52
-cite$ -- 121
-duplicate$ -- 1077
-empty$ -- 1903
-format.name$ -- 676
-if$ -- 5420
++ -- 664
+- -- 609
+* -- 2369
+:= -- 4370
+add.period$ -- 196
+call.type$ -- 54
+change.case$ -- 350
+chr.to.int$ -- 53
+cite$ -- 123
+duplicate$ -- 1098
+empty$ -- 1943
+format.name$ -- 692
+if$ -- 5544
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 53
-newline$ -- 306
-num.names$ -- 212
-pop$ -- 613
+missing$ -- 54
+newline$ -- 312
+num.names$ -- 216
+pop$ -- 626
 preamble$ -- 1
-purify$ -- 289
+purify$ -- 296
 quote$ -- 0
-skip$ -- 849
+skip$ -- 865
 stack$ -- 0
-substring$ -- 712
-swap$ -- 52
+substring$ -- 735
+swap$ -- 54
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 583
+type$ -- 594
 warning$ -- 15
-while$ -- 196
+while$ -- 200
 width$ -- 0
-write$ -- 732
+write$ -- 747
 (There was 1 error message)

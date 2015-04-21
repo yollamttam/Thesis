@@ -1,4 +1,4 @@
-\begin{thebibliography}{53}
+\begin{thebibliography}{54}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -54,6 +54,15 @@ J.~S. {Bolton} and M.~G. {Haehnelt}.
   systems}.
 \newblock \emph{MNRAS}, 429:\penalty0 1695--1704, February 2013.
 \newblock \doi{10.1093/mnras/sts455}.
+
+\bibitem[{Bolton} et~al.(2010){Bolton}, {Becker}, {Wyithe}, {Haehnelt}, and
+  {Sargent}]{BoltonQuasar}
+J.~S. {Bolton}, G.~D. {Becker}, J.~S.~B. {Wyithe}, M.~G. {Haehnelt}, and
+  W.~L.~W. {Sargent}.
+\newblock {A first direct measurement of the intergalactic medium temperature
+  around a quasar at z = 6}.
+\newblock \emph{MNRAS}, 406:\penalty0 612--625, July 2010.
+\newblock \doi{10.1111/j.1365-2966.2010.16701.x}.
 
 \bibitem[Bolton et~al.(2011)Bolton, Haehnelt, Warren, Hewett, Mortlock,
   et~al.]{Bolton:2011vb}
