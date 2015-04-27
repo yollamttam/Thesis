@@ -292,13 +292,21 @@ The quantity $\Delta v_{\text{D}}$ is known as the ``Doppler parameter" and is t
 \end{align}
 where $H(a,v)$ is known as the Hjerting function \gloss{Hjerting Function}{Also known as the \textit{Voigt Function}, this function is commonly used in describing line profiles which incorporate Doppler broadening and the natural line width. This function is very relevant when studying the hydrogen damping wing.} or the Voigt function\gloss{Voigt Function}{Also known as the \textit{Hjerting Function}, this function is commonly used in describing line profiles which incorporate Doppler broadening and the natural line width. This function is very relevant when studying the hydrogen damping wing.}. So finally, we have obtained an expression for the \lya\ line profile incorporating the natural line width and Doppler broadening. The profile is complex, but nonetheless, it contains information about the gas temperature and, given an observation of an absorption line, we should be able to perform fits to this profile in order to infer the temperature of the IGM.
 
+In Figure \ref{fig:QuasarProximityTemp}, \cite{BoltonQuasar} look for \lya\ absorption lines in the proximity zones of high-redshift quasars in order to fit for the associated Doppler parameter and make inferences about the temperature. The top panel shows the fractional transmission for a mock quasar spectrum. The dashed curves indicate regions where absorption-line fitting was carried out and the vertical arrows indicate where the line centers were found from the fits. The second and third panel show the underlying temperature and density field, respectively. The bottom panel shows the true spectrum in question along with the same information regarding the line profile fits. These authors were able to use these fits to make inferences about the temperature of the IGM nearby the quasar. From these temperature measurements, and through utilizing Eq. \ref{eq:dtdt}, these authors were able to place interesting limits on the ending of reionization ($z_{\text{H}} <  9$ assuming that the quasar reionizes its vicinity and Pop II stars drive reionization). This specific measurement is very difficult, however. The argument is essentially that the inferred temperature of the gas is too hot for reionization to have ended long before $z = 9$, otherwise the gas would have had more time to cool below the measured temperature. However, the regions nearby quasars should see a significantly-enhanced ionization field and all constraints made from measurements within this region hinge on ones ability to accurately account for such effects. 
 
-This procedure has been applied to measure the temperature of the IGM at a variety of redshifts ({\bf cites}). Alternatively, Lidz {\bf cite} proposed using {\bf something} wavelet analysis as a measure of small-scale structure which is also indicative of the temperature. However, these analyses all depend on the \lya\ forest having significant transmission. While this is true for $z < 5$, for $z > 5$ the picture is flipped long periods of absorption are punctuated by some transmission. 
+
+The aforementioned technique for measuring the temperature is useful, but has the drawback that it requires a certain level of transmission in the quasar spectra in order to confidently fit a single absorption-line profile. However, at $z > 5$, individual absorption features blend together and the forest becomes somewhat inverted where, instead of stretches of transmission being punctuated with absorption features, stretches of absorption are punctuated with transmission features. this renders the goal of fitting for individual Voigt profiles impossible in the IGM. This also explains why \ref{BoltonQuasar} analyze the nearby a high-redshift quasar, where the transmission is enhanced due to the strengthened ionization field. 
+
+Zaldarriaga (2002), Theuns \& Zaroubi (2000)
+
+{\bf we may want to look for a more detailed explanation of the $\frac{\dd T}{\dd t}$ expression. }
+
+This procedure has been applied to measure the temperature of the IGM at a variety of redshifts ({\bf cites}). Alternatively, Lidz {\bf cite} proposed using Morlet wavelet analysis as a measure of small-scale structure which is also indicative of the temperature. However, these analyses all depend on the \lya\ forest having significant transmission. While this is true for $z < 5$, for $z > 5$ the picture is flipped long periods of absorption are punctuated by some transmission. 
 
  
 % Maybe we can defer discussion of this equation to chapter 3?
 \begin{align}
-\dfrac{\dd T}{\dd t} &= -2HT + \dfrac{2T}{3(1+\delta)}\dfrac{\dd \delta}{\dd t} + \dfrac{T}{\mu} \dfrac{\dd \mu}{\dd t} + \dfrac{2\mu m_p}{3\rho k_B}(\mathcal{H} - \Lambda)
+\dfrac{\dd T}{\dd t} &= -2HT + \dfrac{2T}{3(1+\delta)}\dfrac{\dd \delta}{\dd t} + \dfrac{T}{\mu} \dfrac{\dd \mu}{\dd t} + \dfrac{2\mu m_p}{3\rho k_B}(\mathcal{H} - \Lambda) \label{eq:dtdt}
 \end{align}
 
 \begin{figure}[h]
@@ -306,11 +314,11 @@ This procedure has been applied to measure the temperature of the IGM at a varie
   \includegraphics[width=11cm]{BoltonIGMTemperature_Fig2.ps}
   \includegraphics[width=11cm]{BoltonIGMTemperature_Fig2b.ps}
   \caption{This figure shows mock spectra, and corresponding simulated IGM properties, from \cite{BoltonQuasar} in the top four panels. The bottom panel shows the observed spectrum from SDSS J0818+1722, which \cite{BoltonQuasar} use in order to make temperature measurements inside the proximity zone. Dashed lines indicate regions where Voigt-profile fitting was performed and downward arrows indicate the detected centers of the Voigt profiles.}
-  \label{fig:todo}
+  \label{fig:QuasarProximityTemp}
 \end{figure}
 
 
-One option here is to structure this section saying that people typically use something related to the Doppler widths in order to infer the temperature. However, at $z \gtrsim 5$, the forest becomes so absorbed that it inverted, in a sense: long periods of saturated absorption are punctuated with transmission spikes rather than the other way around. This makes Voigt-profile fitting impossible. This has kind of been a problem in measuring the temperature of the $z \gtrsim 5$ IGM, with some people using proximity zones of quasars. These are probably pretty special regions, though, hard to back out information on the IGM as a whole. However, Lidz is a boss and knows how to do it. 
+One option here is to structure this section saying that people typically use something related to the Doppler widths in order to infer the temperature. However, at $z \gtrsim 5$, the forest becomes so absorbed that it inverted, in a sense: long periods of saturated absorption are punctuated with transmission spikes rather than the other way around. This makes Voigt-profile fitting impossible. This has kind of been a problem in measuring the temperature of the $z \gtrsim 5$ IGM, with some people using proximity zones of quasars. These are probably pretty special regions, though, hard to back out information on the IGM as a whole. However, Lidz is a boss and knows how to do it. ({\bf this should be described be 0909.5210}) 
 
 
 \subsection{The 21-cm Line}

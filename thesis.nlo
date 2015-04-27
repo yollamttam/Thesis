@@ -6,9 +6,9 @@
 \nomenclatureentry{ZpLorentzian Distribution@[{Lorentzian Distribution}]\begingroup Probability distribution for the ratio of two standard-normal-distributed variables. This distribution also describes the intrinsic line profile for absorption lines.\nomeqref {1.21}|nompageref}{13}
 \nomenclatureentry{ZpHjerting Function@[{Hjerting Function}]\begingroup Also known as the \textit {Voigt Function}, this function is commonly used in describing line profiles which incorporate Doppler broadening and the natural line width. This function is very relevant when studying the hydrogen damping wing.\nomeqref {1.32}|nompageref}{18}
 \nomenclatureentry{ZpVoigt Function@[{Voigt Function}]\begingroup Also known as the \textit {Hjerting Function}, this function is commonly used in describing line profiles which incorporate Doppler broadening and the natural line width. This function is very relevant when studying the hydrogen damping wing.\nomeqref {1.32}|nompageref}{18}
-\nomenclatureentry{Xe 11HUGS@[{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}|nompageref}{189}
-\nomenclatureentry{Zt 2MASS@[{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}|nompageref}{189}
-\nomenclatureentry{Am M@[{M}]\begingroup Mass of object\nomeqref {5.0}|nompageref}{189}
-\nomenclatureentry{Gm $\tau$@[{$\tau$}]\begingroup Optical depth\nomeqref {5.0}|nompageref}{189}
-\nomenclatureentry{Rs $\ ^{*}$@[{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}|nompageref}{189}
-\nomenclatureentry{Ss $\astrosun$@[{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}|nompageref}{189}
+\nomenclatureentry{Xe 11HUGS@[{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}|nompageref}{190}
+\nomenclatureentry{Zt 2MASS@[{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}|nompageref}{190}
+\nomenclatureentry{Am M@[{M}]\begingroup Mass of object\nomeqref {5.0}|nompageref}{190}
+\nomenclatureentry{Gm $\tau$@[{$\tau$}]\begingroup Optical depth\nomeqref {5.0}|nompageref}{190}
+\nomenclatureentry{Rs $\ ^{*}$@[{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}|nompageref}{190}
+\nomenclatureentry{Ss $\astrosun$@[{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}|nompageref}{190}
