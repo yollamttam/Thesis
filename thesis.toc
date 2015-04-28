@@ -16,6 +16,7 @@
 \contentsline {subsubsection}{\numberline {1.2.1.2}Dark Pixel Covering Fraction}{10}{subsubsection.1.2.1.2}
 \contentsline {subsubsection}{\numberline {1.2.1.3}Damping Wing Redward of Ly$\tmspace +\thinmuskip {.1667em}\alpha $}{12}{subsubsection.1.2.1.3}
 \contentsline {subsubsection}{\numberline {1.2.1.4}IGM Temperature}{16}{subsubsection.1.2.1.4}
+\contentsline {subsubsection}{\numberline {1.2.1.5}Motivation for this Work}{20}{subsubsection.1.2.1.5}
 \contentsline {subsection}{\numberline {1.2.2}The 21-cm Line}{21}{subsection.1.2.2}
 \contentsline {subsection}{\numberline {1.2.3}The Cosmic Microwave Background}{21}{subsection.1.2.3}
 \contentsline {subsection}{\numberline {1.2.4}Ly$\tmspace +\thinmuskip {.1667em}\alpha $\ Emitters}{21}{subsection.1.2.4}
@@ -79,5 +80,5 @@
 \contentsline {chapter}{\numberline {5}Conclusion}{186}{chapter.5}
 \contentsline {section}{\numberline {5.1}Wrapping up\ldots }{186}{section.5.1}
 \contentsline {chapter}{\numberline {A}Some Appendix}{190}{Appendix.1.A}
-\contentsline {chapter}{Glossary}{191}{chapter*.63}
-\contentsline {chapter}{References}{192}{chapter*.64}
+\contentsline {chapter}{Glossary}{191}{chapter*.62}
+\contentsline {chapter}{References}{192}{chapter*.63}

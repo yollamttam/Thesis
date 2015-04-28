@@ -1,4 +1,4 @@
-\begin{thebibliography}{54}
+\begin{thebibliography}{56}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -315,6 +315,20 @@ Brant~E. Robertson, Steven~R. Furlanetto, Evan Schneider, Stephane Charlot,
   Deep Field Campaign}.
 \newblock \emph{Astrophys.J.}, 768:\penalty0 71, 2013.
 \newblock \doi{10.1088/0004-637X/768/1/71}.
+
+\bibitem[Rybicki and Lightman(1979)]{rybicki1979radiative}
+G.B. Rybicki and A.P. Lightman.
+\newblock \emph{Radiative Processes in Astrophysics}.
+\newblock A Wiley-Interscience publication. Wiley, 1979.
+\newblock ISBN 9780471827597.
+\newblock URL \url{http://books.google.com/books?id=LtdEjNABMlsC}.
+
+\bibitem[Sakurai and Napolitano(2011)]{sakurai2011modern}
+J.J. Sakurai and J.~Napolitano.
+\newblock \emph{Modern Quantum Mechanics}.
+\newblock Classical Physics Textbook. Addison-Wesley, 2011.
+\newblock ISBN 9780805382914.
+\newblock URL \url{http://books.google.com/books?id=N4I-AQAACAAJ}.
 
 \bibitem[Salvaterra(2015)]{Salvaterra:2015gpa}
 R.~Salvaterra.

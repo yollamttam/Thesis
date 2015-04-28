@@ -261,6 +261,25 @@
   Timestamp                = {2015.04.01}
 }
 
+@Article{BoltonQuasar,
+  Title                    = {{A first direct measurement of the intergalactic medium temperature around a quasar at z = 6}},
+  Author                   = {{Bolton}, J.~S. and {Becker}, G.~D. and {Wyithe}, J.~S.~B. and {Haehnelt}, M.~G. and {Sargent}, W.~L.~W.},
+  Journal                  = {MNRAS},
+  Year                     = {2010},
+
+  Month                    = jul,
+  Pages                    = {612-625},
+  Volume                   = {406},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2010MNRAS.406..612B},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1111/j.1365-2966.2010.16701.x},
+  Eprint                   = {1001.3415},
+  Keywords                 = {methods: numerical, intergalactic medium, quasars: absorption lines},
+  Primaryclass             = {astro-ph.CO}
+}
+
 @Article{2013MNRAS.429.1695B,
   Title                    = {{On the rapid demise of Ly {$\alpha$} emitters at redshift {$z \gtrsim 7$} due to the increasing incidence of optically thick absorption systems}},
   Author                   = {{Bolton}, J.~S. and {Haehnelt}, M.~G.},
@@ -2527,6 +2546,18 @@
   Owner                    = {matt},
   Primaryclass             = {astro-ph.CO},
   Timestamp                = {2015.04.01}
+}
+
+@Book{sakurai2011modern,
+  Title                    = {Modern Quantum Mechanics},
+  Author                   = {Sakurai, J.J. and Napolitano, J.},
+  Publisher                = {Addison-Wesley},
+  Year                     = {2011},
+  Series                   = {Classical Physics Textbook},
+
+  ISBN                     = {9780805382914},
+  Lccn                     = {2010022349},
+  Url                      = {http://books.google.com/books?id=N4I-AQAACAAJ}
 }
 
 @Article{Salvaterra:2015gpa,
