@@ -2,27 +2,27 @@
 
  \nomgroup{A}
 
-  \item [{M}]\begingroup Mass of object\nomeqref {5.0}\nompageref{190}
+  \item [{M}]\begingroup Mass of object\nomeqref {5.0}\nompageref{191}
 
  \nomgroup{G}
 
   \item [{$\tau$}]\begingroup Optical depth\nomeqref {5.0}
-		\nompageref{190}
+		\nompageref{191}
 
  \nomgroup{R}
 
   \item [{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}
-		\nompageref{190}
+		\nompageref{191}
 
  \nomgroup{S}
 
   \item [{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}
-		\nompageref{190}
+		\nompageref{191}
 
  \nomgroup{X}
 
   \item [{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}
-		\nompageref{190}
+		\nompageref{191}
 
  \nomgroup{Z}
 
@@ -43,6 +43,6 @@
   \item [{Voigt Function}]\begingroup Also known as the \textit {Hjerting Function}, this function is commonly used in describing line profiles which incorporate Doppler broadening and the natural line width. This function is very relevant when studying the hydrogen damping wing.\nomeqref {1.32}
 		\nompageref{18}
   \item [{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}
-		\nompageref{190}
+		\nompageref{191}
 
 \end{thenomenclature}
