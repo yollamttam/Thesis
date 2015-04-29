@@ -1,4 +1,4 @@
-\begin{thebibliography}{56}
+\begin{thebibliography}{58}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -234,12 +234,26 @@ Matthew McQuinn, Lars Hernquist, Matias Zaldarriaga, and Suvendra Dutta.
   2007{\natexlab{a}}.
 
 \bibitem[McQuinn et~al.(2007{\natexlab{b}})McQuinn, Lidz, Zahn, Dutta,
-  Hernquist, et~al.]{McQuinn:2006et}
+  Hernquist, et~al.]{McQuinn2007}
 Matthew McQuinn, Adam Lidz, Oliver Zahn, Suvendra Dutta, Lars Hernquist, et~al.
 \newblock {The Morphology of HII Regions during Reionization}.
 \newblock \emph{Mon.Not.Roy.Astron.Soc.}, 377:\penalty0 1043--1063,
   2007{\natexlab{b}}.
 \newblock \doi{10.1111/j.1365-2966.2007.11489.x}.
+
+\bibitem[McQuinn et~al.(2007{\natexlab{c}})McQuinn, Lidz, Zahn, Dutta,
+  Hernquist, et~al.]{McQuinn:2006et}
+Matthew McQuinn, Adam Lidz, Oliver Zahn, Suvendra Dutta, Lars Hernquist, et~al.
+\newblock {The Morphology of HII Regions during Reionization}.
+\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 377:\penalty0 1043--1063,
+  2007{\natexlab{c}}.
+\newblock \doi{10.1111/j.1365-2966.2007.11489.x}.
+
+\bibitem[Meiksin(2009)]{meiksin2009physics}
+Avery~A Meiksin.
+\newblock The physics of the intergalactic medium.
+\newblock \emph{Reviews of modern physics}, 81\penalty0 (4):\penalty0 1405,
+  2009.
 
 \bibitem[{Mesinger}(2010)]{2010MNRAS.407.1328M}
 A.~{Mesinger}.

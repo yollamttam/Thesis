@@ -15,14 +15,51 @@
 \chapter{First Things First}
 \section{Cosmic Context}\label{sec:CosmicContext}
 
+The topic we will be concerned with in this work is the ``Epoch of Reionization" or ``hydrogen reionization" or ``reionization" or simply the ``EoR". Let us start with a brief description of what this process is, how it relates to the evolution of the Universe as a whole, and what the open problems are regarding reionization that we are trying to solve. 
 
-Oh, you know, stars 'n' stuff.
+
+The problem of reionization arises when trying to reconcile observations of the early Universe with those of the present-day Universe. Specifically, Big Bang nucleosynthesis and observations of the Cosmic Microwave Background (discussed in \S \ref{sec:CMB})\gloss{CMB}{Cosmic Microwave Background. This is the earliest available snapshot of the Universe and is composed of light which has travelled from the surface of last scattering to today, largely unimpeded.} demonstrate that, when the Universe was $\sim$380,000 years old, neutral hydrogen and helium constituted the vast majority of the baryonic matter. However, observations of nearby quasars (specifically, the \lya\ forest, discussed in \S \ref{sec:LyaForest}) demonstrate that the gas between the galaxies, dubbed the intergalactic medium (IGM)\gloss{IGM}{Intergalactic medium. This refers to the gas between galaxies, which constitutes most of the baryonic matter in the Universe.}, today is almost entirely ionized.\footnote{In \S \ref{sec:LyaForest}, we discuss how the lack of \lya\ absorption in quasar spectra is suggestive of a highly-ionized IGM. However, when this was first observed in 1965 (\citealt{1965ApJ...142.1633G}), it was not obvious that this was indicative of an \textit{ionized} IGM rather than a scenario where galaxy formation was so efficient as to remove almost all of the gas from the IGM. See \cite{meiksin2009physics} for a nice review of the physics of the IGM.} Therefore, it must be the case that some very energetic process occurred in the intervening $\sim$13 billion years between these two observations which stripped the electrons from almost all of the atoms in the IGM. We refer to this process as the Epoch of Reionization.
+
+
+Technically, several ionizations have to take place: ionizing hydrogen, singly ionizing helium, and doubly ionizing helium with the required energies per ionization being 13.6 $e$V, 24.6 $e$V, and 54.4 $e$V, respectively. Since the first two processes require roughly the same energy, they are thought to occur concurrently. However, the complete ionization of helium requires four times as much energy as for hydrogen and likely occurs significantly later and as a result of a different process. For this thesis, we focus exclusively on hydrogen ionization and the single ionization of helium and treat the term ``reionization" as being synonymous with this. 
+
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=14cm]{BellUniverse.eps}
+  \caption{(Photo from NASA WMAP science team)}
+  \label{fig:NASAWMAP}
+\end{figure}
+
+
+To help understand where reionization fits into the evolution of the Universe as a whole, we can look at Figure \ref{fig:NASAWMAP}, which shows the qualitative evolution of the Universe starting with the inflation and the CMB on the far left and ending with the present-day Universe on the right and spanning $\sim$13.8 billion years. One of the exciting aspects of reionization is that so little about it is known for sure. However, a best-guess placement of reionization in this figure would be approximately 1 billion years after the Big Bang, likely coinciding with the formation of the first galaxies. 
+
+
+The manner in which reionization progressed is also not known for sure and depends on the specifics of what energetic process is at its root. For example, if ``softer" sources, emitting ionizing radiation in the UV but not X-ray, drove reionization, then these photons will have a relatively high photoionization cross section and will not travel far before ionizing hydrogen in their path. Under this scenario, the state of the Universe during reionization would likely resemble a two-phase medium with ionized regions surrounding the ionizing sources and sharp boundaries between the ionized regions and the neutral IGM. Eventually, as the ionized regions grew, they would overlap until the entire IGM was ionized. This is the expected course for reionization in the event that it is driven by the first galaxies.	
+
+
+If reionization is driven by sources with a ``harder" spectrum, emitting ionizing radiation strongly in X-ray, then the photoionization cross section of these photons will be relatively low. This is because, for photons with $E_{\gamma} \gg 13.6e\text{V}$, the cross section falls off as $\sigma \sim 1/\nu^3$. Because of this, ionizing radiation from these sources will travel \textit{farther} on average before ionizing a hydrogen atom. This will result in transitions between fully-ionized regions and fully-neutral regions being more gradual. This is the expected scenario in the case where reionization is driven by X-ray binaries or quasars. 
+
+
+Additionally, \cite{McQuinn2007} investigate how the morphology of ionized regions depends on how massive the ionizing sources are. In Figure \ref{fig:McQuinnMorph}, \cite{McQuinn2007} show several reionization simulation outputs. Each panel shows the ionization field for a snapshot of a simulation. Black regions are neutral and white regions are ionized. In each row, the fraction of hydrogen atoms in the IGM that are neutral (dubbed the neutral fraction, denoted $\axhi$) is fixed and decreases for lower rows. Each column corresponds to a different mass distribution for the ionizing sources, with the masses essentially increasing as you move rightward (assuming galaxies ionize the Universe). As such, the rightmost column demonstrates a plausible reionization scenario when very rare and massive sources dominate the ionizing photon budget. We can see this results in larger ionized regions for a fixed neutral fraction and sharper boundaries between the neutral and ionized regions. On the other hand, the left-hand columns correspond to a relatively larger contribution to the ionizing photon budget from less-massive sources. The result is a more homogeneous ionization with the ionized regions being smaller on average. 
+
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=14cm]{McQuinnHIITopology.eps}
+  \caption{todo}
+  \label{fig:McQuinnMorph}
+\end{figure}
+
+This discussion serves to emphasize two points: first, there is still significant uncertainty as to the sources of ionizing radiation and, second, knowledge of the size distribution of ionized regions at different points in the reionization process can shed some light on the ionizing sources and is therefore very sought after. 
+
+
 
 \section{The Shoulders of Giants} 
 
 Before we begin, it is first worth appreciating the difficulty of what we are trying to do. Essentially, we care about measuring the properties of the intergalactic gas -- not stars or galaxies -- when the Universe was only $\sim$1 billion years old, a seemingly impossible task. Fortunately, we are given the invaluable gift that light travels at a finite speed and, as such, if we look at distant objects, we see them as they were in the past. Therefore, if we look at the at the gas between galaxies $\sim$13 billion light years away from us, we will see it as it was roughly 13 billion years ago, when the Universe was only 1 billion years old. This means that, in principle, this information of how the young IGM evolved is directly available to us. However, even taking this into account, the intergalactic gas we care about is not bright and it is located extremely far away, so how are we supposed to observe it? An exciting aspect of studying the Epoch of Reionization is that, when confronted with such a seemingly impossible task, experts in the field have developed many different creative approaches toward constraining the properties of the young IGM in order to learn about the Epoch of Reionization. It is this impressive body of work that we aim to build upon. We discuss a selection of the existing and future methods for constraining the EoR in this chapter in order to provide some context and motivation for our work. 
 
-\subsection{The \lya\ Forest}
+\subsection{The \lya\ Forest}\label{sec:LyaForest}
 Arguably the most powerful tool for constraining the high-redshift IGM to date has been the \lya\ forest\nomenclature[Zp]{\lya\ Forest}{This describes the pattern of absorption lines seen blueward of the rest-frame \lya\ line, typically in quasar spectra. These absorption lines can be due to significantly neutral gas in the diffuse IGM or due to dense ionized gas.}. The \lya\ forest results, in part, from another invaluable gift to the field of cosmology: the redshifting of light with the expansion of the Universe. Basically, as the Universe expands, space itself expands and with it the wavelengths of photons travelling through it expand as well. If we know the expansion history of the Universe, and know the intrinsic color of a luminous object, then we can use its \textit{observed} color to determine our distance to the object. Because of this relationship, distances to objects are often measured as a redshift\nomenclature[Zp]{Redshift}{A quantity commonly used to refer to cosmic periods of time or distances. The redshift of an object or location in space is defined as the fractional increase in wavelength that a photon undergoes due to the expansion of the Universe while travelling from the object or location to us.}, defined as the fractional increase in wavelength that a photon experiences when travelling from a given distance to us, denoted by $z$. In other ``words": 
 
 \begin{align}
@@ -328,7 +365,7 @@ This discussion of the \lya\ forest as a tool for constraining the EoR highlight
 Second, we have discussed some difficulty in making measurements of the temperature of the high-redshift IGM. Namely, due to the high levels of absorption in the \lya\ forest of quasar spectra at these redshifts, traditional methods of inferring the IGM temperature are inapplicable except in the highly-complex near-zones of quasars. This motivates the development of a temperature-measurement technique which is applicable to typical regions of the high-redshift IGM. Such a technique is proposed in {\bf cite Lidz} and discussed in \S \ref{sec:IGMTemperature}.
 
 \subsection{The 21-cm Line}
-\subsection{The Cosmic Microwave Background}
+\subsection{The Cosmic Microwave Background}\label{sec:CMB}
 \subsection{\lya\ Emitters}
 \subsection{Luminosity Function Measurements}
 
