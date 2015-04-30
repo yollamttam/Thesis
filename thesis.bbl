@@ -1,4 +1,4 @@
-\begin{thebibliography}{58}
+\begin{thebibliography}{62}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -9,6 +9,12 @@
 P.A.R. Ade et~al.
 \newblock {Planck 2013 results. XVI. Cosmological parameters}.
 \newblock 2013.
+
+\bibitem[Barkana and Loeb(2001)]{barkana2001beginning}
+Rennan Barkana and Abraham Loeb.
+\newblock In the beginning: the first sources of light and the reionization of
+  the universe.
+\newblock \emph{Physics Reports}, 349\penalty0 (2):\penalty0 125--238, 2001.
 
 \bibitem[{Becker} et~al.(2013){Becker}, {Hewett}, {Worseck}, and
   {Prochaska}]{2013MNRAS.430.2067B}
@@ -199,6 +205,15 @@ Hee-Won Lee.
 \newblock \emph{Astrophys.J.}, 772:\penalty0 123, 2013.
 \newblock \doi{10.1088/0004-637X/772/2/123}.
 
+\bibitem[{Lidz} et~al.(2010){Lidz}, {Faucher-Gigu{\`e}re}, {Dall'Aglio},
+  {McQuinn}, {Fechner}, {Zaldarriaga}, {Hernquist}, and {Dutta}]{Lidz2010}
+A.~{Lidz}, C.-A. {Faucher-Gigu{\`e}re}, A.~{Dall'Aglio}, M.~{McQuinn},
+  C.~{Fechner}, M.~{Zaldarriaga}, L.~{Hernquist}, and S.~{Dutta}.
+\newblock {A Measurement of Small-scale Structure in the {$2.2 \leq z \leq
+  4.2$} Ly{$\alpha$} Forest}.
+\newblock \emph{ApJ}, 718:\penalty0 199--230, July 2010.
+\newblock \doi{10.1088/0004-637X/718/1/199}.
+
 \bibitem[Lidz and Malloy(2014)]{Lidz:2014jxa}
 Adam Lidz and Matthew Malloy.
 \newblock {On Modeling and Measuring the Temperature of the z~5 intergalactic
@@ -381,6 +396,13 @@ Jessie Taylor and Adam Lidz.
   reionization?}
 \newblock 2013.
 
+\bibitem[{Theuns} et~al.(2002){Theuns}, {Zaroubi}, {Kim}, {Tzanavaris}, and
+  {Carswell}]{Theuns2002a}
+T.~{Theuns}, S.~{Zaroubi}, T.-S. {Kim}, P.~{Tzanavaris}, and R.~F. {Carswell}.
+\newblock {Temperature fluctuations in the intergalactic medium}.
+\newblock \emph{MNRAS}, 332:\penalty0 367--382, May 2002.
+\newblock \doi{10.1046/j.1365-8711.2002.05316.x}.
+
 \bibitem[Totani et~al.(2006)Totani, Kawai, Kosugi, Aoki, Yamada,
   et~al.]{Totani:2005ng}
 Tomonori Totani, Nobuyuki Kawai, George Kosugi, Kentaro Aoki, Toru Yamada,
@@ -416,6 +438,13 @@ Yidong Xu, Bin Yue, Meng Su, Zuhui Fan, and Xuelei Chen.
   stage of reionization}.
 \newblock \emph{Astrophys.J.}, 781:\penalty0 97, 2014.
 \newblock \doi{10.1088/0004-637X/781/2/97}.
+
+\bibitem[Zaldarriaga(2002)]{zaldarriaga2002searching}
+Matias Zaldarriaga.
+\newblock Searching for fluctuations in the intergalactic medium temperature
+  using the ly$\alpha$ forest.
+\newblock \emph{The Astrophysical Journal}, 564\penalty0 (1):\penalty0 153,
+  2002.
 
 \bibitem[{Zuo} and {Phinney}(1993)]{Zuo}
 L.~{Zuo} and E.~S. {Phinney}.

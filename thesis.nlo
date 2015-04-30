@@ -1,16 +1,17 @@
-\nomenclatureentry{ZpCMB@[{CMB}]\begingroup Cosmic Microwave Background. This is the earliest available snapshot of the Universe and is composed of light which has travelled from the surface of last scattering to today, largely unimpeded.\nomeqref {1.0}|nompageref}{1}
-\nomenclatureentry{ZpIGM@[{IGM}]\begingroup Intergalactic medium. This refers to the gas between galaxies, which constitutes most of the baryonic matter in the Universe.\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{ZCMB@[{CMB}]\begingroup Cosmic Microwave Background. This is the earliest available snapshot of the Universe and is composed of light which has travelled from the surface of last scattering to today, largely unimpeded.\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{ZIGM@[{IGM}]\begingroup Intergalactic medium. This refers to the gas between galaxies, which constitutes most of the baryonic matter in the Universe.\nomeqref {1.0}|nompageref}{1}
 \nomenclatureentry{Zp\lya\ Forest@[{\lya\ Forest}]\begingroup This describes the pattern of absorption lines seen blueward of the rest-frame \lya\ line, typically in quasar spectra. These absorption lines can be due to significantly neutral gas in the diffuse IGM or due to dense ionized gas.\nomeqref {1.0}|nompageref}{6}
 \nomenclatureentry{ZpRedshift@[{Redshift}]\begingroup A quantity commonly used to refer to cosmic periods of time or distances. The redshift of an object or location in space is defined as the fractional increase in wavelength that a photon undergoes due to the expansion of the Universe while travelling from the object or location to us.\nomeqref {1.0}|nompageref}{6}
-\nomenclatureentry{ZpQuasar@[{Quasar}]\begingroup It's bright, OK?\nomeqref {1.1}|nompageref}{6}
+\nomenclatureentry{ZQuasar@[{Quasar}]\begingroup It's bright, OK?\nomeqref {1.1}|nompageref}{6}
 \nomenclatureentry{ZpGRB@[{GRB}]\begingroup Gamma-Ray Burst. They are also really bright, OK?\nomeqref {1.1}|nompageref}{6}
+\nomenclatureentry{ZLyman Series@[{Lyman Series}]\begingroup The series of transitions in an atom where an electron is transitioning to or from the ground state.\nomeqref {1.1}|nompageref}{6}
 \nomenclatureentry{ZpOptical Depth@[{Optical Depth}]\begingroup Optical depth, denoted by $\tau$, is a quantity that describes that likelihood for a photon to be absorbed, usually by a gas. The fraction of photons that will pass through the gas unabsorbed is $e^{-\tau}$.\nomeqref {1.1}|nompageref}{8}
-\nomenclatureentry{ZpLorentzian Distribution@[{Lorentzian Distribution}]\begingroup Probability distribution for the ratio of two standard-normal-distributed variables. This distribution also describes the intrinsic line profile for absorption lines.\nomeqref {1.21}|nompageref}{17}
-\nomenclatureentry{ZpHjerting Function@[{Hjerting Function}]\begingroup Also known as the \textit {Voigt Function}, this function is commonly used in describing line profiles which incorporate Doppler broadening and the natural line width. This function is very relevant when studying the hydrogen damping wing.\nomeqref {1.32}|nompageref}{22}
-\nomenclatureentry{ZpVoigt Function@[{Voigt Function}]\begingroup Also known as the \textit {Hjerting Function}, this function is commonly used in describing line profiles which incorporate Doppler broadening and the natural line width. This function is very relevant when studying the hydrogen damping wing.\nomeqref {1.32}|nompageref}{22}
-\nomenclatureentry{Xe 11HUGS@[{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}|nompageref}{195}
-\nomenclatureentry{Zt 2MASS@[{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}|nompageref}{195}
-\nomenclatureentry{Am M@[{M}]\begingroup Mass of object\nomeqref {5.0}|nompageref}{195}
-\nomenclatureentry{Gm $\tau$@[{$\tau$}]\begingroup Optical depth\nomeqref {5.0}|nompageref}{195}
-\nomenclatureentry{Rs $\ ^{*}$@[{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}|nompageref}{195}
-\nomenclatureentry{Ss $\astrosun$@[{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}|nompageref}{195}
+\nomenclatureentry{ZLorentzian Distribution@[{Lorentzian Distribution}]\begingroup Probability distribution for the ratio of two standard-normal-distributed variables. This distribution also describes the intrinsic line profile for absorption lines.\nomeqref {1.21}|nompageref}{16}
+\nomenclatureentry{ZHjerting Function@[{Hjerting Function}]\begingroup Also known as the \textit {Voigt Function}, this function is commonly used in describing line profiles which incorporate Doppler broadening and the natural line width. This function is very relevant when studying the hydrogen damping wing.\nomeqref {1.33}|nompageref}{21}
+\nomenclatureentry{ZVoigt Function@[{Voigt Function}]\begingroup Also known as the \textit {Hjerting Function}, this function is commonly used in describing line profiles which incorporate Doppler broadening and the natural line width. This function is very relevant when studying the hydrogen damping wing.\nomeqref {1.33}|nompageref}{21}
+\nomenclatureentry{Xe 11HUGS@[{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}|nompageref}{197}
+\nomenclatureentry{Zt 2MASS@[{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}|nompageref}{197}
+\nomenclatureentry{Am M@[{M}]\begingroup Mass of object\nomeqref {5.0}|nompageref}{197}
+\nomenclatureentry{Gm $\tau$@[{$\tau$}]\begingroup Optical depth\nomeqref {5.0}|nompageref}{197}
+\nomenclatureentry{Rs $\ ^{*}$@[{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}|nompageref}{197}
+\nomenclatureentry{Ss $\astrosun$@[{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}|nompageref}{197}

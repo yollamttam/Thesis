@@ -489,7 +489,7 @@
 	    \ifthenelse{\equal{#1}{X}}{%
 	     \item[\textbf{Other Symbols}]}{{%    X - Other Symbols
 	    \ifthenelse{\equal{#1}{Z}}{%
-	     \item[\textbf{Acronyms}]}%              Z - Acronyms
+	     \item[\textbf{Acronyms}]}%              Z - Terms
               			{{}}}}}}}}}}
 
 %: ------------------------------------------------------------------------

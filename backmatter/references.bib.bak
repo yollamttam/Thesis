@@ -34,6 +34,18 @@
   Slaccitation             = {%%CITATION = ARXIV:1303.5076;%%}
 }
 
+@Article{barkana2001beginning,
+  Title                    = {In the beginning: the first sources of light and the reionization of the universe},
+  Author                   = {Barkana, Rennan and Loeb, Abraham},
+  Journal                  = {Physics Reports},
+  Year                     = {2001},
+  Number                   = {2},
+  Pages                    = {125--238},
+  Volume                   = {349},
+
+  Publisher                = {Elsevier}
+}
+
 @Article{Beardsley2012,
   Title                    = {{The EoR Sensitivity of the 128 Antenna Murchison
  Widefield Array}},
@@ -1993,6 +2005,18 @@
   Primaryclass             = {astro-ph},
   Slaccitation             = {%%CITATION = ASTRO-PH/0512263;%%},
   Timestamp                = {2015.04.01}
+}
+
+@Article{meiksin2009physics,
+  Title                    = {The physics of the intergalactic medium},
+  Author                   = {Meiksin, Avery A},
+  Journal                  = {Reviews of modern physics},
+  Year                     = {2009},
+  Number                   = {4},
+  Pages                    = {1405},
+  Volume                   = {81},
+
+  Publisher                = {APS}
 }
 
 @Article{2010MNRAS.407.1328M,
