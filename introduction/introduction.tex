@@ -287,7 +287,7 @@ It is worth pointing out, however, that the method of searching for the damping 
 
 % There is always a small damping of the oscillations by the radiation reaction force. I think this basically means that, since the charge is accelerating, it must be emitting radiation and losing energy and therefore its motion must be damped. Tau in this context is the time for radiation to cross a distance comparable to the size of the classical electron radius
 
-\subsubsection{IGM Temperature}
+\subsubsection{IGM Temperature}\label{sec:IntroIGMTemperature}
 
 A detection of a damping wing redward of the \lya\ line in a quasar spectra would constitute a ``smoking gun" for significantly-neutral regions in the IGM, provided you could rule out the possibility of a DLA source. However, in the absence of a smoking gun, a \textit{warm} gun could be an indication of reionization having completed recently. Specifically, temperature measurements can provide us with additional insights about the process of reionization. The EoR will heat freshly-ionized gas to temperatures of $>20,000$K, which will subsequently retain a thermal memory of the reionization process for some time. However, given enough time, the gas will cool to a point where the thermal memory is erased. In either case, it should be possible to turn a measurement of the temperature of the IGM into a constraint on the timing of reionization. In order to do this, we need two main ingredients: a method of estimating the temperature of high-redshift gas and an understanding of how the temperature of the gas evolves with time after being ionized. 
 
@@ -365,16 +365,95 @@ Second, we have discussed some difficulty in making measurements of the temperat
 
 \subsection{The 21-cm Line}
 
-The 21-cm line refers to the hyperfine splitting of the hydrogen atom where, due to the interaction between the magnetic dipole moments\gloss{Magnetic Dipole Moment}{The magnetic dipole moment of an object is related to the torque it would experience when placed in an external magnetic field. Magnetic moments are often relevant for bar magnets or loops of current. In the context of the hydrogen atom, the spin of the proton and electric render them as a sort of ``loop of current'' which gives them their own magnetic dipole moment.} of the electron and proton in the hydrogen atom, a small energy difference exists between the configuration where the spins of the electron and proton are aligned versus where they are anti-aligned. The configuration where the spins are anti-aligned (and magnetic dipole moments are therefore aligned) is energetically favored and has a lower energy by $\Delta E \approx 6\times 10^{-6}$eV.\footnote{This is in contrast to a \lya\ photon which has energy $E \approx 10.2\text{eV}$, more than a million times greater.} Thus, spin-flip transitions will result in (from) the emission (absorption) of a photon with $\lambda \approx 21\cm$, $\nu \approx 1420\mhz$. 
+The 21-cm line refers to the hyperfine splitting of the hydrogen atom where, due to the interaction between the magnetic dipole moments\gloss{Magnetic Dipole Moment}{The magnetic dipole moment of an object is related to the torque it would experience when placed in an external magnetic field. Magnetic moments are often relevant for bar magnets or loops of current. In the context of the hydrogen atom, the spin of the proton and electric render them as a sort of ``loop of current'' which gives them their own magnetic dipole moment.} of the electron and proton in, a small energy difference exists between the configuration where the spins of the electron and proton are aligned versus where they are anti-aligned. The configuration where the spins are anti-aligned (and magnetic dipole moments are therefore aligned) is energetically favored and has a lower energy by $\Delta E \approx 6\times 10^{-6}$eV.\footnote{This is in contrast to a \lya\ photon which has energy $E \approx 10.2\text{eV}$, more than a million times greater.} Thus, spin-flip transitions will result in (from) the emission (absorption) of a photon with $\lambda \approx 21\cm$, $\nu \approx 1420\mhz$. This is shown schematically in Figure \ref{fig:21cmline}. 
 
 
-As we discussed in \S \ref{sec:LyaForest}, the cross section or the \lya\ transition is extremely large, which presents us with a host of difficulties. However, the 21-cm transition is a ``forbidden'' transition\gloss{Forbidden Transition}{This refers to atomic transitions which are not allowed under the quantum mechanical selection rules under the dipole approximation. Essentially, this means the transitions are relatively extremely rare compared to ``allowed'' transitions.}, meaning its rate of occurrence is extremely low. As a result, the Universe is essentially transparent to 21-cm photons, allowing them to travel unimpeded from distant neutral hydrogen to us. All together, this means that hydrogen atoms will ``glow'' very dimly with 21-cm radiation, which will then travel unimpeded to us, allowing us to, in principal, observe the hydrogen density field directly up to redshifts of $z \gtrsim 50$, \textit{far beyond the timescale of reionization}.  
+As we discussed in \S \ref{sec:LyaForest}, the cross section or the \lya\ transition is extremely large, which presents us with a host of difficulties. However, the 21-cm transition is a ``forbidden'' transition\gloss{Forbidden Transition}{This refers to atomic transitions which are not allowed under the quantum mechanical selection rules under the dipole approximation. Essentially, this means the transitions are relatively extremely rare compared to ``allowed'' transitions.}, meaning its rate of occurrence is extremely low. As a result, the Universe is essentially transparent to 21-cm photons, allowing them to travel unimpeded from distant neutral hydrogen to us. In principal, this allows us to observe the hydrogen density field directly up to redshifts of $z \gtrsim 50$, \textit{far beyond the timescale of reionization} and far beyond the reach of the \lya\ forest. Measurements of the evolution of the 21-cm signal with redshift would allow us to construct something like a reionization ``movie'', which would constitute the ultimate constraint on reionization. 
+
+
+Mapping the intensity of the 21-cm line during reionization avoids many other drawbacks of the \lya\ line as well. Namely, intensity mapping would provide us with a 3D volume of intensity values, as opposed to the \lya\ forest which is typically observed one sightline at a time. Also, since we are directly observing the hydrogen, we are not forced to make controversial assumptions about the state of the gas in order to interpret the results. 
+
+In this section, let us start with a overview of the physics of the 21-cm line and then continue by discussing a couple avenues by which the 21-cm signal could be utilized in order to constrain reionization. 
+
+
+\subsubsection{The Intensity of the 21-cm Line}\label{sec:21cmPhysics}
+
+
+We mentioned above that hydrogen gas will ``dimly glow'' with 21-cm radiation, but exactly how dim? Let us start by considering the brightness of a distant hydrogen gas cloud.\footnote{This discussion will closely follow \S 2.1 of \citealt{Furlanetto2006}, which is an excellent review of the 21-cm line.} This is usually described in terms of a \textit{specific intensity} and then in terms of a \textit{brightness temperature}\gloss{Brightness Temperature ($T_b(\nu)$)}{An object with a given specific intensity $I_{\nu}$ has a corresponding brightness temperature equal to the requisite temperature of a blackbody for its specific intensity to equal that of the object, $I_{\nu} = B_{\nu}(T_{b}(\nu))$.}\gloss{Specific Intensity ($I_{\nu}$)}{The specific intensity of light leaving a cloud of gas is the energy carried by the light per unit frequency, area, time, and solid angle.}. The specific intensity of light leaving our HI cloud is the amount of energy per unit frequency, time, area, and solid angle, denoted $I_{\nu}$. The brightness temperature is the required temperature of a blackbody to radiate with the same specific intensity at that frequency, i.e., $B_{\nu}(T_b) = I_{\nu}$, where $B_{\nu}$ denotes the blackbody spectrum. 
+
+
+The light we observe from our HI cloud will be a combination of background light shining \textit{through} the cloud and light emitted by the cloud itself. This follows the radiative transfer equation (in the clouds frame)
+
+\begin{align}
+T_b(\nu) &= T_{\text{cloud}}(1-e^{-\tau_{\nu}}) + T_{\text{background}}e^{-\tau_{\nu}} \label{eq:cloudframe}
+\end{align}
+where the background light is from the CMB, such that $T_{\text{background}} = 2.73\text{K}(1+z)$, and $T_{\text{cloud}}$ is the \textit{spin temperature}, defined below. The quantity $\tau_{\nu}$ is the frequency-dependent optical depth for absorption \textit{by} the HI cloud. This is equal to 
+
+\begin{align}
+\tau_{\nu} &= \int \dd s \sigma_{01}\left( 1 - e^{-E_{10}/k_{\text{B}}T_{\text{S}}} \right) \phi(\nu) n_{0} \label{eq:tau21}
+\end{align}
+
+where the integral is carried out along the line of sight through the cloud. In this expression, $E_{10} \approx 6\times 10^{-6}$eV is the energy of the transition, $\phi(\nu)$ is the line profile, $\sigma_{01}$ is the cross-section for 21-cm absorption by a hydrogen atom and $n_{0}$ is the number density of hydrogen atoms in the unexcited state. We follow the convention of \cite{Furlanetto2006} and denote the lower energy level by ``0'' and the higher energy level by ``1''. The ratio of the population of atoms in the excited state to the ground state is defined by the spin temperature and the degeneracy of the states:
+
+\begin{align}
+\dfrac{n_{1}}{n_{0}} &= \dfrac{g_1}{g_0}e^{-E_{10}/k_{\text{B}}T_{\text{S}}} = 3 e^{-E_{10}/k_{\text{B}}T_{\text{S}}}.
+\end{align}
+
+The excited state is the triplet state and has a three-fold degeneracy: $|\uparrow \uparrow \rangle$, $\dfrac{1}{\sqrt{2}}(|\uparrow \downarrow\rangle + |\downarrow \uparrow \rangle)$, $|\downarrow \downarrow\rangle$, and the lower-energy state is the singlet state: $\dfrac{1}{\sqrt{2}}( |\uparrow \downarrow\rangle - |\downarrow \uparrow \rangle)$. $T_{\text{S}}$ is the spin temperature and is defined via this equation. For our purposes, $T_{\text{S}} \gg E_{10}/k_{\text{B}}$, so we have $n_{1}/n_{0} = 3$ and
+
+\begin{align}
+1 - e^{-E_{10}/k_{\text{B}}T_{\text{S}}} &\approx \dfrac{E_{10}}{k_{\text{B}}T_{\text{S}}}
+\end{align}
+
+
+ Furthermore, since only one out of four hydrogen atoms are in the singlet state, $N_{\text{HI}}/4 = \int \dd s n_{0}$. Putting this together, Eq. \ref{eq:tau21} becomes
+ 
+\begin{align}
+\tau_{\nu} &\approx \sigma_{01} \dfrac{N_{\text{HI}}}{4} \dfrac{E_{\text{10}}}{k_{\text{B}}T_{\text{S}}} \phi(\nu)
+\end{align}
+where 
+\begin{align}
+\sigma_{01} &\equiv \dfrac{3c^2 A_{10}}{8\pi\nu^{2}}
+\end{align}
+
+where $A_{10} = 2.85 \times 10^{-15}\sec^{-1}$ is the spontaneous emission coefficient for the transition. As we discussed in \S \ref{sec:IntroIGMTemperature}, line profiles depend on several properties of the gas, however, here it is the case that Doppler broadening due to the expansion of the Universe dominates the line profile, such that
+
+\begin{align}
+\phi(\nu) \approx \dfrac{c}{s H(z) \nu}.
+\end{align}
+
+Putting these pieces together, our expression for the optical depth becomes:
+
+\begin{align}
+\tau_{\nu} &\approx \dfrac{3c^2 A_{10}}{8\pi \nu^{2}} \dfrac{h \nu}{k_{\text{B}}T_{\text{S}}} \dfrac{c}{s H(z) \nu} \dfrac{n_{\text{HI}}\langle x_{\text{HI}}\rangle s}{4} \tag{$N_{\text{HI}} = s n_{\text{HI}}\axhi$}\\
+&\approx \dfrac{3hc^3 A_{10}}{32\pi \nu^2 k_{\text{B}}T_{\text{S}}} \dfrac{n_{\text{HI}}\axhi}{H(z)}
+\end{align}
+plugging in values and evaluating at line center, \cite{Furlanetto2006} obtain
+
+\begin{align}
+\tau_{\nu_{0}} &\approx 0.0092 (1+\delta)(1+z)^{3/2}\dfrac{\axhi}{T_{\text{S}}}\left[ \dfrac{H(z)/(1+z)}{\dd v_{\parallel}/\dd r_{\parallel}} \right] 
+\end{align}
+
+where $\dd v_{\parallel}/\dd r_{\parallel}$ is the gradient in the line-of-sight velocity (peculiar velocity and velocity due to Hubble expansion) and the ratio of that with $H(z)/(1+z)$ represents the deviation from pure-Hubble expansion. For the purposes of the 21-cm probes we will discuss, we actually care about the \textit{contrast} between the 21-cm signal and the background CMB signal. Thus, the relevant brightness temperature contrast, in our frame, is 
+
+\begin{align}
+\delta T_{b} &= \dfrac{1}{1+z}\left[ T_{\text{S}}(1-e^{-\tau_{\nu_{0}}}) + T_{\text{CMB}}e^{-\tau_{\nu_{0}}} - T_{\text{CMB}} \right] \\
+&= \dfrac{T_{\text{S}}-T_{\text{CMB}}}{1+z} (1 - e^{-\tau_{\nu_{0}}}) \\
+&\approx \dfrac{T_{\text{S}}-T_{\text{CMB}}}{1+z} \tau_{\nu_{0}} \\ 
+&\approx 9\text{mK}\cdot x_{\text{HI}}(1+\delta)(1+z)^{1/2}\left[ 1 - \dfrac{T_{\text{CMB}}}{T_{\text{S}}} \right] \left[ \dfrac{H(z)/(1+z)}{\dd v_{\parallel}/ \dd r_{\parallel}} \right] \\ 
+&\approx 24 \text{mK}\cdot x_{\text{HI}}(1+\delta)\left(\frac{1+z}{7}\right)^{1/2}\left[ 1 - \dfrac{T_{\text{CMB}}}{T_{\text{S}}} \right] \left[ \dfrac{H(z)/(1+z)}{\dd v_{\parallel}/ \dd r_{\parallel}} \right].
+\end{align}
+
+Thus, we see that a neutral parcel of hydrogen at mean density and $z = 6$ and $T_{\text{S}} \gg T_{\text{CMB}}$, the brightness temperature contrast is $\sim 24\text{mK}$.
+
+
+
 
 \begin{figure}[h]
   \centering
   \includegraphics[width=8cm]{21cmline.eps}
   \caption{Schematic representation of the 21-cm transition where the transition between aligned spins of the proton and electron to anti-aligned spins results in the emission of a photon with $\lambda \approx 21$cm. }
-  \label{fig:todo}
+  \label{fig:21cmline}
 \end{figure}
 
 \begin{figure}[h]
@@ -383,7 +462,37 @@ As we discussed in \S \ref{sec:LyaForest}, the cross section or the \lya\ transi
   \includegraphics[width=8cm]{TalkNoise.eps}
   \includegraphics[width=8cm]{TalkFG.eps}
   \caption{Simulation cube of the 21-cm signal during reionization (top) along with simulated noise for an interferometer (middle) and the galactic foregrounds (bottom). This figure demonstrates that, while the sources of noise are several orders of magnitude larger than the signal, these three contributions to observations are dominant of different scales. The volume of each cube is 1 $(\text{Gpc}/h)^{3}$. In this figure, the line of sight direction away from the observer is to the right. }
-  \label{fig:todo}
+  \label{fig:21cmCube}
+\end{figure}
+
+\subsubsection{The Global 21-cm Signal}
+
+An alternative method of extracting information from the 21-cm line is to use the \textit{sky-averaged} 21-cm signal. In the previous section, we discussed the difficulties faced in obtaining the necessary resolution to map out fluctuations in the 21-cm radiation field. However, Equation \ref{eq:dTb} is rich with astrophysical information on its own without even considering spatial fluctuations. Therefore, natural questions to ask would be if it is easier to simply measure the average signal rather than map the fluctuations and what astrophysical information can be obtained in that way? For convenience, the brightness temperature contrast for the 21-cm signal from \S \ref{sec:21cmPhysics} is:
+
+\begin{align}
+\delta T_{b} &\approx 24 \text{mK}\cdot x_{\text{HI}}(1+\delta)\left(\frac{1+z}{7}\right)^{1/2}\left[ 1 - \dfrac{T_{\text{CMB}}}{T_{\text{S}}} \right] \left[ \dfrac{H(z)/(1+z)}{\dd v_{\parallel}/ \dd r_{\parallel}} \right].
+\end{align}
+
+As mentioned earlier, for the end of reionization, the dependence on the spin temperature drops out. The result is that the amplitude of a sky-averaged signal  would be most sensitive to the neutral faction, with ionized regions emitting no 21-cm signal. Thus, one could imagine plotting the sky-averaged 21-cm signal against redshift and observing a shrinking signal coinciding with the EoR. 
+
+
+However, the utility of the global 21-cm signal is not limited to the Epoch of Reionization. Specifically, prior to reionization, $\axhi$ will be fixed at 1 and the spin temperature is expected to drop to the point where $1 - T_{\text{CMB}}/T_{\text{S}} \not\approx 1$. This is interesting because the spin temperature itself depends on several astrophysical processes. A very high-level description of this is shown in Figure \ref{fig:TsEvolution}.\footnote{This figure and much of the following discussion is taken from notes from Adam Lidz's ``Topics in Cosmology'' class, taught in the Fall of 2011.} The precise evolution of the spin temperature is not well known, but a reasonable approximate description could be as follows:
+
+\begin{enumerate}
+\item [] \underline{$z > 150$:} Collisions within the gas are frequent enough to fix the spin temperature to the gas temperature, $T_{\text{S}} = T_{\text{K}}$. However, the gas temperature is equal to the CMB temperature, so the 21-cm signal is \textit{unobservable}.
+\item [] \underline{$30 < z < 150$:} Collisions are efficient at coupling the gas temperature to the spin temperature. Furthermore, the gas cools to below the CMB temperature, making the 21-cm signal \textit{obervable}. 
+\item [] \underline{$20 < z < 30$:} The gas density drops enough so that collisions are not efficient at coupling the spin temperature to the gas temperature. As a result, the spin temperature approaches the CMB temperature and the 21-cm signal is \textit{unobservable}. 
+\item [] \underline{$15 < z < 20:$} Wouthuysen field effect re-couples the spin temperature to the gas temperature, which is still below the CMB temperature. This renders the 21-cm signal \textit{observable in absorption}. 
+\item [] \underline{$ z < 15:$} The first X-ray sources form and heat the gas well above the CMB temperature. As a result, the 21-cm signal becomes \textit{observable in emission}.
+\item [] \underline{$ z \lesssim 5.5:$} The completion of reionization effectively eliminates the 21-cm signal from the IGM all together. The 21-cm signal is still observable in pockets of neutral gas surrounding galaxies. 
+\end{enumerate}
+
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=12cm]{TsEvolution.eps}
+  \caption{Schematic representation of a plausible $T_{\text{S}}$ signal including a few landmarks.}
+  \label{fig:TsEvolution}
 \end{figure}
 
 

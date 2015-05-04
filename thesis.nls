@@ -2,27 +2,27 @@
 
  \nomgroup{A}
 
-  \item [{M}]\begingroup Mass of object\nomeqref {5.0}\nompageref{199}
+  \item [{M}]\begingroup Mass of object\nomeqref {5.0}\nompageref{206}
 
  \nomgroup{G}
 
   \item [{$\tau$}]\begingroup Optical depth\nomeqref {5.0}
-		\nompageref{199}
+		\nompageref{206}
 
  \nomgroup{R}
 
   \item [{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}
-		\nompageref{199}
+		\nompageref{206}
 
  \nomgroup{S}
 
   \item [{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}
-		\nompageref{199}
+		\nompageref{206}
 
  \nomgroup{X}
 
   \item [{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}
-		\nompageref{199}
+		\nompageref{206}
 
  \nomgroup{Z}
 
@@ -48,10 +48,14 @@
 		\nompageref{9}
   \item [{$X_{\text {H}}$}]\begingroup The fraction of baryonic mass in the form of hydrogen\nomeqref {1.13}
 		\nompageref{10}
+  \item [{Brightness Temperature ($T_b(\nu )$)}]\begingroup An object with a given specific intensity $I_{\nu }$ has a corresponding brightness temperature equal to the requisite temperature of a blackbody for its specific intensity to equal that of the object, $I_{\nu } = B_{\nu }(T_{b}(\nu ))$.\nomeqref {1.33}
+		\nompageref{25}
   \item [{CMB}]\begingroup Cosmic Microwave Background. This is the earliest available snapshot of the Universe and is composed of light which has travelled from the surface of last scattering to today, largely unimpeded.\nomeqref {1.0}
 		\nompageref{1}
   \item [{DLA}]\begingroup Damped \lya \ Absorber. These are dense, isolated clouds of gas with extremely high column densities of neutral hydrogen, $N_{\text {HI}} \gtrsim 2\times 10^{20}\cm ^{-2}$ sufficient to exhibit damping-wing absorption. These are thought to source galaxy formation and are not part of the diffuse IGM which we want to study for reionization purposes.\nomeqref {1.23}
 		\nompageref{17}
+  \item [{Forbidden Transition}]\begingroup This refers to atomic transitions which are not allowed under the quantum mechanical selection rules under the dipole approximation. Essentially, this means the transitions are relatively extremely rare compared to ``allowed'' transitions.\nomeqref {1.33}
+		\nompageref{24}
   \item [{HeI}]\begingroup Neutral helium\nomeqref {1.7}\nompageref{9}
   \item [{HeII}]\begingroup Singly-ionized Helium\nomeqref {1.7}
 		\nompageref{9}
@@ -80,8 +84,10 @@
 		\nompageref{6}
   \item [{Quasar}]\begingroup It's bright, OK?\nomeqref {1.1}
 		\nompageref{6}
+  \item [{Specific Intensity ($I_{\nu }$)}]\begingroup The specific intensity of light leaving a cloud of gas is the energy carried by the light per unit frequency, area, time, and solid angle.\nomeqref {1.33}
+		\nompageref{25}
   \item [{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}
-		\nompageref{199}
+		\nompageref{206}
   \item [{Voigt Function}]\begingroup Also known as the \textit {Hjerting Function}, this function is commonly used in describing line profiles which incorporate Doppler broadening and the natural line width. This function is very relevant when studying the hydrogen damping wing.\nomeqref {1.33}
 		\nompageref{21}
 

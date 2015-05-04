@@ -27,9 +27,12 @@
 \nomenclatureentry{ZHjerting Function@[{Hjerting Function}]\begingroup Also known as the \textit {Voigt Function}, this function is commonly used in describing line profiles which incorporate Doppler broadening and the natural line width. This function is very relevant when studying the hydrogen damping wing.\nomeqref {1.33}|nompageref}{21}
 \nomenclatureentry{ZVoigt Function@[{Voigt Function}]\begingroup Also known as the \textit {Hjerting Function}, this function is commonly used in describing line profiles which incorporate Doppler broadening and the natural line width. This function is very relevant when studying the hydrogen damping wing.\nomeqref {1.33}|nompageref}{21}
 \nomenclatureentry{ZMagnetic Dipole Moment@[{Magnetic Dipole Moment}]\begingroup The magnetic dipole moment of an object is related to the torque it would experience when placed in an external magnetic field. Magnetic moments are often relevant for bar magnets or loops of current. In the context of the hydrogen atom, the spin of the proton and electric render them as a sort of ``loop of current'' which gives them their own magnetic dipole moment.\nomeqref {1.33}|nompageref}{24}
-\nomenclatureentry{Xe 11HUGS@[{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}|nompageref}{199}
-\nomenclatureentry{Zt 2MASS@[{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}|nompageref}{199}
-\nomenclatureentry{Am M@[{M}]\begingroup Mass of object\nomeqref {5.0}|nompageref}{199}
-\nomenclatureentry{Gm $\tau$@[{$\tau$}]\begingroup Optical depth\nomeqref {5.0}|nompageref}{199}
-\nomenclatureentry{Rs $\ ^{*}$@[{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}|nompageref}{199}
-\nomenclatureentry{Ss $\astrosun$@[{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}|nompageref}{199}
+\nomenclatureentry{ZForbidden Transition@[{Forbidden Transition}]\begingroup This refers to atomic transitions which are not allowed under the quantum mechanical selection rules under the dipole approximation. Essentially, this means the transitions are relatively extremely rare compared to ``allowed'' transitions.\nomeqref {1.33}|nompageref}{24}
+\nomenclatureentry{ZBrightness Temperature ($T_b(\nu )$)@[{Brightness Temperature ($T_b(\nu )$)}]\begingroup An object with a given specific intensity $I_{\nu }$ has a corresponding brightness temperature equal to the requisite temperature of a blackbody for its specific intensity to equal that of the object, $I_{\nu } = B_{\nu }(T_{b}(\nu ))$.\nomeqref {1.33}|nompageref}{25}
+\nomenclatureentry{ZSpecific Intensity ($I_{\nu }$)@[{Specific Intensity ($I_{\nu }$)}]\begingroup The specific intensity of light leaving a cloud of gas is the energy carried by the light per unit frequency, area, time, and solid angle.\nomeqref {1.33}|nompageref}{25}
+\nomenclatureentry{Xe 11HUGS@[{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}|nompageref}{206}
+\nomenclatureentry{Zt 2MASS@[{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}|nompageref}{206}
+\nomenclatureentry{Am M@[{M}]\begingroup Mass of object\nomeqref {5.0}|nompageref}{206}
+\nomenclatureentry{Gm $\tau$@[{$\tau$}]\begingroup Optical depth\nomeqref {5.0}|nompageref}{206}
+\nomenclatureentry{Rs $\ ^{*}$@[{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}|nompageref}{206}
+\nomenclatureentry{Ss $\astrosun$@[{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}|nompageref}{206}
