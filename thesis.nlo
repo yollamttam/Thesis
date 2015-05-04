@@ -6,12 +6,30 @@
 \nomenclatureentry{ZpGRB@[{GRB}]\begingroup Gamma-Ray Burst. They are also really bright, OK?\nomeqref {1.1}|nompageref}{6}
 \nomenclatureentry{ZLyman Series@[{Lyman Series}]\begingroup The series of transitions in an atom where an electron is transitioning to or from the ground state.\nomeqref {1.1}|nompageref}{6}
 \nomenclatureentry{ZpOptical Depth@[{Optical Depth}]\begingroup Optical depth, denoted by $\tau$, is a quantity that describes that likelihood for a photon to be absorbed, usually by a gas. The fraction of photons that will pass through the gas unabsorbed is $e^{-\tau}$.\nomeqref {1.1}|nompageref}{8}
+\nomenclatureentry{Z$\tau _{\text {eff}}$@[{$\tau _{\text {eff}}$}]\begingroup The effective Gunn-Peterson optical depth, which is the negative log of the mean transmission over a given redshift bin. Measurements of $\tau _{\text {eff}}$ are often converted into constraints on the photoionizaiton rate\nomeqref {1.6}|nompageref}{9}
+\nomenclatureentry{ZHI@[{HI}]\begingroup Neutral hydrogen\nomeqref {1.7}|nompageref}{9}
+\nomenclatureentry{ZHII@[{HII}]\begingroup Ionized hydrogen\nomeqref {1.7}|nompageref}{9}
+\nomenclatureentry{ZHeI@[{HeI}]\begingroup Neutral helium\nomeqref {1.7}|nompageref}{9}
+\nomenclatureentry{ZHeII@[{HeII}]\begingroup Singly-ionized Helium\nomeqref {1.7}|nompageref}{9}
+\nomenclatureentry{ZHeIII@[{HeIII}]\begingroup Fully-ionized helium\nomeqref {1.7}|nompageref}{9}
+\nomenclatureentry{Z$f_{\alpha }$@[{$f_{\alpha }$}]\begingroup Quantum mechanical oscillator strength for the \lya \ transition\nomeqref {1.7}|nompageref}{9}
+\nomenclatureentry{Z$e$@[{$e$}]\begingroup Charge of the electron\nomeqref {1.7}|nompageref}{9}
+\nomenclatureentry{Z$\lambda _{\alpha }$@[{$\lambda _{\alpha }$}]\begingroup Wavelength of the \lya \ transition\nomeqref {1.7}|nompageref}{9}
+\nomenclatureentry{Z$m_e$@[{$m_e$}]\begingroup Mass of the electron\nomeqref {1.7}|nompageref}{9}
+\nomenclatureentry{Z$\Gamma _{\text {HI}}$@[{$\Gamma _{\text {HI}}$}]\begingroup Photoionization rate for hydrogen atoms. This depends on the number, location, and properties of the ionizing sources.\nomeqref {1.10}|nompageref}{10}
+\nomenclatureentry{Z$\rho _{c}$@[{$\rho _{c}$}]\begingroup Critical energy density for a flat Universe\nomeqref {1.13}|nompageref}{10}
+\nomenclatureentry{Z$\Omega _b$@[{$\Omega _b$}]\begingroup Baryon density in units of the critical density\nomeqref {1.13}|nompageref}{10}
+\nomenclatureentry{Z$X_{\text {H}}$@[{$X_{\text {H}}$}]\begingroup The fraction of baryonic mass in the form of hydrogen\nomeqref {1.13}|nompageref}{10}
+\nomenclatureentry{Z$\delta $@[{$\delta $}]\begingroup The local mass overdensity in units of the cosmic mean\nomeqref {1.13}|nompageref}{10}
 \nomenclatureentry{ZLorentzian Distribution@[{Lorentzian Distribution}]\begingroup Probability distribution for the ratio of two standard-normal-distributed variables. This distribution also describes the intrinsic line profile for absorption lines.\nomeqref {1.21}|nompageref}{16}
+\nomenclatureentry{ZDLA@[{DLA}]\begingroup Damped \lya \ Absorber. These are dense, isolated clouds of gas with extremely high column densities of neutral hydrogen, $N_{\text {HI}} \gtrsim 2\times 10^{20}\cm ^{-2}$ sufficient to exhibit damping-wing absorption. These are thought to source galaxy formation and are not part of the diffuse IGM which we want to study for reionization purposes.\nomeqref {1.23}|nompageref}{17}
+\nomenclatureentry{Z$k_{\text {B}}$@[{$k_{\text {B}}$}]\begingroup Boltzmann constant\nomeqref {1.26}|nompageref}{20}
 \nomenclatureentry{ZHjerting Function@[{Hjerting Function}]\begingroup Also known as the \textit {Voigt Function}, this function is commonly used in describing line profiles which incorporate Doppler broadening and the natural line width. This function is very relevant when studying the hydrogen damping wing.\nomeqref {1.33}|nompageref}{21}
 \nomenclatureentry{ZVoigt Function@[{Voigt Function}]\begingroup Also known as the \textit {Hjerting Function}, this function is commonly used in describing line profiles which incorporate Doppler broadening and the natural line width. This function is very relevant when studying the hydrogen damping wing.\nomeqref {1.33}|nompageref}{21}
-\nomenclatureentry{Xe 11HUGS@[{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}|nompageref}{197}
-\nomenclatureentry{Zt 2MASS@[{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}|nompageref}{197}
-\nomenclatureentry{Am M@[{M}]\begingroup Mass of object\nomeqref {5.0}|nompageref}{197}
-\nomenclatureentry{Gm $\tau$@[{$\tau$}]\begingroup Optical depth\nomeqref {5.0}|nompageref}{197}
-\nomenclatureentry{Rs $\ ^{*}$@[{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}|nompageref}{197}
-\nomenclatureentry{Ss $\astrosun$@[{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}|nompageref}{197}
+\nomenclatureentry{ZMagnetic Dipole Moment@[{Magnetic Dipole Moment}]\begingroup The magnetic dipole moment of an object is related to the torque it would experience when placed in an external magnetic field. Magnetic moments are often relevant for bar magnets or loops of current. In the context of the hydrogen atom, the spin of the proton and electric render them as a sort of ``loop of current'' which gives them their own magnetic dipole moment.\nomeqref {1.33}|nompageref}{24}
+\nomenclatureentry{Xe 11HUGS@[{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}|nompageref}{199}
+\nomenclatureentry{Zt 2MASS@[{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}|nompageref}{199}
+\nomenclatureentry{Am M@[{M}]\begingroup Mass of object\nomeqref {5.0}|nompageref}{199}
+\nomenclatureentry{Gm $\tau$@[{$\tau$}]\begingroup Optical depth\nomeqref {5.0}|nompageref}{199}
+\nomenclatureentry{Rs $\ ^{*}$@[{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}|nompageref}{199}
+\nomenclatureentry{Ss $\astrosun$@[{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}|nompageref}{199}
