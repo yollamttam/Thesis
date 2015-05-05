@@ -491,7 +491,7 @@ However, the utility of the global 21-cm signal is not limited to the Epoch of R
 \begin{figure}[h]
   \centering
   \includegraphics[width=12cm]{TsEvolution.eps}
-  \caption{Schematic representation of a plausible $T_{\text{S}}$ signal including a few landmarks.}
+  \caption{Schematic representation of a plausible $T_{\text{S}}$ signal including a few landmarks. This is adapted from notes taken in the course ``Topics in Cosmology''.}
   \label{fig:TsEvolution}
 \end{figure}
 
@@ -500,7 +500,55 @@ However, the utility of the global 21-cm signal is not limited to the Epoch of R
 \subsection{The Cosmic Microwave Background}\label{sec:CMB}
 \subsection{\lya\ Emitters}
 
-\lya\ emitters (LAEs) are galaxies which emit strongly in the \lya\ line. This \lya\ emission results from hydrogen atoms surrounding the galaxy recombining after being ionized by the galaxy's UV radiation. During 2/3 of hydrogen recombinations, a \lya\ photon will be emitted so enough ionizations will result in a strong \lya\ line. 
+\lya\ emitters (LAEs)\gloss{LAE}{\lya\ Emitter. These are galaxies which emit a significant fraction of their energy in the \lya\ line. This line is produced when hydrogen atoms within the galaxy recombine after being ionized by the galaxy. Roughly 2/3 of recombinations result in a \lya\ photon.} are galaxies which emit strongly in the \lya\ line. This \lya\ emission results from hydrogen atoms within the galaxy recombining after being ionized by the galaxy's UV radiation. During $\sim2/3$ of hydrogen recombinations, a \lya\ photon will be emitted. Therefore,  enough ionizations will result in a strong \lya\ line being emitted from the galaxy. 
+
+
+However, whether or not that \lya\ line is observable to us depends on the intervening gas. Specifically, \lya\ photons produced within the galaxy will repeatedly be absorbed and re-emitted by hydrogen in the galaxy's interstellar medium until it reaches the IGM. At this point, if the IGM is ionized the \lya\ photon will escape. However, if the IGM is significantly neutral, then the \lya\ photon will be scattered into a low-surface-brightness halo, rendering the \lya\ line unobservable (\citealt{finlator2012recent}). This provides us with an observable which depends on the ionization state of the IGM! In this section, we briefly discuss two methods of utilizing this behavior in order to constrain $\axhi$.
+
+%at \axhi = 0.5, LAEs residing in HII regions will typically be one of thousands that contribution to ionizing the HII regions. These regions can be \sim 10 Mpc. However, lya photons only need to travel 1 Mpc in order to redshift out of resonance and escape. 
+
+\subsubsection{Clustering of \lya\ Emitters}
+
+One approach for utilizing LAEs to constrain $\axhi$ is to look at their measured clustering. When the IGM is fully-ionized, the \lya\ lines of all observed galaxies should be visible to us. When the Universe is fully-neutral, then all observed galaxies should lack a strong \lya\ emission line. However, when reionization has progressed such that $\axhi \approx 0.5$, the Universe should represent a two-phase medium consisting of large ($\sim 10\mpch$) ionized regions maintained by thousands of galaxies (\citealt{McQuinn:2007dy}), and significantly-neutral regions which are shielded from the ionizing radiation. The \lya\ line from LAEs located within the large ionized regions should remain intact, as the photons will redshift out of \lya\ resonance after travelling only $\sim 1\mpch$ without encountering significantly-neutral hydrogen (\citealt{finlator2012recent}). Therefore, the LAEs observable when the Universe is 50\% ionized should more often reside in these ionized bubbles with many other sources, resulting in their observed distribution being \textit{highly clustered}. Meanwhile, at lower redshift, all LAEs should be observable (with regard to HI attenuation), resulting in a more uniform distribution.
+
+In Figure \ref{fig:McQuinnLAEClustering}, \cite{McQuinn:2007dy} demonstrate this effect. The top row shows the ionization field (black is neutral, white is ionized) at three different neutral fractions: $\axhi = 0.7$ (left), 0.5 (middle), and 0.3 (right). The second row shows the true underlying LAE locations and the bottom row shows the observed LAEs. Since LAEs should only be observable within ionized regions, we see that the sources in the bottom row must coincide with white regions in the top row, resulting in enhanced clustering of the observed sources.
+
+In \cite{Ouchi2010}, the authors analyze 207 LAEs at $z \sim 6-7$ and compare their clustering with those measured at $z = 5.7$. They find no detection of an enhancement in the observed LAE clustering, suggesting that the bulk of reionization occurred at $z > 6.6$. 
+
+
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=13cm]{McQuinnLAEClusteringLarge.eps}
+  \caption{The effect of the neutral fraction on the observed clustering of LAEs (taken from \citealt{McQuinn:2007dy}). The top panels show the underlying ionization fields, the middle row shows the true location of LAEs in the simulation, and the bottom panel shows the detectable LAEs in the simulation. This shows that, LAEs which occupy the same ionized bubble will be observable, resulting in a less homogeneous field of observable LAEs. Each panel is 94 Mpc across. }
+  \label{fig:McQuinnLAEClustering}
+\end{figure}
+
+
+\subsubsection{\lya\ Emitter Fraction}
+
+As discussed in the previous section, as we move further back in redshift and deep into the reionization process, galaxies that intrinsically have a significant \lya\ line will not be observed as having one. However, the galaxies themselves will still be detectable via the drop-out technique, which searches for sources with significant emission at energies below the Lyman limit\gloss{Lyman Limit}{This refers to the most energetic transition in the Lyman series corresponding to ionizing a hydrogen atom in the ground state. This has wavelength $\lambda = 912$\AA and $E_{\gamma} = 13.6$eV.} and significantly less emission at greater energies. 
+
+
+As we move further back in redshift, we expect the fraction of detected galaxies which \textit{would} have a \lya\ line but do not, due to a significantly-neutral IGM, will increase. While we do not have access to this exact measurement of this fraction, we \textit{can} measure the \textit{overall} fraction of detected galaxies which exhibit a strong \lya\ line, which should reflect the aforementioned trend. This has motivated the study of the evolution of the so-called ``\lya\ fraction'', denoted $f_{\text{\lya}}$ (\citealt{Schenker2012,pentericci2011spectroscopic,Pentericci:2014nia,caruana2012no,caruana2014spectroscopy}). This method has the benefit compared to some others, such as measuring the LAE luminosity function evolution, that some uncertainties due to the overall redshift evolution of observable galaxies, unrelated to the EoR, will drop out. 
+
+
+Interestingly enough, some of these authors' analyses claim to support a surprisingly-neutral IGM. Specifically, work by \cite{caruana2014spectroscopy}, \cite{Pentericci:2014nia}, \cite{pentericci2011spectroscopic}, and \cite{Schenker2012} all suggest a neutral fraction of $\langle x_{\text{HI}}(z \sim 7) \rangle \sim 0.5$. This seems to be in tension with other constraints on the reionization process. Namely, in \S \ref{sec:CMB}, we discussed constraints on the redshift of ``instantaneous reionization'', which can be interpreted as an upper bound on the mid-point of reionization, of $z_{r} = 8.8^{+1.3}_{-1.2}$ (\cite{planck2015planck}). Additionally, analysis by \cite{Bolton:2007b} suggests that reionization is a rather extended process. Assuming this $f_{\text{Ly}\alpha}$ constraint is correct, this would allow only $\Delta z \sim 1$ for the second half of reionization to complete. 
+
+
+One plausible way to reconcile these observations is presented by \cite{2013MNRAS.429.1695B} who suggest that the rise in the prevalence of dense absorbers at high $z$, rather than a rise in the neutral fraction of the diffuse IGM, could contribute to a surprisingly-small $f_{\text{Ly}\alpha}$ without requiring changes in the neutral fraction of tens of per cent over $z \sim 6-7$. Furthermore, \cite{Taylor:2013qia} argue that, due to the expected large-scale inhomogeneity of reionization, LAE surveys which sample relatively small regions of the sky are subject to sample variance which can mitigate the high-neutral-fraction requirements. However, their analysis still suggests that $\axhi > 0.05$ at 95\% confidence. Thus, while the precise amount of neutral hydrogen required to explain the $f_{\text{Ly}\alpha}$ observations is controversial, it is exciting that the conclusion we are observing some phase of reionization is rather robust. 
+
+% papers to cite
+% detect something
+% \cite{Schenker2012}
+% \cite{pentericci2011spectroscopic}
+% \cite{Pentericci:2014nia}
+% \cite{Pentericci:2014nia}
+% \cite{caruana2012no}
+% \cite{caruana2014spectroscopy}
+% don't
+% 
+
 
 \subsection{Luminosity Function Measurements}
 

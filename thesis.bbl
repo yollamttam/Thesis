@@ -1,4 +1,4 @@
-\begin{thebibliography}{63}
+\begin{thebibliography}{70}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -78,6 +78,24 @@ James~S. Bolton, Martin~G. Haehnelt, Stephen~J. Warren, Paul~C. Hewett,
   z=7.085 quasar ULAS J1120+0641?}
 \newblock 2011.
 
+\bibitem[Caruana et~al.(2012)Caruana, Bunker, Wilkins, Stanway, Lacy, Jarvis,
+  Lorenzoni, and Hickey]{caruana2012no}
+Joseph Caruana, Andrew~J Bunker, Stephen~M Wilkins, Elizabeth~R Stanway, Mark
+  Lacy, Matt~J Jarvis, Silvio Lorenzoni, and Samantha Hickey.
+\newblock No evidence for lyman $\alpha$ emission in spectroscopy of z> 7
+  candidate galaxies.
+\newblock \emph{Monthly Notices of the Royal Astronomical Society},
+  427\penalty0 (4):\penalty0 3055--3070, 2012.
+
+\bibitem[Caruana et~al.(2014)Caruana, Bunker, Wilkins, Stanway, Lorenzoni,
+  Jarvis, and Ebert]{caruana2014spectroscopy}
+Joseph Caruana, Andrew~J Bunker, Stephen~M Wilkins, Elizabeth~R Stanway, Silvio
+  Lorenzoni, Matt~J Jarvis, and Holly Ebert.
+\newblock Spectroscopy of z~ 7 candidate galaxies: using lyman $\alpha$ to
+  constrain the neutral fraction of hydrogen in the high-redshift universe.
+\newblock \emph{Monthly Notices of the Royal Astronomical Society},
+  443\penalty0 (4):\penalty0 2831--2842, 2014.
+
 \bibitem[Chornock et~al.(2014)Chornock, Berger, Fox, Fong, Laskar,
   et~al.]{Chornock:2014fva}
 R.~Chornock, E.~Berger, D.B. Fox, W.~Fong, T.~Laskar, et~al.
@@ -94,6 +112,11 @@ Ryan Chornock, Edo Berger, Derek~B. Fox, Ragnhild Lunnan, Maria~R. Drout,
   Bang}.
 \newblock \emph{Astrophys.J.}, 774:\penalty0 26, 2013.
 \newblock \doi{10.1088/0004-637X/774/1/26}.
+
+\bibitem[Collaboration et~al.(2015)]{planck2015planck}
+Planck Collaboration et~al.
+\newblock Planck 2015 results. xiii. cosmological parameters.
+\newblock \emph{arXiv preprint arXiv:1502.01589}, 2015.
 
 \bibitem[Cooke et~al.(2013)Cooke, Pettini, Jorgenson, Murphy, and
   Steidel]{Cooke:2013cba}
@@ -165,6 +188,11 @@ Claude-Andre Faucher-Giguere, A.~Lidz, M.~Zaldarriaga, and L.~Hernquist.
   Halos}.
 \newblock \emph{Astrophys.J.}, 673:\penalty0 39, 2008.
 \newblock \doi{10.1086/521639}.
+
+\bibitem[Finlator(2012)]{finlator2012recent}
+Kristian Finlator.
+\newblock Recent advances in cosmological hydrogen reionization.
+\newblock \emph{arXiv preprint arXiv:1203.4862}, 2012.
 
 \bibitem[Furlanetto et~al.(2004)Furlanetto, Zaldarriaga, and
   Hernquist]{Furlanetto:2004nh}
@@ -322,6 +350,22 @@ Daniel~J. Mortlock, Stephen~J. Warren, Bram~P. Venemans, Mitesh Patel, Paul~C.
 \newblock {A luminous quasar at a redshift of z = 7.085}.
 \newblock \emph{Nature}, 474:\penalty0 616, 2011.
 
+\bibitem[Ouchi et~al.(2010)Ouchi, Shimasaku, Furusawa, et~al.]{Ouchi2010}
+Masami Ouchi, Kazuhiro Shimasaku, Hisanori Furusawa, et~al.
+\newblock {Statistics of 207 Ly$\alpha$ Emitters at a Redshift Near 7:
+  Constraints on Reionization and Galaxy Formation Models}.
+\newblock \emph{Astrophys.J.}, 723:\penalty0 869, 2010.
+
+\bibitem[Pentericci et~al.(2011)Pentericci, Fontana, Vanzella, Castellano,
+  Grazian, Dijkstra, Boutsia, Cristiani, Dickinson, Giallongo,
+  et~al.]{pentericci2011spectroscopic}
+L~Pentericci, A~Fontana, E~Vanzella, M~Castellano, A~Grazian, M~Dijkstra,
+  K~Boutsia, S~Cristiani, M~Dickinson, E~Giallongo, et~al.
+\newblock Spectroscopic confirmation of z\~{} 7 lyman break galaxies: probing
+  the earliest galaxies and the epoch of reionization.
+\newblock \emph{The Astrophysical Journal}, 743\penalty0 (2):\penalty0 132,
+  2011.
+
 \bibitem[Pentericci et~al.(2014)Pentericci, Vanzella, Fontana, Castellano,
   Treu, et~al.]{Pentericci:2014nia}
 L.~Pentericci, E.~Vanzella, A.~Fontana, M.~Castellano, T.~Treu, et~al.
@@ -378,6 +422,15 @@ M.~A. {Schenker}, D.~P. {Stark}, R.~S. {Ellis}, B.~E. {Robertson}, J.~S.
   Evidence for a Declining Fraction of Emission Line Sources in the Redshift
   Range {$6 < z < 8$}}.
 \newblock \emph{ApJ}, 744:\penalty0 179, January 2012.
+\newblock \doi{10.1088/0004-637X/744/2/179}.
+
+\bibitem[Schenker et~al.(2012)Schenker, Stark, Ellis, Robertson, Dunlop,
+  et~al.]{Schenker2012}
+M.A. Schenker, D.P Stark, R.S. Ellis, B.E. Robertson, J.S. Dunlop, et~al.
+\newblock {Keck Spectroscopy of Faint {$3 < z < 8$} Lyman Break Galaxies:-
+  Evidence for a Declining Fraction of Emission Line Sources In the Redshift
+  Range {$6 < z < 8$}}.
+\newblock \emph{Astrophys.J.}, 744:\penalty0 179, 2012.
 \newblock \doi{10.1088/0004-637X/744/2/179}.
 
 \bibitem[{Schroeder} et~al.(2013){Schroeder}, {Mesinger}, and
