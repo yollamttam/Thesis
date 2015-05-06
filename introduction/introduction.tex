@@ -148,7 +148,7 @@ where $\Gamma_{\text{HI}}$\gloss{$\Gamma_{\text{HI}}$}{Photoionization rate for 
 n_{\text{H}} &= (1+\delta) \bar{n}_{\text{H}}. \label{eq:ntot}
 \end{align}
 
-In this expression, $\rho_c$\gloss{$\rho_{c}$}{Critical energy density for a flat Universe} is the critical density for a flat Universe, $\Omega_{b}$\gloss{$\Omega_b$}{Baryon density in units of the critical density} is the baryon density in units of the critical density, $X_{\text{H}}$\gloss{$X_{\text{H}}$}{The fraction of baryonic mass in the form of hydrogen} is the fraction of baryonic mass in the form of hydrogen, $m_{p}$ is the mass of the proton which is effectively equal to the mass of the hydrogen atom, and $\delta \equiv (\rho-\bar{\rho})/\bar{\rho}$\gloss{$\delta$}{The local mass overdensity in units of the cosmic mean} is the local mass overdensity in units of the cosmic mean. A subscript of ``0" denotes that these are present-day values and $\bar{n}_{\text{H}}$ denotes the average of $n_{\text{H}}$. Thus, as we expect, this expression is essentially equal to the mass density of hydrogen atoms in the Universe divided by the mass per atom.\footnote{It may be interesting to note that this value corresponds to 4 hydrogen atoms per cubic meter today and roughly $\sim$1100 hydrogen atoms per cubic meter at $z = 5.5$. It is very empty out there.}  The expression for the electron number density should be the same, since each ionized hydrogen atom releases one free electron. However, it is probably the case that helium is singly ionized along with hydrogen, so the number density will increase according to:
+In this expression, $\rho_c$\gloss{$\rho_{c}$}{Critical energy density for a flat Universe} is the critical density for a flat Universe, $\Omega_{b}$\gloss{$\Omega_b$}{Baryon density in units of the critical density} is the baryon density in units of the critical density, $X_{\text{H}}$\gloss{$X_{\text{H}}$}{The fraction of baryonic mass in the form of hydrogen} is the fraction of baryonic mass in the form of hydrogen, $m_{p}$ is the mass of the proton which is effectively equal to the mass of the hydrogen atom, and $\delta \equiv (\rho-\bar{\rho})/\bar{\rho}$\gloss{$\delta$}{The local mass overdensity in units of the cosmic mean} is the local mass overdensity in units of the cosmic mean. A subscript of ``0" denotes that these are present-day values and $\bar{n}_{\text{H}}$ denotes the average of $n_{\text{H}}$. Thus, as we expect, this expression is essentially equal to the mass density of hydrogen atoms in the Universe divided by the mass per atom.\footnote{It may be interesting to note that this value corresponds to 0.2 hydrogen atoms per cubic meter today and roughly $\sim$50 hydrogen atoms per cubic meter at $z = 5.5$. It is very empty out there.}  The expression for the electron number density should be the same, since each ionized hydrogen atom releases one free electron. However, it is probably the case that helium is singly ionized along with hydrogen, so the number density will increase according to:
 
 \begin{align}
 \bar{n}_e &= \bar{n}_{\text{H}} + \bar{n}_{\text{He}} = \dfrac{3H^2}{8\pi G}\left( \dfrac{X_{\text{H}}}{m_{p}} + \dfrac{(1 - X_{\text{H}})}{4m_{p}} \right) \\
@@ -498,6 +498,52 @@ However, the utility of the global 21-cm signal is not limited to the Epoch of R
 
 
 \subsection{The Cosmic Microwave Background}\label{sec:CMB}
+
+
+The Cosmic Microwave Background (CMB)\gloss{CMB}{description here...} is the earliest accessible picture we have of the Universe. It is composed of photons which have travelled, largely uninterrupted, from when the Universe was $\sim380,000$ years old\footnote{This is $\sim3\times 10^{-3}\%$ of its current age. If the Universe were an 80-year-old human, then the CMB would provide a picture of him/her when they were less than a day old.} to us today. Before this time, the Universe was hot enough that collisions between its constituent parts prevented the formation of neutral atoms (mostly hydrogen and helium). As a result, photons had an extremely short mean free path between collisions with free electrons. This makes this period of time completely opaque and impenetrable by observations. However, at $\sim380,000$ years, the Universe cooled to the point where neutral hydrogen could form (neutral helium having formed slightly earlier) and capture almost all of the remaining free electrons. Without a substantial number of free electrons, the mean free path of photons increased to the point where they could reach us today. Because of this, this CMB is also referred to as the ``surface of last-scattering''.
+
+
+Therefore, the CMB is essentially a picture of the Universe at the time when photons decoupled from matter. As a result, it provides us with a picture of the matter distribution at this time and its value to cosmology cannot be overstated. While this is wonderful, in this thesis we are interested in the evolution of the Universe when it was $\sim500$ million years old, not $\sim380,000$, so how can the CMB help us? 
+
+
+Well, similarly to how bright light from distant quasars/GRBs can give us information on the intervening gas, light from the CMB can do the same. While $\gtrsim90\%$ of photons will travel from the surface of last scattering to us without interacting, the other $\lesssim10\%$ of the photons will scatter off of free electrons that have been released as a result of reionization. Therefore, an interesting question is if this level of interaction can create an observable imprint in the CMB itself. In this section, we briefly discuss two such methods for searching for these imprints and their progress toward constraining the EoR.
+
+
+\subsubsection{Thompson Scattering Optical Depth, $\tau_{e}$}
+
+
+The first observable that we discuss is the CMB optical depth to Thompson scattering. As mentioned earlier, after the time of the surface of last-scattering, the density of free electrons drops low enough to allow photons to travel unimpeded. However, once reionization is underway, free electrons will be introduced into the IGM and will scatter a significant number of the CMB photons. The precise fraction of CMB photons that scatter in this way depends on the integrated electron density along the line of sight to the CMB, since CMB photons will have the opportunity to scatter off of electrons over a larger path length if reionization happens earlier. The percentage of CMB photons which scatter in this way is quantified through the Thompson scattering optical depth, $\tau_{e}$, where
+
+\begin{align}
+f_{\text{scattered}} &\approx 1-e^{-\tau_{e}} \approx \tau_{e}
+\end{align}
+
+for small $\tau_{e}$. This is related to the density of electrons along the line of sight via\footnote{We have neglected the contribution to $n_e$ from singly-ionized helium in this expression for simplicity.}
+
+\begin{align}
+\tau_{e} &= \int \dfrac{\dd z\ c}{(1+z)H(z)}n_{e}(z)\sigma_{\text{Thom}}\\
+&\approx \int \dfrac{\dd z\ c}{(1+z)H(z)} \bar{n}_{\text{H}}(z)(1 - \langle x_{\text{HI}}(z)\rangle) \sigma_{\text{Thom}}
+\end{align}
+
+where 
+
+\begin{align}
+\sigma_{\text{Thom}} &= \dfrac{8\pi}{3}\left(\dfrac{\alpha \hbar c}{mc^2}\right)^2 \approx 6.65\times 10^{-25}\cm^{2}
+\end{align}
+
+is the frequency-independent cross section for Thompson scattering. Thus, we see that a measurement of the optical depth for CMB photons Thompson scattering off of electrons released during reionization would be an integral constraint on $\langle x_{\text{HI}}(z)\rangle$. Typically, such measurements of $\tau_{e}$ are converted into a redshift of ``instantaneous reionization'', $z_{r}$, by performing the integral assuming $\axhi = 0$ for $z < z_{r}$ and $\axhi = 1$ for $z > z_r$. The model of an instantaneous reionization is not viable, but this quantity provides a rough upper bound on the half-point of reionization.\footnote{It is not an exact half point because free electrons at higher $z$ will have a larger contribution to the optical depth due to the increased density of the Universe at higher $z$.} 
+
+
+Interpreting the measurement of $\tau_{e}$ is one thing, but in order to do that we have to measure it. Toward this end, we can take advantage of the tendency for photons that have undergone Thompson scattering to have their polarization changed such that their E-field and B-field oscillate in directions perpendicular to their new direction of travel. 
+
+
+
+
+
+\subsubsection{Kinetic Sunyaev-Zeldovic Effect}
+
+
+
 \subsection{\lya\ Emitters}
 
 \lya\ emitters (LAEs)\gloss{LAE}{\lya\ Emitter. These are galaxies which emit a significant fraction of their energy in the \lya\ line. This line is produced when hydrogen atoms within the galaxy recombine after being ionized by the galaxy. Roughly 2/3 of recombinations result in a \lya\ photon.} are galaxies which emit strongly in the \lya\ line. This \lya\ emission results from hydrogen atoms within the galaxy recombining after being ionized by the galaxy's UV radiation. During $\sim2/3$ of hydrogen recombinations, a \lya\ photon will be emitted. Therefore,  enough ionizations will result in a strong \lya\ line being emitted from the galaxy. 
