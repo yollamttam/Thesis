@@ -30,12 +30,14 @@
 \nomenclatureentry{ZForbidden Transition@[{Forbidden Transition}]\begingroup This refers to atomic transitions which are not allowed under the quantum mechanical selection rules under the dipole approximation. Essentially, this means the transitions are relatively extremely rare compared to ``allowed'' transitions.\nomeqref {1.33}|nompageref}{24}
 \nomenclatureentry{ZBrightness Temperature ($T_b(\nu )$)@[{Brightness Temperature ($T_b(\nu )$)}]\begingroup An object with a given specific intensity $I_{\nu }$ has a corresponding brightness temperature equal to the requisite temperature of a blackbody for its specific intensity to equal that of the object, $I_{\nu } = B_{\nu }(T_{b}(\nu ))$.\nomeqref {1.33}|nompageref}{25}
 \nomenclatureentry{ZSpecific Intensity ($I_{\nu }$)@[{Specific Intensity ($I_{\nu }$)}]\begingroup The specific intensity of light leaving a cloud of gas is the energy carried by the light per unit frequency, area, time, and solid angle.\nomeqref {1.33}|nompageref}{25}
-\nomenclatureentry{ZCMB@[{CMB}]\begingroup description here...\nomeqref {1.48}|nompageref}{30}
-\nomenclatureentry{ZLAE@[{LAE}]\begingroup \lya \ Emitter. These are galaxies which emit a significant fraction of their energy in the \lya \ line. This line is produced when hydrogen atoms within the galaxy recombine after being ionized by the galaxy. Roughly 2/3 of recombinations result in a \lya \ photon.\nomeqref {1.52}|nompageref}{32}
-\nomenclatureentry{ZLyman Limit@[{Lyman Limit}]\begingroup This refers to the most energetic transition in the Lyman series corresponding to ionizing a hydrogen atom in the ground state. This has wavelength $\lambda = 912$\AA and $E_{\gamma } = 13.6$eV.\nomeqref {1.52}|nompageref}{34}
-\nomenclatureentry{Xe 11HUGS@[{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}|nompageref}{212}
-\nomenclatureentry{Zt 2MASS@[{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}|nompageref}{212}
-\nomenclatureentry{Am M@[{M}]\begingroup Mass of object\nomeqref {5.0}|nompageref}{212}
-\nomenclatureentry{Gm $\tau$@[{$\tau$}]\begingroup Optical depth\nomeqref {5.0}|nompageref}{212}
-\nomenclatureentry{Rs $\ ^{*}$@[{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}|nompageref}{212}
-\nomenclatureentry{Ss $\astrosun$@[{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}|nompageref}{212}
+\nomenclatureentry{Z$\alpha $@[{$\alpha $}]\begingroup Fine structure constant, $\alpha \approx 1/137$, related to the strength of electromagnetic interactions.\nomeqref {1.52}|nompageref}{32}
+\nomenclatureentry{Z$\hbar $@[{$\hbar $}]\begingroup Reduced Planck's constant, $\hbar = h/2\pi $, the quantum of angular momentum.\nomeqref {1.52}|nompageref}{32}
+\nomenclatureentry{ZkSZ Effect@[{kSZ Effect}]\begingroup Kinetic Sunyaev Zel'dovich effect. This describes secondary anisotropy in the CMB produced by the bulk velocities of free electrons during and after reionization which impart a Doppler shift on CMB photons.\nomeqref {1.52}|nompageref}{33}
+\nomenclatureentry{ZLAE@[{LAE}]\begingroup \lya \ Emitter. These are galaxies which emit a significant fraction of their energy in the \lya \ line. This line is produced when hydrogen atoms within the galaxy recombine after being ionized by the galaxy. Roughly 2/3 of recombinations result in a \lya \ photon.\nomeqref {1.52}|nompageref}{34}
+\nomenclatureentry{ZLyman Limit@[{Lyman Limit}]\begingroup This refers to the most energetic transition in the Lyman series corresponding to ionizing a hydrogen atom in the ground state. This has wavelength $\lambda = 912$\AA and $E_{\gamma } = 13.6$eV.\nomeqref {1.52}|nompageref}{35}
+\nomenclatureentry{Xe 11HUGS@[{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}|nompageref}{214}
+\nomenclatureentry{Zt 2MASS@[{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}|nompageref}{214}
+\nomenclatureentry{Am M@[{M}]\begingroup Mass of object\nomeqref {5.0}|nompageref}{214}
+\nomenclatureentry{Gm $\tau$@[{$\tau$}]\begingroup Optical depth\nomeqref {5.0}|nompageref}{214}
+\nomenclatureentry{Rs $\ ^{*}$@[{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}|nompageref}{214}
+\nomenclatureentry{Ss $\astrosun$@[{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}|nompageref}{214}

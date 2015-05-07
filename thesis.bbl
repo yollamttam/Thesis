@@ -1,4 +1,4 @@
-\begin{thebibliography}{70}
+\begin{thebibliography}{72}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -44,6 +44,20 @@ Robert~H. Becker et~al.
   trough in a Z = 6.28 quasar}.
 \newblock \emph{Astron.J.}, 122:\penalty0 2850, 2001.
 \newblock \doi{10.1086/324231}.
+
+\bibitem[{Bennett} et~al.(2013){Bennett}, {Larson}, {Weiland}, {Jarosik},
+  {Hinshaw}, {Odegard}, {Smith}, {Hill}, {Gold}, {Halpern}, {Komatsu}, {Nolta},
+  {Page}, {Spergel}, {Wollack}, {Dunkley}, {Kogut}, {Limon}, {Meyer}, {Tucker},
+  and {Wright}]{Bennett2013}
+C.~L. {Bennett}, D.~{Larson}, J.~L. {Weiland}, N.~{Jarosik}, G.~{Hinshaw},
+  N.~{Odegard}, K.~M. {Smith}, R.~S. {Hill}, B.~{Gold}, M.~{Halpern},
+  E.~{Komatsu}, M.~R. {Nolta}, L.~{Page}, D.~N. {Spergel}, E.~{Wollack},
+  J.~{Dunkley}, A.~{Kogut}, M.~{Limon}, S.~S. {Meyer}, G.~S. {Tucker}, and
+  E.~L. {Wright}.
+\newblock {Nine-year Wilkinson Microwave Anisotropy Probe (WMAP) Observations:
+  Final Maps and Results}.
+\newblock \emph{ApJs}, 208:\penalty0 20, October 2013.
+\newblock \doi{10.1088/0067-0049/208/2/20}.
 
 \bibitem[{Bolton} and {Haehnelt}(2007)]{Bolton:2007b}
 J.~S. {Bolton} and M.~G. {Haehnelt}.
@@ -321,6 +335,14 @@ Andrei Mesinger and Zoltan Haiman.
   Absorption Spectra of {$z>6.2$} Quasars}.
 \newblock \emph{Astrophys.J.}, 660:\penalty0 923--932, 2007.
 \newblock \doi{10.1086/513688}.
+
+\bibitem[Mesinger et~al.(2012)Mesinger, McQuinn, and
+  Spergel]{mesinger2012kinetic}
+Andrei Mesinger, Matthew McQuinn, and David~N Spergel.
+\newblock The kinetic sunyaev--zel’dovich signal from inhomogeneous
+  reionization: a parameter space study.
+\newblock \emph{Monthly Notices of the Royal Astronomical Society},
+  422\penalty0 (2):\penalty0 1403--1417, 2012.
 
 \bibitem[Miralda-Escude(1998)]{MiraldaEscude:1997qb}
 Jordi Miralda-Escude.

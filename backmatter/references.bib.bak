@@ -211,6 +211,26 @@
   Slaccitation             = {%%CITATION = ASTRO-PH/0108097;%%}
 }
 
+@Article{2013ApJS..208...20B,
+  Title                    = {{Nine-year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Final Maps and Results}},
+  Author                   = {{Bennett}, C.~L. and {Larson}, D. and {Weiland}, J.~L. and {Jarosik}, N. and {Hinshaw}, G. and {Odegard}, N. and {Smith}, K.~M. and {Hill}, R.~S. and {Gold}, B. and {Halpern}, M. and {Komatsu}, E. and {Nolta}, M.~R. and {Page}, L. and {Spergel}, D.~N. and {Wollack}, E. and {Dunkley}, J. and {Kogut}, A. and {Limon}, M. and {Meyer}, S.~S. and {Tucker}, G.~S. and {Wright}, E.~L.},
+  Journal                  = {ApJ},
+  Year                     = {2013},
+
+  Month                    = oct,
+  Pages                    = {20},
+  Volume                   = {208},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2013ApJS..208...20B},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1088/0067-0049/208/2/20},
+  Eid                      = {20},
+  Eprint                   = {1212.5225},
+  Keywords                 = {cosmic background radiation, cosmology: observations, dark matter, early universe, instrumentation: detectors, space vehicles, space vehicles: instruments, telescopes},
+  Primaryclass             = {astro-ph.CO}
+}
+
 @Article{Bennett2013,
   Title                    = {{Nine-year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Final Maps and Results}},
   Author                   = {{Bennett}, C.~L. and {Larson}, D. and {Weiland}, J.~L. and {Jarosik}, N. and {Hinshaw}, G. and {Odegard}, N. and {Smith}, K.~M. and {Hill}, R.~S. and {Gold}, B. and {Halpern}, M. and {Komatsu}, E. and {Nolta}, M.~R. and {Page}, L. and {Spergel}, D.~N. and {Wollack}, E. and {Dunkley}, J. and {Kogut}, A. and {Limon}, M. and {Meyer}, S.~S. and {Tucker}, G.~S. and {Wright}, E.~L.},
@@ -309,6 +329,18 @@
   Eprint                   = {1208.4417},
   Keywords                 = {galaxies: high-redshift, intergalactic medium, quasars: absorption lines, dark ages, reionization, first stars},
   Primaryclass             = {astro-ph.CO}
+}
+
+@Article{bolton2013rapid,
+  Title                    = {On the rapid demise of Ly $\alpha$ emitters at redshift z≳ 7 due to the increasing incidence of optically thick absorption systems},
+  Author                   = {Bolton, James S and Haehnelt, Martin G},
+  Journal                  = {Monthly Notices of the Royal Astronomical Society},
+  Year                     = {2013},
+  Number                   = {2},
+  Pages                    = {1695--1704},
+  Volume                   = {429},
+
+  Publisher                = {Oxford University Press}
 }
 
 @Article{Bolton:2007,
@@ -2827,6 +2859,18 @@
   Doi                      = {10.1038/nature11612},
   Eprint                   = {1212.0548},
   Primaryclass             = {astro-ph.CO}
+}
+
+@Article{spergel2003first,
+  Title                    = {First-year Wilkinson Microwave Anisotropy Probe (WMAP) observations: determination of cosmological parameters},
+  Author                   = {Spergel, David N and Verde, Licia and Peiris, Hiranya V and Komatsu, E and Nolta, MR and Bennett, CL and Halpern, M and Hinshaw, G and Jarosik, N and Kogut, A and others},
+  Journal                  = {The Astrophysical Journal Supplement Series},
+  Year                     = {2003},
+  Number                   = {1},
+  Pages                    = {175},
+  Volume                   = {148},
+
+  Publisher                = {IOP Publishing}
 }
 
 @Article{Springel2005,

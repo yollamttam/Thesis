@@ -14,7 +14,7 @@ A level-1 auxiliary file: backmatter/appendix.aux
 A level-1 auxiliary file: backmatter/glossary.aux
 The style file: plainnat.bst
 Database file #1: ./backmatter/references.bib
-Repeated entry---line 562 of file ./backmatter/references.bib
+Repeated entry---line 582 of file ./backmatter/references.bib
  : @article{Chornock:2014fva
  :                          ,
 I'm skipping whatever remains of this entry
@@ -135,45 +135,45 @@ Warning--empty journal in Rahmati:2013hsa
 Warning--empty journal in Salvaterra:2015gpa
 Warning--empty journal in Taylor:2013qia
 Warning--empty journal in Worseck:2014fya
-You've used 70 entries,
+You've used 72 entries,
             2773 wiz_defined-function locations,
-            1251 strings with 22278 characters,
-and the built_in function-call counts, 35630 in all, are:
-= -- 3032
-> -- 2622
+            1264 strings with 22992 characters,
+and the built_in function-call counts, 37491 in all, are:
+= -- 3172
+> -- 2844
 < -- 28
-+ -- 888
-- -- 816
-* -- 3137
-:= -- 5756
-add.period$ -- 254
-call.type$ -- 70
-change.case$ -- 460
-chr.to.int$ -- 68
-cite$ -- 155
-duplicate$ -- 1425
-empty$ -- 2537
-format.name$ -- 922
-if$ -- 7287
++ -- 962
+- -- 888
+* -- 3336
+:= -- 6068
+add.period$ -- 261
+call.type$ -- 72
+change.case$ -- 490
+chr.to.int$ -- 70
+cite$ -- 159
+duplicate$ -- 1467
+empty$ -- 2612
+format.name$ -- 996
+if$ -- 7646
 int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 72
-newline$ -- 400
-num.names$ -- 280
-pop$ -- 824
+missing$ -- 74
+newline$ -- 411
+num.names$ -- 288
+pop$ -- 879
 preamble$ -- 1
-purify$ -- 392
+purify$ -- 420
 quote$ -- 0
-skip$ -- 1128
+skip$ -- 1175
 stack$ -- 0
-substring$ -- 992
-swap$ -- 73
+substring$ -- 1027
+swap$ -- 76
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 760
+type$ -- 782
 warning$ -- 15
-while$ -- 263
+while$ -- 271
 width$ -- 0
-write$ -- 969
+write$ -- 997
 (There was 1 error message)
