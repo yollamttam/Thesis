@@ -1,4 +1,4 @@
-\begin{thebibliography}{72}
+\begin{thebibliography}{74}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -499,6 +499,13 @@ Matteo Viel, George~D. Becker, James~S. Bolton, and Martin~G. Haehnelt.
 \newblock \emph{Phys.Rev.}, D88\penalty0 (4):\penalty0 043502, 2013.
 \newblock \doi{10.1103/PhysRevD.88.043502}.
 
+\bibitem[Visbal and Loeb(2012)]{visbal2012gauging}
+Eli Visbal and Abraham Loeb.
+\newblock Gauging the contribution of x-ray sources to reionization through the
+  kinetic sunyaev-zel'dovich effect.
+\newblock \emph{Journal of Cosmology and Astroparticle Physics}, 2012\penalty0
+  (05):\penalty0 007, 2012.
+
 \bibitem[Wolfe et~al.(2005)Wolfe, Gawiser, and Prochaska]{Wolfe:2005jd}
 Arthur~M. Wolfe, Eric Gawiser, and Jason~X. Prochaska.
 \newblock {Damped lyman alpha systems}.
@@ -519,6 +526,13 @@ Yidong Xu, Bin Yue, Meng Su, Zuhui Fan, and Xuelei Chen.
   stage of reionization}.
 \newblock \emph{Astrophys.J.}, 781:\penalty0 97, 2014.
 \newblock \doi{10.1088/0004-637X/781/2/97}.
+
+\bibitem[Zahn et~al.(2012)Zahn, Reichardt, Shaw, Lidz, Aird, et~al.]{Zahn2012}
+O.~Zahn, C.L. Reichardt, L.~Shaw, A.~Lidz, K.A. Aird, et~al.
+\newblock {Cosmic microwave background constraints on the duration and timing
+  of reionization from the South Pole Telescope}.
+\newblock \emph{Astrophys.J.}, 756:\penalty0 65, 2012.
+\newblock \doi{10.1088/0004-637X/756/1/65}.
 
 \bibitem[Zaldarriaga(2002)]{zaldarriaga2002searching}
 Matias Zaldarriaga.
