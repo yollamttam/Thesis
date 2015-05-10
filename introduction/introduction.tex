@@ -363,15 +363,17 @@ This discussion of the \lya\ forest as a tool for constraining the EoR highlight
 
 Second, we have discussed some difficulty in making measurements of the temperature of the high-redshift IGM. Namely, due to the high levels of absorption in the \lya\ forest of quasar spectra at these redshifts, traditional methods of inferring the IGM temperature are inapplicable except in the highly-complex near-zones of quasars. This motivates the development of a temperature-measurement technique which is applicable to typical regions of the high-redshift IGM. Such a technique is proposed in {\bf cite} and discussed in \S \ref{sec:IGMTemperature}.
 
+
 \subsection{The 21-cm Line}
 
-The 21-cm line refers to the hyperfine splitting of the hydrogen atom where, due to the interaction between the magnetic dipole moments\gloss{Magnetic Dipole Moment}{The magnetic dipole moment of an object is related to the torque it would experience when placed in an external magnetic field. Magnetic moments are often relevant for bar magnets or loops of current. In the context of the hydrogen atom, the spin of the proton and electric render them as a sort of ``loop of current'' which gives them their own magnetic dipole moment.} of the electron and proton in, a small energy difference exists between the configuration where the spins of the electron and proton are aligned versus where they are anti-aligned. The configuration where the spins are anti-aligned (and magnetic dipole moments are therefore aligned) is energetically favored and has a lower energy by $\Delta E \approx 6\times 10^{-6}$eV.\footnote{This is in contrast to a \lya\ photon which has energy $E \approx 10.2\text{eV}$, more than a million times greater.} Thus, spin-flip transitions will result in (from) the emission (absorption) of a photon with $\lambda \approx 21\cm$, $\nu \approx 1420\mhz$. This is shown schematically in Figure \ref{fig:21cmline}. 
+The 21-cm line refers to the hyperfine splitting of the hydrogen atom where, due to the interaction between the magnetic dipole moments\gloss{Magnetic Dipole Moment}{The magnetic dipole moment of an object is related to the torque it would experience when placed in an external magnetic field. Magnetic moments are often relevant for bar magnets or loops of current. In the context of the hydrogen atom, the spin of the proton and electric render them as a sort of ``loop of current'' which gives them their own magnetic dipole moment.} of the electron and proton, a small energy difference exists between the configuration where the spins of the electron and proton are aligned versus where they are anti-aligned. The configuration where the spins are anti-aligned (and magnetic dipole moments are therefore aligned) is energetically favored and has a lower energy by $\Delta E \approx 6\times 10^{-6}$eV.\footnote{This is in contrast to a \lya\ photon which has energy $E \approx 10.2\text{eV}$, more than a million times greater.} Thus, spin-flip transitions will result in (from) the emission (absorption) of a photon with $\lambda \approx 21\cm$, $\nu \approx 1420\mhz$. This is shown schematically in Figure \ref{fig:21cmline}. 
+
+%However, the 21-cm transition is a ``forbidden'' transition\gloss{Forbidden Transition}{This refers to atomic transitions which are not allowed under the quantum mechanical selection rules under the dipole approximation. Essentially, this means the transitions are relatively extremely rare compared to ``allowed'' transitions.}, meaning its rate of occurrence is extremely low. As a result,
+
+As we discussed in \S \ref{sec:LyaForest}, the cross section or the \lya\ transition is extremely large, which presents us with a host of difficulties.  However, the Universe is essentially transparent to 21-cm photons, allowing them to travel unimpeded from distant neutral hydrogen to us. In principal, this allows us to observe the hydrogen density field directly up to redshifts of $z \sim 150$, \textit{far beyond the timescale of reionization} and far beyond the reach of the \lya\ forest. Measurements of the evolution of the 21-cm signal with redshift would allow us to construct something like a reionization ``movie'', which would constitute the ultimate constraint on reionization. 
 
 
-As we discussed in \S \ref{sec:LyaForest}, the cross section or the \lya\ transition is extremely large, which presents us with a host of difficulties. However, the 21-cm transition is a ``forbidden'' transition\gloss{Forbidden Transition}{This refers to atomic transitions which are not allowed under the quantum mechanical selection rules under the dipole approximation. Essentially, this means the transitions are relatively extremely rare compared to ``allowed'' transitions.}, meaning its rate of occurrence is extremely low. As a result, the Universe is essentially transparent to 21-cm photons, allowing them to travel unimpeded from distant neutral hydrogen to us. In principal, this allows us to observe the hydrogen density field directly up to redshifts of $z \gtrsim 50$, \textit{far beyond the timescale of reionization} and far beyond the reach of the \lya\ forest. Measurements of the evolution of the 21-cm signal with redshift would allow us to construct something like a reionization ``movie'', which would constitute the ultimate constraint on reionization. 
-
-
-Mapping the intensity of the 21-cm line during reionization avoids many other drawbacks of the \lya\ line as well. Namely, intensity mapping would provide us with a 3D volume of intensity values, as opposed to the \lya\ forest which is typically observed one sightline at a time. Also, since we are directly observing the hydrogen, we are not forced to make controversial assumptions about the state of the gas in order to interpret the results. 
+Mapping the intensity of the 21-cm line during reionization avoids many other drawbacks of the \lya\ line as well. Namely, intensity mapping would provide us with a 3D volume of intensity values, as opposed to the \lya\ forest which is typically observed one sightline at a time. Also, since we are directly observing the hydrogen, interpretation of observations of the 21cm signal will be significantly simplified.
 
 In this section, let us start with a overview of the physics of the 21-cm line and then continue by discussing a couple avenues by which the 21-cm signal could be utilized in order to constrain reionization. 
 
@@ -379,7 +381,7 @@ In this section, let us start with a overview of the physics of the 21-cm line a
 \subsubsection{The Intensity of the 21-cm Line}\label{sec:21cmPhysics}
 
 
-We mentioned above that hydrogen gas will ``dimly glow'' with 21-cm radiation, but exactly how dim? Let us start by considering the brightness of a distant hydrogen gas cloud.\footnote{This discussion will closely follow \S 2.1 of \citealt{Furlanetto2006}, which is an excellent review of the 21-cm line.} This is usually described in terms of a \textit{specific intensity} and then in terms of a \textit{brightness temperature}\gloss{Brightness Temperature ($T_b(\nu)$)}{An object with a given specific intensity $I_{\nu}$ has a corresponding brightness temperature equal to the requisite temperature of a blackbody for its specific intensity to equal that of the object, $I_{\nu} = B_{\nu}(T_{b}(\nu))$.}\gloss{Specific Intensity ($I_{\nu}$)}{The specific intensity of light leaving a cloud of gas is the energy carried by the light per unit frequency, area, time, and solid angle.}. The specific intensity of light leaving our HI cloud is the amount of energy per unit frequency, time, area, and solid angle, denoted $I_{\nu}$. The brightness temperature is the required temperature of a blackbody to radiate with the same specific intensity at that frequency, i.e., $B_{\nu}(T_b) = I_{\nu}$, where $B_{\nu}$ denotes the blackbody spectrum. 
+Let us start by considering the brightness of 21-cm emission from a distant hydrogen gas cloud.\footnote{This discussion will closely follow \S 2.1 of \citealt{Furlanetto2006}, which is an excellent review of the 21-cm line.} This is usually described in terms of a \textit{specific intensity} and then in terms of a \textit{brightness temperature}\gloss{Brightness Temperature ($T_b(\nu)$)}{An object with a given specific intensity $I_{\nu}$ has a corresponding brightness temperature equal to the requisite temperature of a blackbody for its specific intensity to equal that of the object, $I_{\nu} = B_{\nu}(T_{b}(\nu))$.}\gloss{Specific Intensity ($I_{\nu}$)}{The specific intensity of light leaving a cloud of gas is the energy carried by the light per unit frequency, area, time, and solid angle.}. The specific intensity of light leaving our HI cloud is the amount of energy per unit frequency, time, area, and solid angle, denoted $I_{\nu}$. The brightness temperature is the required temperature of a blackbody to radiate with the same specific intensity at that frequency, i.e., $B_{\nu}(T_b) = I_{\nu}$, where $B_{\nu}$ denotes the blackbody spectrum. 
 
 
 The light we observe from our HI cloud will be a combination of background light shining \textit{through} the cloud and light emitted by the cloud itself. This follows the radiative transfer equation (in the clouds frame)
@@ -387,7 +389,7 @@ The light we observe from our HI cloud will be a combination of background light
 \begin{align}
 T_b(\nu) &= T_{\text{cloud}}(1-e^{-\tau_{\nu}}) + T_{\text{background}}e^{-\tau_{\nu}} \label{eq:cloudframe}
 \end{align}
-where the background light is from the CMB, such that $T_{\text{background}} = 2.73\text{K}(1+z)$, and $T_{\text{cloud}}$ is the \textit{spin temperature}, defined below. The quantity $\tau_{\nu}$ is the frequency-dependent optical depth for absorption \textit{by} the HI cloud. This is equal to 
+where the background light is from the CMB, such that $T_{\text{background}} = 2.73\text{K}(1+z)$, and $T_{\text{cloud}}$ is the \textit{spin temperature} of the cloud, defined below. The quantity $\tau_{\nu}$ is the frequency-dependent optical depth for absorption \textit{by} the HI cloud. This is equal to 
 
 \begin{align}
 \tau_{\nu} &= \int \dd s \sigma_{01}\left( 1 - e^{-E_{10}/k_{\text{B}}T_{\text{S}}} \right) \phi(\nu) n_{0} \label{eq:tau21}
@@ -399,14 +401,14 @@ where the integral is carried out along the line of sight through the cloud. In 
 \dfrac{n_{1}}{n_{0}} &= \dfrac{g_1}{g_0}e^{-E_{10}/k_{\text{B}}T_{\text{S}}} = 3 e^{-E_{10}/k_{\text{B}}T_{\text{S}}}.
 \end{align}
 
-The excited state is the triplet state and has a three-fold degeneracy: $|\uparrow \uparrow \rangle$, $\dfrac{1}{\sqrt{2}}(|\uparrow \downarrow\rangle + |\downarrow \uparrow \rangle)$, $|\downarrow \downarrow\rangle$, and the lower-energy state is the singlet state: $\dfrac{1}{\sqrt{2}}( |\uparrow \downarrow\rangle - |\downarrow \uparrow \rangle)$. $T_{\text{S}}$ is the spin temperature and is defined via this equation. For our purposes, $T_{\text{S}} \gg E_{10}/k_{\text{B}}$, so we have $n_{1}/n_{0} = 3$ and
+The excited state is the triplet state and has a three-fold degeneracy: $|\uparrow \uparrow \rangle$, $\dfrac{1}{\sqrt{2}}(|\uparrow \downarrow\rangle + |\downarrow \uparrow \rangle)$, $|\downarrow \downarrow\rangle$, and the lower-energy state is the singlet state: $\dfrac{1}{\sqrt{2}}( |\uparrow \downarrow\rangle - |\downarrow \uparrow \rangle)$, where arrows denote the spin. $T_{\text{S}}$ is the spin temperature and is defined via this equation. For our purposes, $T_{\text{S}} \gg E_{10}/k_{\text{B}}$, so we have $n_{1}/n_{0} = 3$ and
 
 \begin{align}
-1 - e^{-E_{10}/k_{\text{B}}T_{\text{S}}} &\approx \dfrac{E_{10}}{k_{\text{B}}T_{\text{S}}}
+1 - e^{-E_{10}/k_{\text{B}}T_{\text{S}}} &\approx \dfrac{E_{10}}{k_{\text{B}}T_{\text{S}}}.
 \end{align}
 
 
- Furthermore, since only one out of four hydrogen atoms are in the singlet state, $N_{\text{HI}}/4 = \int \dd s n_{0}$. Putting this together, Eq. \ref{eq:tau21} becomes
+ Furthermore, the integral along the line of sight of the number density of hydrogen atoms in the hyperfine ground state will simply be the column density of hydrogen atoms multiplied by 1/4, $N_{\text{HI}}/4$. Here, the factor of $\frac14$ accounts for the fact that only one out of four hydrogen atoms will be in the singlet state on average. Putting this together, Eq. \ref{eq:tau21} becomes
  
 \begin{align}
 \tau_{\nu} &\approx \sigma_{01} \dfrac{N_{\text{HI}}}{4} \dfrac{E_{\text{10}}}{k_{\text{B}}T_{\text{S}}} \phi(\nu)
@@ -416,13 +418,13 @@ where
 \sigma_{01} &\equiv \dfrac{3c^2 A_{10}}{8\pi\nu^{2}}
 \end{align}
 
-where $A_{10} = 2.85 \times 10^{-15}\sec^{-1}$ is the spontaneous emission coefficient for the transition. As we discussed in \S \ref{sec:IntroIGMTemperature}, line profiles depend on several properties of the gas, however, here it is the case that Doppler broadening due to the expansion of the Universe dominates the line profile, such that
+is the cross section for 21-cm absorption and $A_{10} = 2.85 \times 10^{-15}\sec^{-1}$ is the spontaneous emission coefficient for the transition and $\phi(\nu)$ is the 21-cm line profile. As we discussed in \S \ref{sec:IntroIGMTemperature}, line profiles depend on several properties of the gas, however, here it is the case that Doppler broadening due to the expansion of the Universe dominates the line profile, such that
 
 \begin{align}
-\phi(\nu) \approx \dfrac{c}{s H(z) \nu}.
+\phi(\nu) \approx \dfrac{c}{s H(z) \nu}
 \end{align}
 
-Putting these pieces together, our expression for the optical depth becomes:
+where $s$ is the proper distance between two points expanding away from each other. Putting these pieces together, our expression for the optical depth becomes:
 
 \begin{align}
 \tau_{\nu} &\approx \dfrac{3c^2 A_{10}}{8\pi \nu^{2}} \dfrac{h \nu}{k_{\text{B}}T_{\text{S}}} \dfrac{c}{s H(z) \nu} \dfrac{n_{\text{HI}}\langle x_{\text{HI}}\rangle s}{4} \tag{$N_{\text{HI}} = s n_{\text{HI}}\axhi$}\\
@@ -444,9 +446,7 @@ where $\dd v_{\parallel}/\dd r_{\parallel}$ is the gradient in the line-of-sight
 &\approx 24 \text{mK}\cdot x_{\text{HI}}(1+\delta)\left(\frac{1+z}{7}\right)^{1/2}\left[ 1 - \dfrac{T_{\text{CMB}}}{T_{\text{S}}} \right] \left[ \dfrac{H(z)/(1+z)}{\dd v_{\parallel}/ \dd r_{\parallel}} \right].
 \end{align}
 
-Thus, we see that a neutral parcel of hydrogen at mean density and $z = 6$ and $T_{\text{S}} \gg T_{\text{CMB}}$, the brightness temperature contrast is $\sim 24\text{mK}$.
-
-
+Thus, we see that a neutral parcel of hydrogen at mean density and $z = 6$ and $T_{\text{S}} \gg T_{\text{CMB}}$, the brightness temperature contrast is $\sim 24\text{mK}$. 
 
 
 \begin{figure}[h]
@@ -464,6 +464,68 @@ Thus, we see that a neutral parcel of hydrogen at mean density and $z = 6$ and $
   \caption{Simulation cube of the 21-cm signal during reionization (top) along with simulated noise for an interferometer (middle) and the galactic foregrounds (bottom). This figure demonstrates that, while the sources of noise are several orders of magnitude larger than the signal, these three contributions to observations are dominant of different scales. The volume of each cube is 1 $(\text{Gpc}/h)^{3}$. In this figure, the line of sight direction away from the observer is to the right. }
   \label{fig:21cmCube}
 \end{figure}
+
+
+\subsubsection{21-cm Fluctuations with Interferometers} 
+
+
+The first approach for utilizing the 21-cm line in order to learn about reionization that we will discuss is through the use of 21-cm fluctuations. The ultimate goal for the 21-cm line for people interested in reionization is to image the 21-cm intensity field for the duration of reionization. Since the 21-cm radiation of interest is emitted at $z \approx 10$, by the time it arrives to us, its wavelength will have redshifted to $\sim 2\meter$. Thus, observations of 21-cm fluctuations must be made with large interferometers, consisting of tens to thousands of antennae, and maximum separations (baselines) of the order 1 km. 
+
+Before continuing, it may be helpful to provide a brief description of what interferometry is, for which we will follow \cite{morales2009reionization}. Interferometers are built of many antennae which observe the electric field at their location and correlate those measurements to image the sky. Let us consider a single antenna which observe an time-and-angle-dependent electric field, defined $E(\theta,t)$. A nearby antenna, separated from the first by the vector $\vec{r}$, will observe a similar electric field, but the field will have a phase shift owing to the difference in path length that the radiation had to travel between going to the first and the second antennae. If we are observing directly overhead, then light will have to travel an equal distance to reach either antenna. Conversely, if we are observing at the horizon along the line connected the antennae, then it will take light extra time to reach one of the antenna opposed to the other ($\Delta t = |\vec{r}|/c$). This is illustrated in Figure \ref{fig:interferometry}. Based on this figure, we can see that the extra path length for the light will be 
+
+\begin{align}
+\Delta \ell &= \vec{r}\cdot\hat{\theta}
+\end{align}
+
+resulting in a \textit{phase difference} of 
+
+\begin{align}
+\Delta \phi &= \vec{r}\cdot\hat{\theta}/\lambda.
+\end{align}
+
+
+Therefore, if the first antenna sees an electric field $E(\theta,t)$, then the second antenna will see $E_2(\theta,t) = E(\theta,t)e^{-2\pi i (\vec{r}\cdot{\theta}/\lambda)}$. Conversely,
+
+\begin{align}
+E(\vec{r},\theta,t) &= E(\theta,t)e^{-2\pi i (\vec{r} \cdot \hat{\theta}/\lambda)}.
+\end{align}
+
+If we integrate over the entire sky, we find
+
+\begin{align}
+E(\vec{r},t) &= \int \dd^{2} \theta E(\theta,t) e^{-2\pi i (\vec{r}\cdot \hat{\theta}/\lambda)}.
+\end{align}
+
+However, the expression on the right appears very familiar to us since it is simply a Fourier transform. Therefore, we see that the observed electric field on the surface of the Earth is actually just a Fourier transform\gloss{Fourier Transform}{A Fourier transform essentially describes a function as a weighted sum of infinitely many sine waves with different frequencies. The Fourier transform describes the weights of the different sine curves and therefore gives information about the relevant distances scales in your function.} of the electric field on the surface of the sky. This is basically what allows measurements at many locations on the ground to be converted into measurements of the 21-cm signal across the sky. Furthermore, each pair of antenna essentially measure a particular Fourier \textit{mode}, $k$, on the sky:
+
+\begin{align}
+{\bf k} &= \frac{2\pi {\bf u}}{D}
+\end{align}
+
+where ${\bf u}$ denotes the separation of a pair of antenna in units of the observed wavelength and $D$ is the co-moving distance to the source of the emission. Thus, this demonstrates that many measurements on the ground can give us information of the 21-cm signal as a function of position on the sky, with widely-separated antenna providing information on \textit{small scales} and closely-separated antenna providing information on the large scales. 
+
+
+At this point, we have isolated a signal to measure and have a method of doing so, but in order to know how feasible this is we also need to think about what potential sources of noise might arise. Synchrotron emission\gloss{Synchrotron Radiation}{Radiation emitted by charged particles undergoing radial acceleration, such as in synchrotron particle accelerators. This constitutes a significant source of noise for 21-cm observations.}, free-free emission\gloss{Free-Free Emission}{Emission from a charged particle that is free both before and after the interaction. Examples include electrons in an ionized hydrogen cloud interacting with protons without being captured.}, and Bremsstrahlung radiation\gloss{Bremsstrahlung Radiation}{Emission from charged particles undergoing acceleration due to interactions with other charged particles. Literally translates to ``braking radiation''.} from our own galaxy constitutes the primary nuisance at the frequencies of interest ($\nu \approx 140\mhz$). In a relatively ``cold'' spot on the sky, \cite{Furlanetto2006} state that the intensity of this radiation obeys the following scaling relation:
+
+\begin{align}
+T_{\text{sky}} \sim 180 \left( \dfrac{\nu}{180\mhz} \right)^{-2.6}\kelvin, \label{eq:Tsky}
+\end{align}
+
+which scales to $T_{\text{sky}} \sim 130\kelvin$ at $z = 6$. Thus, we see in this specific example, the intensity of the foreground emission from our galaxy should be $\gtrsim 5000$ times greater than the 21-cm signal itself. While this presents an enormous challenge for observing the 21-cm signal from the EoR, not all hope is lost. 
+
+
+We can see from Eq. \ref{eq:Tsky} that the foreground noise from the galaxy should vary very \textit{smoothly} with frequency. Meanwhile, for the 21-cm signal, slight decreases in observed frequency are equivalent to observing the 21-cm signal from a more distant point in space. For example, in the case of ionized bubbles of size $\ell \approx 10\mpch$, we would expect fluctuations of 100\% in the 21-cm signal over this distance. However, this distance at a redshift of $z \approx 7$ corresponds to a frequency change of $\Delta \nu \approx 1\mhz$ and a change in the amplitude of the foreground signal of only $\lesssim3\%$. This is further demonstrated by Figure \ref{fig:21cmCube}. The top cube shows what the 21-cm signal would look (in arbitrary units) like for a 1Gpc/$h$ cube of the Universe from a reionization simulation. We can see bubbles of size $\sim10\mpch$ and therefore fluctuations in the 21-cm signal on that scale. In the bottom panel, we show a simulation of the galactic foregrounds (provided by Piyanat Kittiwisit at ASU) corresponding to the same physical region in space. In this case, the dimension of the cube that goes to the right and slightly out of the page is the line of sight direction away from us. We see that, along this direction, the foreground emission varies very smoothly, as expected from Eq. \ref{eq:Tsky}. Thus, in principle, the contributions to the observed signal from the EoR and from the galaxy should separable.
+
+
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=8cm]{interferometry.eps}
+  \caption{This figure depicts the extra path length, $\Delta \ell$, of radiation (dot-dashed lines) incident on two elements (solid black rectangles) in an array separated by $\vec{r}$ when considering a position on the sky $\hat{\theta}$.}
+  \label{fig:interferometry}
+\end{figure}
+
+
 
 \subsubsection{The Global 21-cm Signal}
 

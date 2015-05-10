@@ -2331,6 +2331,13 @@
   Timestamp                = {2015.04.01}
 }
 
+@Article{morales2009reionization,
+  Title                    = {Reionization and Cosmology with 21 cm Fluctuations},
+  Author                   = {Morales, Miguel F and Wyithe, J Stuart B},
+  Journal                  = {arXiv preprint arXiv:0910.3010},
+  Year                     = {2009}
+}
+
 @Article{Mortlock2011,
   Title                    = {{A luminous quasar at a redshift of z = 7.085}},
   Author                   = {Mortlock, Daniel J. and Warren, Stephen J. and Venemans,
@@ -3108,6 +3115,18 @@
   Owner                    = {matt},
   Primaryclass             = {astro-ph.CO},
   Timestamp                = {2015.04.01}
+}
+
+@Article{visbal2012gauging,
+  Title                    = {Gauging the contribution of X-ray sources to reionization through the kinetic Sunyaev-Zel'dovich effect},
+  Author                   = {Visbal, Eli and Loeb, Abraham},
+  Journal                  = {Journal of Cosmology and Astroparticle Physics},
+  Year                     = {2012},
+  Number                   = {05},
+  Pages                    = {007},
+  Volume                   = {2012},
+
+  Publisher                = {IOP Publishing}
 }
 
 @Article{Wang2006,
