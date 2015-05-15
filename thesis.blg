@@ -13,10 +13,19 @@ A level-1 auxiliary file: conclusion/conclusion.aux
 A level-1 auxiliary file: backmatter/appendix.aux
 A level-1 auxiliary file: backmatter/glossary.aux
 The style file: plainnat.bst
+Reallocated field_info (elt_size=4) to 10208 items from 5000.
 Database file #1: ./backmatter/references.bib
-Repeated entry---line 582 of file ./backmatter/references.bib
+Repeated entry---line 44 of file ./backmatter/references.bib
+ : @article{ali2015paper
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 596 of file ./backmatter/references.bib
  : @article{Chornock:2014fva
  :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2562 of file ./backmatter/references.bib
+ : @article{pober2015paper
+ :                        ,
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "1994MNRAS.266..343M"
 Warning--I didn't find a database entry for "Hui:1997dp"
@@ -107,7 +116,8 @@ Warning--I didn't find a database entry for "Ciardi:2003hg"
 Warning--I didn't find a database entry for "Zahn:2010yw"
 Warning--I didn't find a database entry for "Barkana:2000fd"
 Warning--I didn't find a database entry for "Tingay:2012ps"
-Warning--I didn't find a database entry for "Furlanetto:2006pg"
+Warning--I didn't find a database entry for "McQuinn:2006"
+Warning--I didn't find a database entry for "Furlanetto:2006"
 Warning--I didn't find a database entry for "Wyithe:2007if"
 Warning--I didn't find a database entry for "Bowman:2005hj"
 Warning--I didn't find a database entry for "Wang:2005zj"
@@ -130,50 +140,52 @@ Warning--empty journal in Djorgovski:2001ez
 Warning--empty journal in McGreer:2011dm
 Warning--empty journal in Mesinger:2009mv
 Warning--empty journal in MiraldaEscude:1997en
+Warning--empty journal in Parsons2012
 Warning--empty journal in Pentericci:2014nia
 Warning--empty journal in Rahmati:2013hsa
 Warning--empty journal in Salvaterra:2015gpa
 Warning--empty journal in Taylor:2013qia
+Warning--empty journal in Tingay2012
 Warning--empty journal in Worseck:2014fya
-You've used 75 entries,
+You've used 83 entries,
             2773 wiz_defined-function locations,
-            1281 strings with 23576 characters,
-and the built_in function-call counts, 38858 in all, are:
-= -- 3288
-> -- 2942
+            1328 strings with 27332 characters,
+and the built_in function-call counts, 48228 in all, are:
+= -- 3943
+> -- 4221
 < -- 30
-+ -- 995
-- -- 918
-* -- 3448
-:= -- 6290
-add.period$ -- 271
-call.type$ -- 75
-change.case$ -- 508
-chr.to.int$ -- 73
-cite$ -- 165
-duplicate$ -- 1527
-empty$ -- 2713
-format.name$ -- 1033
-if$ -- 7927
++ -- 1423
+- -- 1338
+* -- 4451
+:= -- 7910
+add.period$ -- 299
+call.type$ -- 83
+change.case$ -- 667
+chr.to.int$ -- 81
+cite$ -- 183
+duplicate$ -- 1691
+empty$ -- 2991
+format.name$ -- 1461
+if$ -- 9706
 int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 77
-newline$ -- 427
-num.names$ -- 300
-pop$ -- 910
+missing$ -- 85
+newline$ -- 471
+num.names$ -- 332
+pop$ -- 1220
 preamble$ -- 1
-purify$ -- 435
+purify$ -- 586
 quote$ -- 0
-skip$ -- 1225
+skip$ -- 1460
 stack$ -- 0
-substring$ -- 1048
-swap$ -- 79
+substring$ -- 1133
+swap$ -- 86
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 815
-warning$ -- 15
-while$ -- 282
+type$ -- 903
+warning$ -- 17
+while$ -- 309
 width$ -- 0
-write$ -- 1037
-(There was 1 error message)
+write$ -- 1143
+(There were 3 error messages)

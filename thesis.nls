@@ -2,38 +2,38 @@
 
  \nomgroup{A}
 
-  \item [{M}]\begingroup Mass of object\nomeqref {5.0}\nompageref{218}
+  \item [{M}]\begingroup Mass of object\nomeqref {5.0}\nompageref{224}
 
  \nomgroup{G}
 
   \item [{$\tau$}]\begingroup Optical depth\nomeqref {5.0}
-		\nompageref{218}
+		\nompageref{224}
 
  \nomgroup{R}
 
   \item [{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}
-		\nompageref{218}
+		\nompageref{224}
 
  \nomgroup{S}
 
   \item [{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}
-		\nompageref{218}
+		\nompageref{224}
 
  \nomgroup{X}
 
   \item [{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}
-		\nompageref{218}
+		\nompageref{224}
 
  \nomgroup{Z}
 
-  \item [{$\alpha $}]\begingroup Fine structure constant, $\alpha \approx 1/137$, related to the strength of electromagnetic interactions.\nomeqref {1.58}
-		\nompageref{35}
+  \item [{$\alpha $}]\begingroup Fine structure constant, $\alpha \approx 1/137$, related to the strength of electromagnetic interactions.\nomeqref {1.59}
+		\nompageref{37}
   \item [{$\delta $}]\begingroup The local mass overdensity in units of the cosmic mean\nomeqref {1.13}
 		\nompageref{10}
   \item [{$\Gamma _{\text {HI}}$}]\begingroup Photoionization rate for hydrogen atoms. This depends on the number, location, and properties of the ionizing sources.\nomeqref {1.10}
 		\nompageref{10}
-  \item [{$\hbar $}]\begingroup Reduced Planck's constant, $\hbar = h/2\pi $, the quantum of angular momentum.\nomeqref {1.58}
-		\nompageref{35}
+  \item [{$\hbar $}]\begingroup Reduced Planck's constant, $\hbar = h/2\pi $, the quantum of angular momentum.\nomeqref {1.59}
+		\nompageref{37}
   \item [{$\lambda _{\alpha }$}]\begingroup Wavelength of the \lya \ transition\nomeqref {1.7}
 		\nompageref{9}
   \item [{$\Omega _b$}]\begingroup Baryon density in units of the critical density\nomeqref {1.13}
@@ -76,14 +76,14 @@
 		\nompageref{21}
   \item [{IGM}]\begingroup Intergalactic medium. This refers to the gas between galaxies, which constitutes most of the baryonic matter in the Universe.\nomeqref {1.0}
 		\nompageref{1}
-  \item [{kSZ Effect}]\begingroup Kinetic Sunyaev Zel'dovich effect. This describes secondary anisotropy in the CMB produced by the bulk velocities of free electrons during and after reionization which impart a Doppler shift on CMB photons.\nomeqref {1.58}
-		\nompageref{36}
-  \item [{LAE}]\begingroup \lya \ Emitter. These are galaxies which emit a significant fraction of their energy in the \lya \ line. This line is produced when hydrogen atoms within the galaxy recombine after being ionized by the galaxy. Roughly 2/3 of recombinations result in a \lya \ photon.\nomeqref {1.58}
-		\nompageref{37}
+  \item [{kSZ Effect}]\begingroup Kinetic Sunyaev Zel'dovich effect. This describes secondary anisotropy in the CMB produced by the bulk velocities of free electrons during and after reionization which impart a Doppler shift on CMB photons.\nomeqref {1.59}
+		\nompageref{39}
+  \item [{LAE}]\begingroup \lya \ Emitter. These are galaxies which emit a significant fraction of their energy in the \lya \ line. This line is produced when hydrogen atoms within the galaxy recombine after being ionized by the galaxy. Roughly 2/3 of recombinations result in a \lya \ photon.\nomeqref {1.59}
+		\nompageref{40}
   \item [{Lorentzian Distribution}]\begingroup Probability distribution for the ratio of two standard-normal-distributed variables. This distribution also describes the intrinsic line profile for absorption lines.\nomeqref {1.21}
 		\nompageref{16}
-  \item [{Lyman Limit}]\begingroup This refers to the most energetic transition in the Lyman series corresponding to ionizing a hydrogen atom in the ground state. This has wavelength $\lambda = 912$\AA and $E_{\gamma } = 13.6$eV.\nomeqref {1.58}
-		\nompageref{39}
+  \item [{Lyman Limit}]\begingroup This refers to the most energetic transition in the Lyman series corresponding to ionizing a hydrogen atom in the ground state. This has wavelength $\lambda = 912$\AA and $E_{\gamma } = 13.6$eV.\nomeqref {1.59}
+		\nompageref{41}
   \item [{Lyman Series}]\begingroup The series of transitions in an atom where an electron is transitioning to or from the ground state.\nomeqref {1.1}
 		\nompageref{6}
   \item [{Magnetic Dipole Moment}]\begingroup The magnetic dipole moment of an object is related to the torque it would experience when placed in an external magnetic field. Magnetic moments are often relevant for bar magnets or loops of current. In the context of the hydrogen atom, the spin of the proton and electric render them as a sort of ``loop of current'' which gives them their own magnetic dipole moment.\nomeqref {1.33}
@@ -103,7 +103,7 @@
   \item [{Synchrotron Radiation}]\begingroup Radiation emitted by charged particles undergoing radial acceleration, such as in synchrotron particle accelerators. This constitutes a significant source of noise for 21-cm observations.\nomeqref {1.52}
 		\nompageref{30}
   \item [{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}
-		\nompageref{218}
+		\nompageref{224}
   \item [{Voigt Function}]\begingroup Also known as the \textit {Hjerting Function}, this function is commonly used in describing line profiles which incorporate Doppler broadening and the natural line width. This function is very relevant when studying the hydrogen damping wing.\nomeqref {1.33}
 		\nompageref{21}
 

@@ -1,4 +1,4 @@
-\begin{thebibliography}{75}
+\begin{thebibliography}{83}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -9,6 +9,15 @@
 P.A.R. Ade et~al.
 \newblock {Planck 2013 results. XVI. Cosmological parameters}.
 \newblock 2013.
+
+\bibitem[Ali et~al.(2015)Ali, Parsons, Zheng, Pober, Liu, Aguirre, Bradley,
+  Bernardi, Carilli, Cheng, et~al.]{ali2015paper}
+Zaki~S Ali, Aaron~R Parsons, Haoxuan Zheng, Jonathan~C Pober, Adrian Liu,
+  James~E Aguirre, Richard~F Bradley, Gianni Bernardi, Chris~L Carilli, Carina
+  Cheng, et~al.
+\newblock Paper-64 constraints on reionization: The 21cm power spectrum at z=
+  8.4.
+\newblock \emph{arXiv preprint arXiv:1502.06016}, 2015.
 
 \bibitem[Barkana and Loeb(2001)]{barkana2001beginning}
 Rennan Barkana and Abraham Loeb.
@@ -275,6 +284,15 @@ Adam Lidz, Matthew McQuinn, and Matias Zaldarriaga.
 \newblock \emph{Astrophys.J.}, 670:\penalty0 39--59, 2007.
 \newblock \doi{10.1086/521974}.
 
+\bibitem[Lidz et~al.(2008)Lidz, Zahn, McQuinn, Zaldarriaga, and
+  Hernquist]{Lidz2008}
+Adam Lidz, Oliver Zahn, Matthew McQuinn, Matias Zaldarriaga, and Lars
+  Hernquist.
+\newblock {Detecting the Rise and Fall of 21 cm Fluctuations with the Murchison
+  Widefield Array}.
+\newblock \emph{Astrophys.J.}, 680:\penalty0 962--974, 2008.
+\newblock \doi{10.1086/587618}.
+
 \bibitem[McGreer et~al.(2015)McGreer, Mesinger, and D'Odorico]{McGreer:2014qwa}
 Ian McGreer, Andrei Mesinger, and Valentina D'Odorico.
 \newblock {Model-independent evidence in favour of an end to reionization by $z
@@ -288,6 +306,15 @@ Ian~D. McGreer, Andrei Mesinger, and Xiaohui Fan.
 \newblock {The first (nearly) model-independent constraint on the neutral
   hydrogen fraction at z~5--6}.
 \newblock 2011.
+
+\bibitem[McQuinn et~al.(2006)McQuinn, Zahn, Zaldarriaga, Hernquist, and
+  Furlanetto]{McQuinn2006}
+Matthew McQuinn, Oliver Zahn, Matias Zaldarriaga, Lars Hernquist, and Steven~R.
+  Furlanetto.
+\newblock {Cosmological parameter estimation using 21 cm radiation from the
+  epoch of reionization}.
+\newblock \emph{Astrophys.J.}, 653:\penalty0 815--830, 2006.
+\newblock \doi{10.1086/505167}.
 
 \bibitem[McQuinn et~al.(2007{\natexlab{a}})McQuinn, Hernquist, Zaldarriaga, and
   Dutta]{McQuinn:2007dy}
@@ -383,6 +410,23 @@ Masami Ouchi, Kazuhiro Shimasaku, Hisanori Furusawa, et~al.
   Constraints on Reionization and Galaxy Formation Models}.
 \newblock \emph{Astrophys.J.}, 723:\penalty0 869, 2010.
 
+\bibitem[Paciga et~al.(2011)Paciga, Chang, Gupta, Nityanada, Odegova,
+  et~al.]{Paciga2011}
+Gregory Paciga, Tzu-Ching Chang, Yashwant Gupta, Rajaram Nityanada, Julia
+  Odegova, et~al.
+\newblock {The GMRT Epoch of Reionization experiment: A New upper limit on the
+  neutral hydrogen power spectrum at z~8.6}.
+\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 413:\penalty0 1174--1183, 2011.
+\newblock \doi{10.1111/j.1365-2966.2011.18208.x}.
+
+\bibitem[Parsons et~al.(2012)Parsons, Pober, Aguirre, Carilli, Jacobs, Moore,
+  et~al.]{Parsons2012}
+Aaron~R. Parsons, Jonathan~C. Pober, James~E. Aguirre, Christopher~L. Carilli,
+  Daniel~C. Jacobs, David Moore, et~al.
+\newblock {A Per-Baseline, Delay-Spectrum Technique for Accessing the 21cm
+  Cosmic Reionization Signature}.
+\newblock 2012.
+
 \bibitem[Pentericci et~al.(2011)Pentericci, Fontana, Vanzella, Castellano,
   Grazian, Dijkstra, Boutsia, Cristiani, Dickinson, Giallongo,
   et~al.]{pentericci2011spectroscopic}
@@ -399,6 +443,15 @@ L.~Pentericci, E.~Vanzella, A.~Fontana, M.~Castellano, T.~Treu, et~al.
 \newblock {New observations of z~7 galaxies: evidence for a patchy
   reionization}.
 \newblock 2014.
+
+\bibitem[Pober et~al.(2015)Pober, Ali, Parsons, McQuinn, Aguirre, Bernardi,
+  Bradley, Carilli, Cheng, DeBoer, et~al.]{pober2015paper}
+Jonathan~C Pober, Zaki~S Ali, Aaron~R Parsons, Matthew McQuinn, James~E
+  Aguirre, Gianni Bernardi, Richard~F Bradley, Chris~L Carilli, Carina Cheng,
+  David~R DeBoer, et~al.
+\newblock Paper-64 constraints on reionization ii: The temperature of the z=
+  8.4 intergalactic medium.
+\newblock \emph{arXiv preprint arXiv:1503.00045}, 2015.
 
 \bibitem[Prochaska et~al.(2005)Prochaska, Herbert-Fort, and
   Wolfe]{Prochaska:2005wy}
@@ -489,6 +542,13 @@ T.~{Theuns}, S.~{Zaroubi}, T.-S. {Kim}, P.~{Tzanavaris}, and R.~F. {Carswell}.
 \newblock \emph{MNRAS}, 332:\penalty0 367--382, May 2002.
 \newblock \doi{10.1046/j.1365-8711.2002.05316.x}.
 
+\bibitem[Tingay et~al.(2012)Tingay, Goeke, Bowman, Emrich, Ord,
+  et~al.]{Tingay2012}
+S.J. Tingay, R.~Goeke, J.D. Bowman, D.~Emrich, S.M. Ord, et~al.
+\newblock {The Murchison Widefield Array: the Square Kilometre Array Precursor
+  at low radio frequencies}.
+\newblock 2012.
+
 \bibitem[Totani et~al.(2006)Totani, Kawai, Kosugi, Aoki, Yamada,
   et~al.]{Totani:2005ng}
 Tomonori Totani, Nobuyuki Kawai, George Kosugi, Kentaro Aoki, Toru Yamada,
@@ -531,6 +591,45 @@ Yidong Xu, Bin Yue, Meng Su, Zuhui Fan, and Xuelei Chen.
   stage of reionization}.
 \newblock \emph{Astrophys.J.}, 781:\penalty0 97, 2014.
 \newblock \doi{10.1088/0004-637X/781/2/97}.
+
+\bibitem[{Yatawatta} et~al.(2013){Yatawatta}, {de Bruyn}, {Brentjens},
+  {Labropoulos}, {Pandey}, {Kazemi}, {Zaroubi}, {Koopmans}, {Offringa},
+  {Jeli{\'c}}, {Martinez Rubi}, {Veligatla}, {Wijnholds}, {Brouw}, {Bernardi},
+  {Ciardi}, {Daiboo}, {Harker}, {Mellema}, {Schaye}, {Thomas}, {Vedantham},
+  {Chapman}, {Abdalla}, {Alexov}, {Anderson}, {Avruch}, {Batejat}, {Bell},
+  {Bell}, {Bentum}, {Best}, {Bonafede}, {Bregman}, {Breitling}, {van de Brink},
+  {Broderick}, {Br{\"u}ggen}, {Conway}, {de Gasperin}, {de Geus}, {Duscha},
+  {Falcke}, {Fallows}, {Ferrari}, {Frieswijk}, {Garrett}, {Griessmeier},
+  {Gunst}, {Hassall}, {Hessels}, {Hoeft}, {Iacobelli}, {Juette},
+  {Karastergiou}, {Kondratiev}, {Kramer}, {Kuniyoshi}, {Kuper}, {van Leeuwen},
+  {Maat}, {Mann}, {McKean}, {Mevius}, {Mol}, {Munk}, {Nijboer}, {Noordam},
+  {Norden}, {Orru}, {Paas}, {Pandey-Pommier}, {Pizzo}, {Polatidis}, {Reich},
+  {R{\"o}ttgering}, {Sluman}, {Smirnov}, {Stappers}, {Steinmetz}, {Tagger},
+  {Tang}, {Tasse}, {ter Veen}, {Vermeulen}, {van Weeren}, {Wise}, {Wucknitz},
+  and {Zarka}]{2013A&A...550A.136Y}
+S.~{Yatawatta}, A.~G. {de Bruyn}, M.~A. {Brentjens}, P.~{Labropoulos}, V.~N.
+  {Pandey}, S.~{Kazemi}, S.~{Zaroubi}, L.~V.~E. {Koopmans}, A.~R. {Offringa},
+  V.~{Jeli{\'c}}, O.~{Martinez Rubi}, V.~{Veligatla}, S.~J. {Wijnholds}, W.~N.
+  {Brouw}, G.~{Bernardi}, B.~{Ciardi}, S.~{Daiboo}, G.~{Harker}, G.~{Mellema},
+  J.~{Schaye}, R.~{Thomas}, H.~{Vedantham}, E.~{Chapman}, F.~B. {Abdalla},
+  A.~{Alexov}, J.~{Anderson}, I.~M. {Avruch}, F.~{Batejat}, M.~E. {Bell}, M.~R.
+  {Bell}, M.~{Bentum}, P.~{Best}, A.~{Bonafede}, J.~{Bregman}, F.~{Breitling},
+  R.~H. {van de Brink}, J.~W. {Broderick}, M.~{Br{\"u}ggen}, J.~{Conway},
+  F.~{de Gasperin}, E.~{de Geus}, S.~{Duscha}, H.~{Falcke}, R.~A. {Fallows},
+  C.~{Ferrari}, W.~{Frieswijk}, M.~A. {Garrett}, J.~M. {Griessmeier}, A.~W.
+  {Gunst}, T.~E. {Hassall}, J.~W.~T. {Hessels}, M.~{Hoeft}, M.~{Iacobelli},
+  E.~{Juette}, A.~{Karastergiou}, V.~I. {Kondratiev}, M.~{Kramer},
+  M.~{Kuniyoshi}, G.~{Kuper}, J.~{van Leeuwen}, P.~{Maat}, G.~{Mann}, J.~P.
+  {McKean}, M.~{Mevius}, J.~D. {Mol}, H.~{Munk}, R.~{Nijboer}, J.~E. {Noordam},
+  M.~J. {Norden}, E.~{Orru}, H.~{Paas}, M.~{Pandey-Pommier}, R.~{Pizzo}, A.~G.
+  {Polatidis}, W.~{Reich}, H.~J.~A. {R{\"o}ttgering}, J.~{Sluman},
+  O.~{Smirnov}, B.~{Stappers}, M.~{Steinmetz}, M.~{Tagger}, Y.~{Tang},
+  C.~{Tasse}, S.~{ter Veen}, R.~{Vermeulen}, R.~J. {van Weeren}, M.~{Wise},
+  O.~{Wucknitz}, and P.~{Zarka}.
+\newblock {Initial deep LOFAR observations of epoch of reionization windows. I.
+  The north celestial pole}.
+\newblock \emph{AAP}, 550:\penalty0 A136, February 2013.
+\newblock \doi{10.1051/0004-6361/201220874}.
 
 \bibitem[Zahn et~al.(2012)Zahn, Reichardt, Shaw, Lidz, Aird, et~al.]{Zahn2012}
 O.~Zahn, C.L. Reichardt, L.~Shaw, A.~Lidz, K.A. Aird, et~al.

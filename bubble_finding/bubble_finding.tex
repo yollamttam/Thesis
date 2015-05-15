@@ -12,10 +12,10 @@
 %: ----------------------- content ----------------------- 
 % ----------------------------------------------------------------------
 
-\chapter{Identifying Ionized Regions in Noisy Redshifted 21-cm Observations}
+\chapter{Identifying Ionized Regions in Noisy Redshifted 21-cm Observations}\label{sec:Bubble}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Introduction} \label{sec:intro}
+\section{Introduction} \label{sec:Bubbleintro}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
  
 The Epoch of Reionization (EoR) is the time period when early generations
@@ -70,14 +70,14 @@ noisy data set in order to determine whether the template signal is present in t
 widely in astrophysics: to name just a few examples, matched filters are used to detect clusters in cosmic microwave background (CMB) data (\citealt{Haehnelt:1995dg}), to identify galaxy clusters from weak lensing shear fields (e.g., \citealt{Hennawi:2004ai}, \citealt{Marian:2008fd}), 
 and are central to data analysis efforts aimed at detecting gravitational waves (e.g., \citealt{Owen:1998dk}).
 
-The outline of this paper is as follows. In \S\ref{sec:method} we describe the mock 21 cm data sets used in our investigations.
+The outline of this paper is as follows. In \S\ref{sec:Bubblemethod} we describe the mock 21 cm data sets used in our investigations.
 We use the mock data to first consider the ability of future surveys
-to make maps of the redshifted 21 cm signal (\S\ref{sec:imaging}). In \S\ref{sec:ionprospects}, 
+to make maps of the redshifted 21 cm signal (\S\ref{sec:Bubbleimaging}). In \S\ref{sec:Bubbleionprospects}, 
 we then quantify the prospects for identifying individual ionized regions using
-a matched filter technique. In \S\ref{sec:Variations} and \S\ref{sec:LOFAR} we
+a matched filter technique. In \S\ref{sec:BubbleVariations} and \S\ref{sec:BubbleLOFAR} we
 consider variations around our fiducial choice of reionization history and redshifted
-21 cm survey parameters. We compare with previous related work in \S\ref{sec:PreviousWork},
-and conclude in \S \ref{sec:Conclusion}.
+21 cm survey parameters. We compare with previous related work in \S\ref{sec:BubblePreviousWork},
+and conclude in \S \ref{sec:BubbleConclusion}.
 Throughout we consider a $\Lambda$CDM cosmology
 parametrized by $n_s =1, \sigma_8 = 0.8, \Omega_m = 0.27,
 \Omega_\Lambda = 0.73, \Omega_b = 0.046$, and $h=0.7$, (all symbols
@@ -86,7 +86,7 @@ constraints from \cite{Komatsu:2010fb}.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Method} \label{sec:method}
+\section{Method} \label{sec:Bubblemethod}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
  
 Briefly, our approach is to construct mock redshifted 21 cm data sets and check whether we
@@ -98,7 +98,7 @@ our approach for incorporating the impact of foreground cleaning.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{The 21 cm Signal} \label{sec:21cm}
+\subsection{The 21 cm Signal} \label{sec:Bubble21cm}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 First, let us describe the underlying 21 cm signal and our reionization simulations.
@@ -122,7 +122,7 @@ present study, although it will break down at earlier times (e.g., \citealt{Ciar
 in units of $T_{0}$.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Semi-Numeric Simulations} \label{sec:sims}
+\subsection{Semi-Numeric Simulations} \label{sec:Bubblesims}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 In order to simulate reionization we use the `semi-numeric' scheme described in 
@@ -143,7 +143,7 @@ independent of halo mass. In our fiducial model, we adjust the ionizing efficien
 so that the volume-averaged ionization fraction is $\langle x_i \rangle = 0.79$ at
 $z_{\rm fid} = 6.9$. We focus most of our analysis on this redshift and on this
 particular model for the volume-averaged ionized fraction. However, we consider additional 
-redshifts in \S\ref{sec:Variations}, as well as variations around our fiducial
+redshifts in \S\ref{sec:BubbleVariations}, as well as variations around our fiducial
 ionization history in effort to bracket current uncertainties in the ionization history (see 
 e.g., \citealt{Kuhlen:2012vy}, \citealt{Zahn:2011vp}).
 
@@ -155,7 +155,7 @@ scales of interest for our study; we focus on length scales of $R \gtrsim 20$ $h
 in subsequent sections. 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Redshifted 21 cm Surveys and Thermal Noise} \label{sec:noise}
+\subsection{Redshifted 21 cm Surveys and Thermal Noise} \label{sec:Bubblenoise}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 We mostly consider two concrete examples of upcoming 
@@ -167,8 +167,8 @@ These two examples are intended to indicate the general prospects for imaging an
 first and second generation 21 cm surveys, respectively. Similar considerations would apply
 for other experiments, but we choose these as a concrete set of examples.
 We mainly focus on the 500-tile configuration in this paper because of its greater sensitivity. In 
-\S\ref{sec:128tiles}, we shift to considering 128-tile configurations
-and in \S\ref{sec:LOFAR}, we consider a LOFAR-style interferometer for comparison. Hereafter, we refer
+\S\ref{sec:Bubble128tiles}, we shift to considering 128-tile configurations
+and in \S\ref{sec:BubbleLOFAR}, we consider a LOFAR-style interferometer for comparison. Hereafter, we refer
 to the 500-tile configuration as the MWA-500 and the 128-tile version as the MWA-128.
 
 Throughout this paper, we work in co-moving coordinates described by Cartesian
@@ -200,12 +200,12 @@ redshift, and $|\Delta \nu|/\nu$ is the absolute value of the fractional differe
 
 
 In order to test the prospects for imaging and bubble identification with
-the MWA, we must corrupt the underlying 21 cm signal described in \S \ref{sec:sims}
+the MWA, we must corrupt the underlying 21 cm signal described in \S \ref{sec:Bubblesims}
 with thermal noise. We do this by generating a Gaussian random noise field in
 the $\k$-space coordinate system described above, using an appropriate power spectrum. We assume that
 the co-variance matrix of the thermal noise power is diagonal in $\k$-space. We add
 the resulting noise field to the underlying 21 cm signal (Equation \ref{eq:21cm}).
-The power spectrum of the thermal noise is given by (\citealt{McQuinn:2005hk}, \citealt{Furlanetto:2006pg}):
+The power spectrum of the thermal noise is given by (\citealt{McQuinn:2006}, \citealt{Furlanetto:2006}):
 \begin{equation}
 P_{\text{N}}(k,\mu) =
 \frac{T_{\text{sys}}^2}{Bt_{\text{int}}}\frac{D^2\Delta
@@ -249,7 +249,7 @@ of our reionization simulation. In particular, the transverse dimension
 of the simulation is smaller than that of the MWA by a factor of $\sim 3$, while the simulation
 is deeper in the line-of-sight direction by about the same factor, as compared with the full MWA bandwidth. However, we remove
 the long wavelength modes along the line-of-sight direction to mimic foreground
-cleaning (\S \ref{sec:foregrounds}), and so we do not, in practice, use the longer line-of-sight scales in our simulation
+cleaning (\S \ref{sec:Bubbleforegrounds}), and so we do not, in practice, use the longer line-of-sight scales in our simulation
 box. As we will see, the ionized regions in the simulation are substantially
 smaller than the transverse length of the box. Transverse slices should therefore
 be representative of what the actual MWA will observe from a fraction of its 
@@ -259,7 +259,7 @@ compared to in the actual MWA survey does not impact our results.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Foregrounds} \label{sec:foregrounds}
+\subsection{Foregrounds} \label{sec:Bubbleforegrounds}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -285,7 +285,7 @@ mean from the noisy signal along each line of sight, rather than
 including realizations of the foregrounds in our simulation and excising
 them with one of the above algorithms.
 We generally remove the running mean over a bandwidth of $16\MHz$, which corresponds
-to a co-moving distance of $L_{\text{fg}} = 185\hmpc$ at redshift $z_{\rm fid} = 6.9$; we consider the impact of other choices of $L_{\text{fg}}$ in \S \ref{sec:ForegroundCleaning}.
+to a co-moving distance of $L_{\text{fg}} = 185\hmpc$ at redshift $z_{\rm fid} = 6.9$; we consider the impact of other choices of $L_{\text{fg}}$ in \S \ref{sec:BubbleForegroundCleaning}.
 We defer more detailed models of foreground contamination, and foreground
 removal algorithms, to future work.
 
@@ -293,7 +293,7 @@ removal algorithms, to future work.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Prospects for Imaging} \label{sec:imaging}
+\section{Prospects for Imaging} \label{sec:Bubbleimaging}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
  
 Having described our mock 21 cm data sets, we now turn to
@@ -318,7 +318,7 @@ signal with the underlying noise-free 21 cm input signal.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{The Wiener Filter} \label{sec:wiener}
+\subsection{The Wiener Filter} \label{sec:Bubblewiener}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
  
 The Wiener filter is the optimal filter for extracting
@@ -375,7 +375,7 @@ subtracting the estimated signal power from the power measured over
 the entire integration time, which contains both
 the signal and noise contributions. The Wiener filter does not
 actually require the noise power spectrum to be known on its
-own. However, in  \S\ref{sec:ionprospects} we consider the optimal
+own. However, in  \S\ref{sec:Bubbleionprospects} we consider the optimal
 matched filter, which does have this requirement. Throughout this study, we
 assume perfect knowledge of the underlying power spectra.
 
@@ -425,7 +425,7 @@ simulated models with $\axi = 0.51$ (blue dotted), $\axi = 0.68$
 
 The resulting Wiener filters for the different values of $\langle x_i \rangle$
 are shown in Figure \ref{fig:WienerFilter}, after integrating over
-angle $\mu$. In this figure, foreground cleaning has been accounted for by subtracting a running mean along the line of sight, as described in \S\ref{sec:foregrounds}. It is helpful to note, from Equation
+angle $\mu$. In this figure, foreground cleaning has been accounted for by subtracting a running mean along the line of sight, as described in \S\ref{sec:Bubbleforegrounds}. It is helpful to note, from Equation
 \ref{eq:WienerFilter}, that the filter is equal to $1/2$ for modes
 where the signal and noise power are equal. The figure suggests that a
 small range of $k$-modes with $k \lesssim 0.1 h$ Mpc$^{-1}$ will have
@@ -443,7 +443,7 @@ $\langle x_i \rangle = 0.51, 0.68, 0.79, 0.89$, respectively.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Application to a Simulated 21 cm Signal} \label{sec:wapplied}
+\subsection{Application to a Simulated 21 cm Signal} \label{sec:Bubblewapplied}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{figure}[t]
@@ -502,7 +502,7 @@ does not exceed $\sim 5-\sigma$. Quantitatively, $\sim 3\%$
 by pixels with statistical significance greater (in magnitude) than
 $3-\sigma$ ($5-\sigma$). This is expected given that the filtered data cube
 has an average signal-to-noise ratio of $\sigma_{\text{S}}/\sigma_{\text{N}} \approx 1$, as anticipated in the analytic calculation
-of \S\ref{sec:wiener}.
+of \S\ref{sec:Bubblewiener}.
 
 Comparing the filtered noisy signal and the filtered pure noise,
 one can see that ionized regions in the underlying signal are
@@ -524,7 +524,7 @@ line up well with the corresponding regions in the filtered noiseless signal if 
 are coincident with downward fluctuations in the noise.
 On its own, the filtered noiseless signal only attains statistical significances of $\lesssim4\sigma_{\text{N}}$.
 Finally, Figure \ref{fig:WienerLOS} illustrates the impact of
-foreground cleaning, performed here over a bandwidth of $16 \MHz$ (\S \ref{sec:foregrounds}). 
+foreground cleaning, performed here over a bandwidth of $16 \MHz$ (\S \ref{sec:Bubbleforegrounds}). 
 Foreground cleaning removes the long wavelength
 modes along the line of sight -- which is along the vertical axis
 in the figure -- and thereby compresses structures along the line of sight.
@@ -548,7 +548,7 @@ process.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Prospects for Identifying Ionized Regions} \label{sec:ionprospects}
+\section{Prospects for Identifying Ionized Regions} \label{sec:Bubbleionprospects}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 We now shift our focus to discuss whether it may also be possible
@@ -561,7 +561,7 @@ ionized regions may be identifiable as {\em prominent minima in the
 filtered field}.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{The Optimal Matched Filter} \label{sec:optimal}
+\subsection{The Optimal Matched Filter} \label{sec:Bubbleoptimal}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -596,7 +596,7 @@ we are mainly interested in the signal-to-noise ratio here, in which case the ov
 
 
  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Application to Isolated Spherical Ionized Regions with Noise} \label{sec:toy}
+\subsection{Application to Isolated Spherical Ionized Regions with Noise} \label{sec:Bubbletoy}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -676,7 +676,7 @@ only $\sim 3 \times 10^{-7}$ of pixels in the filtered noise having such a large
 (negative) significance on their own. For simplicity we neglect
 the impact of foreground cleaning in this figure: this will 
 degrade the expected signal-to-noise ratios somewhat, as we will
-consider subsequently (see \S \ref{sec:mapplied}, \S \ref{sec:ForegroundCleaning}).
+consider subsequently (see \S \ref{sec:Bubblemapplied}, \S \ref{sec:BubbleForegroundCleaning}).
 
 In order to estimate the number of bubbles that can be detected from these curves, we need to consider
 how many bubbles there are of different sizes, i.e., we need to fold in an estimate of the bubble
@@ -691,7 +691,7 @@ are relatively common later in reionization. Since Figure \ref{fig:ToySNR} indic
 that only bubbles with $R \gtrsim 30$ $h^{-1}$Mpc exceed $\mathcal{S}(R_{\text{B}}) \gtrsim 5$,
 this suggests that bubble detection is feasible for the MWA-500 after the Universe is more than
 $\sim 50\%$ ionized, but that it will be difficult to use this method at earlier
-stages of the reionization process. Also, note again that the the calculation here neglects the effects of foreground cleaning. However, we find that incorporating foreground cleaning only has a small effect on bubbles of this size ($\lesssim 30\hmpc$, \S \ref{sec:ForegroundCleaning}). Bubble detection will also be challenging once
+stages of the reionization process. Also, note again that the the calculation here neglects the effects of foreground cleaning. However, we find that incorporating foreground cleaning only has a small effect on bubbles of this size ($\lesssim 30\hmpc$, \S \ref{sec:BubbleForegroundCleaning}). Bubble detection will also be challenging once
 the Universe is less than $\sim 10-20\%$ neutral, owing mostly to the reduced contrast
 between the bubbles and typical regions. If the ionized bubbles at a given stage of the EoR are larger than in
 the model of \cite{Zahn:2006sg}, then the prospects for bubble detection will be enhanced. We refer
@@ -718,7 +718,7 @@ with a field of view and collecting area
 
 Finally, it is interesting to consider a LOFAR-style interferometer, as 
 discussed further
-in \S\ref{sec:LOFAR}. This is shown as the red dot-dashed curve in Figure \ref{fig:ToySNR}.
+in \S\ref{sec:BubbleLOFAR}. This is shown as the red dot-dashed curve in Figure \ref{fig:ToySNR}.
 The expected $\mathcal{S}(R)$ exceeds that of the MWA-500 for small bubble radii, before
 flattening off at larger radii. This occurs because the LOFAR-style interferometer
 has more collecting area per baseline, but a larger minimum baseline. This makes it
@@ -733,7 +733,7 @@ practice, the signal-to-noise ratio in a filtered map may fluctuate significantl
 this average, as we will see.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Application to a Simulated 21 cm Signal} \label{sec:mapplied}
+\subsection{Application to a Simulated 21 cm Signal} \label{sec:Bubblemapplied}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 With the estimates of the previous section as a rough guide, we now
@@ -814,7 +814,7 @@ so we can
 do significantly better by considering a range of template radii, and looking
 for extrema in the resulting signal-to-noise fields. In particular,
 we proceed to apply a sequence of filters with template radii up to
-$R_{\text{T}} \leq 75\hmpc$ -- see \S \ref{sec:VaryRt} for a justification of
+$R_{\text{T}} \leq 75\hmpc$ -- see \S \ref{sec:BubbleVaryRt} for a justification of
 this maximum -- across the simulation volume. 
 We assign the minimum (most negative)
 signal-to-noise value obtained over the range of template
@@ -836,7 +836,7 @@ the surrounding ionized material. We discard such spurious bubbles by requiring
 that the field is low on all smaller smoothing scales. The only downside to this
 procedure is that it occasionally discards true ionized regions whose center
 happens to coincide with a significant upward noise fluctuation. Overall, however, it improves the quality of detected
-bubbles (\S \ref{sec:success}). This cut also requires a threshold choice; we
+bubbles (\S \ref{sec:Bubblesuccess}). This cut also requires a threshold choice; we
 reject candidate regions if their signal-to-noise ratio crosses above a threshold $\mathcal{S}_{\max}$
 at any smoothing scale less than $R_{\text{T}}$.
 After trying several
@@ -962,7 +962,7 @@ detected bubbles.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Success of Detecting Ionized Regions} \label{sec:success}
+\subsection{Success of Detecting Ionized Regions} \label{sec:Bubblesuccess}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 We hence turn to describe the characteristics of the detected ionized regions,
@@ -1017,7 +1017,7 @@ fraction of detected bubbles larger than $R_{\text{B}} \gtrsim 40$ $h^{-1}$Mpc, 
 we may no longer be detecting individual ionized regions here. These
 regions may potentially be distinguished from isolated bubbles by examining
 the signal-to-noise ratio as a function of template radius closely, as
-we discuss in \S\ref{sec:VaryRt}.
+we discuss in \S\ref{sec:BubbleVaryRt}.
 
 We can estimate the number of ionized regions detectable in the MWA-500
 by scaling from our simulation volume to the MWA survey volume.
@@ -1046,7 +1046,7 @@ analysis bandwidths to help ensure robust detections.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Range of Template Radius Considered} \label{sec:VaryRt}
+\subsection{Range of Template Radius Considered} \label{sec:BubbleVaryRt}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 It is worth mentioning one further detail of our algorithm. In
@@ -1058,7 +1058,7 @@ A good candidate ionized region should in fact obey three criteria. First,
 it should have a large (negative) signal-to-noise ratio, so that it is unlikely
 to result from a noise fluctuation. Second, the signal-to-noise ratio should
 be small for all trial radii smaller than the optimal template radius, as discussed
-in \S \ref{sec:mapplied}. Finally,
+in \S \ref{sec:Bubblemapplied}. Finally,
 the total signal must itself be
 small in an absolute sense. In the limit of low noise, anything less neutral 
 than average would qualify as a bubble by the first criterion, and so
@@ -1105,11 +1105,11 @@ stages of reionization. The ionized regions identified
 at the end of reionization
 are, however, generally less robust 
 given the reduced contrast between fully ionized  
-and average regions at these times (see \S \ref{sec:VaryXi}).}
+and average regions at these times (see \S \ref{sec:BubbleVaryXi}).}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Variations on the Fiducial Model} \label{sec:Variations}
+\section{Variations on the Fiducial Model} \label{sec:BubbleVariations}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 So far, we have considered the prospects for bubble detection only
@@ -1127,13 +1127,13 @@ prospects for bubble detection with the very first generation of redshifted
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Ionized Fraction} \label{sec:VaryXi}
+\subsection{Ionized Fraction} \label{sec:BubbleVaryXi}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 In order to consider bubble finding at earlier and later stages of the
 EoR, we run our matched filter on simulation outputs with volume-averaged 
 ionized fractions of $\langle x_i \rangle = 0.51, 0.68$, and $0.89$. As discussed in
-\S\ref{sec:wiener} these outputs are actually at slightly different redshifts,
+\S\ref{sec:Bubblewiener} these outputs are actually at slightly different redshifts,
 but we generate the 21 cm field as though they were at $z_{\rm fid} = 6.9$.
 As far as bubble detection is concerned, varying the ionized fraction leads
 to two, generally competing, effects. First, the bubbles grow as reionization
@@ -1145,7 +1145,7 @@ detection more difficult. Both of these effects are quantified in
 the idealized isolated bubble case in Figure \ref{fig:ToySNR}.
 It is also clear that the ideal ionized fraction for bubble detection
 will be somewhat survey dependent. As already illustrated in
-Figure \ref{fig:ToySNR} and discussed further in \S \ref{sec:LOFAR},
+Figure \ref{fig:ToySNR} and discussed further in \S \ref{sec:BubbleLOFAR},
 a LOFAR-type interferometer will perform better when the ionized
 regions are smaller. 
 
@@ -1180,7 +1180,7 @@ $0.68$, $0.79$, and $0.89$, respectively.  However, in each case the
 percentage of detected bubbles with ionized fraction larger than the
 (global) volume-averaged ionization fraction is fixed at $\gtrsim 95\%$. At
 first glance, one aspect of these results may appear to be in tension
-with the calculations of \S\ref{sec:toy}, where we estimated that
+with the calculations of \S\ref{sec:Bubbletoy}, where we estimated that
 bubble detection would be unsuccessful for neutral fractions larger
 than $\langle x_{\rm HI}\rangle \gtrsim 0.5$.  However, this estimate
 considered the detection of {\em isolated} bubbles. Inspection reveals
@@ -1212,7 +1212,7 @@ for simulation snapshots with
 \end{figure}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Timing of Reionization} \label{sec:Timing}
+\subsection{Timing of Reionization} \label{sec:BubbleTiming}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 We now consider how the prospects for bubble detection diminish if reionization occurs
@@ -1254,11 +1254,11 @@ galaxy luminosity function (\citealt{Bouwens:2009qs}). Hence, the prospects for 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Effects of Foreground Cleaning} \label{sec:ForegroundCleaning}
+\subsection{Effects of Foreground Cleaning} \label{sec:BubbleForegroundCleaning}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Next, we consider the impact of variations around our standard foreground
-cleaning model. As discussed previously (\S \ref{sec:foregrounds}), our
+cleaning model. As discussed previously (\S \ref{sec:Bubbleforegrounds}), our
 standard assumption is that the impact of foreground cleaning
 can be approximately mimicked by removing the running mean, over a bandwidth
 of $B=16$ MHz, across each line of sight. The optimal foreground cleaning
@@ -1290,7 +1290,7 @@ estimate the power spectrum of the foregrounds, and incorporate this
 as an additional noise term in Equation \ref{eq:WienerFilter} and Equation \ref{eq:MatchedFilter} for each of the Wiener filter and the matched filter, respectively.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{128 Antenna Tile Configurations} \label{sec:128tiles}
+\subsection{128 Antenna Tile Configurations} \label{sec:Bubble128tiles}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 So far our analysis has focused on the MWA-500, which is meant
@@ -1363,7 +1363,7 @@ sources for the MWA-128 (e.g., \citealt{Wyithe:2004ta}, \citealt{Friedrich:2012f
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Favorable Antenna Configurations for Bubble Detection} \label{sec:LOFAR}
+\section{Favorable Antenna Configurations for Bubble Detection} \label{sec:BubbleLOFAR}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 The possibility of imaging or identifying ionized regions from second
@@ -1462,7 +1462,7 @@ interferometer at $z = 6.9$.}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Comparisons to Previous Work} \label{sec:PreviousWork}
+\section{Comparisons to Previous Work} \label{sec:BubblePreviousWork}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Previous work by \cite{Datta:2007nj} and \cite{Datta:2008ry} also
@@ -1496,7 +1496,7 @@ are detectable with surveys similar to the MWA-500.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Conclusion} \label{sec:Conclusion}
+\section{Conclusion} \label{sec:BubbleConclusion}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 We considered the prospects for making low-resolution images of the 21 cm sky
@@ -1517,7 +1517,7 @@ test the robustness of bubble detection with a more detailed model for foregroun
 and to consider systematic effects from calibration errors and the MWA instrumental response.
 These considerations can also help in determining the optimal design for future surveys aimed at
 bubble detection. Our first efforts considering which configurations of antenna tiles are favorable for bubble
-detection, detailed in \S \ref{sec:LOFAR}, suggest that an observing strategy
+detection, detailed in \S \ref{sec:BubbleLOFAR}, suggest that an observing strategy
 intermediate to that of the MWA and LOFAR is favorable. It would also be interesting to
 consider the prospects for bubble identification across a larger range of reionization models
 than considered here. If the ionized regions at a given stage of reionization are, in fact, larger 
