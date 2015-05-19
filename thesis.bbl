@@ -1,4 +1,4 @@
-\begin{thebibliography}{83}
+\begin{thebibliography}{84}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -637,6 +637,14 @@ O.~Zahn, C.L. Reichardt, L.~Shaw, A.~Lidz, K.A. Aird, et~al.
   of reionization from the South Pole Telescope}.
 \newblock \emph{Astrophys.J.}, 756:\penalty0 65, 2012.
 \newblock \doi{10.1088/0004-637X/756/1/65}.
+
+\bibitem[Zahn et~al.(2006)Zahn, Lidz, McQuinn, Dutta, Hernquist,
+  et~al.]{Zahn2006}
+Oliver Zahn, Adam Lidz, Matthew McQuinn, Suvendra Dutta, Lars Hernquist, et~al.
+\newblock {Simulations and Analytic Calculations of Bubble Growth During
+  Hydrogen Reionization}.
+\newblock \emph{Astrophys.J.}, 654:\penalty0 12--26, 2006.
+\newblock \doi{10.1086/509597}.
 
 \bibitem[Zaldarriaga(2002)]{zaldarriaga2002searching}
 Matias Zaldarriaga.
