@@ -490,6 +490,30 @@
   Timestamp                = {2015.04.01}
 }
 
+@Article{bowman2010lower,
+  Title                    = {A lower limit of [Dgr] z [thinsp]>[thinsp] 0.06 for the duration of the reionization epoch},
+  Author                   = {Bowman, Judd D and Rogers, Alan EE},
+  Journal                  = {Nature},
+  Year                     = {2010},
+  Number                   = {7325},
+  Pages                    = {796--798},
+  Volume                   = {468},
+
+  Publisher                = {Nature Publishing Group}
+}
+
+@Article{burns2012probing,
+  Title                    = {Probing the first stars and black holes in the early Universe with the Dark Ages Radio Explorer (DARE)},
+  Author                   = {Burns, Jack O and Lazio, J and Bale, S and Bowman, J and Bradley, R and Carilli, C and Furlanetto, S and Harker, G and Loeb, A and Pritchard, J},
+  Journal                  = {Advances in Space Research},
+  Year                     = {2012},
+  Number                   = {3},
+  Pages                    = {433--450},
+  Volume                   = {49},
+
+  Publisher                = {Elsevier}
+}
+
 @Article{caruana2012no,
   Title                    = {No evidence for Lyman $\alpha$ emission in spectroscopy of z> 7 candidate galaxies},
   Author                   = {Caruana, Joseph and Bunker, Andrew J and Wilkins, Stephen M and Stanway, Elizabeth R and Lacy, Mark and Jarvis, Matt J and Lorenzoni, Silvio and Hickey, Samantha},
@@ -2559,6 +2583,13 @@
   Year                     = {2015}
 }
 
+@Article{pober2015paper,
+  Title                    = {PAPER-64 Constraints On Reionization II: The Temperature Of The z= 8.4 Intergalactic Medium},
+  Author                   = {Pober, Jonathan C and Ali, Zaki S and Parsons, Aaron R and McQuinn, Matthew and Aguirre, James E and Bernardi, Gianni and Bradley, Richard F and Carilli, Chris L and Cheng, Carina and DeBoer, David R and others},
+  Journal                  = {arXiv preprint arXiv:1503.00045},
+  Year                     = {2015}
+}
+
 @Book{Press2002,
   Title                    = {{Numerical Recipes in C++: The Art of Scientific Computing}},
   Author                   = {Press, William and Teukolsky, Saul and Vetterling, William and Flannery, Brian},
@@ -2658,6 +2689,18 @@
   Keywords                 = {COSMOLOGY: THEORY, EQUATION OF STATE, GALAXIES: INTERGALACTIC MEDIUM, GALAXIES: QUASARS: ABSORPTION LINES},
   Owner                    = {matt},
   Timestamp                = {2015.04.01}
+}
+
+@Article{robertson2015cosmic,
+  Title                    = {Cosmic Reionization and Early Star-forming Galaxies: A Joint Analysis of New Constraints from Planck and the Hubble Space Telescope},
+  Author                   = {Robertson, Brant E and Ellis, Richard S and Furlanetto, Steven R and Dunlop, James S},
+  Journal                  = {The Astrophysical Journal Letters},
+  Year                     = {2015},
+  Number                   = {2},
+  Pages                    = {L19},
+  Volume                   = {802},
+
+  Publisher                = {IOP Publishing}
 }
 
 @Article{Robertson:2013bq,

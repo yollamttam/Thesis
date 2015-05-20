@@ -33,15 +33,15 @@
 \nomenclatureentry{ZSynchrotron Radiation@[{Synchrotron Radiation}]\begingroup Radiation emitted by charged particles undergoing radial acceleration, such as in synchrotron particle accelerators. This constitutes a significant source of noise for 21-cm observations.\nomeqref {1.52}|nompageref}{32}
 \nomenclatureentry{ZFree-Free Emission@[{Free-Free Emission}]\begingroup Emission from a charged particle that is free both before and after the interaction. Examples include electrons in an ionized hydrogen cloud interacting with protons without being captured.\nomeqref {1.52}|nompageref}{32}
 \nomenclatureentry{ZBremsstrahlung Radiation@[{Bremsstrahlung Radiation}]\begingroup Emission from charged particles undergoing acceleration due to interactions with other charged particles. Literally translates to ``braking radiation''.\nomeqref {1.52}|nompageref}{32}
-\nomenclatureentry{Z$\alpha $@[{$\alpha $}]\begingroup Fine structure constant, $\alpha \approx 1/137$, related to the strength of electromagnetic interactions.\nomeqref {1.59}|nompageref}{40}
-\nomenclatureentry{Z$\hbar $@[{$\hbar $}]\begingroup Reduced Planck's constant, $\hbar = h/2\pi $, the quantum of angular momentum.\nomeqref {1.59}|nompageref}{40}
-\nomenclatureentry{ZkSZ Effect@[{kSZ Effect}]\begingroup Kinetic Sunyaev Zel'dovich effect. This describes secondary anisotropy in the CMB produced by the bulk velocities of free electrons during and after reionization which impart a Doppler shift on CMB photons.\nomeqref {1.59}|nompageref}{41}
-\nomenclatureentry{ZLAE@[{LAE}]\begingroup \lya \ Emitter. These are galaxies which emit a significant fraction of their energy in the \lya \ line. This line is produced when hydrogen atoms within the galaxy recombine after being ionized by the galaxy. Roughly 2/3 of recombinations result in a \lya \ photon.\nomeqref {1.59}|nompageref}{42}
-\nomenclatureentry{ZLyman Limit@[{Lyman Limit}]\begingroup This refers to the most energetic transition in the Lyman series corresponding to ionizing a hydrogen atom in the ground state. This has wavelength $\lambda = 912$\AA and $E_{\gamma } = 13.6$eV.\nomeqref {1.59}|nompageref}{44}
-\nomenclatureentry{ZLuminosity Function@[{Luminosity Function}]\begingroup A function that describes the number, or number density, of sources with a given luminosity.\nomeqref {1.59}|nompageref}{45}
-\nomenclatureentry{Xe 11HUGS@[{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}|nompageref}{226}
-\nomenclatureentry{Zt 2MASS@[{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}|nompageref}{226}
-\nomenclatureentry{Am M@[{M}]\begingroup Mass of object\nomeqref {5.0}|nompageref}{226}
-\nomenclatureentry{Gm $\tau$@[{$\tau$}]\begingroup Optical depth\nomeqref {5.0}|nompageref}{226}
-\nomenclatureentry{Rs $\ ^{*}$@[{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}|nompageref}{226}
-\nomenclatureentry{Ss $\astrosun$@[{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}|nompageref}{226}
+\nomenclatureentry{Z$\alpha $@[{$\alpha $}]\begingroup Fine structure constant, $\alpha \approx 1/137$, related to the strength of electromagnetic interactions.\nomeqref {1.59}|nompageref}{41}
+\nomenclatureentry{Z$\hbar $@[{$\hbar $}]\begingroup Reduced Planck's constant, $\hbar = h/2\pi $, the quantum of angular momentum.\nomeqref {1.59}|nompageref}{41}
+\nomenclatureentry{ZkSZ Effect@[{kSZ Effect}]\begingroup Kinetic Sunyaev Zel'dovich effect. This describes secondary anisotropy in the CMB produced by the bulk velocities of free electrons during and after reionization which impart a Doppler shift on CMB photons.\nomeqref {1.59}|nompageref}{42}
+\nomenclatureentry{ZLAE@[{LAE}]\begingroup \lya \ Emitter. These are galaxies which emit a significant fraction of their energy in the \lya \ line. This line is produced when hydrogen atoms within the galaxy recombine after being ionized by the galaxy. Roughly 2/3 of recombinations result in a \lya \ photon.\nomeqref {1.59}|nompageref}{43}
+\nomenclatureentry{ZLyman Limit@[{Lyman Limit}]\begingroup This refers to the most energetic transition in the Lyman series corresponding to ionizing a hydrogen atom in the ground state. This has wavelength $\lambda = 912$\AA and $E_{\gamma } = 13.6$eV.\nomeqref {1.59}|nompageref}{45}
+\nomenclatureentry{ZLuminosity Function@[{Luminosity Function}]\begingroup This function describes the luminosity distribution of sources, usually stars or galaxies.\nomeqref {1.59}|nompageref}{46}
+\nomenclatureentry{Xe 11HUGS@[{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}|nompageref}{230}
+\nomenclatureentry{Zt 2MASS@[{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}|nompageref}{230}
+\nomenclatureentry{Am M@[{M}]\begingroup Mass of object\nomeqref {5.0}|nompageref}{230}
+\nomenclatureentry{Gm $\tau$@[{$\tau$}]\begingroup Optical depth\nomeqref {5.0}|nompageref}{230}
+\nomenclatureentry{Rs $\ ^{*}$@[{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}|nompageref}{230}
+\nomenclatureentry{Ss $\astrosun$@[{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}|nompageref}{230}

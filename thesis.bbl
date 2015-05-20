@@ -1,4 +1,4 @@
-\begin{thebibliography}{84}
+\begin{thebibliography}{89}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -100,6 +100,21 @@ James~S. Bolton, Martin~G. Haehnelt, Stephen~J. Warren, Paul~C. Hewett,
 \newblock {How neutral is the intergalactic medium surrounding the redshift
   z=7.085 quasar ULAS J1120+0641?}
 \newblock 2011.
+
+\bibitem[Bowman and Rogers(2010)]{bowman2010lower}
+Judd~D Bowman and Alan~EE Rogers.
+\newblock A lower limit of [dgr] z [thinsp]>[thinsp] 0.06 for the duration of
+  the reionization epoch.
+\newblock \emph{Nature}, 468\penalty0 (7325):\penalty0 796--798, 2010.
+
+\bibitem[Burns et~al.(2012)Burns, Lazio, Bale, Bowman, Bradley, Carilli,
+  Furlanetto, Harker, Loeb, and Pritchard]{burns2012probing}
+Jack~O Burns, J~Lazio, S~Bale, J~Bowman, R~Bradley, C~Carilli, S~Furlanetto,
+  G~Harker, A~Loeb, and J~Pritchard.
+\newblock Probing the first stars and black holes in the early universe with
+  the dark ages radio explorer (dare).
+\newblock \emph{Advances in Space Research}, 49\penalty0 (3):\penalty0
+  433--450, 2012.
 
 \bibitem[Caruana et~al.(2012)Caruana, Bunker, Wilkins, Stanway, Lacy, Jarvis,
   Lorenzoni, and Hickey]{caruana2012no}
@@ -242,6 +257,14 @@ J.~E. {Gunn} and B.~A. {Peterson}.
 \newblock {On the Density of Neutral Hydrogen in Intergalactic Space.}
 \newblock \emph{ApJ}, 142:\penalty0 1633--1641, November 1965.
 \newblock \doi{10.1086/148444}.
+
+\bibitem[Harker et~al.(2012)Harker, Pritchard, Burns, and
+  Bowman]{harker2012mcmc}
+Geraint~JA Harker, Jonathan~R Pritchard, Jack~O Burns, and Judd~D Bowman.
+\newblock An mcmc approach to extracting the global 21-cm signal during the
+  cosmic dawn from sky-averaged radio observations.
+\newblock \emph{Monthly Notices of the Royal Astronomical Society},
+  419\penalty0 (2):\penalty0 1070--1084, 2012.
 
 \bibitem[{Hui} and {Gnedin}(1997)]{Hui1997}
 L.~{Hui} and N.~Y. {Gnedin}.
@@ -466,6 +489,19 @@ Alireza Rahmati and Joop Schaye.
   galaxies at redshift 3}.
 \newblock 2013.
 
+\bibitem[{Robertson} et~al.(2013){Robertson}, {Furlanetto}, {Schneider},
+  {Charlot}, {Ellis}, {Stark}, {McLure}, {Dunlop}, {Koekemoer}, {Schenker},
+  {Ouchi}, {Ono}, {Curtis-Lake}, {Rogers}, {Bowler}, and
+  {Cirasuolo}]{Robertson2013}
+B.~E. {Robertson}, S.~R. {Furlanetto}, E.~{Schneider}, S.~{Charlot}, R.~S.
+  {Ellis}, D.~P. {Stark}, R.~J. {McLure}, J.~S. {Dunlop}, A.~{Koekemoer}, M.~A.
+  {Schenker}, M.~{Ouchi}, Y.~{Ono}, E.~{Curtis-Lake}, A.~B. {Rogers}, R.~A.~A.
+  {Bowler}, and M.~{Cirasuolo}.
+\newblock {New Constraints on Cosmic Reionization from the 2012 Hubble Ultra
+  Deep Field Campaign}.
+\newblock \emph{ApJ}, 768:\penalty0 71, May 2013.
+\newblock \doi{10.1088/0004-637X/768/1/71}.
+
 \bibitem[Robertson et~al.(2013)Robertson, Furlanetto, Schneider, Charlot,
   Ellis, et~al.]{Robertson:2013bq}
 Brant~E. Robertson, Steven~R. Furlanetto, Evan Schneider, Stephane Charlot,
@@ -474,6 +510,14 @@ Brant~E. Robertson, Steven~R. Furlanetto, Evan Schneider, Stephane Charlot,
   Deep Field Campaign}.
 \newblock \emph{Astrophys.J.}, 768:\penalty0 71, 2013.
 \newblock \doi{10.1088/0004-637X/768/1/71}.
+
+\bibitem[Robertson et~al.(2015)Robertson, Ellis, Furlanetto, and
+  Dunlop]{robertson2015cosmic}
+Brant~E Robertson, Richard~S Ellis, Steven~R Furlanetto, and James~S Dunlop.
+\newblock Cosmic reionization and early star-forming galaxies: A joint analysis
+  of new constraints from planck and the hubble space telescope.
+\newblock \emph{The Astrophysical Journal Letters}, 802\penalty0 (2):\penalty0
+  L19, 2015.
 
 \bibitem[Rybicki and Lightman(1979)]{rybicki1979radiative}
 G.B. Rybicki and A.P. Lightman.

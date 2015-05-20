@@ -70,7 +70,7 @@ When considering stacking techniques (described in \S \ref{sec:NeutralIslands}) 
 
 When considering measurements of the thermal properties of the post-EoR IGM, we use two types of simulations. The first set of simulations is the same as for the stacking approach, except we assume a fully-ionized IGM. In this case, though, the previously-mentioned excursion set formalism is applied in order to identify the redshift at which each pixel ionizes. This is necessary since the temperature of a gas parcel depends on how much time has passed since photoionization, which varies spatially. Additionally, smoothed-particle hydrodynamic simulations from \cite{Lidz2010} are used in order to more closely capture the gas properties and their evolution after reionization. 
 
-\section{The Shoulders of Giants} 
+\section{The Shoulders of Giants} \label{sec:Probes}
 
 Before we continue, it is first worth appreciating the difficulty of what we are trying to do. Essentially, we care about measuring the properties of the intergalactic gas -- not stars or galaxies -- when the Universe was only $\lesssim$1 billion years old, a seemingly impossible task. Fortunately, we are given the invaluable gift that light travels at a finite speed and, as such, if we look at distant objects, we see them as they were in the past. Therefore, if we look at the at the gas between galaxies $\sim$13 billion light years away from us, we will see it as it was roughly 13 billion years ago, when the Universe was only 1 billion years old. This means that, in principle, this information of how the young IGM evolved is directly available to us. However, even taking this into account, the intergalactic gas we care about is not bright and it is located extremely far away, so how are we supposed to observe it? An inspiring aspect of studying the Epoch of Reionization is that, when confronted with such a seemingly impossible task, experts in the field have developed many different creative approaches toward constraining the properties of the young IGM. It is this impressive body of work that we aim to build upon. We discuss a selection of the existing and future methods for constraining the EoR in this chapter in order to provide some context and motivation for our work. 
 
@@ -478,7 +478,7 @@ Thus, we see that a neutral parcel of hydrogen at mean density and $z = 6$ and $
 \end{figure}
 
 
-\subsubsection{21-cm Fluctuations with Interferometers} 
+\subsubsection{21-cm Fluctuations with Interferometers}\label{sec:21cmFluctuations}
 
 
 The first approach for utilizing the 21-cm line in order to learn about reionization that we will discuss is through the use of 21-cm fluctuations. The ultimate goal for the 21-cm line for people interested in reionization is to image the 21-cm intensity field for the duration of reionization. Since the 21-cm radiation of interest is emitted at $z \approx 10$, by the time it arrives to us, its wavelength will have redshifted to $\sim 2\meter$. Thus, observations of 21-cm fluctuations must be made with large interferometers, consisting of tens to thousands of antennae, and maximum separations (baselines) of the order 1 km. 
@@ -581,18 +581,20 @@ Measurements of the 21-cm power spectrum and its evolution are powerful probes o
 
 An alternative method of extracting information from the 21-cm line is to use the \textit{sky-averaged} 21-cm signal. In the previous section, we discussed the difficulties faced in obtaining the necessary resolution to map out fluctuations in the 21-cm radiation field. However, Equation \ref{eq:dTb} is rich with astrophysical information on its own without even considering spatial fluctuations. Therefore, natural questions to ask would be if it is easier to simply measure the average signal rather than map the fluctuations and what astrophysical information can be obtained in that way? For convenience, the brightness temperature contrast for the 21-cm signal from \S \ref{sec:21cmPhysics} is:
 
+
 \begin{align}
 \delta T_{b} &\approx 24 \text{mK}\cdot x_{\text{HI}}(1+\delta)\left(\frac{1+z}{7}\right)^{1/2}\left[ 1 - \dfrac{T_{\text{CMB}}}{T_{\text{S}}} \right] \left[ \dfrac{H(z)/(1+z)}{\dd v_{\parallel}/ \dd r_{\parallel}} \right].
 \end{align}
 
-As mentioned earlier, for the end of reionization, the dependence on the spin temperature drops out. The result is that the amplitude of a sky-averaged signal  would be most sensitive to the neutral faction, with ionized regions emitting no 21-cm signal. Thus, one could imagine plotting the sky-averaged 21-cm signal against redshift and observing a shrinking signal coinciding with the EoR. 
+
+As mentioned earlier, for the end of reionization, it is true that $T_{\text{S}} \gg T_{\text{CMB}}$ such that the dependence on spin temperature drops out. The result is that the amplitude of a sky-averaged signal is most sensitive to the neutral faction, with ionized regions emitting no 21-cm signal and neutral regions emitting 21-cm radiation with brightness temperature of tens of mK.  Thus, one could imagine plotting the sky-averaged 21-cm signal throughout the EoR against redshift and observing a shrinking signal toward lower redshifts coinciding with a larger fraction of the volume of the Universe being ionized.
 
 
-However, the utility of the global 21-cm signal is not limited to the Epoch of Reionization. Specifically, prior to reionization, $\axhi$ will be fixed at 1 and the spin temperature is expected to drop to the point where $1 - T_{\text{CMB}}/T_{\text{S}} \not\approx 1$. This is interesting because the spin temperature itself depends on several astrophysical processes. A very high-level description of this is shown in Figure \ref{fig:TsEvolution}.\footnote{This figure and much of the following discussion is taken from notes from Adam Lidz's ``Topics in Cosmology'' class, taught in the Fall of 2011.} The precise evolution of the spin temperature is not well known, but a reasonable approximate description could be as follows:
+However, the utility of the global 21-cm signal is not limited to the Epoch of Reionization. Specifically, prior to reionization, $\axhi$ will be fixed at 1 and the spin temperature is expected to drop to the point where $1 - T_{\text{CMB}}/T_{\text{S}} \not\approx 1$. Therefore, the strength of the 21-cm radiation field will be tied to the spin temperature instead of the neutral fraction. Furthermore, the 21-cm signal will only be observable if $T_{\text{S}} \neq T_{\text{CMB}}$ and will appear in emission if $T_{\text{S}} > T_{\text{CMB}}$ and will appear in absorption otherwise. This is interesting because the spin temperature itself depends on several astrophysical processes. A very high-level description of this is shown in Figure \ref{fig:TsEvolution}.\footnote{This figure and much of the following discussion is taken from notes from Adam Lidz's ``Topics in Cosmology'' class, taught in the Fall of 2011.} The precise evolution of the spin temperature is not well known, but a reasonable approximate description could be as follows:
 
 \begin{enumerate}
 \item [] \underline{$z > 150$:} Collisions within the gas are frequent enough to fix the spin temperature to the gas temperature, $T_{\text{S}} = T_{\text{K}}$. However, the gas temperature is equal to the CMB temperature, so the 21-cm signal is \textit{unobservable}.
-\item [] \underline{$30 < z < 150$:} Collisions are efficient at coupling the gas temperature to the spin temperature. Furthermore, the gas cools to below the CMB temperature, making the 21-cm signal \textit{obervable}. 
+\item [] \underline{$30 < z < 150$:} Collisions are efficient at coupling the gas temperature to the spin temperature. Furthermore, the gas cools to below the CMB temperature, making the 21-cm signal \textit{obervable}. The physics during this time, prior to the formation of the first galaxies, is relatively simple and so this portion of the signal is expected to be well-understood already. 
 \item [] \underline{$20 < z < 30$:} The gas density drops enough so that collisions are not efficient at coupling the spin temperature to the gas temperature. As a result, the spin temperature approaches the CMB temperature and the 21-cm signal is \textit{unobservable}. 
 \item [] \underline{$15 < z < 20:$} Wouthuysen field effect re-couples the spin temperature to the gas temperature, which is still below the CMB temperature. This renders the 21-cm signal \textit{observable in absorption}. 
 \item [] \underline{$ z < 15:$} The first X-ray sources form and heat the gas well above the CMB temperature. As a result, the 21-cm signal becomes \textit{observable in emission}.
@@ -608,6 +610,13 @@ However, the utility of the global 21-cm signal is not limited to the Epoch of R
 \end{figure}
 
 
+While the expected globally-averaged 21-cm signal during $z > 30$ (and $z < 5$) is well-understood, much of the rest of the signal is very uncertain. Therefore, we could imagine measuring $\delta \bar{T}_{b}(z)$ in order to constrain some of the underlying astrophysics during this time period. However, as we discussed in \S \ref{sec:21cmFluctuations}, the foreground noise is several orders of magnitude larger than the 21-cm signal during the EoR and varies \textit{smoothly} with frequency. When considering 21cm fluctuations, we were saved by the fact that the signal fluctuated rapidly along any individual line of sight. However, when considering the \textit{average} 21-cm signal, fluctuations should be very smooth along the line of sight. 
+
+
+Specifically, from the end of reionization to the beginning, the global 21-cm signal should increase from $\delta \bar{T}_{b} = 0$ to $\delta \bar{T}_{b} \gtrsim 30$mK. As such, a drawn-out and extended reionization scenario will be relatively difficult to detect. However, in the case of a rapid reionization of the Universe, it is conceivable that this evolution could be quite steep. \cite{bowman2010lower} measured the global 21-cm signal for three months in the frequency range $100\text{MHz} \leq \nu \leq 200\text{MHz}$, corresponding to $6 < z < 13$, and found the evolution in the signal to be sufficiently smooth as to constrain $\Delta z_{r} > 0.06$ with 95\% confidence. 
+
+
+Another experiment which has gained some attention in this sector is the Dark Ages Radio Explorer (DARE, \citealt{burns2012probing}) which aims to measure the turning points and slope of the 21-cm signal (shown in Figure \ref{fig:TsEvolution}) over the redshift range $11 \leq z \leq 35$ in order to constrain the formation of the first stars, galaxies, accreting black holes along with the amount subsequent X-ray heating, and constrain the beginning of the EoR.\footnote{This information about DARE was obtained from {\tt http://lunar.colorado.edu/}} This will be done by placing a 21-cm antenna in lunar orbit. It is interesting to note that, even at this seemingly-ideal observation location, much effort will be needed to isolate nuisance contributions to the 21-cm signal, such as those from foreground emission from our own galaxy, the Sun, thermal emission from the Moon, and reflected galactic foregrounds off of the surface of the Moon (\citealt{harker2012mcmc}).
 
 \subsection{The Cosmic Microwave Background}\label{sec:CMB}
 
@@ -634,7 +643,7 @@ for small $\tau_{e}$. This is related to the density of electrons along the line
 
 \begin{align}
 \tau_{e} &= \int \dfrac{\dd z\ c}{(1+z)H(z)}n_{e}(z)\sigma_{\text{Thom}}\\
-&\approx \int \dfrac{\dd z\ c}{(1+z)H(z)} \bar{n}_{\text{H}}(z)(1 - \langle x_{\text{HI}}(z)\rangle) \sigma_{\text{Thom}}
+&\approx \int \dfrac{\dd z\ c}{(1+z)H(z)} \bar{n}_{\text{H}}(z)(1 - \langle x_{\text{HI}}(z)\rangle) \sigma_{\text{Thom}} \label{eq:taue}
 \end{align}
 
 where 
@@ -728,13 +737,36 @@ One plausible way to reconcile these observations is presented by \cite{2013MNRA
 
 \subsection{Luminosity Function Measurements}
 
-One last method that we will discuss for constraining the Epoch of Reionization is through luminosity function\gloss{Luminosity Function}{A function that describes the number, or number density, of sources with a given luminosity.} measurements. Luminosity functions describe the number of sources, in this case galaxies, as a function of luminosity. With knowledge of the luminosity function, the ionizing luminosity of galaxies within a given luminosity bin, and of the escape fraction of ionizing photons over a range of redshifts, it should be possible to determine if enough ionizing photons were produced by a given redshift in order to ionize the Universe and keep it that way. 
+One last method that we will discuss for constraining the Epoch of Reionization is through luminosity function\gloss{Luminosity Function}{This function describes the luminosity distribution of sources, usually stars or galaxies.} measurements. Luminosity functions describe the abundance of sources, in this case galaxies, as a function of luminosity. With knowledge of the luminosity function, the ionizing luminosity of galaxies within a given luminosity bin, and of the escape fraction of ionizing photons over a range of redshifts, it should be possible to effectively count the number of ionizing photons that are injected into the IGM at different redshifts. From this, one can determine if enough ionizing photons were produced by a given redshift in order to ionize the Universe and keep it that way. 
 
 
+As such, the authors in \cite{Robertson2013} and \cite{robertson2015cosmic} use measurements of the number, luminosity, and spectral properties of galaxies observed by the 2012 Hubble Ultra Deep Field Campaign in order to make estimates of the time-dependent cosmic ionization rate:
+
+\begin{align}
+\dot{n}_{\text{ion}} &= f_{\text{esc}} \xi_{\text{ion}} \rho_{\text{UV}}
+\end{align}
+
+where $\dot{n}_{\text{ion}}$ is the number of ionizing photons per unit volume per unit time, $f_{\text{esc}}$ is the fraction of ionizing photons that escape their host galaxy,\footnote{It is worth pointing out that this quantity is poorly constrained. The work of \cite{Robertson2013} and \cite{robertson2015cosmic} assume $f_{\text{esc}} = 0.2$, but it may very well be significantly lower than this. \cite{robertson2015cosmic} find that their measurements strengthen the hypothesis that galaxies drove reionization, but with lower values of $f_{\text{esc}}$ this scenario may become less comfortable.} $\xi_{\text{ion}}$ is the number of ionizing photons emitted per time per unit luminosity, and $\rho_{\text{UV}}$ is the UV luminosity density. With an estimate of $\dot{n}_{\text{ion}}$ in hand, one can calculate the ionization history using
+
+\begin{align}
+\dfrac{\dd \langle x_{i}\rangle}{\dd t} &= \dfrac{\dot{n}_{\text{ion}}}{n_{\text{H}}} - \dfrac{\langle x_i \rangle}{t_{\text{rec}}}.
+\end{align}
+
+In this expression, the right hand side incorporates the rate of ionizations on the left and the rate of recombinations on the right, where $t_{\text{rec}}$ is the recombination time (discussed in \S \ref{sec:reion_hist}). Armed with estimates of the ionization history, the authors are then able to use Eq. \ref{eq:taue} to find the corresponding value for the optical depth of CMB photons to Thompson scattering. 
+ 
+
+Such analyses come to the conclusion that, if star-forming galaxies drive reionization, then there must be a significant population of galaxies below the luminosity detection threshold in order to provide enough ionizing photons to ionize the Universe by $z \sim 6$. Furthermore, they find that, in order to match WMAP constraints on $\tau_{e}$, low levels of star formation are required at $z \gtrsim 15-25$ (\citealt{Robertson2013}). However, recent optical depth measurements from Planck result in a substantially lower $\tau_{e}$ which \cite{robertson2015cosmic} find reduces the requirement of a significant population of star-forming galaxies at $z \gg 10$. 
 
 
+In Figure \ref{fig:Robertson2015} (taken from \citealt{robertson2015cosmic}) we see several claimed constraints on $\axhi$ during the Epoch of Reionization (markers), most of which we touch on in \S \ref{sec:Probes}, along with best fit curves calculated using luminosity functions. The red shaded curve shows the maximum-likelihood model of the neutral fraction (white) with $1\sigma$ errors and is consistent with Planck $\tau_{\text{e}}$ measurements. The analogous curve for \cite{Robertson2013} is shown in blue, but is in conflict with the WMAP $\tau_{\text{e}}$ constraints. A model that forces the blue curve to satisfy the WMAP $\tau_{\text{e}}$ constraint is shown in yellow. This figure demonstrates that, under some assumptions, the scenario where galaxies dominate reionization is not in conflict with the constraints on the timing of the EoR to date. As such, these analyses claim to strengthen the case that star-forming galaxies played a dominant role in the reionization of the Universe. 
 
-\section{Where We Stand}
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=12cm]{Robertson2015.eps}
+  \caption{The above figure from \cite{robertson2015cosmic} overplots several claimed constraints on $\axhi$ during the Epoch of Reionization (markers), most of which we touch on in this section, along with best fit curves calculated using luminosity functions. The red shaded curve shows the maximum-likelihood model of the neutral fraction (white) with $1\sigma$ errors and is consistent with Planck $\tau_{\text{e}}$ measurements. The analogous curve for \cite{Robertson2013} is shown in blue, but is in conflict with the WMAP $\tau_{\text{e}}$ constraints. A model that forces the blue curve to satisfy the WMAP $\tau_{\text{e}}$ constraint is shown in yellow. This figure demonstrates that, under some assumptions, the scenario where galaxies dominate reionization is not in conflict with the constraints on the timing of the EoR to date.   }
+  \label{fig:Robertson2015}
+\end{figure}
+
 
 %\begin{enumerate}
 %\item Bouwens et al. (2015) might be good to include here. Strengthens argument that galaxies reionized the Universe and that quasars/AGN did not.

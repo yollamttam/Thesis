@@ -13,17 +13,17 @@ A level-1 auxiliary file: conclusion/conclusion.aux
 A level-1 auxiliary file: backmatter/appendix.aux
 A level-1 auxiliary file: backmatter/glossary.aux
 The style file: plainnat.bst
-Reallocated field_info (elt_size=4) to 10236 items from 5000.
+Reallocated field_info (elt_size=4) to 10376 items from 5000.
 Database file #1: ./backmatter/references.bib
 Repeated entry---line 44 of file ./backmatter/references.bib
  : @article{ali2015paper
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 596 of file ./backmatter/references.bib
+Repeated entry---line 620 of file ./backmatter/references.bib
  : @article{Chornock:2014fva
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2562 of file ./backmatter/references.bib
+Repeated entry---line 2598 of file ./backmatter/references.bib
  : @article{pober2015paper
  :                        ,
 I'm skipping whatever remains of this entry
@@ -147,45 +147,45 @@ Warning--empty journal in Salvaterra:2015gpa
 Warning--empty journal in Taylor:2013qia
 Warning--empty journal in Tingay2012
 Warning--empty journal in Worseck:2014fya
-You've used 84 entries,
+You've used 89 entries,
             2773 wiz_defined-function locations,
-            1335 strings with 27554 characters,
-and the built_in function-call counts, 48855 in all, are:
-= -- 3995
-> -- 4277
-< -- 30
-+ -- 1442
-- -- 1356
-* -- 4511
-:= -- 8014
-add.period$ -- 303
-call.type$ -- 84
-change.case$ -- 675
-chr.to.int$ -- 82
-cite$ -- 185
-duplicate$ -- 1712
-empty$ -- 3029
-format.name$ -- 1480
-if$ -- 9833
+            1362 strings with 28864 characters,
+and the built_in function-call counts, 52335 in all, are:
+= -- 4275
+> -- 4616
+< -- 31
++ -- 1555
+- -- 1464
+* -- 4862
+:= -- 8579
+add.period$ -- 319
+call.type$ -- 89
+change.case$ -- 726
+chr.to.int$ -- 87
+cite$ -- 195
+duplicate$ -- 1816
+empty$ -- 3222
+format.name$ -- 1595
+if$ -- 10522
 int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 86
-newline$ -- 477
-num.names$ -- 336
-pop$ -- 1233
+missing$ -- 91
+newline$ -- 503
+num.names$ -- 356
+pop$ -- 1324
 preamble$ -- 1
-purify$ -- 593
+purify$ -- 639
 quote$ -- 0
-skip$ -- 1478
+skip$ -- 1575
 stack$ -- 0
-substring$ -- 1150
-swap$ -- 87
+substring$ -- 1250
+swap$ -- 93
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 914
+type$ -- 969
 warning$ -- 17
-while$ -- 313
+while$ -- 335
 width$ -- 0
-write$ -- 1158
+write$ -- 1225
 (There were 3 error messages)
