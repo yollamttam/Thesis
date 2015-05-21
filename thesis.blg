@@ -4,7 +4,6 @@ The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: frontmatter/dedication.aux
 A level-1 auxiliary file: frontmatter/acknowledgement.aux
 A level-1 auxiliary file: frontmatter/abstract.aux
-A level-1 auxiliary file: frontmatter/preface.aux
 A level-1 auxiliary file: introduction/introduction.aux
 A level-1 auxiliary file: neutral_islands/neutral_islands.aux
 A level-1 auxiliary file: igm_temperature/igm_temperature.aux
@@ -13,19 +12,39 @@ A level-1 auxiliary file: conclusion/conclusion.aux
 A level-1 auxiliary file: backmatter/appendix.aux
 A level-1 auxiliary file: backmatter/glossary.aux
 The style file: plainnat.bst
-Reallocated field_info (elt_size=4) to 10376 items from 5000.
+Reallocated field_info (elt_size=4) to 10320 items from 5000.
 Database file #1: ./backmatter/references.bib
 Repeated entry---line 44 of file ./backmatter/references.bib
  : @article{ali2015paper
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 620 of file ./backmatter/references.bib
+Repeated entry---line 765 of file ./backmatter/references.bib
  : @article{Chornock:2014fva
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2598 of file ./backmatter/references.bib
+Repeated entry---line 1231 of file ./backmatter/references.bib
+ : @article{Fan:2005es
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1451 of file ./backmatter/references.bib
+ : @article{Furlanetto:2004nh
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2721 of file ./backmatter/references.bib
+ : @article{McQuinn:2006et
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3056 of file ./backmatter/references.bib
+ : @article{MiraldaEscude:1997qb
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3524 of file ./backmatter/references.bib
  : @article{pober2015paper
  :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4098 of file ./backmatter/references.bib
+ : @article{Totani:2005ng
+ :                       ,
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "1994MNRAS.266..343M"
 Warning--I didn't find a database entry for "Hui:1997dp"
@@ -47,7 +66,6 @@ Warning--I didn't find a database entry for "Becker:2012aq"
 Warning--I didn't find a database entry for "Bolton:2011ck"
 Warning--I didn't find a database entry for "Raskutti:2012qz"
 Warning--I didn't find a database entry for "Lai:2005ha"
-Warning--I didn't find a database entry for "Zahn:2006sg"
 Warning--I didn't find a database entry for "2005MNRAS.364.1105S"
 Warning--I didn't find a database entry for "Sheth:1999su"
 Warning--I didn't find a database entry for "1987ApJ...321L.107S"
@@ -65,7 +83,6 @@ Warning--I didn't find a database entry for "Hui:1999ku"
 Warning--I didn't find a database entry for "Bertschinger:1993zv"
 Warning--I didn't find a database entry for "McQuinn:2012bq"
 Warning--I didn't find a database entry for "1993ApJ...418...28Z"
-Warning--I didn't find a database entry for "Kuhlen:2012vy"
 Warning--I didn't find a database entry for "Peeples:2009ue"
 Warning--I didn't find a database entry for "2008ApJ...681..831F"
 Warning--I didn't find a database entry for "McDonald:2004eu"
@@ -76,116 +93,74 @@ Warning--I didn't find a database entry for "Hui:2000rw"
 Warning--I didn't find a database entry for "Becker:2011ee"
 Warning--I didn't find a database entry for "McQuinn:2010mq"
 Warning--I didn't find a database entry for "Levi:2013gra"
-Warning--I didn't find a database entry for "Dunkley:2008ie"
-Warning--I didn't find a database entry for "Ouchi:2010"
-Warning--I didn't find a database entry for "Bouwens:2011xu"
-Warning--I didn't find a database entry for "Mortlock:2011va"
-Warning--I didn't find a database entry for "Zahn:2011vp"
-Warning--I didn't find a database entry for "Schenker:2011ea"
-Warning--I didn't find a database entry for "Madau:1996cs"
-Warning--I didn't find a database entry for "Zaldarriaga:2003du"
-Warning--I didn't find a database entry for "Furlanetto:2006jb"
-Warning--I didn't find a database entry for "Paciga:2010yy"
-Warning--I didn't find a database entry for "Harker:2010ht"
-Warning--I didn't find a database entry for "Lonsdale:2009cb"
-Warning--I didn't find a database entry for "Parsons:2009in"
-Warning--I didn't find a database entry for "Liu:2009qga"
-Warning--I didn't find a database entry for "Datta:2010pk"
-Warning--I didn't find a database entry for "Petrovic:2010me"
-Warning--I didn't find a database entry for "Morales:2012kf"
-Warning--I didn't find a database entry for "Parsons:2012qh"
-Warning--I didn't find a database entry for "McQuinn:2005hk"
-Warning--I didn't find a database entry for "Morales:2003vn"
-Warning--I didn't find a database entry for "Bowman:2005cr"
-Warning--I didn't find a database entry for "Furlanetto:2004ha"
-Warning--I didn't find a database entry for "Lidz:2007az"
-Warning--I didn't find a database entry for "Mesinger:2010ne"
-Warning--I didn't find a database entry for "Wyithe:2004ta"
-Warning--I didn't find a database entry for "Friedrich:2012fy"
-Warning--I didn't find a database entry for "Iliev:2005sz"
-Warning--I didn't find a database entry for "Datta:2007nj"
-Warning--I didn't find a database entry for "Datta:2008ry"
-Warning--I didn't find a database entry for "Haehnelt:1995dg"
-Warning--I didn't find a database entry for "Hennawi:2004ai"
-Warning--I didn't find a database entry for "Marian:2008fd"
-Warning--I didn't find a database entry for "Owen:1998dk"
-Warning--I didn't find a database entry for "Komatsu:2010fb"
-Warning--I didn't find a database entry for "Mesinger:2007pd"
-Warning--I didn't find a database entry for "Mao:2011xp"
-Warning--I didn't find a database entry for "Ciardi:2003hg"
-Warning--I didn't find a database entry for "Zahn:2010yw"
-Warning--I didn't find a database entry for "Barkana:2000fd"
-Warning--I didn't find a database entry for "Tingay:2012ps"
-Warning--I didn't find a database entry for "McQuinn:2006"
-Warning--I didn't find a database entry for "Furlanetto:2006"
-Warning--I didn't find a database entry for "Wyithe:2007if"
-Warning--I didn't find a database entry for "Bowman:2005hj"
-Warning--I didn't find a database entry for "Wang:2005zj"
-Warning--I didn't find a database entry for "Harker:2009hg"
-Warning--I didn't find a database entry for "Chapman:2012yj"
-Warning--I didn't find a database entry for "Zaroubi:2012cy"
-Warning--I didn't find a database entry for "NRecipes"
-Warning--I didn't find a database entry for "Datta:2011hv"
-Warning--I didn't find a database entry for "Lidz:2006vj"
-Warning--I didn't find a database entry for "Bouwens:2009qs"
-Warning--I didn't find a database entry for "Liu:2011ih"
-Warning--I didn't find a database entry for "Beardsley:2012za"
 Warning--empty journal in Ade:2013zuv
+Warning--empty journal in Beardsley:2012za
 Warning--empty journal in Becker:2013ffa
 Warning--empty journal in Becker:2014oga
 Warning--empty journal in Bolton:2011vb
+Warning--empty journal in Bouwens:2011xu
 Warning--empty journal in Chornock:2014fva
 Warning--empty journal in Cooke:2013cba
+Warning--empty journal in Datta:2011hv
 Warning--empty journal in Djorgovski:2001ez
+Warning--empty journal in Friedrich:2012fy
+Warning--empty journal in Kuhlen:2012vy
 Warning--empty journal in McGreer:2011dm
 Warning--empty journal in Mesinger:2009mv
+Warning--empty journal in Mesinger:2007pd
 Warning--empty journal in MiraldaEscude:1997en
+Warning--empty journal in Parsons:2009in
 Warning--empty journal in Parsons2012
+Warning--empty journal in Parsons:2012qh
 Warning--empty journal in Pentericci:2014nia
+Warning--empty journal in Petrovic:2010me
 Warning--empty journal in Rahmati:2013hsa
 Warning--empty journal in Salvaterra:2015gpa
 Warning--empty journal in Taylor:2013qia
 Warning--empty journal in Tingay2012
+Warning--empty journal in Tingay:2012ps
 Warning--empty journal in Worseck:2014fya
-You've used 89 entries,
+Warning--empty journal in Zahn:2010yw
+Warning--empty journal in Zaroubi:2012cy
+You've used 143 entries,
             2773 wiz_defined-function locations,
-            1362 strings with 28864 characters,
-and the built_in function-call counts, 52335 in all, are:
-= -- 4275
-> -- 4616
-< -- 31
-+ -- 1555
-- -- 1464
-* -- 4862
-:= -- 8579
-add.period$ -- 319
-call.type$ -- 89
-change.case$ -- 726
-chr.to.int$ -- 87
-cite$ -- 195
-duplicate$ -- 1816
-empty$ -- 3222
-format.name$ -- 1595
-if$ -- 10522
-int.to.chr$ -- 3
+            1518 strings with 35796 characters,
+and the built_in function-call counts, 80356 in all, are:
+= -- 6631
+> -- 6762
+< -- 45
++ -- 2293
+- -- 2133
+* -- 7393
+:= -- 13109
+add.period$ -- 509
+call.type$ -- 143
+change.case$ -- 1087
+chr.to.int$ -- 126
+cite$ -- 315
+duplicate$ -- 2922
+empty$ -- 5176
+format.name$ -- 2344
+if$ -- 16241
+int.to.chr$ -- 18
 int.to.str$ -- 1
-missing$ -- 91
-newline$ -- 503
-num.names$ -- 356
-pop$ -- 1324
+missing$ -- 146
+newline$ -- 801
+num.names$ -- 572
+pop$ -- 1971
 preamble$ -- 1
-purify$ -- 639
+purify$ -- 947
 quote$ -- 0
-skip$ -- 1575
+skip$ -- 2426
 stack$ -- 0
-substring$ -- 1250
-swap$ -- 93
+substring$ -- 2000
+swap$ -- 165
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 969
-warning$ -- 17
-while$ -- 335
+type$ -- 1558
+warning$ -- 29
+while$ -- 536
 width$ -- 0
-write$ -- 1225
-(There were 3 error messages)
+write$ -- 1956
+(There were 8 error messages)

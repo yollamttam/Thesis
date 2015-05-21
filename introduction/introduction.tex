@@ -24,7 +24,7 @@ The problem of reionization arises when trying to reconcile observations of the 
 Technically, several ionizations have to take place: ionizing hydrogen, singly ionizing helium, and doubly ionizing helium with the required energies per ionization being 13.6 eV, 24.6 eV, and 54.4 eV, respectively. Since the first two processes require similar energies, they are thought to occur concurrently. However, the complete ionization of helium requires four times as much energy as for hydrogen and likely occurs significantly later and as a result of a different process (see, e.g., \S 6.3.2 of \citealt{barkana2001beginning}). For this thesis, we focus exclusively on hydrogen ionization and the single ionization of helium and treat the term ``reionization" as being synonymous with this. 
 
 
-\begin{figure}[h]
+\begin{figure}[!p]
   \centering
   \includegraphics[width=14cm]{BellUniverse.eps}
   \caption{Milestones in the evolution of the Universe from the Big Bang to today.(Photo from NASA WMAP science team)}
@@ -44,7 +44,7 @@ If reionization is driven by sources with a ``harder" spectrum, emitting ionizin
 Additionally, \cite{McQuinn2007} investigate how the morphology of ionized regions depends on how massive the ionizing sources are. In Figure \ref{fig:McQuinnMorph}, \cite{McQuinn2007} show several reionization simulation outputs. Each panel shows the ionization field for a snapshot of a simulation. Black regions are neutral and white regions are ionized. In each row, the fraction of hydrogen atoms in the IGM that are neutral (dubbed the neutral fraction, denoted $\axhi$) is fixed and decreases for lower rows. Each column corresponds to a different mass distribution for the ionizing sources, with the masses essentially increasing as you move rightward (and assuming galaxies ionize the Universe). As such, the rightmost column demonstrates a plausible reionization scenario when very rare and massive sources dominate the ionizing photon budget. We can see this results in larger ionized regions for a fixed neutral fraction and sharper boundaries between the neutral and ionized regions. On the other hand, the left-hand columns correspond to a relatively larger contribution to the ionizing photon budget from less-massive sources. The result is a more homogeneous ionization with the ionized regions being smaller on average. Despite the uncertainties in the nature of reionization, Figure \ref{fig:McQuinnMorph} gives a qualitative picture of how reionization likely progressed: with ionized bubbles forming around sources, growing, and eventually overlapping until the effectively occupy the entire IGM. 
 
 
-\begin{figure}[h]
+\begin{figure}[!p]
   \centering
   \includegraphics[width=14cm]{McQuinnHIITopology.eps}
   \caption{Simulation outputs from \cite{McQuinn2007} showing four different reionization models. Each row is at fixed $\axhi$ with $\axhi = 0.8$ (top), 0.5 (middle), 0.3 (bottom). The luminosities of the ionizing sources are related to their mass by $\dot{N} \propto m^{1/3}$ (left), $\dot{N} \propto m$ (left-middle), $\dot{N}\propto m^{5/3}$ (right-middle), and $\dot{N} \propto m$ but with a larger minimum mass (right). }
@@ -57,6 +57,7 @@ With this qualitative picture in mind, it may be worth emphasizing why astrophys
 
 Toward these goals, astrophysicists and cosmologists are striving for a thorough understanding of the timing and nature of reionization. When did it happen? How long did it take? What were the ionizing sources? What were the properties of the ionized regions and how did they evolve? These are the questions we should keep in mind throughout the rest of this thesis.
 
+\clearpage
 \subsection{Simulations}
 
 In this thesis, we aim to develop measurements that can be applied to existing and future data sets in order to constrain the process of reionization.  In order to do this, we utilize simulations of the Universe at different times and assuming different cosmological and astrophysical parameters. We then process the simulation outputs according to the details of specific experiments in order to generate plausible mock observations from those experiments. While I perform this processing, the simulations used are not my own and the exact simulation used depends on the problem at hand. Within each subsequent chapter, we will describe the details of the simulations used, but let us give a brief overview up front.
@@ -83,7 +84,7 @@ Arguably the most powerful tool for constraining the high-redshift IGM to date h
 
 The \lya\ forest is seen in the spectrum of extremely bright background objects, usually quasars \gloss{Quasar}{It's bright, OK?} or gamma-ray bursts (GRBs)\nomenclature[Zp]{GRB}{Gamma-Ray Burst. They are also really bright, OK?}, after their light has been processed by the intervening gas. Since the intervening gas is primarily composed of hydrogen and since this hydrogen is generally in the ground state, any intervening neutral patches will absorb light from the background object at the Lyman-series\gloss{Lyman Series}{The series of transitions in an atom where an electron is transitioning to or from the ground state.}wavelengths, with the strongest absorption occurring at the \lya\ wavelength: $\lambda_{\alpha} \approx 1216$\AA. If the Universe were not expanding, then all intervening neutral hydrogen would absorb light from the quasar at one wavelength: $\lambda_{\alpha} \approx 1216$\angstrom, neglecting the other lines in the Lyman-series for the moment. However, due to the expansion of the Universe, photons emitted from the quasar/GRB \textit{blueward} of the \lya\ line will redshift as they travel towards us. If they encounter neutral hydrogen as they redshift through the \lya\ line, then they will be absorbed and an absorption line will be seen in the spectrum of the background quasar at a wavelength \textit{blueward} of \lya\ (in the rest frame of the quasar/GRB). This process is sketched in Figure \ref{fig:LyaCartoon}. Thus, the \lya\ forest is the pattern of absorption lines seen blueward of the rest-frame \lya\ line in quasar spectra due to intervening neutral gas. 
 
-\begin{figure}[h]
+\begin{figure}[!p]
   \centering
   \includegraphics[width=12cm]{lyaf-75.eps}
   \caption{Illustration of the basic physics behind the \lya\ forest and how gas at different locations along the line of sight results in absorption lines at different wavelengths. (Image from {\tt http://www.astro.ucla.edu/})}
@@ -95,7 +96,7 @@ The same logical progression also applies to the other lines in the Lyman-series
 
 We show two example quasar spectra in Figure \ref{fig:LyaExample}. The spectrum in the top panel is for a quasar at relatively low redshift and shows very little absorption. Meanwhile, the quasar in the bottom panel shows little absorption for emitted wavelengths redward of \lya\ but is heavily punctuated by absorption blueward of \lya\ due to intervening neutral hydrogen.
  
-\begin{figure}[h]
+\begin{figure}[!p]
   \centering
   \includegraphics[width=12cm]{Lya-forest-60.eps}
   \caption{Flux as a function of rest-frame wavelength for a quasar at $z = 0.158$ (top) and $z = 3.62$ (bottom). The denser IGM at higher $z$ results in a dense ``forest" of absorption lines blueward of the rest-frame \lya\ line in the lower panel. (Image from {\tt http://www.astro.ucla.edu/})}
@@ -122,7 +123,7 @@ This reveals the fly in the ointment here: even a gas parcel that is 99.9\% ioni
 \noindent But how to constrain the EoR?
 
 
-
+\clearpage
 \subsubsection{Evolution of $\tau_{\text{eff}}$}
 
 % The Gunn-Peterson optical depth to \lya\ photons is \tau_{\text{GP}} = \dfrac{\pi e^2}{m_e c} f_{\alpha} \lambda_{\alpha} H^{-1}(z)n_{\text{HI}}
@@ -195,7 +196,7 @@ Finally, we have an expression for the \lya\ optical depth in terms of several p
 
  As such, an intriguing question is, if you have a model for the probability distribution of the underlying density field, what (uniform) value of $\Gamma_{\text{HI}}$ will yield a value for $\left\langle F \right\rangle$ that is consistent with observations? This question has received a lot of attention ({\bf cites}) and has led to many measurements of the photoionization rate. With estimates of the photoionization rate in hand, we can utilize Eq. \ref{eq:xHI} in order to obtain measurements of the IGM neutral fraction in each redshift bin in the spectra in order to gauge the progress of the EoR. Results for measurements of $\Gamma_{\text{HI}}$ and $\axhi$ via this method, performed by \cite{Fan2006a}, are shown in Figure \ref{fig:tauEffResults}. This figure demonstrates that, using $\tau_{\text{eff}}$ and the assumption of ionization equilibrium, estimates of the neutral fraction are exceedingly small for $z \lesssim 6$. This argument has played a large part in forming the common knowledge that reionization has ended by $z = 6$. 
 
-\begin{figure}[h]
+\begin{figure}[!p]
   \centering
   \includegraphics[width=8cm]{Fan.gamma.eps}
   \includegraphics[width=8cm]{Fan.fHv.eps}
@@ -212,7 +213,7 @@ Despite the widespread analysis of $\tau_{\text{eff}}$ in constraining the end o
 %
 %Fan says imperfect sky subtraction in regions with strong OH lines can cause significant residuals resulting in an \textit{underestimate} in the dark gap size. Although, it seems like they don't allow any room for noise fluctuations in what they constitute a dark gap???
 
-
+\clearpage
 \subsubsection{Dark Pixel Covering Fraction}
 
 As demonstrated in the previous section, interpreting measurements of the effective optical depth in the context of reionization is complicated and can rely on controversial assumptions. However, an alternative approach is to consider what constraints can be made without resorting to such assumptions. In this regard, an important method in estimating $\axhi$ from high-redshift quasar observations is the dark pixel covering fraction. This approach is rooted in the fact that neutral parcels of gas are certain to result in saturated absorption in quasar spectra due to their optical depths being $\tau_{\text{HI}} \gtrsim 10^4$ (Eq. \ref{eq:tauGP}). Therefore, a reliable upper bound on the neutral fraction at a given redshift can be estimated by the fraction of pixels in quasar spectra that are completely absorbed at that redshift. 
@@ -236,7 +237,7 @@ A second complication is that, since pixels have a finite width, their transmiss
 
 Regardless, \cite{McGreer:2011dm} and \cite{McGreer:2014qwa} apply the dark-pixel covering fraction approach to 22 high-redshift quasar spectra to produce the constraints on $\axhi$ shown in Figure \ref{fig:McGreer}. Dimly-colored points correspond to \cite{McGreer:2011dm} while bold-colored points correspond to \cite{McGreer:2014qwa}. These results present a very different interpretation than using $\tau_{\text{eff}}$ measurements while using the same data. Namely, that model-independent constraints have a hard time conclusively confirming the common knowledge that reionization has ended by $z \sim 6$.\footnote{The authors here do go on to focus on a high-resolution subset of their quasar observations presented in \cite{McGreer:2014qwa} in order to argue in favor of an end to the EoR by $z \sim 6$. However, the precise interpretation of the spectra is complex, as discussed herein.} 
 
-\begin{figure}[h]
+\begin{figure}[!p]
   \centering
   \includegraphics[width=8cm]{xhi_newdata.eps}
   \caption{Current limits on $\axhi$ derived from the dark-pixel covering fraction in \cite{McGreer:2014qwa}. Lightly-shaded points are older limits obtained in \cite{McGreer:2011dm}.}
@@ -244,7 +245,7 @@ Regardless, \cite{McGreer:2011dm} and \cite{McGreer:2014qwa} apply the dark-pixe
 \end{figure}
 
 
-
+\clearpage
 \subsubsection{Damping Wing Redward of \lya}\label{sec:IntroDampingWing}
 
 Much of the difficulties in using the \lya\ forest to constrain the timing of the EoR can be boiled down to the following problem: interpreting \lya\ absorption in high-redshift quasar spectra is difficult because both neutral and ionized gas can result in saturated absorption. Therefore, it is worth asking if there are any ways to break this degeneracy in \lya\ absorption in order to determine which absorption is likely due to neutral hydrogen. One potential approach toward this goal, which has received much attention (\citealt{Chornock:2013una}, \citealt{Chornock:2014fva}, \citealt{Mortlock2011}, \citealt{Bolton:2011vb}), is looking for the hydrogen damping wing redward of the \lya\ line. 
@@ -274,7 +275,7 @@ While the damping wing from an isolated neutral region in a sea of fully-ionized
 We show a famous example of a potential damping-wing detection in Figure \ref{fig:Mortlock}, taken from \cite{Mortlock2011}. This shows a region of the transmission spectrum for a quasar at redshift $z = 7.085$ (ULAS J1120+0641). The fractional transmission nearby the \lya\ line exhibits a gradual recovery from almost complete absorption at $\lambda < \lambda_{\alpha}$ to almost complete transmission at $\lambda > \lambda_{\alpha}$, occurring over a wavelength interval consistent with a hydrogen damping wing. The curves in blue show models for damping wing absorption associated with an IGM with neutral fraction $\axhi = 0.1$ (top), 0.5 (middle), and 1 (bottom) with a sharp ionization front at a distance of 2.2Mpc from the quasar. In green, a model for the absorption profile of a Damped \lya\ Absorber (DLA, see glossary for definition)\gloss{DLA}{Damped \lya\ Absorber. These are dense, isolated clouds of gas with extremely high column densities of neutral hydrogen, $N_{\text{HI}} \gtrsim 2\times10^{20}\cm^{-2}$ sufficient to exhibit damping-wing absorption. These are thought to source galaxy formation and are not part of the diffuse IGM which we want to study for reionization purposes.} with column density $N_{\text{HI}} = 4\times10^{20}\text{cm}^{-2}$ located 2.6 Mpc from the quasar is shown. Thus, the transmission profile appears consistent with both a significantly-neutral ($\axhi > 0.1$) IGM or a proximate DLA. However, \cite{Simcoe} perform a search for metal lines, which typically accompany DLA absorption, and find that the gas is extremely metal-poor. This bolsters the claim that the damping-wing absorption seen in this example is, in fact, due to diffuse neutral hydrogen in the IGM. 
 
 
-\begin{figure}[h]
+\begin{figure}[!p]
   \centering
   \includegraphics[width=8cm]{z7p085_DampingWing.eps}
   \caption{Quasar ULAS J1120+0641 identified at redshift $z = 7.085$ along with several fits for the damping wing.}
@@ -284,7 +285,7 @@ We show a famous example of a potential damping-wing detection in Figure \ref{fi
 
 Other searches for damping-wing absorption redward of \lya\ have been carried out on, for example, GRB 130606A (\citealt{Chornock:2013una}) and GRB 140515A (\citealt{Chornock:2014fva}). These authors looked for the damping wing in the spectra of GRB afterglows at redshift $z = 5.913$ and $z = 6.33$, respectively. A non-detection in the spectra of the $z = 5.913$ GRB allowed the authors to place a $2\sigma$ limit on the nearby IGM neutral fraction of $\axhi < 0.11$. Similarly, no strong evidence of a damping wing was found in the spectrum of GRB140515A, shown in Figure \ref{fig:GRB140515A}. The right-hand panel shows the transmission fraction nearby the \lya\ transition, which is equally-well fit by pure host absorption (blue, $N_{\text{HI}} = 10^{18.62}\text{cm}^{-2}$), pure IGM absorption from gas at $6.0 \leq z \leq 6.328$ with $\axhi = 0.056$ (red), and a hybrid model with a host absorber lying within an ionized bubble with $R = 10$ comoving Mpc met by an IGM with $\axhi = 0.12$ (green). As such, they argue against a significantly-neutral IGM at this redshift.  
 
-\begin{figure}[h]
+\begin{figure}[!p]
   \centering
   \includegraphics[width=14cm]{GRB140515A.eps}
   \caption{Spectrum of GRB140515A, a gamma-ray burst located at $z = 6.33$. The right-hand panel overlays damping wing models from a host absorber (blue), a pure IGM model with $\axhi = 0.056$ (red), and a combination model (green). The authors argue that, while each curve provides an equally-good fit to the data, the sharp rise in transmission shown is inconsistent with a significantly-neutral IGM. }
@@ -298,7 +299,7 @@ It is worth pointing out, however, that the method of searching for the damping 
 
 
 % There is always a small damping of the oscillations by the radiation reaction force. I think this basically means that, since the charge is accelerating, it must be emitting radiation and losing energy and therefore its motion must be damped. Tau in this context is the time for radiation to cross a distance comparable to the size of the classical electron radius
-
+\clearpage
 \subsubsection{IGM Temperature}\label{sec:IntroIGMTemperature}
 
 A detection of a damping wing redward of the \lya\ line in a quasar spectra would constitute a ``smoking gun" for significantly-neutral regions in the IGM, provided you could rule out the possibility of a DLA source. However, in the absence of a smoking gun, a \textit{warm} gun could be an indication of reionization having completed recently. Specifically, measurements of the IGM temperature can provide us with additional insights about the process of reionization. During reionization, patches of gas will be heated as they are ionized with their subsequent temperature only depending on the shape of the ionizing spectrum. Furthermore, once ionized, the thermal behavior of the gas is relatively simple: it will cool adiabatically as the Universe expands. Additional sources of heating, such as photo-heating from the ionization of the trace amounts of neutral hydrogen, and additional sources of cooling, such as Compton cooling off of CMB photons, will be insignificant. Because of this relatively simple cooling behavior, it should be possible to turn a measurement of the temperature of the IGM into a constraint on the timing of reionization. In order to do this, we need two main ingredients: a method of measuring the temperature of high-redshift gas and an understanding of how the temperature of the gas evolves with time after being ionized. 
@@ -314,7 +315,7 @@ W(\xi)\dd \xi &= \left( \dfrac{m_p}{2\pi k_{B}T} \right)^{1/2}e^{-m_p\xi^2/2 k_B
 \end{align}
 
 
-\begin{figure}[h]
+\begin{figure}[!p]
   \centering
   \includegraphics[width=8cm]{dopplerDiagram.eps}
   \caption{This diagram represents the process of Doppler broadening. The HI atom is moving away with velocity $v$ from incoming radiation with frequency $\nu$. The observed frequency of the radiation in the atom's rest frame is $\nu(1-\xi/c)$ where $\xi$ is the component of the velocity parallel with the incident radiation. }
@@ -360,22 +361,22 @@ An alternative approach to fitting line profiles is to measure the small scale p
 %\dfrac{\dd T}{\dd t} &= -2HT + \dfrac{2T}{3(1+\delta)}\dfrac{\dd \delta}{\dd t} + \dfrac{T}{\mu} \dfrac{\dd \mu}{\dd t} + \dfrac{2\mu m_p}{3\rho k_B}(\mathcal{H} - \Lambda) \label{eq:dtdt}
 %\end{align}
 
-\begin{figure}[h]
+\begin{figure}[!p]
   \centering
   \includegraphics[width=11cm]{BoltonIGMTemperature_Fig2.ps}
   \includegraphics[width=11cm]{BoltonIGMTemperature_Fig2b.ps}
-  \caption{This figure shows mock spectra, and corresponding simulated IGM properties, from \cite{BoltonQuasar} in the top four panels. The bottom panel shows the observed spectrum from SDSS J0818+1722, which \cite{BoltonQuasar} use in order to make temperature measurements inside the proximity zone. Dashed lines indicate regions where Voigt-profile fitting was performed and downward arrows indicate the detected centers of the Voigt profiles. {\bf Maybe Bolton and Becker is better to use here? Larger sample of quasars, same basic idea...}}
+  \caption{This figure shows mock spectra, and corresponding simulated IGM properties, from \cite{BoltonQuasar} in the top four panels. The bottom panel shows the observed spectrum from SDSS J0818+1722, which \cite{BoltonQuasar} use in order to make temperature measurements inside the proximity zone. Dashed lines indicate regions where Voigt-profile fitting was performed and downward arrows indicate the detected centers of the Voigt profiles.}
   \label{fig:QuasarProximityTemp}
 \end{figure}
 
-
+\clearpage
 \subsubsection{Motivation for this Work}
 
 This discussion of the \lya\ forest as a tool for constraining the EoR highlights several of the current drawbacks of the approach. Among these, the largest is arguably the degeneracy between different sources of saturated absorption in the \lya\ forest. If one could find a way to determine if absorption in the \lya\ forest was certainly happening as a result of underlying neutral hydrogen, then it would be easier to interpret observations in terms of the overall neutral fraction of the Universe. We highlighted one example of how this has been done: the hydrogen damping wing redward of \lya. While a useful approach, this also suffers from drawbacks of its own, namely the limited number of high-redshift spectra suitable for damping-wing searches and the fact that regions surrounding quasars are not expected to be representative of the IGM as a whole. This helps motivate two approaches we consider in \S \ref{sec:NeutralIslands}. Namely, we identify the hydrogen damping wing and absorption due to deuterium as ``smoking gun" signals of underlying hydrogen and search for them in typical regions of the IGM. Obviously, it will become clear that this approach suffers from its own drawbacks but it does provide an independent measurement useful for constraining the ionization state of the high-redshift IGM.
 
 Second, we have discussed some difficulty in making measurements of the temperature of the high-redshift IGM. Namely, due to the high levels of absorption in the \lya\ forest of quasar spectra at these redshifts, traditional methods of inferring the IGM temperature are inapplicable except in the highly-complex near-zones of quasars. This motivates the development of a temperature-measurement technique which is applicable to typical regions of the high-redshift IGM. Such a technique is proposed in {\bf cite} and discussed in \S \ref{sec:IGMTemperature}.
 
-
+\clearpage
 \subsection{The 21-cm Line}\label{sec:21cm}
 
 The 21-cm line refers to the hyperfine splitting of the hydrogen atom where, due to the interaction between the magnetic dipole moments\gloss{Magnetic Dipole Moment}{The magnetic dipole moment of an object is related to the torque it would experience when placed in an external magnetic field. Magnetic moments are often relevant for bar magnets or loops of current. In the context of the hydrogen atom, the spin of the proton and electric render them as a sort of ``loop of current'' which gives them their own magnetic dipole moment.} of the electron and proton, a small energy difference exists between the configuration where the spins of the electron and proton are aligned versus where they are anti-aligned. The configuration where the spins are anti-aligned (and magnetic dipole moments are therefore aligned) is energetically favored and has a lower energy by $\Delta E \approx 6\times 10^{-6}$eV.\footnote{This is in contrast to a \lya\ photon which has energy $E \approx 10.2\text{eV}$, more than a million times greater.} Thus, spin-flip transitions will result in (from) the emission (absorption) of a photon with $\lambda \approx 21\cm$, $\nu \approx 1420\mhz$. This is shown schematically in Figure \ref{fig:21cmline}. 
@@ -389,7 +390,7 @@ Mapping the intensity of the 21-cm line during reionization avoids many other dr
 
 In this section, let us start with a overview of the physics of the 21-cm line and then continue by discussing a couple avenues by which the 21-cm signal could be utilized in order to constrain reionization. 
 
-
+\clearpage
 \subsubsection{The Intensity of the 21-cm Line}\label{sec:21cmPhysics}
 
 
@@ -461,14 +462,14 @@ where $\dd v_{\parallel}/\dd r_{\parallel}$ is the gradient in the line-of-sight
 Thus, we see that a neutral parcel of hydrogen at mean density and $z = 6$ and $T_{\text{S}} \gg T_{\text{CMB}}$, the brightness temperature contrast is $\sim 24\text{mK}$. 
 
 
-\begin{figure}[h]
+\begin{figure}[!p]
   \centering
   \includegraphics[width=8cm]{21cmline.eps}
   \caption{Schematic representation of the 21-cm transition where the transition between aligned spins of the proton and electron to anti-aligned spins results in the emission of a photon with $\lambda \approx 21$cm. }
   \label{fig:21cmline}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}[!p]
   \centering
   \includegraphics[width=8cm]{TalkSignal.eps}
   \includegraphics[width=8cm]{TalkNoise.eps}
@@ -477,7 +478,7 @@ Thus, we see that a neutral parcel of hydrogen at mean density and $z = 6$ and $
   \label{fig:21cmCube}
 \end{figure}
 
-
+\clearpage
 \subsubsection{21-cm Fluctuations with Interferometers}\label{sec:21cmFluctuations}
 
 
@@ -530,7 +531,7 @@ We can see from Eq. \ref{eq:Tsky} that the foreground noise from the galaxy shou
 
 
 
-\begin{figure}[h]
+\begin{figure}[!p]
   \centering
   \includegraphics[width=8cm]{interferometry.eps}
   \caption{This figure depicts the extra path length, $\Delta \ell$, of radiation (dot-dashed lines) incident on two elements (solid black rectangles) in an array separated by $\vec{r}$ when considering a position on the sky $\hat{\theta}$.}
@@ -549,7 +550,7 @@ Here, $k_{\perp}$ is the component of ${\bf k}$ transverse to the line of sight,
 
 For the first generation of experiments, however, the levels of thermal noise should prevent the 21-cm signal from being mapped and prevent any reionization ``movies'' from being made. This is discussed in \cite{McQuinn2006} and shown in Figure \ref{fig:McQuinnSNR}. Specifically, this figure shows the fraction of pixels at each $k$ which will be imaged (have $\text{SNR} \geq 1$) for MWA (dashed), LOFAR (dot-dashed), and SKA (solid) assuming galactic foregrounds can be subtracted. With regard to foregrounds, though, it is likely that any $k$ modes below the vertical hatched line will be inaccessible due to residuals from the foreground subtraction. This demonstrates that, due to thermal noise, first-generation interferometers like the MWA and LOFAR will image a small fraction of the pixels at the $k$ modes unspoiled by foregrounds and will therefore be unable to make maps of the 21-cm sky during reionization.\footnote{This estimate is done assuming that fluctuations in the 21-cm signal are caused by density fluctuations rather than by fluctuations in the ionization field. The latter should lead to a larger signal and so, in this sense, this estimate is somewhat pessimistic. The general point still holds, however.} 
 
-\begin{figure}[h]
+\begin{figure}[!p]
   \centering
   \includegraphics[width=8cm]{McQuinnSNR.eps}
   \caption{This figure shows the percentage of pixels ``imaged'' ($\text{SNR} > 1$) as a function of wavemode, $k$ for the MWA (dashed), LOFAR (dot-dashed), and the SKA (solid). The vertical hatched line shows the distance scale above with (smaller $k$) the residuals from foreground subtraction are expected to dominate the 21-cm signal. This demonstrates that, for first-generation 21-cm experiments, a very small fraction of pixels with $k > k_{\text{hatched}}$ will be ``imaged''. This estimate assumes that fluctuations in the 21-cm signal are driven from density fluctuations rather than fluctuations in the ionization field, so it is somewhat conservative. Taken from \cite{McQuinn2006}. }
@@ -562,7 +563,7 @@ In Figure \ref{fig:21cmCube} we show a random, qualitatively-representative simu
 
 In fact, \cite{Lidz2008} investigate the evolution of the power spectrum throughout reionization under several simulated reionization scenarios. They find that a generic result to all the models is that the \textit{slope} of the power spectrum, in the accessible $k$-mode range ($0.1\ h/\text{Mpc} \leq k \leq 1\ h/\text{Mpc}$) should \textit{decrease} as reionization evolves. Meanwhile, the \textit{amplitude} of the power spectrum in this $k$-mode range should rise until reionization reaches its midpoint and then fall. Thus, measuring the 21-cm power spectrum at several redshifts and confirming this behavior can, first, increase our confidence that we are in fact observing the 21-cm signal from reionization and, second, help us learn about the reionization process itself. 
 
-\begin{figure}[h]
+\begin{figure}[!p]
   \centering
   \includegraphics[width=7cm]{LidzPSEvolution.eps}
   \includegraphics[width=7cm]{LidzSlopeAndAmpEvolution.eps}
@@ -576,7 +577,7 @@ Constraints have already been placed on the nature of the EoR using this approac
 
 Measurements of the 21-cm power spectrum and its evolution are powerful probes of the Epoch of Reionization, but they are inherently indirect. Making detailed maps of the 21-cm radiation field would be much more direct, but will likely be out of reach for first and second generation experiments. However, the presence of an intermediate range in $k$ space which remains relatively un-spoiled by noise could provide us with the ability to make \textit{crude} maps of the 21-cm field and/or directly image individual large ionized regions. Direct observations of individual ionized regions would provide unambiguous evidence that reionization is ongoing and could also provide hints as to the sources of the ionizing photons and the volume-averaged neutral fraction. Such proposed approaches generally attempt to reconstruct the underlying signal by downweighting the $k$ modes of the observed signal which are expected to be dominated by noise. While these techniques are out of reach for first-generation experiments like PAPER, they may very well be suitable for successor experiments, such as HERA. We develop some of these filtering approaches in \S \ref{sec:Bubble} and explore their utility for a variety of plausible experiments.
 
-
+\clearpage
 \subsubsection{The Global 21-cm Signal}\label{sec:Global21cm}
 
 An alternative method of extracting information from the 21-cm line is to use the \textit{sky-averaged} 21-cm signal. In the previous section, we discussed the difficulties faced in obtaining the necessary resolution to map out fluctuations in the 21-cm radiation field. However, Equation \ref{eq:dTb} is rich with astrophysical information on its own without even considering spatial fluctuations. Therefore, natural questions to ask would be if it is easier to simply measure the average signal rather than map the fluctuations and what astrophysical information can be obtained in that way? For convenience, the brightness temperature contrast for the 21-cm signal from \S \ref{sec:21cmPhysics} is:
@@ -602,7 +603,7 @@ However, the utility of the global 21-cm signal is not limited to the Epoch of R
 \end{enumerate}
 
 
-\begin{figure}[h]
+\begin{figure}[!p]
   \centering
   \includegraphics[width=12cm]{TsEvolution.eps}
   \caption{Schematic representation of a plausible $T_{\text{S}}$ signal including a few landmarks. This is adapted from notes taken in the course ``Topics in Cosmology''.}
@@ -618,6 +619,7 @@ Specifically, from the end of reionization to the beginning, the global 21-cm si
 
 Another experiment which has gained some attention in this sector is the Dark Ages Radio Explorer (DARE, \citealt{burns2012probing}) which aims to measure the turning points and slope of the 21-cm signal (shown in Figure \ref{fig:TsEvolution}) over the redshift range $11 \leq z \leq 35$ in order to constrain the formation of the first stars, galaxies, accreting black holes along with the amount subsequent X-ray heating, and constrain the beginning of the EoR.\footnote{This information about DARE was obtained from {\tt http://lunar.colorado.edu/}} This will be done by placing a 21-cm antenna in lunar orbit. It is interesting to note that, even at this seemingly-ideal observation location, much effort will be needed to isolate nuisance contributions to the 21-cm signal, such as those from foreground emission from our own galaxy, the Sun, thermal emission from the Moon, and reflected galactic foregrounds off of the surface of the Moon (\citealt{harker2012mcmc}).
 
+\clearpage
 \subsection{The Cosmic Microwave Background}\label{sec:CMB}
 
 
@@ -660,7 +662,7 @@ In order to measure $\tau_{e}$ we can take advantage of the tendency for photons
 
 The electrons sourcing the polarization signal will see radiation from the quadrupole isotropy on scales of the horizon size at the time of the scattering. Therefore, fluctuations in the observed polarization signal will occur on spatial scales equal to the horizon size at the time of reionization. This allows measurements of the polarization power spectrum to be translated into a measurement of $\tau_{e}$.   Current measurements from \cite{planck2015planck} determine $\tau_{e} = 0.066 \pm 0.0121$, which translates to $z_{r} = 8.8^{+1.2}_{-1.1}$. Interestingly enough, this is a substantial shift from the first-year WMAP measurement of $\tau_{e} = 0.166^{+0.076}_{-0.071}$, $z_{r} = 17\pm 4$, and even a substantial shift from the nine-year WMAP results of $\tau_{e} = 0.089\pm 0.014$, $z_{r} = 10.6\pm 1.1$ (	\citealt{Bennett2013}). This contributes to some of the accumulating evidence that reionization may have occurred later (lower $z$) than was originally believed and makes measurement techniques applicable to $z \lesssim 6$ more interesting.
 
-\begin{figure}[h]
+\begin{figure}[!p]
   \centering
   \includegraphics[width=8cm]{tauEPolarization.eps}
   \caption{An illustration (Wayne Hu, {\tt http://background.uchicago.edu/~whu/}) of how a net polarization signal is generated from Thompson scattering due to the presence of a quadrupole anisotropy. The blue cross and red cross show relatively strong and weak incident radiation, respectively, on an electron at the origin. The red/blue cross indicates the average polarization of scattered light and demonstrates that it obtains a net vertical polarization.			}
@@ -670,7 +672,7 @@ The electrons sourcing the polarization signal will see radiation from the quadr
 
 
 
-
+\clearpage
 \subsubsection{Kinetic Sunyaev-Zel'dovich Effect}
 
 The second method of utilizing the CMB to constrain reionization that we discuss is the kinetic Sunyaev Zel'dovich effect (kSZ)\gloss{kSZ Effect}{Kinetic Sunyaev Zel'dovich effect. This describes secondary anisotropy in the CMB produced by the bulk velocities of free electrons during and after reionization which impart a Doppler shift on CMB photons.}. This refers to the secondary CMB anisotropies imprinted on the CMB by the bulk velocities of clouds of free electrons which impart a Doppler shift on the CMB photons. 
@@ -683,6 +685,7 @@ The patchy kSZ signal is actually sensitive to several parameters of reionizatio
 
 The South Pole Telescope (SPT) attempted a measurement of this effect (\citealt{Zahn2012}) and interpreted the results in terms of a constraint on the duration of reionization, $\Delta z \equiv z_{\axhi=1} - z_{\axhi = 0.2}$. They were not able to make a detection of the effect but were able to place upper bounds on it, suggesting that $\Delta z < 7.9$ at 95\% confidence.\footnote{Technically, this constraint allows for a free parameter describing the level of correlation between the thermal SZ effect and the Cosmic Infrared Background. Without allowing for this free parameter, their constraint is $\Delta z < 4.4$ at 95\% confidence.}
 
+\clearpage
 \subsection{\lya\ Emitters}
 
 \lya\ emitters (LAEs)\gloss{LAE}{\lya\ Emitter. These are galaxies which emit a significant fraction of their energy in the \lya\ line. This line is produced when hydrogen atoms within the galaxy recombine after being ionized by the galaxy. Roughly 2/3 of recombinations result in a \lya\ photon.} are galaxies which emit strongly in the \lya\ line. This \lya\ emission results from hydrogen atoms within the galaxy recombining after being ionized by the galaxy's UV radiation. During $\sim2/3$ of hydrogen recombinations, a \lya\ photon will be emitted. Therefore,  enough ionizations will result in a strong \lya\ line being emitted from the galaxy. 
@@ -702,14 +705,14 @@ In \cite{Ouchi2010}, the authors analyze 207 LAEs at $z \sim 6-7$ and compare th
 
 
 
-\begin{figure}[h]
+\begin{figure}[!p]
   \centering
   \includegraphics[width=13cm]{McQuinnLAEClusteringLarge.eps}
   \caption{The (simulated) effect of the neutral fraction on the observed clustering of LAEs (taken from \citealt{McQuinn:2007dy}). The top panels show the underlying ionization fields, the middle row shows the true location of LAEs in the simulation, and the bottom panel shows the detectable LAEs in the simulation. This shows that, LAEs which occupy the same ionized bubble will be observable, resulting in a less homogeneous field of observable LAEs. Each panel is 94 Mpc across. }
   \label{fig:McQuinnLAEClustering}
 \end{figure}
 
-
+\clearpage
 \subsubsection{\lya\ Emitter Fraction}
 
 As discussed in the previous section, as we move further back in redshift and deep into the reionization process, galaxies that intrinsically have a significant \lya\ line will not be observed as having one. However, the galaxies themselves will still be detectable via the drop-out technique, which searches for sources with significant emission at energies below the Lyman limit\gloss{Lyman Limit}{This refers to the most energetic transition in the Lyman series corresponding to ionizing a hydrogen atom in the ground state. This has wavelength $\lambda = 912$\AA and $E_{\gamma} = 13.6$eV.} and significantly less emission at greater energies. 
@@ -752,7 +755,7 @@ where $\dot{n}_{\text{ion}}$ is the number of ionizing photons per unit volume p
 \dfrac{\dd \langle x_{i}\rangle}{\dd t} &= \dfrac{\dot{n}_{\text{ion}}}{n_{\text{H}}} - \dfrac{\langle x_i \rangle}{t_{\text{rec}}}.
 \end{align}
 
-In this expression, the right hand side incorporates the rate of ionizations on the left and the rate of recombinations on the right, where $t_{\text{rec}}$ is the recombination time (discussed in \S \ref{sec:reion_hist}). Armed with estimates of the ionization history, the authors are then able to use Eq. \ref{eq:taue} to find the corresponding value for the optical depth of CMB photons to Thompson scattering. 
+In this expression, the right hand side incorporates the rate of ionizations on the left and the rate of recombinations on the right, where $t_{\text{rec}}$ is the recombination time (discussed in \S \ref{sec:IGMTemperaturereion_hist}). Armed with estimates of the ionization history, the authors are then able to use Eq. \ref{eq:taue} to find the corresponding value for the optical depth of CMB photons to Thompson scattering. 
  
 
 Such analyses come to the conclusion that, if star-forming galaxies drive reionization, then there must be a significant population of galaxies below the luminosity detection threshold in order to provide enough ionizing photons to ionize the Universe by $z \sim 6$. Furthermore, they find that, in order to match WMAP constraints on $\tau_{e}$, low levels of star formation are required at $z \gtrsim 15-25$ (\citealt{Robertson2013}). However, recent optical depth measurements from Planck result in a substantially lower $\tau_{e}$ which \cite{robertson2015cosmic} find reduces the requirement of a significant population of star-forming galaxies at $z \gg 10$. 
@@ -760,14 +763,14 @@ Such analyses come to the conclusion that, if star-forming galaxies drive reioni
 
 In Figure \ref{fig:Robertson2015} (taken from \citealt{robertson2015cosmic}) we see several claimed constraints on $\axhi$ during the Epoch of Reionization (markers), most of which we touch on in \S \ref{sec:Probes}, along with best fit curves calculated using luminosity functions. The red shaded curve shows the maximum-likelihood model of the neutral fraction (white) with $1\sigma$ errors and is consistent with Planck $\tau_{\text{e}}$ measurements. The analogous curve for \cite{Robertson2013} is shown in blue, but is in conflict with the WMAP $\tau_{\text{e}}$ constraints. A model that forces the blue curve to satisfy the WMAP $\tau_{\text{e}}$ constraint is shown in yellow. This figure demonstrates that, under some assumptions, the scenario where galaxies dominate reionization is not in conflict with the constraints on the timing of the EoR to date. As such, these analyses claim to strengthen the case that star-forming galaxies played a dominant role in the reionization of the Universe. 
 
-\begin{figure}[h]
+\begin{figure}[!p]
   \centering
   \includegraphics[width=12cm]{Robertson2015.eps}
   \caption{The above figure from \cite{robertson2015cosmic} overplots several claimed constraints on $\axhi$ during the Epoch of Reionization (markers), most of which we touch on in this section, along with best fit curves calculated using luminosity functions. The red shaded curve shows the maximum-likelihood model of the neutral fraction (white) with $1\sigma$ errors and is consistent with Planck $\tau_{\text{e}}$ measurements. The analogous curve for \cite{Robertson2013} is shown in blue, but is in conflict with the WMAP $\tau_{\text{e}}$ constraints. A model that forces the blue curve to satisfy the WMAP $\tau_{\text{e}}$ constraint is shown in yellow. This figure demonstrates that, under some assumptions, the scenario where galaxies dominate reionization is not in conflict with the constraints on the timing of the EoR to date.   }
   \label{fig:Robertson2015}
 \end{figure}
 
-
+\clearpage
 %\begin{enumerate}
 %\item Bouwens et al. (2015) might be good to include here. Strengthens argument that galaxies reionized the Universe and that quasars/AGN did not.
 %\end{enumerate}

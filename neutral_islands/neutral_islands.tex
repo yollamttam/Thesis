@@ -86,11 +86,11 @@ Our third test involves the stacked profile
 of extended absorbed regions in the Ly-$\beta$ forest. If these regions are significantly neutral, there should be a feature
 from absorption in the deuterium Ly-$\beta$ line just blueward (but not redward) of absorbed regions.
 
-The outline of this paper is as follows. In \S\ref{sec:Viability}, we briefly discuss which range of (volume-averaged) neutral fractions are physically plausible at $z=5.5$. In 
-\S \ref{sec:Sims} we describe the simulations used and the process for generating mock spectra. We discuss how the dark gap size distribution may be used to constrain the neutral fraction in \S \ref{sec:HIDistributions}. In \S \ref{sec:Stacking}, we describe how quasar spectra may be stacked in order to reveal the presence of deuterium and HI damping wing absorption in an idealized scenario and discuss adapting this approach for more realistic spectra in \S \ref{sec:RealSpectra}. We then apply this approach to mock quasar spectra in \S \ref{sec:Results}, discuss the constraining power of the stacking approaches in \S \ref{sec:Forecasts}, and conclude in \S \ref{sec:Conclusion}. Throughout, we consider a $\Lambda$CDM cosmology parametrized by $n_{s} = 1$, $\sigma_{8} = 0.8$, $\Omega_{m} = 0.27$, $\Omega_{\Lambda} = 0.73$, $\Omega_{b} = 0.046$, and $h = 0.7$, (all symbols have their usual meanings), broadly consistent with recent Planck constraints from \cite{Ade:2013zuv}.
+The outline of this chapter is as follows. In \S\ref{sec:NeutralIslandsViability}, we briefly discuss which range of (volume-averaged) neutral fractions are physically plausible at $z=5.5$. In 
+\S \ref{sec:NeutralIslandsSims} we describe the simulations used and the process for generating mock spectra. We discuss how the dark gap size distribution may be used to constrain the neutral fraction in \S \ref{sec:NeutralIslandsHIDistributions}. In \S \ref{sec:NeutralIslandsStacking}, we describe how quasar spectra may be stacked in order to reveal the presence of deuterium and HI damping wing absorption in an idealized scenario and discuss adapting this approach for more realistic spectra in \S \ref{sec:NeutralIslandsRealSpectra}. We then apply this approach to mock quasar spectra in \S \ref{sec:NeutralIslandsResults}, discuss the constraining power of the stacking approaches in \S \ref{sec:NeutralIslandsForecasts}, and conclude in \S \ref{sec:NeutralIslandsConclusion}. Throughout, we consider a $\Lambda$CDM cosmology parametrized by $n_{s} = 1$, $\sigma_{8} = 0.8$, $\Omega_{m} = 0.27$, $\Omega_{\Lambda} = 0.73$, $\Omega_{b} = 0.046$, and $h = 0.7$, (all symbols have their usual meanings), broadly consistent with recent Planck constraints from \cite{Ade:2013zuv}.
 
 
-\section{Viability of Transmission Through a Partially Neutral IGM} \label{sec:Viability}
+\section{Viability of Transmission Through a Partially Neutral IGM} \label{sec:NeutralIslandsViability}
 
  
  Ideally, this study would make use of mock Ly-$\alpha$ forest spectra extracted from fully self-consistent simulations of reionization, in which the efficiency of the ionizing sources and other relevant parameters are tuned so that reionization completes at $z \leq 6$.
@@ -135,7 +135,7 @@ recently been measured at $z = 5.16$ to be $\lambda_{\text{mfp}} = 10.3 \pm 1.6 
 
 
 
-We can then use this requirement on $\lambda_{\text{mfp}}$ to get some sense of which volume-averaged neutral fractions are plausible at $z \sim 5.5$. In the simulation outputs considered here (see \S\ref{sec:Sims}), the 
+We can then use this requirement on $\lambda_{\text{mfp}}$ to get some sense of which volume-averaged neutral fractions are plausible at $z \sim 5.5$. In the simulation outputs considered here (see \S\ref{sec:NeutralIslandsSims}), the 
 mean separation between neutral islands is $\lambda_{\text{mfp}} = 17.0$ pMpc, 5.3 pMpc, and 2.7 pMpc for $\axhi = 0.05$, 0.22, and 0.35, respectively. The first case certainly satisfies
 the requirement described above, the second case is just a bit on the small side, while the third case is uncomfortably small. Given the uncertainties in this argument, and the possibility that the neutral
 islands are a bit larger than in our simulation (which would increase their mean separation at fixed filling factor), we consider all three cases, but refrain from considering still more neutral models. We regard the latter case ($\axhi = 0.35$) as an extreme scenario intended mostly for illustration. 
@@ -148,7 +148,7 @@ are catching this -- likely brief -- phase in $z \sim 5.5$ Ly-$\alpha$ forest
 spectra and the possibility of testing this remains tantalizing.
 
 
-\section{Simulations and Mock Spectra} \label{sec:Sims}
+\section{Simulations and Mock Spectra} \label{sec:NeutralIslandsSims}
 
 
 With the above discussion to frame the range of possibilities, we move to describe the numerical simulations used in this analysis and our approach to constructing mock Ly-$\alpha$ forest
@@ -156,7 +156,7 @@ absorption spectra before reionization completes. We use simulated density and i
  
  
 We generate mock quasar spectra according to the usual ``fluctuating Gunn-Peterson" approach (e.g., \citealt{Croft:2000hs}), with a few refinements to capture the main effects of incomplete reionization. First and foremost, we do not assume a fully ionized IGM. The transmission in the Ly-$\alpha$ forest is sensitive to the precise ionized fractions in the ionized phase of the IGM. In order to simplify our study, as mentioned in the previous section, we rescale the simulated photoionization rates in the ionized regions to match the observed mean transmitted flux through the Ly-$\alpha$ forest. We do this assuming
-ionization equilibrium, and a constant value of the UV background (with a photoionization rate per atom of $\Gamma_{\text{HI}}$) within ionized regions. Specifically, simulated pixels with $x_i > 0.9$ are considered highly ionized while less ionized pixels are considered fully neutral.\footnote{After effectively thresholding the ionization field in this way, we end up with neutral fractions which are $\approx 20\%$ higher than in the original simulation. Throughout the paper, we refer to increased, thresholded neutral fractions.} This simplified approach allows us to consider a range of different possibilities for
+ionization equilibrium, and a constant value of the UV background (with a photoionization rate per atom of $\Gamma_{\text{HI}}$) within ionized regions. Specifically, simulated pixels with $x_i > 0.9$ are considered highly ionized while less ionized pixels are considered fully neutral.\footnote{After effectively thresholding the ionization field in this way, we end up with neutral fractions which are $\approx 20\%$ higher than in the original simulation. Throughout the chapter, we refer to increased, thresholded neutral fractions.} This simplified approach allows us to consider a range of different possibilities for
 the ionization state of the IGM quickly. We comment on the shortcomings of this approach when appropriate.
 The optical depth of a given pixel, $i$, in the simulation can then be found by summing over contributions from neighboring pixels (Bolton \& Haehnelt 2008):
 \begin{align}
@@ -198,7 +198,8 @@ In \Fig{fig:ExampleSpectraA}, we show an example mock \lya\ spectrum for a parti
 From this figure, we see that the damping wing indeed has a significant effect on the transmission, but that its effect is hard to discern without knowing the damping-wing-less transmission. This is the case for two reasons. First, the forest here is very absorbed and the damping wing absorption becomes mixed with resonant absorption from neighboring ionized regions. Second, the damping wing from a particular neutral region may overlap with the damping wing from another neutral region, altering the shape of the resulting absorption. Specifically, we see that, in the example spectra, the region at $v \approx 4500\ \kms\ $ is sandwiched between HI regions to the left and right, both within 1000\kms. Therefore, the optical depths for the corresponding pixels likely have significant contributions from resonant absorption, damping wing absorption from the HI region to the left, and damping wing absorption from the HI region to the right. While detecting individual instances of damping wing absorption in this case 
 seems impossible, we will show that detecting the presence of damping wing absorption \textit{on average} should be feasible through the stacking of high-redshift quasar spectra.
 
-\begin{figure}[h]
+
+\begin{figure}[!ht]
   \centering
   \includegraphics[width=9cm]{fig1a.eps}
   \includegraphics[width=9cm]{fig1b.eps}
@@ -209,7 +210,7 @@ seems impossible, we will show that detecting the presence of damping wing absor
 
 
 
-\section{Dark Gap Statistics} \label{sec:HIDistributions}
+\section{Dark Gap Statistics} \label{sec:NeutralIslandsHIDistributions}
 
 
 With the mock spectra of the previous section in hand, we now consider the size distribution of regions of saturated absorption -- dark gaps -- and its dependence on the underlying neutral fraction. Using such dark gap statistics has been widely discussed as a potential probe of the IGM neutral fraction (see, e.g., \citealt{Fan:2005es}, \citealt{Gallerani:2005mf}, \citealt{2010MNRAS.407.1328M}, \citealt{McGreer:2011dm}). In a fully ionized IGM, the size of dark gaps in quasar spectra should grow with increasing redshift, simply owing to the increasing mean density of the universe and as a result of any decline in the intensity of the UV radiation background. However, once quasar spectra start to probe the tail end of reionization, the increase in dark gap size should accelerate due to the presence of islands of neutral hydrogen. 
@@ -234,7 +235,7 @@ However, the shape of the size distribution is still quite different than in the
 sizes that is the hallmark of a partly neutral IGM in our models. 
 
 
-\begin{figure}[h]
+\begin{figure}[!ht]
   \centering
   \includegraphics[width=9cm]{fig2.eps}
   \caption{Dark gap size distribution for the $\axhi = 0.22$, $\langle F \rangle = 0.1$ model. The solid blue curve shows the total distribution of dark gaps from an ensemble of mock spectra, where the magenta (cyan) curve shows the same thing but for the dark gaps sourced by ionized (neutral) gas. Here, we have focused on dark gaps with $L > 0.75 \mpch$. This clearly demonstrates that neutral hydrogen is the dominant source of {\em large} dark gaps in our mock spectra, provided there is an appreciable neutral fraction.}
@@ -242,7 +243,7 @@ sizes that is the hallmark of a partly neutral IGM in our models.
 \end{figure}
 
 
-\begin{figure}[h]
+\begin{figure}[!ht]
   \centering
   \includegraphics[width=9cm]{fig3.eps}
   \caption{Large-length tail of the dark gap size histogram for $\axhi = 0$ (magenta), 0.05 (cyan), 0.22 (blue), and 0.35 (black) for the case when $\left\langle F \right\rangle = 0.1$. The y-axis is scaled to indicate the expected number of dark gaps obtainable from 20 spectra. Bins in this figure are spaced logarithmically. The dashed magenta line indicates the dark-gap size distribution in the fully ionized case when the true transmission is $\left\langle F \right\rangle = 0.03$, but continuum fitting errors result in a measured mean transmission of $\left\langle F_{\text{meas}} \right\rangle = 0.1$.}
@@ -250,7 +251,7 @@ sizes that is the hallmark of a partly neutral IGM in our models.
 \end{figure}
 
 
-\section{Stacking Toy Spectra} \label{sec:Stacking}
+\section{Stacking Toy Spectra} \label{sec:NeutralIslandsStacking}
 
 
 In this section we describe our basic approach of stacking \lya\ and \lyb\ spectra in order to detect the presence of HI damping wings and absorption due to deuterium, respectively. While the forest is too absorbed at these redshifts to easily detect damping wings or deuterium absorption due to individual neutral regions, here we demonstrate that the presence of such features can be revealed \textit{on average} by stacking regions of transmission over many spectra.
@@ -261,7 +262,7 @@ This section serves as a proof of principle by applying a simplified stacking ap
 
 
 
-\subsection{HI Damping Wing} \label{sec:ToyHI}
+\subsection{HI Damping Wing} \label{sec:NeutralIslandsToyHI}
 
 
 
@@ -275,10 +276,10 @@ owing mostly to neighboring neutral regions, however the gradual recovery to tra
 
 In \Fig{fig:ToyHI} we show the results of stacking transmission outside of neutral regions in the toy mock spectra described earlier in this section, neglecting deuterium for the time being. Namely, we show the stacked transmission outside neutral islands of length $L = 0.76 \mpch$ ($\sim 100\kms$) in black, $L = 1.27 \mpch$ ($\sim 170\kms$) in blue, $L = 5.34\mpch$ ($\sim 700\kms$) in cyan, and stacked transmission neglecting the damping wing in red. Additionally, we have plotted the analytic curves corresponding to \Eqn{eq:HIDW} for the various $L$ values, shown with dashed curves. We have applied a single multiplicative factor to these curves to account for average resonant absorption from ionized gas. Together, this figure implies that damping wing absorption from isolated neutral regions has a significant impact on quasar spectra, extending $\sim 1000\kms\ $ past the HI/HII boundaries, which may be observable through stacking as expected from Eq. \ref{eq:HIDW}. 
 
-In providing a toy example of how the hydrogen damping wing can affect spectra, we have neglected many important challenges that such a measurement would face. For example, we assumed perfect knowledge of the underlying ionization state of the IGM in order to determine where to stack and we assumed that we could discriminate between neutral and highly ionized absorption systems. However, the presence of such a large and potentially-observable feature provides motivation for us to apply the stacking approach in a more realistic manner. In \S \ref{sec:RealSpectra} and in Appendix B, we describe several such challenges and subtleties along with potential resolutions.
+In providing a toy example of how the hydrogen damping wing can affect spectra, we have neglected many important challenges that such a measurement would face. For example, we assumed perfect knowledge of the underlying ionization state of the IGM in order to determine where to stack and we assumed that we could discriminate between neutral and highly ionized absorption systems. However, the presence of such a large and potentially-observable feature provides motivation for us to apply the stacking approach in a more realistic manner. In \S \ref{sec:NeutralIslandsRealSpectra} and in Appendix B, we describe several such challenges and subtleties along with potential resolutions.
 
 
-\begin{figure}[h]
+\begin{figure}[!ht]
   \centering
   \includegraphics[width=8.4cm]{fig4.eps}
   \caption{Stacking idealized \lya\ spectra containing toy HI regions. The above figure shows the stacked transmission outside isolated HI regions with mean density and size $L = 0.76 \mpch$ ($\vext \approx 100\kms$), $L = 1.27 \mpch$ ($\vext \approx 170\kms$), and $L = 5.34 \mpch$ ($\vext \approx 700\kms$) shown in black, blue, and cyan, respectively. The solid red curve shows the stacked transmission outside of the same HI regions \textit{neglecting} the damping wing, which will be the same on average in all cases. In generating these spectra, we assume $\left\langle F \right\rangle = 0.1$. In this greatly-idealized case, the presence of the hydrogen damping wing is seen clearly through extended excess absorption compared to the red curve. Furthermore, we can see that the excess absorption closely follows what we would expect analytically based on multiplying \Eqn{eq:HIDW} by the overall mean transmission. In this figure, all stacking starts at HI/HII boundaries.}
@@ -286,11 +287,11 @@ In providing a toy example of how the hydrogen damping wing can affect spectra, 
 \end{figure}
 
 
-\subsection{Deuterium} \label{sec:ToyD}
+\subsection{Deuterium} \label{sec:NeutralIslandsToyD}
 
 
 
-With the stacking approach of the previous section in mind, we now consider absorption due to deuterium. As noted in \S\ref{sec:Sims}, primordial hydrogen should be accompanied by traces of deuterium, with a relative abundance of $\sim 2.5\times 10^{-5}$ (\citealt{Cooke:2013cba}). Due to its slightly increased reduced mass, atomic transitions in deuterium are shifted blueward by 82\kms\ compared to the same transitions in hydrogen. This implies that absorption due to neutral hydrogen in the IGM should be accompanied by additional absorption from deuterium, shifted blueward by 82\kms. We can estimate the optical depth for \lya\ absorption in deuterium at cosmic mean density by simply scaling the hydrogen \lya\ optical depth by the deuterium abundance:
+With the stacking approach of the previous section in mind, we now consider absorption due to deuterium. As noted in \S\ref{sec:NeutralIslandsSims}, primordial hydrogen should be accompanied by traces of deuterium, with a relative abundance of $\sim 2.5\times 10^{-5}$ (\citealt{Cooke:2013cba}). Due to its slightly increased reduced mass, atomic transitions in deuterium are shifted blueward by 82\kms\ compared to the same transitions in hydrogen. This implies that absorption due to neutral hydrogen in the IGM should be accompanied by additional absorption from deuterium, shifted blueward by 82\kms. We can estimate the optical depth for \lya\ absorption in deuterium at cosmic mean density by simply scaling the hydrogen \lya\ optical depth by the deuterium abundance:
 \begin{align}
 \tau_{D,\alpha} &= \left[ \frac{D}{H} \right]  \times \tau_{\text{GP}} \approx 8.25 x_{\text{HI}} \left(1+\delta\right)  \left[ \frac{1+z}{6.5} \right]^{3/2}.
 \end{align}
@@ -310,7 +311,7 @@ and should therefore be significantly narrower in \lyb\ than in \lya. In the abo
 
 Naturally, it should be very difficult to detect individual deuterium absorption features from the diffuse IGM, as the Ly-$\beta$ spectra will be very absorbed when the universe is neutral enough to
 produce the features in the first place. However, the feature may nonetheless be observable \textit{on average} through the stacking of high-resolution quasar spectra. 
-In order to demonstrate the strength of the deuterium absorption feature in stacked spectra, we incorporate deuterium into the same toy sightlines from \S \ref{sec:ToyHI} to produce mock \lyb\ spectra, neglecting foreground \lya\ absorption for the time being. We are then able to stack transmission outside of neutral regions in the spectra, starting at the HI/HII boundaries and moving outward. However, since deuterium absorption will only occur on the blue side of neutral regions, we need only stack those regions of transmission. In fact, this offers a clean test for detecting deuterium. Namely, we can separately stack transmission redward and blueward of neutral regions and compare. Excess absorption on the blue side of neutral regions, on average, could signal the presence of deuterium absorption. This is especially appealing since there should be no sources of contamination that would cause a similar, and significant, red/blue asymmetry.\footnote{One source of asymmetry we do find, which can be seen in \Fig{fig:LybResults}, results from the fact that, when dealing with realistic spectra, we force there to be transmission in \lyb\ at the locations where stacking begins. This results in a small selection effect, where selected neutral absorption systems have a reduced probability of having nearby neutral regions and have correspondingly-smaller nearby optical depths. For deuterium, this smaller optical depth is shifted blueward, causing \textit{less} absorption on the blue side of the line for $\Delta v \gtrsim 82\kms$. However, this asymmetry is minor and {\it opposes} the asymmetry from deuterium absorption.}
+In order to demonstrate the strength of the deuterium absorption feature in stacked spectra, we incorporate deuterium into the same toy sightlines from \S \ref{sec:NeutralIslandsToyHI} to produce mock \lyb\ spectra, neglecting foreground \lya\ absorption for the time being. We are then able to stack transmission outside of neutral regions in the spectra, starting at the HI/HII boundaries and moving outward. However, since deuterium absorption will only occur on the blue side of neutral regions, we need only stack those regions of transmission. In fact, this offers a clean test for detecting deuterium. Namely, we can separately stack transmission redward and blueward of neutral regions and compare. Excess absorption on the blue side of neutral regions, on average, could signal the presence of deuterium absorption. This is especially appealing since there should be no sources of contamination that would cause a similar, and significant, red/blue asymmetry.\footnote{One source of asymmetry we do find, which can be seen in \Fig{fig:LybResults}, results from the fact that, when dealing with realistic spectra, we force there to be transmission in \lyb\ at the locations where stacking begins. This results in a small selection effect, where selected neutral absorption systems have a reduced probability of having nearby neutral regions and have correspondingly-smaller nearby optical depths. For deuterium, this smaller optical depth is shifted blueward, causing \textit{less} absorption on the blue side of the line for $\Delta v \gtrsim 82\kms$. However, this asymmetry is minor and {\it opposes} the asymmetry from deuterium absorption.}
 
 
 In \Fig{fig:ToyD}, we show the results of stacking transmission in \lyb\ redward (red) and blueward (black) of the toy neutral regions across the full ensemble of mock quasar spectra. As in \Fig{fig:ToyHI}, all stacking begins at HI/HII boundaries. We can see the blueward transmission clearly exhibits excess absorption due to deuterium extending roughly $\sim$80\kms\ from the HI/HII boundary. Thus, in this idealized scenario, the presence of deuterium in islands of neutral hydrogen leaves a very clear signature in the stacked \lyb\ transmission.
@@ -323,10 +324,10 @@ a reduced ionizing background, this might obscure the deuterium feature, even in
 warrant further investigation.
 
 
-As was the case in \S \ref{sec:ToyHI}, we have made several simplifying assumptions and have additionally neglected foreground \lya\ absorption from the lower-redshift IGM. However, the clear presence of deuterium absorption revealed through the simplified stacking approach provides motivation to also consider applying it to more realistic spectra, as will be discussed in \S \ref{sec:RealSpectra}.
+As was the case in \S \ref{sec:NeutralIslandsToyHI}, we have made several simplifying assumptions and have additionally neglected foreground \lya\ absorption from the lower-redshift IGM. However, the clear presence of deuterium absorption revealed through the simplified stacking approach provides motivation to also consider applying it to more realistic spectra, as will be discussed in \S \ref{sec:NeutralIslandsRealSpectra}.
 
 
-\begin{figure}[h]
+\begin{figure}[!ht]
   \centering
   \includegraphics[width=8.4cm]{fig5.eps}
   \caption{Presence of deuterium absorption revealed through stacking idealized \lyb\ spectra containing toy neutral regions. The red and black curves show the stacked \lyb\ transmission redward and blueward, respectively, of toy neutral regions of length $L = 5\mpch$ ($\approx 700\kms$) randomly inserted into many sightlines, with spectra generated assuming $\left\langle F_{\text{Ly}\alpha} \right\rangle = 0.1$. In each case, stacking begins at the underlying HI/HII boundary. We have also mimicked the effect of including foreground \lya\ absorption by scaling the feature by the mean transmission in the foreground \lya\ forest. This demonstrates that, at least in this idealized case, the presence of deuterium absorption can be easily seen out to $\sim80\kms$\ past the HI/HII boundaries.}
@@ -336,18 +337,18 @@ As was the case in \S \ref{sec:ToyHI}, we have made several simplifying assumpti
 
 
 
-\section{Steps of Approach} \label{sec:RealSpectra}
+\section{Steps of Approach} \label{sec:NeutralIslandsRealSpectra}
 
 
-In \S\ref{sec:Stacking}, we demonstrated the utility of stacking idealized quasar spectra in order to reveal the presence of the HI damping wing and deuterium absorption. The success of this approach in the toy case provides motivation for us to apply it to realistic mock spectra. In doing so, we must confront the simplifying assumptions made in \S\ref{sec:Stacking}. 
+In \S\ref{sec:NeutralIslandsStacking}, we demonstrated the utility of stacking idealized quasar spectra in order to reveal the presence of the HI damping wing and deuterium absorption. The success of this approach in the toy case provides motivation for us to apply it to realistic mock spectra. In doing so, we must confront the simplifying assumptions made in \S\ref{sec:NeutralIslandsStacking}. 
 
 
-The most obviously unrealistic assumption made in \S\ref{sec:Stacking} is that we can precisely identify the HI/HII boundaries underlying our spectra. In practice, we will only have access to the level of transmission at each point along the spectra. However, based on \Fig{fig:ToyD}, the recovery from saturated absorption to transmission occurs within $\lesssim 15\kms$ in \lyb\ from the edge of the neutral zone, and should therefore provide a relatively
+The most obviously unrealistic assumption made in \S\ref{sec:NeutralIslandsStacking} is that we can precisely identify the HI/HII boundaries underlying our spectra. In practice, we will only have access to the level of transmission at each point along the spectra. However, based on \Fig{fig:ToyD}, the recovery from saturated absorption to transmission occurs within $\lesssim 15\kms$ in \lyb\ from the edge of the neutral zone, and should therefore provide a relatively
 good indicator of the HI/HII boundary. Therefore, we choose to identify stacking locations based on where transmission recovers \textit{in \lyb}.
 To be clear, for the case of the hydrogen damping wing, we are stacking transmission in the \lya\ forest, but we are choosing where to start the stacking based on features in the \lyb\ forest. A drawback of this approach, when searching for the hydrogen damping wing, is that we are only able to stack regions of the \lya\ forest with corresponding regions in the \lyb\ forest that are not contaminated by \lyc\ absorption. This effectively reduces the amount of usable spectra, since, for a quasar at $z = 5.5$, the pure \lya\ forest will extend $4.5 \leq z \leq 5.5$, but \lyc\ absorption will contaminate the \lyb\ forest at $z \lesssim 5.16$. If presented with a limited number of spectra, it may be worth searching for the damping wing by using only the \lya\ regions of the spectra. 
 
 
-By stacking at the precise locations of HI/HII boundaries in \S\ref{sec:Stacking}, we were also ensuring that our sample of absorption systems was all neutral. However, when we modify our approach to begin stacking at locations where transmission recovers from saturated absorption, we may start stacking transmission outside of ionized absorption systems together with transmission outside of neutral absorption systems, diluting our signal. Since the signal we are aiming to find is small to begin with, it is important that we minimize this contamination from ionized regions. To do this, we take advantage of the main argument of \S\ref{sec:HIDistributions}, namely that regions of saturated absorption sourced by neutral gas should be significantly larger, on average, than those sourced by ionized gas. Therefore, we choose to stack only transmission outside of \textit{large} regions of saturated absorption. Furthermore, since true neutral regions should cause saturated absorption in \lyb, we choose to stack only outside of large saturated regions which are fully absorbed in \lyb, where we define ``large" to be $>500\kms\ $ ($\gtrsim 4\mpch$) in \lyb. Note that this choice is tuned for
+By stacking at the precise locations of HI/HII boundaries in \S\ref{sec:NeutralIslandsStacking}, we were also ensuring that our sample of absorption systems was all neutral. However, when we modify our approach to begin stacking at locations where transmission recovers from saturated absorption, we may start stacking transmission outside of ionized absorption systems together with transmission outside of neutral absorption systems, diluting our signal. Since the signal we are aiming to find is small to begin with, it is important that we minimize this contamination from ionized regions. To do this, we take advantage of the main argument of \S\ref{sec:NeutralIslandsHIDistributions}, namely that regions of saturated absorption sourced by neutral gas should be significantly larger, on average, than those sourced by ionized gas. Therefore, we choose to stack only transmission outside of \textit{large} regions of saturated absorption. Furthermore, since true neutral regions should cause saturated absorption in \lyb, we choose to stack only outside of large saturated regions which are fully absorbed in \lyb, where we define ``large" to be $>500\kms\ $ ($\gtrsim 4\mpch$) in \lyb. Note that this choice is tuned for
 the case of $\avg{F} = 0.1$: a different choice may be better for other values of the mean transmitted flux. At any rate, in applying these tests to real data, one would likely vary this size scale across a range
 of possible values.
 
@@ -355,7 +356,7 @@ of possible values.
 Additionally, an appealing feature of the search for deuterium absorption is that it offers a very clean test for its detection, namely a red/blue asymmetry in the transmission outside of plausibly neutral regions. The disparity in the size distribution of saturated regions sourced by neutral and ionized gas suggests a similar test may be possible for the detection of the HI damping wing. Namely, while large regions of saturated absorption are likely to be sourced by neutral gas, small regions of saturated absorption are likely to be sourced by ionized gas. Therefore, to find evidence of excess absorption outside of neutral regions due to the HI damping wing, we compare the stacked transmission outside of large absorption systems, plausibly sourced by neutral gas, to that outside of small absorption systems, likely sourced by ionized gas. A significant amount of excess absorption outside of the former compared to the latter, extending further than any possible density correlations, would suggest the presence of damping wing absorption.
 
 
-Furthermore, in \S\ref{sec:ToyD}, we discussed how the damping wing is greatly weakened in \lyb\ compared to in \lya. Therefore, an additional test for the presence of damping wing absorption could be to take the ratio of the stacked \lyb\ transmission to the stacked \lya\ transmission, where stacking occurs in the same physical regions in both cases. In the event that there is significant damping wing absorption, this ratio should also slowly recover to some constant value at large $\Delta v$. We further discuss and develop this approach in Appendix B.
+Furthermore, in \S\ref{sec:NeutralIslandsToyD}, we discussed how the damping wing is greatly weakened in \lyb\ compared to in \lya. Therefore, an additional test for the presence of damping wing absorption could be to take the ratio of the stacked \lyb\ transmission to the stacked \lya\ transmission, where stacking occurs in the same physical regions in both cases. In the event that there is significant damping wing absorption, this ratio should also slowly recover to some constant value at large $\Delta v$. We further discuss and develop this approach in Appendix B.
 
 
 When dealing with realistic spectra, we must adjust our approach to accommodate the presence of noise (and finite spectral resolution). While noise should average out in stacked regions, the presence of noise will also obfuscate the precise boundaries between saturated absorption and transmission. We choose to handle this by smoothing our noisy spectra over a scale of 100 km/s ($\sim 0.75\mpch$) and defining any pixel, $i$, with transmission $F_i < 3\tilde{\sigma}_{\text{N}}$ to be consistent with saturated absorption, where $\tilde{\sigma}_{\text{N}}$ denotes the standard deviation of the smoothed noise. We then define regions in the smoothed spectra where the flux goes from $F<3\tilde{\sigma}_{\text{N}}$ to $F>3\tilde{\sigma}_{\text{N}}$ as the transitions from saturated absorption to transmission, and therefore as potential points to start stacking. When stacking transmission, however, we stack the transmission in the \textit{unsmoothed} spectra.
@@ -368,17 +369,17 @@ is indeed found in real spectra. In Appendix B, we discuss a possible empirical 
 
 
 
-\section{Results} \label{sec:Results}
+\section{Results} \label{sec:NeutralIslandsResults}
 
 
 Having considered the subtleties of the previous section, we are now ready to apply the three-pronged approach to more realistic mock spectra. In each section, we first consider the ideal case where no noise has been applied to give an idea of the potential constraining power of the different methods. Subsequently, we add realistic levels of noise and consider realistic spectra resolution to give an idea of the constraining power of the approaches applied to Keck HIRES spectra for the deuterium feature and damping wing, and spectra with slightly higher resolution than SDSS for the dark gap size distribution.
 
 
-\subsection{Detecting the Damping Wing} \label{sec:Damping Wing Results}
+\subsection{Detecting the Damping Wing} \label{sec:NeutralIslandsDamping Wing Results}
 
 
 
-We first consider the ability to uncover the presence of the hydrogen damping wing by strategically stacking regions of transmission in the the \lya\ forest of $z \approx 5.5$ noiseless mock quasar spectra. As discussed in \S \ref{sec:RealSpectra}, our aim is to compare the average transmission outside of plausibly neutral absorption systems to the transmission outside of likely ionized systems. 
+We first consider the ability to uncover the presence of the hydrogen damping wing by strategically stacking regions of transmission in the the \lya\ forest of $z \approx 5.5$ noiseless mock quasar spectra. As discussed in \S \ref{sec:NeutralIslandsRealSpectra}, our aim is to compare the average transmission outside of plausibly neutral absorption systems to the transmission outside of likely ionized systems. 
 
 
 We identify the plausibly neutral absorption systems by requiring the regions be completely absorbed in \lyb, and also that the regions of saturated absorption are at least $L_{\text{sat}} > 500\kms$ ($\sim4\mpch$) \textit{in \lyb}. We begin stacking at the point in the \lya\ spectrum which corresponds to the recovery from absorption to transmission \textit{in \lyb}. We identify the likely ionized absorption systems by requiring that they are \textit{below} a maximum length $L_{\text{max}} = 300\kms$ \textit{in \lyb}.
@@ -414,10 +415,10 @@ From this figure, we can see that, despite the degradation of the spectra, the d
 An important effect of adding noise to the mock spectra is that it obscures the precise location where spectra should be stacked and also increases the fraction of selected saturated regions which are, in fact, ionized. We find that for the spectra in this section $\sim 30\%$, 40\%, and 75\% of identified plausibly neutral regions are in in fact ionized for $\axhi = 0.35$, 0.22, and 0.05, respectively. This is compared to $\sim 7\%$, 10\%, and 20\% contamination when noise is neglected.
 
 
-Statistical significances in this section are only estimates. In reality, the statistical significance with which the damping wing can be detected will depend on how extended the significance curves are, along with how correlated the errors in neighboring bins are. We discuss this in \S\ref{sec:Forecasts}.
+Statistical significances in this section are only estimates. In reality, the statistical significance with which the damping wing can be detected will depend on how extended the significance curves are, along with how correlated the errors in neighboring bins are. We discuss this in \S\ref{sec:NeutralIslandsForecasts}.
 
 
-\begin{figure}[h]
+\begin{figure}[!ht]
   \centering
   \includegraphics[width=9cm]{fig6a.eps}
   \includegraphics[width=9cm]{fig6b.eps}
@@ -428,7 +429,7 @@ Statistical significances in this section are only estimates. In reality, the st
 \end{figure}
 
 
-\begin{figure}[h]
+\begin{figure}[!ht]
   \centering
   \includegraphics[width=9cm]{fig7a.eps}
   \includegraphics[width=9cm]{fig7b.eps}
@@ -437,7 +438,7 @@ Statistical significances in this section are only estimates. In reality, the st
 \end{figure}
 
 
-\begin{figure}[h]
+\begin{figure}[!ht]
   \centering
   \includegraphics[width=9cm]{fig8.eps}
   \caption{Results of \lya\ stacking with HIRES-style spectra ($\left\langle F \right\rangle = 0.1$). The above panel is identical to the bottom panel in \Fig{fig:LyaResults} except that the spectra have had the bin size and spectral resolution adjusted to match that of Keck-HIRES spectra. Additionally, we have added noise such that the spectra have a signal-to-noise value of 10 per pixel at the continuum.}
@@ -445,10 +446,10 @@ Statistical significances in this section are only estimates. In reality, the st
 \end{figure}
 
 
-\subsection{Deuterium Feature Results} \label{sec:DeuteriumResults}
+\subsection{Deuterium Feature Results} \label{sec:NeutralIslandsDeuteriumResults}
 
 
-We now turn to consider the prospects for identifying deuterium absorption in realistic \lyb\ mock spectra. As discussed in \S \ref{sec:RealSpectra}, our aim is to identify plausibly neutral absorption systems in the \lyb\ spectra and compare the stacked transmission moving blueward and redward away from the absorption. We identify the plausibly neutral regions in the same manner as for the damping wing.
+We now turn to consider the prospects for identifying deuterium absorption in realistic \lyb\ mock spectra. As discussed in \S \ref{sec:NeutralIslandsRealSpectra}, our aim is to identify plausibly neutral absorption systems in the \lyb\ spectra and compare the stacked transmission moving blueward and redward away from the absorption. We identify the plausibly neutral regions in the same manner as for the damping wing.
 
 In \Fig{fig:LybResults}, we show the results of applying the stacking approach to the same mock spectra as in the previous section. The top panel shows the mean transmission blueward (solid) and redward (dashed) moving away from plausibly neutral absorption systems for the same ionization states as in the previous section. We can very clearly see excess absorption in the partially neutral spectra, extending $\sim 80\kms$, consistent with our expectations from \Fig{fig:ToyD}. Additionally, we also find that, in the fully ionized case, the blueward and redward stacked transmission match up very well. 
 
@@ -456,7 +457,7 @@ In \Fig{fig:LybResults}, we show the results of applying the stacking approach t
 As in the previous section, we can construct a rough significance curve for the difference between the blueward and redward transmission. Specifically, in the bottom panel of \Fig{fig:LybResults} we show the excess blueward absorption in units of the standard deviation of the stacked blueward transmission assuming 20 quasar spectra. We can see that the significance of the red/blue asymmetry extends $\sim 70\kms$ ($\sim 0.3 \mpch$) and is $\gtrsim 3\sigma$ for all of the partially neutral models considered, with increasing significance for models with higher neutral fractions. Additionally, we see that the curve corresponding to the fully ionized model shows no statistically-significant deviation from red/blue symmetry. Thus, this is indeed a very clean test for the presence of deuterium. However, the signal itself is an order of magnitude smaller in velocity-space extent and is found with significantly less statistical significance than the damping wing signal. Therefore, we expect that high-resolution, high-signal-to-noise spectra will be necessary to search for it. 
 
 
-As in \S\ref{sec:Damping Wing Results}, we can reproduce \Fig{fig:LybResults} assuming spectra with specifications mimicking Keck HIRES. Unfortunately, we find that, with a signal to noise per pixel in the continuum of 10, the deuterium feature is hard to observe. Because of this, we consider using 20 HIRES-style spectra with a signal to noise per pixel of 30 in the continuum. While this signal-to-noise value is higher than those for existing spectra we found in the literature, it is not unreasonable to assume such spectra may become available in the future. Furthermore, this may provide additional motivation to obtain such spectra. Regardless, after applying the stacking approach with twenty $\text{SNR} = 30$ HIRES spectra, we obtain the results shown in \Fig{fig:LybResults_Noisy}. This figure shows that the feature should be observable with modest statistical significance. Specifically, for $\xhi = 0.35$ (0.22) the significance curve peaks at $\sim 3.7\sigma$ ($\sim 3\sigma$). Additionally, when these curves are generated assuming MIKE-style spectra, with spectral resolution $\text{FWHM} = 13.6\kms\ $ and velocity bin size $\Delta v_{\text{bin}} = 5.0\kms$, we obtain similar curves as in \Fig{fig:LybResults_Noisy} but with the signal being statistically significant over a smaller range of velocities. 
+As in \S\ref{sec:NeutralIslandsDamping Wing Results}, we can reproduce \Fig{fig:LybResults} assuming spectra with specifications mimicking Keck HIRES. Unfortunately, we find that, with a signal to noise per pixel in the continuum of 10, the deuterium feature is hard to observe. Because of this, we consider using 20 HIRES-style spectra with a signal to noise per pixel of 30 in the continuum. While this signal-to-noise value is higher than those for existing spectra we found in the literature, it is not unreasonable to assume such spectra may become available in the future. Furthermore, this may provide additional motivation to obtain such spectra. Regardless, after applying the stacking approach with twenty $\text{SNR} = 30$ HIRES spectra, we obtain the results shown in \Fig{fig:LybResults_Noisy}. This figure shows that the feature should be observable with modest statistical significance. Specifically, for $\xhi = 0.35$ (0.22) the significance curve peaks at $\sim 3.7\sigma$ ($\sim 3\sigma$). Additionally, when these curves are generated assuming MIKE-style spectra, with spectral resolution $\text{FWHM} = 13.6\kms\ $ and velocity bin size $\Delta v_{\text{bin}} = 5.0\kms$, we obtain similar curves as in \Fig{fig:LybResults_Noisy} but with the signal being statistically significant over a smaller range of velocities. 
 
 
 Again, important effects of adding noise to the mock spectra are that it obscures the precise location where spectra should be stacked and increases the fraction of selected plausibly neutral regions which are, in fact, ionized. We find that for the spectra in this section $\sim 15\%$, 20\%, and 40\% of identified plausibly neutral regions are in in fact ionized for $\axhi = 0.35$, 0.22, and 0.05, respectively. This is compared to $\sim 7\%$, 10\%, and 20\% contamination when noise is neglected. As expected, we find a smaller level of contamination than in the previous section, owing to the increased signal to noise of the spectra used. However, for the case of deuterium, the effect of noise on the stacking location is more apparent. \Fig{fig:LybResults} demonstrates that, without noise, deuterium absorption imprints a feature on stacked noiseless spectra extending $\approx 80\kms$, but only extending $\approx 60\kms\ $ in stacked noisy spectra, as shown in \Fig{fig:LybResults_Noisy}.
@@ -473,7 +474,8 @@ The above results suggest that stacking \lyb\ transmission in high-$z$ spectra c
   \label{fig:LybResults}
 \end{figure}
 
-\begin{figure}[h]
+
+\begin{figure}[!ht]
   \centering
   \includegraphics[width=9cm]{fig10.eps}
   \caption{Results of \lyb\ stacking with HIRES-style spectra. The above panel is the same as in the bottom panel of \Fig{fig:LybResults}, except that it is generated using HIRES-style spectra, with spectral resolution of $\text{FWHM}=6.7\kms\ $ and additive noise with signal to noise of 30 per 2.1 km/s pixel at the continuum. }
@@ -483,23 +485,23 @@ The above results suggest that stacking \lyb\ transmission in high-$z$ spectra c
 
 
 
-\subsection{Dark Gap Statistics} \label{sec:DarkGaps}
+\subsection{Dark Gap Statistics} \label{sec:NeutralIslandsDarkGaps}
 
 
-We now shift our focus away from stacking and toward the distribution in lengths of regions of saturated absorption (dark gaps). As discussed in \S\ref{sec:HIDistributions}, the dark gap size distribution in quasar spectra should contain information about the underlying ionization state of the IGM. Specifically, in a more neutral IGM, the typical sizes of dark gaps should be larger and the shape of the dark gap size distribution should have a more gradual decline, and possibly show a hint of bimodality, toward large $L$. 
+We now shift our focus away from stacking and toward the distribution in lengths of regions of saturated absorption (dark gaps). As discussed in \S\ref{sec:NeutralIslandsHIDistributions}, the dark gap size distribution in quasar spectra should contain information about the underlying ionization state of the IGM. Specifically, in a more neutral IGM, the typical sizes of dark gaps should be larger and the shape of the dark gap size distribution should have a more gradual decline, and possibly show a hint of bimodality, toward large $L$. 
 
 
 We continue this discussion in this section by considering plausible dark gap size distributions that could be observed with moderate-resolution, moderate-signal-to-noise spectra. Specifically, we consider spectra with spectral resolution $\text{FWHM} = 100\kms$, bin size $v_{\text{bin}} = 50\kms$, and a signal-to-noise ratio of 10 at the continuum. These spectra are of only slightly better quality than SDSS spectra. Additionally, since we are not concerned with \lyb\ transmission, we are able to use the entire \lya\ forest for each spectra.
 
 
 
-In \Fig{fig:DarkGapsResults}, we show the resulting dark gap size histogram expected for 20 such spectra for $\axhi = 0.35$ (black), 0.22 (blue), 0.05 (cyan), and 0 (magenta). In generating this figure, we use the same ensemble of mock spectra as in \S\ref{sec:Damping Wing Results} and \S\ref{sec:DeuteriumResults}, except with their spectral resolution and bin size modified as mentioned. We maintain the requirement that $\left\langle F \right\rangle = 0.1$. 
+In \Fig{fig:DarkGapsResults}, we show the resulting dark gap size histogram expected for 20 such spectra for $\axhi = 0.35$ (black), 0.22 (blue), 0.05 (cyan), and 0 (magenta). In generating this figure, we use the same ensemble of mock spectra as in \S\ref{sec:NeutralIslandsDamping Wing Results} and \S\ref{sec:NeutralIslandsDeuteriumResults}, except with their spectral resolution and bin size modified as mentioned. We maintain the requirement that $\left\langle F \right\rangle = 0.1$. 
 
 
 This figure qualitatively agrees with \Fig{fig:PDFs}, where noiseless spectra with finer spectral resolution were used, but shows a shift toward larger $L$ due to smoothing the spectra. Additionally, the ionization states are not as easily distinguishable as in \Fig{fig:PDFs}, with the $\axhi = 0.05$ distribution looking practically identical to the fully ionized scenario. However, for the other neutral fractions considered, the situation looks very encouraging. The distributions for $\axhi = 0.22$ and 0.35 show a more gradual decline toward large $L$ than the fully ionized case and also reveal the clear emergence of a bimodal distribution. Additionally, the largest dark gaps in these ionization states are roughly twice as large as in the fully ionized case. 
 
 
-\begin{figure}[h]
+\begin{figure}[!ht]
   \centering
   \includegraphics[width=8.5cm]{fig11.eps}
   \caption{Mock dark gap size distribution. This figure is identical to \Fig{fig:PDFs} except that it uses spectra with spectral resolution $\text{FWHM} = 100\kms$, bin size $\Delta v_{\text{bin}} = 50\kms$, and a signal-to-noise ratio of 10 at the continuum. This figure shows the expected histogram of dark gap sizes using 20 spectra with $\axhi = 0.35$ (black), 0.22 (blue), 0.05 (cyan), and 0 (magenta) at fixed $\left\langle F \right\rangle = 0.1$.}
@@ -508,7 +510,7 @@ This figure qualitatively agrees with \Fig{fig:PDFs}, where noiseless spectra wi
 
 
 
-\section{Forecasts} \label{sec:Forecasts}
+\section{Forecasts} \label{sec:NeutralIslandsForecasts}
 
 
 Having discussed the results of the proposed stacking approaches applied to realistic mock spectra, we now consider the ability of these methods to constrain the ionization state of the $z \sim 5.5$ IGM. Specifically, in this section we focus on the ability of each method to rule out the hypothesis of a fully ionized IGM. 
@@ -525,7 +527,7 @@ we estimate  $\Delta \chi^{2}_{\axhi}$ by simply adding up the squared statistic
 
 
 
-\subsection{Deuterium} \label{sec:DForecast}
+\subsection{Deuterium} \label{sec:NeutralIslandsDForecast}
 
  Perhaps it is best to consider the case of the deuterium absorption feature first. In the case of a fully ionized IGM, the transmission looking blueward and redward from absorption systems should be symmetric on average, with excess blueward absorption only occurring when the IGM is significantly neutral. Therefore, we may calculate the $\Delta \chi_{\axhi}^2$ between stacked transmission looking redward ($F_{\axhi,\text{red}}(v)$) and blueward ($F_{\axhi,\text{blue}}(v)$) from plausibly neutral absorption systems for each ionization state $\axhi$ to estimate our ability to rule out the hypothesis of a fully ionized IGM in each case. 
  
@@ -539,7 +541,7 @@ where $\sigma_{\axhi,\text{blue}}(v_i)$ is the standard deviation of the stacked
 
 
 
-\subsection{HI Damping Wing} \label{sec:HIForecast}
+\subsection{HI Damping Wing} \label{sec:NeutralIslandsHIForecast}
 
  
  Assessing the statistical significance with which we can observe the HI damping wing is slightly more complicated than the deuterium case since the test for its detection is not as simple. When faced with actual spectra, we would look for the presence of significant and extended absorption outside of large absorption systems compared to that outside of small absorption systems. 
@@ -560,7 +562,7 @@ In this manner, we are able to calculate a rough estimate for the $\Delta \chi^2
 
 
 
-\section{Conclusion} \label{sec:Conclusion}
+\section{Conclusion} \label{sec:NeutralIslandsConclusion}
 
 
 In this work, we developed empirical tests of the possibility that the Epoch of Reionization is not yet complete by $z \sim 5.5$. Specifically, we proposed three measurements that can be made with existing, and future, high-redshift quasar spectra in order to investigate this region of reionization history parameter space. 
@@ -580,8 +582,120 @@ radiation field and in the temperature density relation. Additional work will ce
 However, we believe the signatures explored here are well-worth further investigation and should ultimately improve our understanding of the reionization history of the IGM.
 
 
+\section{Preliminary Stacking Results}
 
-\section*{Appendix A: Contamination from DLAs?} \label{sec:DLA_contam}
+In this section we present preliminary results obtained from applying the stacking methods described herein to spectra provided to us by Andrei Mesinger, Ian McGreer, and Valentina D'Odorico. These spectra are described in \cite{McGreer:2014qwa},\footnote{Technically, we use all of the spectra in \cite{McGreer:2014qwa} except for J0002+2550 and MMT observations of J1137+3549. This detail is reflected in Table \ref{tab:speclist}.} with the basic properties shown in their Table 1. We have recreated their table here (Table \ref{tab:speclist}) for convenience. 
+
+
+% Description of spectra provided to us by McGreer, Mesinger, and D'Odorico. Worth remembering that we actually only have _most_ of these...
+\begin{table}
+ \begin{center}
+ \caption{Quasar spectra\label{tab:speclist}}
+ \begin{tabular}{lrrrrl}
+ \hline
+ Object & $z$ & $z_{\rm AB}$ & $t_{\rm exp}$ (hr) & $\langle\tau_{\rm eff,lim}^\alpha\rangle$ & source \\
+ \hline
+J1420-1602 &    5.73 &   19.7 &    4.00 &    5.3 & MagE \\
+J0927+2001 &    5.77 &   19.9 &    0.33 &    3.8 & ESI \\
+J1044-0125 &    5.78 &   19.2 &    4.79 &    5.2 & MagE \\
+J0836+0054 &    5.81 &   18.7 &    0.33 &    4.7 & ESI \\
+           &         &        &    4.00 &    3.9 & MMT \\
+           &         &        &    2.27 &    5.9 & XShooter \\
+%J0002+2550 &    5.82 &   19.0 &    2.76 &    3.6 & MMT \\
+J0840+5624 &    5.84 &   19.8 &    0.33 &    4.1 & ESI \\
+J1335+3533 &    5.90 &   20.1 &    0.33 &    3.8 & ESI \\
+J1411+1217 &    5.90 &   19.6 &    1.00 &    3.7 & ESI \\
+J0148+0600 &    5.92 &   19.4 &   10.00 &    6.3 & XShooter \\
+J0841+2905 &    5.98 &   19.8 &    0.33 &    3.5 & ESI \\
+J1306+0356 &    6.02 &   19.5 &    0.25 &    4.3 & ESI \\
+           &         &        &   11.50 &    5.4 & XShooter \\
+J0818+1722 &    6.02 &   19.6 &    4.50 &    4.6 & MMT \\
+           &         &        &    5.90 &    5.7 & XShooter \\
+J1137+3549 &    6.03 &   19.5 &    0.67 &    3.8 & ESI \\
+%           &         &        &    2.33 &    3.7 & MMT \\
+J2054-0005 &    6.04 &   20.7 &   11.00 &    4.4 & MagE \\
+J0353+0104 &    6.05 &   20.5 &    1.00 &    3.5 & ESI \\
+J1630+4012 &    6.07 &   20.4 &    4.39 &    3.2 & MMT \\
+J0842+1218 &    6.08 &   19.6 &    0.67 &    4.0 & ESI \\
+J1509-1749 &    6.12 &   20.3 &    6.00 &    4.7 & MagE \\
+           &         &        &    8.32 &    5.2 & XShooter \\
+J1319+0950 &    6.13 &   20.0 &   10.00 &    5.7 & XShooter \\
+J1623+3112 &    6.25 &   20.1 &    1.00 &    4.2 & ESI \\
+J1030+0524 &    6.31 &   20.0 &   10.32 &    5.3 & ESI \\
+           &         &        &    7.46 &    5.4 & XShooter \\
+J1148+5251 &    6.42 &   20.1 &   11.00 &    6.0 & ESI \\
+ \hline
+ \end{tabular}
+ \end{center}
+ Note: $\langle\tau_{\rm eff,lim}^\alpha\rangle$ is the median effective optical depth in
+       the \lya\ forest for a pixel (binned to 3.3 cMpc) with a flux equivalent to the $1\sigma$
+       noise estimate.
+\end{table}
+
+
+When working with actual spectra, there are a few details that we must deal with which we did not need to discuss while using mock spectra. Specifically, the actual spectra have varying spectral resolutions, varying signal-to-noise values, do not have periodic boundary conditions, and are not at a fixed redshift. We deal with the differing spectra resolutions by smoothing all spectra with a Gaussian kernel with full width at half max equal to 50 km/s and resampling them at this resolution. We deal with the varying signal-to-noise values by incorporating an inverse-variance weighting scheme when averaging transmission in different regions of different spectra. Typically, when implementing an inverse-weighting scheme, the ``variance'' is the noise variance. However, in our case we have two effective sources of noise: noise in the spectra themselves and resonant absorption throughout the spectra. In other words, if we are trying to measure an underlying damping wing signal, then additional resonant absorption occurring in the span of the damping wing is effectively a source of noise for us. To incorporate this, we perform the inverse-variance weighting using a variance $\sigma_{\text{tot}}^{2}$ defined by 
+
+\begin{align}
+\sigma_{\text{tot}}^{2} &\equiv \sigma_{\text{N}}^{2} + \sigma_{\text{F}}^{2}
+\end{align}
+
+where $\sigma_{\text{N}}^{2}$ is the spectrum's noise variance and $\sigma_{\text{F}}^{2}$ is the variance in the flux of the spectra due to actual absorption, calculated after smoothing all spectra to a common resolution and after binning in redshift. Thus, each region of transmission incorporated into the stack is weighted by the $1/\sigma_{\text{tot}}^{2}$ value associated with that spectrum. 
+
+To accommodate the fact that the spectra evolve in redshift along the line of sight, we perform stacking in two discrete redshift bins, one incorporating $5.5 \leq z_{\text{gap}} \leq 5.7$ and one with $5.7 \leq z_{\text{gap}} \leq 6$, where $z_{\text{gap}}$ is the redshift of the dark gap that we are stacking at the boundaries of. To incorporate the fact that the spectra do not have periodic boundary conditions, we require that regions of transmission extend for at least $\Delta v_{\text{min}} = 5000\kms$ before terminating at the end of the spectrum. This is to prevent somewhat artificial noise in the stacked transmission resulting from regions of transmission that encountered the edge of the spectral coverage before spanning the entire velocity range of the stack. 
+
+
+With the exceptions of these caveats, though, we perform the stacking in the same qualitative manner as described thus far. Namely, when searching for the HI damping wing, we stack \lya\ transmission outside of dark gaps in the \lyb\ forest and set the minimum length of a ``large'' dark gap to be $L_{\text{min}} = 300\kms$ and the maximum length of a ``small'' dark gap to be $L_{\text{max}} = 300\kms$ \textit{in \lyb}. These precise values differ somewhat from those used earlier in order to increase statistics. Based on the signal-to-noise values, number, and spectral resolution of the spectra in Table \ref{tab:speclist}, we do not expect to be able to detect absorption due to deuterium. However, we perform the search anyway and stack \lyb\ transmission outside of any dark gaps \textit{in \lyb} whose length are at least $L_{\text{min}} = 100\kms$. 
+
+
+In \Fig{fig:LargePreliminaryLowZ} and \Fig{fig:LargePreliminary}, we show the preliminary \lya\ stacking results for the low-$z$ and high-$z$ bins, respectively. In each figure, the top panel shows the results of stacking outside of small dark gaps while the bottom panel shows the results of stacking outside of large dark gaps. In each case, the solid lines are for mock spectra generated to roughly mimic the spectral resolution and signal-to-noise characteristics of the true spectra.\footnote{The model spectra used here actually result in a mean flux that is \textit{smaller} than we get when stacking spectra from Table \ref{tab:speclist}. We apply a scaling factor to the mock spectra's stacked flux in order for the two to match. We have generated mock spectra with a range of $\langle F \rangle \lesssim 0.1$ and find that this approximation is appropriate.} The colors match those in earlier plots, namely, $\axhi = 0$ (magenta), 0.05 (cyan), 0.22 (blue), and 0.35 (black). The stacked transmission for the spectra in Table \ref{tab:speclist} is shown in dashed green.
+
+
+There are two comparisons that we can make here. First, we can compare the stacked transmission outside of large and small dark gaps to the simulated stacked transmission under different neutral fractions. For this comparison, let us first focus on stacked transmission outside of small dark gaps. For both redshift bins, the stacked appears relatively noisy and not well-fit by any of the simulated curves. While the stacked transmission in this case appears larger for $\Delta v > 3000\kms$ than for $\Delta v < 3000\kms$, the behavior is not consistent with our expectations for that from damping-wing absorption. Specifically, we would expect the smallest stacked transmission to occur for very small velocity separations, as can be seen in the simulated stacked transmission outside of the large dark gaps. However, in dashed-green curve, there is a spike in stacked transmission for velocity separations of less than a few hundred km/s. It is unclear if this excess absorption is a genuine feature or simply the result of statistical fluctuations. One possibility is that, if absorption systems are clustered, the excess absorption could be akin to the ``2-halo'' term described in Appendix C. 
+
+
+\begin{figure}[!ht]
+  \centering
+  \includegraphics[width=12cm]{smallstack_lowz_mesinger.eps}
+  \includegraphics[width=12cm]{largestack_lowz_mesinger.eps}
+  \caption{The above figure shows the results of stacking \lya\ transmission outside of dark gaps in the \lyb\ portion of the spectrum with $L < 300\kms$ (top) and $L > 300\kms$ (bottom) for dark gaps with $5.5 \leq z_{\text{gap}} \leq 5.7$. The solid curves are generated using mock spectra assuming $\axhi = 0$ (magenta), 0.05 (cyan), 0.22 (blue), and 0.35 (black). The dashed green line shows the stacking results for the spectra described in Table \ref{tab:speclist}.}
+  \label{fig:LargePreliminaryLowZ}
+\end{figure}
+
+\begin{figure}[!ht]
+  \centering
+  \includegraphics[width=12cm]{smallstack_mesinger.eps}
+  \includegraphics[width=12cm]{largestack_mesinger.eps}
+  \caption{This figure is identical to \Fig{fig:LargePreliminaryLowZ} except we stack outside of dark gaps with $5.7 \leq z_{\text{gap}} \leq 6$.}
+  \label{fig:LargePreliminary}
+\end{figure}
+
+
+The stacked transmission outside of large dark gaps in both the low-$z$ and high-$z$ bins appear less noisy. In the lower redshift bin, the stacked transmission is relatively flat but starts off large and falls toward the mean transmission by $\Delta v \approx 3000\kms$. This behavior is not precisely the same as for the mock spectra but does not show any excess absorption that can be attributed to the damping wing. Meanwhile, in the high-$z$ bin, the stacked transmission is much flatter. While the stacked transmission shows a slight increase over the course of $\Delta v \sim 500-5000\kms$, the transmission is initially rather high -- not suggestive of damping-wing absorption. If the stacked transmission from the mock spectra is reliable, this curve is consistent with a neutral fraction of $\axhi \lesssim 0.05$. However, since the analogous curve for the low-$z$ bin did not match well with the model curves, this comparison is likely risky. 
+
+
+These comparisons have the disadvantage that they rely on simulations and are therefore somewhat model-dependent. Earlier in this chapter we proposed directly comparing the stacked transmission outside of large and small dark gaps as a test for the damping wing. If damping-wing absorption was significant, we would expect the associated absorbers to result in large dark gaps, such that stacked transmission outside of large dark gaps would show significant excess absorption to that outside of small dark gaps. Performing this comparison by eye for the top/bottom panels of \Fig{fig:LargePreliminaryLowZ} and \Fig{fig:LargePreliminary}, we see the opposite behavior: stacked transmission outside of \textit{small} dark gaps shows more absorption than that outside of large dark gaps. While we do not have an explanation for this behavior, it is not suggestive of a damping wing.
+
+
+Lastly, in \Fig{fig:dcheck} and \Fig{fig:dcheck_lowz} we compare the stacked \lyb\ transmission redward (blue) and blueward (green) of dark gaps in the \lyb\ forest with $L_{\text{gap}} > 100\kms$. We should emphasize that, due to the number and quality of the spectra used, we do not expect to observe excess absorption due to deuterium, even for a significantly-neutral IGM. However, we perform the test anyway and find that the stacked redward and blueward transmission agree very well. 
+
+
+Therefore, while we have not performed a rigorous statistical analysis of the stacked transmission using these spectra, after a preliminary look we do not see any obvious evidence of neutral hydrogen at $z < 6$. We emphasize, however, that this is by no means conclusive evidence that reionization has completed by this time. 
+
+\begin{figure}[!ht]
+  \centering
+  \includegraphics[width=8cm]{Lyb_lowz.eps}
+  \caption{This figure shows the results of stacking \lyb\ transmission outside of dark gaps with $L > 100\kms$ in the spectra described in Table \ref{tab:speclist}. For this figure, we stack outside of dark gaps with $5.5 \leq z_{\text{gap}} \leq 5.7$.}
+  \label{fig:dcheck_lowz}
+\end{figure}
+
+\begin{figure}[!ht]
+  \centering
+  \includegraphics[width=8cm]{Lyb_highz.eps}
+  \caption{This figure is identical to \Fig{fig:dcheck_lowz} except we stack outside of dark gaps with $5.7 \leq z_{\text{gap}} \leq 6$.}
+  \label{fig:dcheck}
+\end{figure}
+
+\section*{Appendix A: Contamination from DLAs?} \label{sec:NeutralIslandsDLA_contam}
 
 
 A potential concern is that damping wings from super Lyman-limit systems
@@ -621,7 +735,7 @@ N_{\rm HI, crit} = 7.2 \times 10^{21} \rm{cm}^2 \left[\frac{\tau_{\beta, \rm{DLA
 \label{eq:ncrit}
 \eeqa
 The fiducial value of $L_{\rm neut}$ in the above equation corresponds to $\Delta v_{\rm neut} = 500$ km/s -- this is
-the minimum saturated stretch included in our stacks when we search for neutral regions (see \S \ref{sec:RealSpectra}). The 
+the minimum saturated stretch included in our stacks when we search for neutral regions (see \S \ref{sec:NeutralIslandsRealSpectra}). The 
 column density $N_{\rm HI, crit}$ required for a DLA to produce this much saturated absorption is quite large, and
 the abundance of DLAs with column densities larger than $N_{\rm HI, crit}$ is very small. 
 
@@ -647,7 +761,7 @@ part of the HI Ly-$\beta$ line, and so DLAs should not contaminate our search fo
 
 
 A separate possible worry is that DLAs could instead contaminate our sample of {\em small} saturated regions that
-we use for comparison purposes (as described in \S \ref{sec:RealSpectra}). Our small saturated sample
+we use for comparison purposes (as described in \S \ref{sec:NeutralIslandsRealSpectra}). Our small saturated sample
 is meant to reflect absorption around saturated yet ionized regions, and so should not contain
 significant damping wing absorption. In principle, wings from any DLAs in {\em this} sample could influence the
 transmission around the small saturated regions. It seems unlikely that this is a significant worry, since the
@@ -662,7 +776,7 @@ DLA-contaminated regions by flagging spectral regions in the Ly-$\alpha$ and Ly-
 as strong metal absorbers, which generally accompany DLAs (see e.g. \citealt{Wolfe:2005jd}). 
 
 
-\section*{Appendix B: Further Utilizing the \lyb\ Forest} \label{sec:BetaHandle}
+\section*{Appendix B: Further Utilizing the \lyb\ Forest} \label{sec:NeutralIslandsBetaHandle}
 
 
 
@@ -670,7 +784,7 @@ as strong metal absorbers, which generally accompany DLAs (see e.g. \citealt{Wol
 In order to infer the presence of the HI damping wing, we would like to compare the stacked transmission outside of plausibly neutral absorption systems to what that transmission would have been in the absence of the damping wing. Up to this point, we have been using the stacked transmission outside of \textit{small} absorption systems as a proxy for the latter quantity. From there, we argued that any extended excess absorption outside of large, plausibly neutral absorption systems compared to small, likely ionized absorption systems is indicative of the presence of damping wing absorption. 
 
 
-However, we do have another handle on what transmission would be like in the absence of the HI damping wing and that is the transmission in the \lyb\ forest. As discussed in \S\ref{sec:ToyD}, the HI damping wing should be significantly reduced in the \lyb\ forest compared to the \lya\ forest. Specifically, we saw that the damping wing optical depth in \lyb\ falls to less than one at velocity separations $\gtrsim 25\kms\ $ from neutral gas. Therefore, at separations greater than this, stacked transmission in the \lyb\ forest should provide information on what the shape of the \lya\ transmission would have been in the absence of the damping wing, with foreground \lya\ absorption only altering the stacked \lyb\ transmission by an overall constant $\left\langle F_{\alpha}(z_{\alpha}) \right\rangle$. Using information from stacked \lyb\ transmission has the appeal that it does not require using physically different regions of space in order to estimate the damping-wing-less transmission outside of selected plausibly neutral absorption systems. This provides protection from problems arising from unanticipated differences between the small, likely ionized absorption systems and the large, plausibly neutral absorption systems.
+However, we do have another handle on what transmission would be like in the absence of the HI damping wing and that is the transmission in the \lyb\ forest. As discussed in \S\ref{sec:NeutralIslandsToyD}, the HI damping wing should be significantly reduced in the \lyb\ forest compared to the \lya\ forest. Specifically, we saw that the damping wing optical depth in \lyb\ falls to less than one at velocity separations $\gtrsim 25\kms\ $ from neutral gas. Therefore, at separations greater than this, stacked transmission in the \lyb\ forest should provide information on what the shape of the \lya\ transmission would have been in the absence of the damping wing, with foreground \lya\ absorption only altering the stacked \lyb\ transmission by an overall constant $\left\langle F_{\alpha}(z_{\alpha}) \right\rangle$. Using information from stacked \lyb\ transmission has the appeal that it does not require using physically different regions of space in order to estimate the damping-wing-less transmission outside of selected plausibly neutral absorption systems. This provides protection from problems arising from unanticipated differences between the small, likely ionized absorption systems and the large, plausibly neutral absorption systems.
 
 
 Thus, we would like to find a way to estimate the \lya\ transmission in the absence of the damping wing by using only the \lyb\ transmission. In principle, this can be done by using simulations to model the relationship between the two and generating a (ionization-state-dependent) mapping that takes a measurement of stacked \lyb\ transmission outside of large absorption systems and maps it to an estimate of the damping-wing-less \lya\ transmission in the same regions. From there, the ratio of the stacked \lya\ transmission to this estimate of the damping-wing-less \lya\ transmission would leave us with an estimate of $e^{-\tau_{\text{DW}}(v)}$. In the left-hand panel of \Fig{fig:DWShape}, we show the recovered $e^{-\tau_{\text{DW}}(v)}$ curve after applying this approach to each of the ionization states considered thus far, and then normalizing each curve to peak at 1. Specifically, a mapping between stacked \lyb\ transmission and stacked damping-wing-less \lya\ transmission for each ionization state was generated using a large ensemble of mock spectra and then applied to groups of 20 spectra. The error bars in the figure show the scatter in the estimated damping wing absorption between realizations of 20 spectra. For ease of viewing, we show only the error bars for $\axhi = 0$ and 0.35. This figure demonstrates that the approach works well and recovers a damping wing shape for an IGM with $\axhi \gtrsim 0.05$ (in the absence of noise).
@@ -686,7 +800,7 @@ Finally, we find that this mapping is relatively simple. Namely, for velocity se
 A potential concern for our \lya\ stacking approach in general could be that, while we make the approximation that ionized regions are exposed to a uniform ionizing background, the ionizing background will in fact be fluctuating spatially. It is then possible that, in scenarios where the ionizing background is weaker closer to the stacking location and stronger farther from the stacking location, an extended recovery could be imprinted on the stacked transmission despite the IGM being fully ionized. If one were not careful, and if these spatial fluctuations occurred on scales comparable to the damping wing feature, a false detection could be possible. One tool we have to protect against this is the fact that the scale of the damping wing is significantly smaller in \lyb\ than in \lya. Therefore, any extended recovery in stacked transmission which occurs over similar scales in \lya\ and \lyb\ is unlikely to be caused by the damping wing. 
 
 
-\begin{figure}[h]
+\begin{figure}[!ht]
   \centering
   \includegraphics[width=8cm]{fig12a.eps}
   \includegraphics[width=8cm]{fig12b.eps}
@@ -695,10 +809,10 @@ A potential concern for our \lya\ stacking approach in general could be that, wh
 \end{figure}
 
 
-\section*{Appendix C: Extended damping wing Absorption from Correlated HI Islands} \label{sec:Correlation}
+\section*{Appendix C: Extended damping wing Absorption from Correlated HI Islands} \label{sec:NeutralIslandsCorrelation}
 
 
-As mentioned in \S\ref{sec:Damping Wing Results}, and seen in \Fig{fig:LyaResults}, \ref{fig:LyaResults_LowF}, \& \ref{fig:HIRES_LyaResults_Noisy}, stacked \lya\ transmission outside of large saturated regions in a significantly neutral IGM displays excess absorption extending significantly past the scale of an isolated damping wing. To explain this, we seek to model the expected transmission outside of a neutral region, incorporating the correlation between the neutral region at the origin and neighboring neutral regions.  In order to simplify the calculation, while capturing the main effect, we ignore correlations between the neighbors themselves -- i.e., we only include the correlation between the neutral region at the origin and the neighbors and ignore inter-neighbor correlations.
+As mentioned in \S\ref{sec:NeutralIslandsDamping Wing Results}, and seen in \Fig{fig:LyaResults}, \ref{fig:LyaResults_LowF}, \& \ref{fig:HIRES_LyaResults_Noisy}, stacked \lya\ transmission outside of large saturated regions in a significantly neutral IGM displays excess absorption extending significantly past the scale of an isolated damping wing. To explain this, we seek to model the expected transmission outside of a neutral region, incorporating the correlation between the neutral region at the origin and neighboring neutral regions.  In order to simplify the calculation, while capturing the main effect, we ignore correlations between the neighbors themselves -- i.e., we only include the correlation between the neutral region at the origin and the neighbors and ignore inter-neighbor correlations.
 
 Ignoring correlations between the neighboring neutral regions, we can approximate them as following a Poisson distribution and consider the total absorption contributed by these neutral islands or ``clouds'' following
 \cite{Zuo}. Suppose that on average $m$ clouds contribute to the absorption at a given region of the spectrum.
@@ -716,7 +830,7 @@ Let us define the quantity $\tau_{\text{eff}}$ as
 e^{-m\left(1-e^{-\tau}\right)} &\equiv e^{-\tau_{\text{eff}}} \\
 \tau_{\text{eff}} &\equiv m\left(1-e^{-\tau}\right).
 \end{align}
-We now have the absorption from neighboring clouds, characterized by the parameter $\tau_{\text{eff}•}$. 
+We now have the absorption from neighboring clouds, characterized by the parameter $\tau_{\text{eff}}$. 
 
 We just need to adapt this slightly to the problem at hand. Suppose that  -- with certainty -- there is a neutral region located at $v=0$ and let us consider the excess absorption, above random, contributed
 by neighboring neutral regions. 
@@ -736,11 +850,11 @@ Thus, the model for the overall stacked transmission outside of neutral regions,
 \begin{align}
 \left\langle F \right\rangle (\Delta v) &= e^{-\tau_{\text{DW}}(\Delta v)}e^{-\tau_{\text{eff}}(\Delta v)}.
 \end{align}
-This model requires two inputs. First, it requires the correlation function between the centers of neutral regions, $\xi_{\text{HI,HI}}(v')$, which can be calculated from a model of the underlying ionization field. Second, the optical depth profile for neutral regions, $\tau (|\Delta v - v'|)$, is a function of the size of the neutral regions, per \Eqn{eq:HIDW}. While the neutral regions in the mock spectra take on a range of sizes, we make the simplifying approximation here -- but not in the body of this paper -- that the neutral regions at a given neutral fraction have one typical size and denote this $L_{\text{typical}}$ with a corresponding extent in velocity space $v_{\text{ext}}$. This effectively results in the optical depth profile of an individual neutral island in the right hand side of \Eqn{eq:taueff} being described by a piecewise function
+This model requires two inputs. First, it requires the correlation function between the centers of neutral regions, $\xi_{\text{HI,HI}}(v')$, which can be calculated from a model of the underlying ionization field. Second, the optical depth profile for neutral regions, $\tau (|\Delta v - v'|)$, is a function of the size of the neutral regions, per \Eqn{eq:HIDW}. While the neutral regions in the mock spectra take on a range of sizes, we make the simplifying approximation here -- but not in the body of this chapter -- that the neutral regions at a given neutral fraction have one typical size and denote this $L_{\text{typical}}$ with a corresponding extent in velocity space $v_{\text{ext}}$. This effectively results in the optical depth profile of an individual neutral island in the right hand side of \Eqn{eq:taueff} being described by a piecewise function
 \begin{align}
 \tau_{\text{DW}}(\Delta v) = \begin{cases} \infty &\mbox{if } |\Delta v| < v_{\text{ext}}/2 \\ \dfrac{\tau_{\text{GP}}R_{\alpha}c}{\pi}\left[ \dfrac{1}{\Delta v - v_{\text{ext}}/2} - \dfrac{1}{\Delta v + v_{\text{ext}}/2} \right] &\mbox{otherwise.} \end{cases}
 \end{align}
-Next, we would like to compare this model against results using mock spectra. We do this by first generating mock spectra which \textit{only include absorption from neutral islands}, since this is the only type of absorption incorporated in our model, and stack these mock spectra at the HI/HII boundaries. To be clear, while the model curve described above adopted a fixed $L_{\text{neut}}$ for the purpose of calculating a $\tau_{\text{eff}}$, the mock spectra here are generated using the same simulated ionization fields as throughout the rest of the paper, with a wide range of sizes for the underlying neutral regions. 
+Next, we would like to compare this model against results using mock spectra. We do this by first generating mock spectra which \textit{only include absorption from neutral islands}, since this is the only type of absorption incorporated in our model, and stack these mock spectra at the HI/HII boundaries. To be clear, while the model curve described above adopted a fixed $L_{\text{neut}}$ for the purpose of calculating a $\tau_{\text{eff}}$, the mock spectra here are generated using the same simulated ionization fields as throughout the rest of the chapter, with a wide range of sizes for the underlying neutral regions. 
 
 To obtain a model for the stacked transmission, we first calculate the correlation function between the centers of neutral regions using the mock underlying ionization fields and also choose a value for $L_{\text{typical}}$ to be used in the optical depth profile. Additionally, in Eq. \ref{eq:taueff}, the $(1 + \xi_{\text{HI,HI}}(v'))$ term effectively breaks our integral into two pieces: the first representing the mean absorption from neutral regions and the second representing the excess or reduced absorption at $v = \Delta v$ due to the clustering of neutral islands. For our case, we are only concerned with the \textit{excess} absorption, so we make the replacement $(1 + \xi_{\text{HI,HI}}(v')) \to \xi_{\text{HI,HI}}(v')$.
 
@@ -751,10 +865,10 @@ absorption, significantly beyond the scale of an individual damping wing.
 
 In the right panel of \Fig{fig:HaloParts}, we show the comparison between the stacked transmission (solid) and modelled transmission (dashed) for $\axhi = 0.35$ (black), 0.22 (blue), and 0.05 (cyan), where each curve has been multiplied by the mean transmission for clarity. In generating these plots, we have assumed $L_{\text{typical}} = 2.5 \mpch$, $3.2 \mpch$, and $0.75 \mpch$ for $\axhi = 0.35$, 0.22, and 0.05, respectively. We again find a very nice agreement between the modelled and stacked transmission, further confirming that spatially-correlated regions are indeed responsible for the significantly-extended excess absorption.
 
-\begin{figure}[h]
+\begin{figure}[!ht]
   \centering
-	\includegraphics[width=8cm]{fig13a.eps}
-	\includegraphics[width=8cm]{fig13b.eps}
+	\includegraphics[width=7cm]{fig13a.eps}
+	\includegraphics[width=7cm]{fig13b.eps}
   \caption{Model for the extended damping wing absorption. The left panel shows the components of our model for stacked transmission outside of a neutral region compared to the stacked transmission using mocked spectra (magenta) for $\axhi = 0.22$. We show the absorption due to the central neutral region (blue), average absorption due to neighboring, clustered neutral regions (cyan), and the product of the two transmissions (black). These are denoted in the legend as ``1-Halo'', ``2-Halo'', and ``1-Halo + 2-Halo'' in analogy with the halo model. In the right-hand panel, we show the comparison between the modelled transmission (dashed) and transmission from stacked mocked spectra (solid) for $\axhi = 0.35$ (black), 0.22 (blue), and 0.05 (cyan). The curves in the right-hand figure have been multiplied by the mean transmission (computed here ignoring resonant absorption for illustration).  In this appendix, the stacking is done at the HI/HII boundaries and only damping wing absorption is incorporated to demonstrate the extended excess absorption owing to correlated neighboring systems.}
   \label{fig:HaloParts}
 \end{figure}

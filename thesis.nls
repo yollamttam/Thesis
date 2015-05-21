@@ -2,112 +2,112 @@
 
  \nomgroup{A}
 
-  \item [{M}]\begingroup Mass of object\nomeqref {5.0}\nompageref{230}
+  \item [{M}]\begingroup Mass of object\nomeqref {5.0}\nompageref{244}
 
  \nomgroup{G}
 
   \item [{$\tau$}]\begingroup Optical depth\nomeqref {5.0}
-		\nompageref{230}
+		\nompageref{244}
 
  \nomgroup{R}
 
   \item [{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}
-		\nompageref{230}
+		\nompageref{244}
 
  \nomgroup{S}
 
   \item [{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}
-		\nompageref{230}
+		\nompageref{244}
 
  \nomgroup{X}
 
   \item [{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}
-		\nompageref{230}
+		\nompageref{244}
 
  \nomgroup{Z}
 
   \item [{$\alpha $}]\begingroup Fine structure constant, $\alpha \approx 1/137$, related to the strength of electromagnetic interactions.\nomeqref {1.59}
-		\nompageref{41}
+		\nompageref{60}
   \item [{$\delta $}]\begingroup The local mass overdensity in units of the cosmic mean\nomeqref {1.13}
-		\nompageref{12}
+		\nompageref{16}
   \item [{$\Gamma _{\text {HI}}$}]\begingroup Photoionization rate for hydrogen atoms. This depends on the number, location, and properties of the ionizing sources.\nomeqref {1.10}
-		\nompageref{11}
+		\nompageref{16}
   \item [{$\hbar $}]\begingroup Reduced Planck's constant, $\hbar = h/2\pi $, the quantum of angular momentum.\nomeqref {1.59}
-		\nompageref{41}
+		\nompageref{60}
   \item [{$\lambda _{\alpha }$}]\begingroup Wavelength of the \lya \ transition\nomeqref {1.7}
-		\nompageref{11}
+		\nompageref{15}
   \item [{$\Omega _b$}]\begingroup Baryon density in units of the critical density\nomeqref {1.13}
-		\nompageref{12}
+		\nompageref{16}
   \item [{$\rho _{c}$}]\begingroup Critical energy density for a flat Universe\nomeqref {1.13}
-		\nompageref{12}
+		\nompageref{16}
   \item [{$\tau _{\text {eff}}$}]\begingroup The effective Gunn-Peterson optical depth, which is the negative log of the mean transmission over a given redshift bin. Measurements of $\tau _{\text {eff}}$ are often converted into constraints on the photoionizaiton rate\nomeqref {1.6}
-		\nompageref{11}
+		\nompageref{15}
   \item [{$e$}]\begingroup Charge of the electron\nomeqref {1.7}
-		\nompageref{11}
+		\nompageref{15}
   \item [{$f_{\alpha }$}]\begingroup Quantum mechanical oscillator strength for the \lya \ transition\nomeqref {1.7}
-		\nompageref{11}
+		\nompageref{15}
   \item [{$k_{\text {B}}$}]\begingroup Boltzmann constant\nomeqref {1.26}
-		\nompageref{22}
-  \item [{$m_e$}]\begingroup Mass of the electron\nomeqref {1.7}
-		\nompageref{11}
-  \item [{$X_{\text {H}}$}]\begingroup The fraction of baryonic mass in the form of hydrogen\nomeqref {1.13}
-		\nompageref{12}
-  \item [{Bremsstrahlung Radiation}]\begingroup Emission from charged particles undergoing acceleration due to interactions with other charged particles. Literally translates to ``braking radiation''.\nomeqref {1.52}
 		\nompageref{32}
+  \item [{$m_e$}]\begingroup Mass of the electron\nomeqref {1.7}
+		\nompageref{15}
+  \item [{$X_{\text {H}}$}]\begingroup The fraction of baryonic mass in the form of hydrogen\nomeqref {1.13}
+		\nompageref{16}
+  \item [{Bremsstrahlung Radiation}]\begingroup Emission from charged particles undergoing acceleration due to interactions with other charged particles. Literally translates to ``braking radiation''.\nomeqref {1.52}
+		\nompageref{48}
   \item [{Brightness Temperature ($T_b(\nu )$)}]\begingroup An object with a given specific intensity $I_{\nu }$ has a corresponding brightness temperature equal to the requisite temperature of a blackbody for its specific intensity to equal that of the object, $I_{\nu } = B_{\nu }(T_{b}(\nu ))$.\nomeqref {1.33}
-		\nompageref{27}
+		\nompageref{40}
   \item [{CMB}]\begingroup Cosmic Microwave Background. This is the earliest available snapshot of the Universe and is composed of light which has travelled from the surface of last scattering to today, largely unimpeded.\nomeqref {1.0}
 		\nompageref{1}
   \item [{DLA}]\begingroup Damped \lya \ Absorber. These are dense, isolated clouds of gas with extremely high column densities of neutral hydrogen, $N_{\text {HI}} \gtrsim 2\times 10^{20}\cm ^{-2}$ sufficient to exhibit damping-wing absorption. These are thought to source galaxy formation and are not part of the diffuse IGM which we want to study for reionization purposes.\nomeqref {1.23}
-		\nompageref{19}
+		\nompageref{27}
   \item [{Fourier Transform}]\begingroup A Fourier transform essentially describes a function as a weighted sum of infinitely many sine waves with different frequencies. The Fourier transform describes the weights of the different sine curves and therefore gives information about the relevant distances scales in your function.\nomeqref {1.51}
-		\nompageref{31}
+		\nompageref{47}
   \item [{Free-Free Emission}]\begingroup Emission from a charged particle that is free both before and after the interaction. Examples include electrons in an ionized hydrogen cloud interacting with protons without being captured.\nomeqref {1.52}
-		\nompageref{32}
-  \item [{HeI}]\begingroup Neutral helium\nomeqref {1.7}\nompageref{11}
+		\nompageref{48}
+  \item [{HeI}]\begingroup Neutral helium\nomeqref {1.7}\nompageref{15}
   \item [{HeII}]\begingroup Singly-ionized Helium\nomeqref {1.7}
-		\nompageref{11}
+		\nompageref{15}
   \item [{HeIII}]\begingroup Fully-ionized helium\nomeqref {1.7}
-		\nompageref{11}
+		\nompageref{15}
   \item [{HI}]\begingroup Neutral hydrogen\nomeqref {1.7}
-		\nompageref{11}
+		\nompageref{15}
   \item [{HII}]\begingroup Ionized hydrogen\nomeqref {1.7}
-		\nompageref{11}
+		\nompageref{15}
   \item [{Hjerting Function}]\begingroup Also known as the \textit {Voigt Function}, this function is commonly used in describing line profiles which incorporate Doppler broadening and the natural line width. This function is very relevant when studying the hydrogen damping wing.\nomeqref {1.33}
-		\nompageref{23}
+		\nompageref{33}
   \item [{IGM}]\begingroup Intergalactic medium. This refers to the gas between galaxies, which constitutes most of the baryonic matter in the Universe.\nomeqref {1.0}
 		\nompageref{1}
   \item [{kSZ Effect}]\begingroup Kinetic Sunyaev Zel'dovich effect. This describes secondary anisotropy in the CMB produced by the bulk velocities of free electrons during and after reionization which impart a Doppler shift on CMB photons.\nomeqref {1.59}
-		\nompageref{42}
+		\nompageref{64}
   \item [{LAE}]\begingroup \lya \ Emitter. These are galaxies which emit a significant fraction of their energy in the \lya \ line. This line is produced when hydrogen atoms within the galaxy recombine after being ionized by the galaxy. Roughly 2/3 of recombinations result in a \lya \ photon.\nomeqref {1.59}
-		\nompageref{43}
+		\nompageref{66}
   \item [{Lorentzian Distribution}]\begingroup Probability distribution for the ratio of two standard-normal-distributed variables. This distribution also describes the intrinsic line profile for absorption lines.\nomeqref {1.21}
-		\nompageref{18}
+		\nompageref{25}
   \item [{Luminosity Function}]\begingroup This function describes the luminosity distribution of sources, usually stars or galaxies.\nomeqref {1.59}
-		\nompageref{46}
+		\nompageref{70}
   \item [{Lyman Limit}]\begingroup This refers to the most energetic transition in the Lyman series corresponding to ionizing a hydrogen atom in the ground state. This has wavelength $\lambda = 912$\AA and $E_{\gamma } = 13.6$eV.\nomeqref {1.59}
-		\nompageref{45}
+		\nompageref{69}
   \item [{Lyman Series}]\begingroup The series of transitions in an atom where an electron is transitioning to or from the ground state.\nomeqref {1.1}
-		\nompageref{8}
-  \item [{Magnetic Dipole Moment}]\begingroup The magnetic dipole moment of an object is related to the torque it would experience when placed in an external magnetic field. Magnetic moments are often relevant for bar magnets or loops of current. In the context of the hydrogen atom, the spin of the proton and electric render them as a sort of ``loop of current'' which gives them their own magnetic dipole moment.\nomeqref {1.33}
-		\nompageref{26}
-  \item [{\lya\ Forest}]\begingroup This describes the pattern of absorption lines seen blueward of the rest-frame \lya\ line, typically in quasar spectra. These absorption lines can be due to significantly neutral gas in the diffuse IGM or due to dense ionized gas.\nomeqref {1.0}
-		\nompageref{7}
-  \item [{GRB}]\begingroup Gamma-Ray Burst. They are also really bright, OK?\nomeqref {1.1}
-		\nompageref{8}
-  \item [{Optical Depth}]\begingroup Optical depth, denoted by $\tau$, is a quantity that describes that likelihood for a photon to be absorbed, usually by a gas. The fraction of photons that will pass through the gas unabsorbed is $e^{-\tau}$.\nomeqref {1.1}
 		\nompageref{9}
+  \item [{Magnetic Dipole Moment}]\begingroup The magnetic dipole moment of an object is related to the torque it would experience when placed in an external magnetic field. Magnetic moments are often relevant for bar magnets or loops of current. In the context of the hydrogen atom, the spin of the proton and electric render them as a sort of ``loop of current'' which gives them their own magnetic dipole moment.\nomeqref {1.33}
+		\nompageref{39}
+  \item [{\lya\ Forest}]\begingroup This describes the pattern of absorption lines seen blueward of the rest-frame \lya\ line, typically in quasar spectra. These absorption lines can be due to significantly neutral gas in the diffuse IGM or due to dense ionized gas.\nomeqref {1.0}
+		\nompageref{9}
+  \item [{GRB}]\begingroup Gamma-Ray Burst. They are also really bright, OK?\nomeqref {1.1}
+		\nompageref{9}
+  \item [{Optical Depth}]\begingroup Optical depth, denoted by $\tau$, is a quantity that describes that likelihood for a photon to be absorbed, usually by a gas. The fraction of photons that will pass through the gas unabsorbed is $e^{-\tau}$.\nomeqref {1.1}
+		\nompageref{11}
   \item [{Redshift}]\begingroup A quantity commonly used to refer to cosmic periods of time or distances. The redshift of an object or location in space is defined as the fractional increase in wavelength that a photon undergoes due to the expansion of the Universe while travelling from the object or location to us.\nomeqref {1.0}
-		\nompageref{8}
+		\nompageref{9}
   \item [{Quasar}]\begingroup It's bright, OK?\nomeqref {1.1}
-		\nompageref{8}
+		\nompageref{9}
   \item [{Specific Intensity ($I_{\nu }$)}]\begingroup The specific intensity of light leaving a cloud of gas is the energy carried by the light per unit frequency, area, time, and solid angle.\nomeqref {1.33}
-		\nompageref{27}
+		\nompageref{40}
   \item [{Synchrotron Radiation}]\begingroup Radiation emitted by charged particles undergoing radial acceleration, such as in synchrotron particle accelerators. This constitutes a significant source of noise for 21-cm observations.\nomeqref {1.52}
-		\nompageref{32}
+		\nompageref{48}
   \item [{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}
-		\nompageref{230}
+		\nompageref{244}
   \item [{Voigt Function}]\begingroup Also known as the \textit {Hjerting Function}, this function is commonly used in describing line profiles which incorporate Doppler broadening and the natural line width. This function is very relevant when studying the hydrogen damping wing.\nomeqref {1.33}
-		\nompageref{23}
+		\nompageref{33}
 
 \end{thenomenclature}
