@@ -2,9 +2,9 @@
 \nomenclatureentry{ZIGM@[{IGM}]\begingroup Intergalactic medium. This refers to the gas between galaxies, which constitutes most of the baryonic matter in the Universe.\nomeqref {1.0}|nompageref}{1}
 \nomenclatureentry{Zp\lya\ Forest@[{\lya\ Forest}]\begingroup This describes the pattern of absorption lines seen blueward of the rest-frame \lya\ line, typically in quasar spectra. These absorption lines can be due to significantly neutral gas in the diffuse IGM or due to dense ionized gas.\nomeqref {1.0}|nompageref}{9}
 \nomenclatureentry{ZpRedshift@[{Redshift}]\begingroup A quantity commonly used to refer to cosmic periods of time or distances. The redshift of an object or location in space is defined as the fractional increase in wavelength that a photon undergoes due to the expansion of the Universe while travelling from the object or location to us.\nomeqref {1.0}|nompageref}{9}
-\nomenclatureentry{ZQuasar@[{Quasar}]\begingroup It's bright, OK?\nomeqref {1.1}|nompageref}{9}
-\nomenclatureentry{ZpGRB@[{GRB}]\begingroup Gamma-Ray Burst. They are also really bright, OK?\nomeqref {1.1}|nompageref}{9}
-\nomenclatureentry{ZLyman Series@[{Lyman Series}]\begingroup The series of transitions in an atom where an electron is transitioning to or from the ground state.\nomeqref {1.1}|nompageref}{9}
+\nomenclatureentry{ZQuasar@[{Quasar}]\begingroup Quasars are extremely bright sources of radiation associated with the accretion disk of a super-massive black hole. The emission from a quasar is beamed in a direction perpendicular to the accretion disk.\nomeqref {1.1}|nompageref}{9}
+\nomenclatureentry{ZpGRB@[{GRB}]\begingroup Gamma-Ray Bursts are short-lived, yet extremely energetic, bursts of gamma rays. The initial burst can last from milliseconds to several hours. They are the most energetic events known to occur in the Universe.\nomeqref {1.1}|nompageref}{9}
+\nomenclatureentry{ZLyman Series@[{Lyman Series}]\begingroup The series of transitions in an atom where an electron is transitioning to or from the ground state.\nomeqref {1.1}|nompageref}{10}
 \nomenclatureentry{ZpOptical Depth@[{Optical Depth}]\begingroup Optical depth, denoted by $\tau$, is a quantity that describes that likelihood for a photon to be absorbed, usually by a gas. The fraction of photons that will pass through the gas unabsorbed is $e^{-\tau}$.\nomeqref {1.1}|nompageref}{11}
 \nomenclatureentry{Z$\tau _{\text {eff}}$@[{$\tau _{\text {eff}}$}]\begingroup The effective Gunn-Peterson optical depth, which is the negative log of the mean transmission over a given redshift bin. Measurements of $\tau _{\text {eff}}$ are often converted into constraints on the photoionizaiton rate\nomeqref {1.6}|nompageref}{15}
 \nomenclatureentry{ZHI@[{HI}]\begingroup Neutral hydrogen\nomeqref {1.7}|nompageref}{15}
@@ -33,15 +33,16 @@
 \nomenclatureentry{ZSynchrotron Radiation@[{Synchrotron Radiation}]\begingroup Radiation emitted by charged particles undergoing radial acceleration, such as in synchrotron particle accelerators. This constitutes a significant source of noise for 21-cm observations.\nomeqref {1.52}|nompageref}{48}
 \nomenclatureentry{ZFree-Free Emission@[{Free-Free Emission}]\begingroup Emission from a charged particle that is free both before and after the interaction. Examples include electrons in an ionized hydrogen cloud interacting with protons without being captured.\nomeqref {1.52}|nompageref}{48}
 \nomenclatureentry{ZBremsstrahlung Radiation@[{Bremsstrahlung Radiation}]\begingroup Emission from charged particles undergoing acceleration due to interactions with other charged particles. Literally translates to ``braking radiation''.\nomeqref {1.52}|nompageref}{48}
-\nomenclatureentry{Z$\alpha $@[{$\alpha $}]\begingroup Fine structure constant, $\alpha \approx 1/137$, related to the strength of electromagnetic interactions.\nomeqref {1.59}|nompageref}{60}
-\nomenclatureentry{Z$\hbar $@[{$\hbar $}]\begingroup Reduced Planck's constant, $\hbar = h/2\pi $, the quantum of angular momentum.\nomeqref {1.59}|nompageref}{60}
-\nomenclatureentry{ZkSZ Effect@[{kSZ Effect}]\begingroup Kinetic Sunyaev Zel'dovich effect. This describes secondary anisotropy in the CMB produced by the bulk velocities of free electrons during and after reionization which impart a Doppler shift on CMB photons.\nomeqref {1.59}|nompageref}{64}
-\nomenclatureentry{ZLAE@[{LAE}]\begingroup \lya \ Emitter. These are galaxies which emit a significant fraction of their energy in the \lya \ line. This line is produced when hydrogen atoms within the galaxy recombine after being ionized by the galaxy. Roughly 2/3 of recombinations result in a \lya \ photon.\nomeqref {1.59}|nompageref}{66}
-\nomenclatureentry{ZLyman Limit@[{Lyman Limit}]\begingroup This refers to the most energetic transition in the Lyman series corresponding to ionizing a hydrogen atom in the ground state. This has wavelength $\lambda = 912$\AA and $E_{\gamma } = 13.6$eV.\nomeqref {1.59}|nompageref}{69}
-\nomenclatureentry{ZLuminosity Function@[{Luminosity Function}]\begingroup This function describes the luminosity distribution of sources, usually stars or galaxies.\nomeqref {1.59}|nompageref}{70}
-\nomenclatureentry{Xe 11HUGS@[{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}|nompageref}{244}
-\nomenclatureentry{Zt 2MASS@[{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}|nompageref}{244}
-\nomenclatureentry{Am M@[{M}]\begingroup Mass of object\nomeqref {5.0}|nompageref}{244}
-\nomenclatureentry{Gm $\tau$@[{$\tau$}]\begingroup Optical depth\nomeqref {5.0}|nompageref}{244}
-\nomenclatureentry{Rs $\ ^{*}$@[{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}|nompageref}{244}
-\nomenclatureentry{Ss $\astrosun$@[{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}|nompageref}{244}
+\nomenclatureentry{Z$\alpha $@[{$\alpha $}]\begingroup Fine structure constant, $\alpha \approx 1/137$, related to the strength of electromagnetic interactions.\nomeqref {1.59}|nompageref}{66}
+\nomenclatureentry{Z$\hbar $@[{$\hbar $}]\begingroup Reduced Planck's constant, $\hbar = h/2\pi $, the quantum of angular momentum.\nomeqref {1.59}|nompageref}{66}
+\nomenclatureentry{ZkSZ Effect@[{kSZ Effect}]\begingroup Kinetic Sunyaev Zel'dovich effect. This describes secondary anisotropy in the CMB produced by the bulk velocities of free electrons during and after reionization which impart a Doppler shift on CMB photons.\nomeqref {1.59}|nompageref}{70}
+\nomenclatureentry{ZLAE@[{LAE}]\begingroup \lya \ Emitter. These are galaxies which emit a significant fraction of their energy in the \lya \ line. This line is produced when hydrogen atoms within the galaxy recombine after being ionized by the galaxy. Roughly 2/3 of recombinations result in a \lya \ photon.\nomeqref {1.59}|nompageref}{72}
+\nomenclatureentry{ZLyman Limit@[{Lyman Limit}]\begingroup This refers to the most energetic transition in the Lyman series corresponding to ionizing a hydrogen atom in the ground state. This has wavelength $\lambda = 912$\AA and $E_{\gamma } = 13.6$eV.\nomeqref {1.59}|nompageref}{75}
+\nomenclatureentry{ZLuminosity Function@[{Luminosity Function}]\begingroup This function describes the luminosity distribution of sources, usually stars or galaxies.\nomeqref {1.59}|nompageref}{76}
+\nomenclatureentry{a11HUGS@[{11HUGS}]\begingroup 11 Mpc Halpha and Ultraviolet Galaxy Survey\nomeqref {5.0}|nompageref}{252}
+\nomenclatureentry{a2MASS@[{2MASS}]\begingroup Two-Micron All Sky Sruvey\nomeqref {5.0}|nompageref}{252}
+\nomenclatureentry{aM@[{M}]\begingroup Mass of object\nomeqref {5.0}|nompageref}{252}
+\nomenclatureentry{a$\tau$@[{$\tau$}]\begingroup Optical depth\nomeqref {5.0}|nompageref}{252}
+\nomenclatureentry{a$\ ^{*}$@[{$\ ^{*}$}]\begingroup Conjugate\nomeqref {5.0}|nompageref}{252}
+\nomenclatureentry{a$\astrosun$@[{$\astrosun$}]\begingroup relating to the sun (Sol)\nomeqref {5.0}|nompageref}{252}
+\nomenclatureentry{ZpGRB@[{GRB}]\begingroup Gamma-Ray Bursts are short-lived, yet extremely energetic, bursts of gamma rays. The initial burst can last from milliseconds to several hours. They are the most energetic events known to occur in the Universe.\nomeqref {5.0}|nompageref}{252}

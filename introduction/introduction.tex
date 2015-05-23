@@ -82,7 +82,7 @@ Arguably the most powerful tool for constraining the high-redshift IGM to date h
 \lambda_{\text{observed}} &= \lambda_{\text{emitted}}(1+z_{\text{emitter}}). 
 \end{align}
 
-The \lya\ forest is seen in the spectrum of extremely bright background objects, usually quasars \gloss{Quasar}{It's bright, OK?} or gamma-ray bursts (GRBs)\nomenclature[Zp]{GRB}{Gamma-Ray Burst. They are also really bright, OK?}, after their light has been processed by the intervening gas. Since the intervening gas is primarily composed of hydrogen and since this hydrogen is generally in the ground state, any intervening neutral patches will absorb light from the background object at the Lyman-series\gloss{Lyman Series}{The series of transitions in an atom where an electron is transitioning to or from the ground state.}wavelengths, with the strongest absorption occurring at the \lya\ wavelength: $\lambda_{\alpha} \approx 1216$\AA. If the Universe were not expanding, then all intervening neutral hydrogen would absorb light from the quasar at one wavelength: $\lambda_{\alpha} \approx 1216$\angstrom, neglecting the other lines in the Lyman-series for the moment. However, due to the expansion of the Universe, photons emitted from the quasar/GRB \textit{blueward} of the \lya\ line will redshift as they travel towards us. If they encounter neutral hydrogen as they redshift through the \lya\ line, then they will be absorbed and an absorption line will be seen in the spectrum of the background quasar at a wavelength \textit{blueward} of \lya\ (in the rest frame of the quasar/GRB). This process is sketched in Figure \ref{fig:LyaCartoon}. Thus, the \lya\ forest is the pattern of absorption lines seen blueward of the rest-frame \lya\ line in quasar spectra due to intervening neutral gas. 
+The \lya\ forest is seen in the spectrum of extremely bright background objects, usually quasars \gloss{Quasar}{Quasars are extremely bright sources of radiation associated with the accretion disk of a super-massive black hole. The emission from a quasar is beamed in a direction perpendicular to the accretion disk.} or gamma-ray bursts (GRBs)\nomenclature[Zp]{GRB}{Gamma-Ray Bursts are short-lived, yet extremely energetic, bursts of gamma rays. The initial burst can last from milliseconds to several hours. They are the most energetic events known to occur in the Universe.}, after their light has been processed by the intervening gas. Since the intervening gas is primarily composed of hydrogen and since this hydrogen is generally in the ground state, any intervening neutral patches will absorb light from the background object at the Lyman-series\gloss{Lyman Series}{The series of transitions in an atom where an electron is transitioning to or from the ground state.}wavelengths, with the strongest absorption occurring at the \lya\ wavelength: $\lambda_{\alpha} \approx 1216$\AA. If the Universe were not expanding, then all intervening neutral hydrogen would absorb light from the quasar at one wavelength: $\lambda_{\alpha} \approx 1216$\angstrom, neglecting the other lines in the Lyman-series for the moment. However, due to the expansion of the Universe, photons emitted from the quasar/GRB \textit{blueward} of the \lya\ line will redshift as they travel towards us. If they encounter neutral hydrogen as they redshift through the \lya\ line, then they will be absorbed and an absorption line will be seen in the spectrum of the background quasar at a wavelength \textit{blueward} of \lya\ (in the rest frame of the quasar/GRB). This process is sketched in Figure \ref{fig:LyaCartoon}. Thus, the \lya\ forest is the pattern of absorption lines seen blueward of the rest-frame \lya\ line in quasar spectra due to intervening neutral gas. 
 
 \begin{figure}[!p]
   \centering
@@ -512,10 +512,10 @@ E(\vec{r},t) &= \int \dd^{2} \theta E(\theta,t) e^{-2\pi i (\vec{r}\cdot \hat{\t
 However, the expression on the right appears very familiar to us since it is simply a Fourier transform. Therefore, we see that the observed electric field on the surface of the Earth is actually just a Fourier transform\gloss{Fourier Transform}{A Fourier transform essentially describes a function as a weighted sum of infinitely many sine waves with different frequencies. The Fourier transform describes the weights of the different sine curves and therefore gives information about the relevant distances scales in your function.} of the electric field on the surface of the sky. This is basically what allows measurements at many locations on the ground to be converted into measurements of the 21-cm signal across the sky. Furthermore, each pair of antenna essentially measure a particular Fourier \textit{mode}, $k$, on the sky:
 
 \begin{align}
-{\bf k} &= \frac{2\pi {\bf u}}{D}
+{\bf k} &= \frac{2\pi {\bf u}}{D}\label{eq:modes}
 \end{align}
 
-where ${\bf u}$ denotes the separation of a pair of antenna in units of the observed wavelength, $D$ is the co-moving distance to the source of the emission, and ${\bf k}$ is akin to a spatial frequency at the location of the emission. Thus, this demonstrates that many measurements on the ground can give us information of the 21-cm signal as a function of position on the sky, with widely-separated antenna providing information on \textit{small scales} and closely-separated antenna providing information on the large scales. Several experiments are currently planned or underway with the goal of measuring this signal. These include the Precision Array for Probing the Epoch of Reionization (PAPER, \citealt{Parsons2012}, underway), the Murchison Widefield Array (MWA, \citealt{Tingay2012}, underway), the Hydrogen Epoch of Reionization Array (HERA\footnote{{\tt http://reionization.org/}}, planned), the Square Kilometer Array (SKA\footnote{{\tt https://www.skatelescope.org/}}, scheduled construction 2018), the Low Frequency Array (LOFAR, \citealt{2013A&A...550A.136Y}, underway), and the Giant Metrewave Radio Telescope (GMRT, \citealt{Paciga2011}, underway).
+where ${\bf u}$ denotes the separation of a pair of antenna in units of the observed wavelength, $D$ is the co-moving distance to the source of the emission, and ${\bf k}$ is akin to a spatial frequency at the location of the emission. Thus, this demonstrates that many measurements on the ground can give us information of the 21-cm signal as a function of position on the sky, with widely-separated antenna providing information on \textit{small scales} and closely-separated antenna providing information on the large scales. Several experiments are currently planned or underway with the goal of measuring this signal. These include the Precision Array for Probing the Epoch of Reionization (PAPER, \citealt{Parsons2012}, underway), the Murchison Widefield Array (MWA, \citealt{Tingay2012}, underway), the Hydrogen Epoch of Reionization Array (HERA\footnote{{\tt http://reionization.org/}}, planned), the Square Kilometer Array (SKA\footnote{{\tt https://www.skatelescope.org/}}, scheduled construction 2018), the Low Frequency Array (LOFAR, \citealt{2013A&A...550A.136Y}, underway), and the Giant Metrewave Radio Telescope (GMRT, \citealt{Paciga2011}, underway). These experiments are further discussed in \S \ref{sec:21cmExperiments}.
 
 
 However, before these experiments can uncover the cosmological 21-cm signal, they must first overcome several formidable sources of noise. Synchrotron emission\gloss{Synchrotron Radiation}{Radiation emitted by charged particles undergoing radial acceleration, such as in synchrotron particle accelerators. This constitutes a significant source of noise for 21-cm observations.}, free-free emission\gloss{Free-Free Emission}{Emission from a charged particle that is free both before and after the interaction. Examples include electrons in an ionized hydrogen cloud interacting with protons without being captured.}, and Bremsstrahlung radiation\gloss{Bremsstrahlung Radiation}{Emission from charged particles undergoing acceleration due to interactions with other charged particles. Literally translates to ``braking radiation''.} from our own galaxy constitute the largest nuisance at the frequencies of interest ($\nu \approx 140\mhz$) in sheer magnitude. In a relatively ``cold'' spot on the sky, \cite{Furlanetto2006} state that the intensity of this radiation obeys the following scaling relation:
@@ -576,6 +576,75 @@ Constraints have already been placed on the nature of the EoR using this approac
 
 
 Measurements of the 21-cm power spectrum and its evolution are powerful probes of the Epoch of Reionization, but they are inherently indirect. Making detailed maps of the 21-cm radiation field would be much more direct, but will likely be out of reach for first and second generation experiments. However, the presence of an intermediate range in $k$ space which remains relatively un-spoiled by noise could provide us with the ability to make \textit{crude} maps of the 21-cm field and/or directly image individual large ionized regions. Direct observations of individual ionized regions would provide unambiguous evidence that reionization is ongoing and could also provide hints as to the sources of the ionizing photons and the volume-averaged neutral fraction. Such proposed approaches generally attempt to reconstruct the underlying signal by downweighting the $k$ modes of the observed signal which are expected to be dominated by noise. While these techniques are out of reach for first-generation experiments like PAPER, they may very well be suitable for successor experiments, such as HERA. We develop some of these filtering approaches in \S \ref{sec:Bubble} and explore their utility for a variety of plausible experiments.
+
+
+\clearpage 
+\subsubsection{Brief Description of 21-cm Interferometric Experiments}\label{sec:21cmExperiments}
+
+
+In this section, we provide a brief description of the aforementioned interferometers aimed at detecting the 21-cm signal from the Epoch of Reionization. Much of the descriptions will closely follow information on their respective websites, which are also provided.
+
+
+The Giant Metrewave Radio Telescope (GMRT\footnote{{\tt http://gmrt.ncra.tifr.res.in/}}) is a collection of 30 very large steerable antennae with a diameter of 45m and is located 80km north of Pune, India. Approximately half of the antennae are configured in a dense central core, with the remaining antennae forming a very extended ``Y'' shape, with the largest baseline being 25km. This multi-purpose experiment has been operating since 1995 and is interested in investigating 21-cm emission from the formation of the first galaxies and reionization, learning about pulsars and neutron stars, and studying properties of the Milky Way, among many other topics. As such, the configuration is not optimized for studying the 21-cm emission from the EoR. A picture of a few of the antennae are shown in Figure \ref{fig:GMRT}.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=12cm]{GMRT.eps}
+  \caption{{\tt http://www.mso.anu.edu.au}}
+  \label{fig:GMRT}
+\end{figure}
+
+
+The Donald C. Backer Precision Array to Probe the Epoch of Reionization (PAPER) is a radio interferometer built to detect the power spectrum from 21-cm emission during the EoR. The primary science array is located in the Karoo desert of the Northern Cape in South Africa. The experiment initially deployed 16 antennae in 2009 with the intention of increasing the number of array elements with time. Their most recent constraints (\citealt{pober2015paper}) on the EoR were made using a 64-element configuration, which is currently being expanded to 128 elements. Some of the elements of the array are shown in Figure \ref{fig:PAPER}, which demonstrates one of the the highly-redundant configurations, with many baselines observing the same $k$-mode, optimized for power-spectra measurements.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=10cm]{PAPER.eps}
+  \caption{Picture from {\tt http://discovermagazine.com}}
+  \label{fig:PAPER}
+\end{figure}
+
+
+The Murchison Widefield Array (MWA\footnote{{\tt http://www.mwatelescope.org/}}) is a radio interferometer located in the Shire of Murchison in Western Australia. This is a multi-purpose experiment aimed at investigating the EoR, galactic science, transient sources, and space weather. It is composed of 128 antenna tiles, which are each composed of 16 dipole antennae. The majority (112) of the tiles are located within a 1.5km region, with the remaining tiles at larger separations in order to facilitate calibration and to pursue other science goals. The MWA began science observations in 2013. An image of some of the antenna tiles which compose the central core is shown in Figure \ref{fig:MWA}. The array configuration shows much less redundancy compared with PAPER, with tiles placed seemingly-randomly in a configuration more favorable for imaging. The MWA, together with PAPER, is a pathfinder for HERA and is also referred to as HERA Phase I. 
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=10cm]{MWA.eps}
+  \caption{Image taken from {\tt http://www.mwatelescope.org/multimedia} }
+  \label{fig:MWA}
+\end{figure}
+
+
+The Hydrogen Epoch of Reionization Array (HERA\footnote{{\tt www.reionization.org}} is an array in preparation which will use understanding gained from both PAPER and MWA in order to make statistical detections and images of the Epoch of Reionization. A potential layout of the HERA experiment is shown in Figure \ref{fig:HERA}, displaying a hexagonal arrangement of 547 elements, each with a 14-meter diameter. As such, this represents an order of magnitude increase in collecting area compared to first-generation experiments.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=10cm]{HERA.eps}
+  \caption{Image taken from {\tt www.reionization.org}.}
+  \label{fig:HERA}
+\end{figure}
+
+The Low-Frequency Array (LOFAR\footnote{{\tt www.lofar.org}}) is another currently-operational multi-purpose interferometer taking strides toward making a statistical detection of the EoR. In addition to the EoR, the array is also aimed at making deep extragalactic surveys, studying transit radio phenomena, high energy cosmic rays, cosmic magnetism and space weather.\footnote{{\tt http://en.wikipedia.org/wiki/LOFAR\# Key\_projects}} The core of the array is located in the Netherlands but stations of the array are also located in Germany, Great Britain, France, and Sweden. The instrument began observations in late 2012. An image of the central antenna stations is shown in Figure \ref{fig:LOFAR}. Compared to the other arrays discussed thus far, we see LOFAR has larger individual tiles, in a non-redundant configuration, with a significantly larger minimum separation. As such, it will be less sensitive to small $k$-modes, according to Eq. \ref{eq:modes}. Together with the MWA, LOFAR is a pathfinder experiment for the Square Kilometer Array.
+
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=8cm]{LOFAR.eps}
+  \caption{Image taken from {\tt www. astron.nl}.}
+  \label{fig:LOFAR}
+\end{figure}
+
+
+Lastly, the Square Kilometer Array (SKA\footnote{{\tt https://www.skatelescope.org/}}) is another later-generation interferometer. Construction is currently expected to begin in 2018, with a planned first light of 2020. The antenna stations will be located in South Africa and Australia. It is another multi-purpose experiment, but the reionization component of the array is expected to be composed of 90 elements, each with a diameter of 100m and is planned to be in Australia. It will make observations of the frequency interval $\text{50MHz} \leq \nu \leq 350\text{MHz}$, corresponding to $3 \leq z \lesssim 30$, in principal allowing for observations prior to the Epoch of Reionization. An artist's impression of what the low-frequency reionization-focused component of the experiment might look like is shown in Figure \ref{fig:SKA}.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=8cm]{SKA.eps}
+  \caption{An aritist's impression of what the reionization-focused element of the SKA might look like. "SKA sparse array big" by SKA Project Development Office and Swinburne Astronomy Productions - Swinburne Astronomy Productions for SKA Project Development Office. Licensed under CC BY-SA 3.0 via Wikimedia Commons.}
+  \label{fig:todo}
+\end{figure}
+
+
 
 \clearpage
 \subsubsection{The Global 21-cm Signal}\label{sec:Global21cm}
@@ -770,11 +839,18 @@ In Figure \ref{fig:Robertson2015} (taken from \citealt{robertson2015cosmic}) we 
   \label{fig:Robertson2015}
 \end{figure}
 
+
 \clearpage
-%\begin{enumerate}
-%\item Bouwens et al. (2015) might be good to include here. Strengthens argument that galaxies reionized the Universe and that quasars/AGN did not.
-%\end{enumerate}
-% ----------------------------------------------------------------------
+\section{Moving Forward}
 
 
+The previous section has serves in part to pay tribute to the extraordinary work that has gone into providing us with our current understanding of the Epoch of Reionization. However, it also demonstrates some of the challenges in interpreting previous measurements. Indeed, subtleties in interpreting quasar spectra have lead to the questionable conclusion that reionization has completed by $z \sim 6$, for example. Thus, this motivates the development of other techniques which, while invariably faced with their own difficulties, might circumvent these complications. Throughout the rest of this thesis, we will develop complementary measurement techniques to those mentioned thus far in hopes to expand our current understanding. 
 
+
+In \S \ref{sec:NeutralIslands}, we propose two novel approaches for searching for signatures of underlying neutral hydrogen in the \lya\ and \lyb\ forest of distant quasars. We show that, if the Universe is $\gtrsim 5\%$ neutral at $z \sim 5.5$, then damping-wing absorption from neutral hydrogen and absorption from primordial deuterium should leave an observable imprint in the \lya\ and \lyb\ forest, respectively. Furthermore, the presence of neutral islands should qualitatively alter the size distribution of absorbed regions.
+
+
+We continue in \S \ref{sec:IGMTemperature} by discussing the ability for the intergalactic medium to retain a thermal memory of the reionization process at redshifts $z \sim 5$ which in turn affects the small-scale structure in the \lya\ forest. Motivated by this, we model the temperature of the intergalactic medium after reionization and develop a temperature measurement technique that should be able to distinguish between  scenarios where reionization ends at $z \sim 6$ and at $z \sim 10$. 
+
+
+Lastly, we turn our attention to 21-cm observations during reionization in \S \ref{sec:Bubble}. We demonstrate that, while precise mapping of 21-cm emission from neutral hydrogen should be infeasible by first and second generation interferometers, it may be possible to make \textit{crude} maps of the reionization process and identify individual ionized regions. This would provide us with direct confirmation that we are observing reionization and provide information as to its timing and the nature of the ionizing sources.

@@ -481,7 +481,7 @@
 % used to be for sorting into categories:
 \renewcommand\nomgroup[1]{%
   \ifthenelse{\equal{#1}{A}}{%
-   \item[\textbf{Roman Symbols}] }{%             A - Roman
+   \item[\textbf{\ }] }{%             A - Roman
     \ifthenelse{\equal{#1}{G}}{%
      \item[\textbf{Greek Symbols}]}{%             G - Greek
       \ifthenelse{\equal{#1}{R}}{%
@@ -491,7 +491,7 @@
 	    \ifthenelse{\equal{#1}{X}}{%
 	     \item[\textbf{Other Symbols}]}{{%    X - Other Symbols
 	    \ifthenelse{\equal{#1}{Z}}{%
-	     \item[\textbf{Acronyms}]}%              Z - Terms
+	     \item[\textbf{\ }]}%              Z - Terms
               			{{}}}}}}}}}}
 
 %: ------------------------------------------------------------------------

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=latex 2013.4.25)  21 MAY 2015 19:03
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=latex 2013.4.25)  22 MAY 2015 21:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -476,6 +476,9 @@ LaTeX Warning: Unused global option(s):
 
 LaTeX Warning: Label `eq:tauGP' multiply defined.
 
+
+LaTeX Warning: Label `fig:todo' multiply defined.
+
 ) (./neutral_islands/neutral_islands.aux)
 (./igm_temperature/igm_temperature.aux
 
@@ -572,28 +575,28 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (./frontmatter/abstract.tex [5
 
 
-]) (./thesis.toc [6
+] [6]) (./thesis.toc [7
 \FN@pp@footnotehinttrue 
 
 
-] [7] [8])
+] [8] [9])
 \tf@toc=\write6
 \openout6 = `thesis.toc'.
 
- [9] (./thesis.lot)
+ [10] (./thesis.lot)
 \tf@lot=\write7
 \openout7 = `thesis.lot'.
 
- [10
+ [11
 
-] (./thesis.lof [11
+] (./thesis.lof [12
 
-] [12] [13] [14] [15]
-[16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27])
+] [13] [14] [15] [16]
+[17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29])
 \tf@lof=\write8
 \openout8 = `thesis.lof'.
 
- [28]
+ [30]
 \openout2 = `introduction/introduction.aux'.
 
 
@@ -742,111 +745,142 @@ File: introduction/figures/EPS/interferometry.eps Graphic file (type eps)
  <introduction/figures/EPS/interferometry.eps>
 [49]
 File: introduction/figures/EPS/McQuinnSNR.eps Graphic file (type eps)
- <introduction/figures/EPS/McQuinnSNR.eps>
+ <introduction/figures/EPS/McQuinnSNR.eps> [50]
 File: introduction/figures/EPS/LidzPSEvolution.eps Graphic file (type eps)
 
 <introduction/figures/EPS/LidzPSEvolution.eps>
 File: introduction/figures/EPS/LidzSlopeAndAmpEvolution.eps Graphic file (type 
 eps)
 
-<introduction/figures/EPS/LidzSlopeAndAmpEvolution.eps> [50] [51] [52] [53]
-[54] [55
+<introduction/figures/EPS/LidzSlopeAndAmpEvolution.eps> [51] [52] [53] [54]
+File: introduction/figures/EPS/GMRT.eps Graphic file (type eps)
+
+<introduction/figures/EPS/GMRT.eps> [55
+
+]
+File: introduction/figures/EPS/PAPER.eps Graphic file (type eps)
+ <introduction/figures/EPS/PAPER.eps>
+[56]
+File: introduction/figures/EPS/MWA.eps Graphic file (type eps)
+ <introduction/figures/EPS/MWA.eps>
+File: introduction/figures/EPS/HERA.eps Graphic file (type eps)
+ <introduction/figures/EPS/HERA.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[57]
+File: introduction/figures/EPS/LOFAR.eps Graphic file (type eps)
+ <introduction/figures/EPS/LOFAR.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `fig:SKA' on page 58 undefined on input line 638.
+
+File: introduction/figures/EPS/SKA.eps Graphic file (type eps)
+<introduction/figures/EPS/SKA.eps> [58]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[59] [60] [61
 
 ]
 File: introduction/figures/EPS/TsEvolution.eps Graphic file (type eps)
- <introduction/figures/EPS/TsEvolution.eps> [56] [57] [58]
+ <introduction/figures/EPS/TsEvolution.eps> [62] [63] [64]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 635.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\tau' on input line 635.
+(hyperref)                removing `math shift' on input line 704.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 635.
+(hyperref)                removing `\tau' on input line 704.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 635.
+(hyperref)                removing `subscript' on input line 704.
 
-[59
 
-] [60] [61]
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 704.
+
+[65
+
+] [66] [67]
 File: introduction/figures/EPS/tauEPolarization.eps Graphic file (type eps)
- <introduction/figures/EPS/tauEPolarization.eps> [62] [63]
-[64
+ <introduction/figures/EPS/tauEPolarization.eps> [68] [69]
+[70
 
-] [65
+] [71
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 689.
+(hyperref)                removing `math shift' on input line 758.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                \kern 1.8254pt
-(hyperref)                removed on input line 689.
+(hyperref)                removed on input line 758.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 689.
+(hyperref)                removing `\alpha' on input line 758.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 689.
+(hyperref)                removing `math shift' on input line 758.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 698.
+(hyperref)                removing `math shift' on input line 767.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                \kern 1.8254pt
-(hyperref)                removed on input line 698.
+(hyperref)                removed on input line 767.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 698.
+(hyperref)                removing `\alpha' on input line 767.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 698.
+(hyperref)                removing `math shift' on input line 767.
 
-[66
+[72
 
 ]
 File: introduction/figures/EPS/McQuinnLAEClusteringLarge.eps Graphic file (type
  eps)
  <introduction/figures/EPS/McQuinnLAEClusteringLarge.eps>
 
-LaTeX Warning: Float too large for page by 8.9653pt on input line 713.
+LaTeX Warning: Float too large for page by 8.9653pt on input line 782.
 
-[67] [68]
+[73] [74]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 716.
+(hyperref)                removing `math shift' on input line 785.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                \kern 1.8254pt
-(hyperref)                removed on input line 716.
+(hyperref)                removed on input line 785.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 716.
+(hyperref)                removing `\alpha' on input line 785.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 716.
+(hyperref)                removing `math shift' on input line 785.
 
-[69
+[75
 
-] [70]
+] [76]
 File: introduction/figures/EPS/Robertson2015.eps Graphic file (type eps)
- <introduction/figures/EPS/Robertson2015.eps> [71] [72])
+ <introduction/figures/EPS/Robertson2015.eps> [77] [78]) [79
+
+] [80]
 \openout2 = `neutral_islands/neutral_islands.aux'.
 
 
@@ -864,30 +898,29 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 14.
 
-[73
+[81
 
 
 
-
-] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83]
+] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91]
 File: neutral_islands/figures/EPS/fig1a.eps Graphic file (type eps)
 
 <neutral_islands/figures/EPS/fig1a.eps>
 File: neutral_islands/figures/EPS/fig1b.eps Graphic file (type eps)
 
-<neutral_islands/figures/EPS/fig1b.eps> [84] [85] [86]
+<neutral_islands/figures/EPS/fig1b.eps> [92] [93] [94]
 File: neutral_islands/figures/EPS/fig2.eps Graphic file (type eps)
 
 <neutral_islands/figures/EPS/fig2.eps>
 File: neutral_islands/figures/EPS/fig3.eps Graphic file (type eps)
  <neutral_islands/figures/EPS/fig3.eps>
-[87] [88] [89] [90]
+[95] [96] [97] [98]
 File: neutral_islands/figures/EPS/fig4.eps Graphic file (type eps)
- <neutral_islands/figures/EPS/fig4.eps> [91] [92] [93]
-[94]
+ <neutral_islands/figures/EPS/fig4.eps> [99] [100] [101]
+[102]
 File: neutral_islands/figures/EPS/fig5.eps Graphic file (type eps)
- <neutral_islands/figures/EPS/fig5.eps> [95] [96] [97] [98] [99] [100]
-[101]
+ <neutral_islands/figures/EPS/fig5.eps> [103] [104] [105] [106] [107]
+[108] [109]
 File: neutral_islands/figures/EPS/fig6a.eps Graphic file (type eps)
  <neutral_islands/figures/EPS/fig6a.eps>
 File: neutral_islands/figures/EPS/fig6b.eps Graphic file (type eps)
@@ -901,7 +934,7 @@ File: neutral_islands/figures/EPS/fig7b.eps Graphic file (type eps)
 <neutral_islands/figures/EPS/fig7b.eps>
 File: neutral_islands/figures/EPS/fig8.eps Graphic file (type eps)
  <neutral_islands/figures/EPS/fig8.eps>
-[102] [103] [104] [105]
+[110] [111] [112] [113]
 File: neutral_islands/figures/EPS/fig9a.eps Graphic file (type eps)
  <neutral_islands/figures/EPS/fig9a.eps>
 File: neutral_islands/figures/EPS/fig9b.eps Graphic file (type eps)
@@ -909,14 +942,14 @@ File: neutral_islands/figures/EPS/fig9b.eps Graphic file (type eps)
 <neutral_islands/figures/EPS/fig9b.eps>
 File: neutral_islands/figures/EPS/fig10.eps Graphic file (type eps)
 
-<neutral_islands/figures/EPS/fig10.eps> [106]
+<neutral_islands/figures/EPS/fig10.eps> [114]
 File: neutral_islands/figures/EPS/fig11.eps Graphic file (type eps)
 
-<neutral_islands/figures/EPS/fig11.eps> [107] [108] [109] [110] [111]
+<neutral_islands/figures/EPS/fig11.eps> [115] [116] [117] [118] [119]
 
 LaTeX Warning: Float too large for page by 31.39215pt on input line 633.
 
-[112] [113] [114]
+[120] [121] [122]
 File: neutral_islands/figures/EPS/smallstack_lowz_mesinger.eps Graphic file (ty
 pe eps)
  <neutral_islands/figures/EPS/smallstack_lowz_mesinger.eps>
@@ -931,31 +964,31 @@ s)
 File: neutral_islands/figures/EPS/largestack_mesinger.eps Graphic file (type ep
 s)
 
-<neutral_islands/figures/EPS/largestack_mesinger.eps> [115] [116]
+<neutral_islands/figures/EPS/largestack_mesinger.eps> [123] [124]
 File: neutral_islands/figures/EPS/Lyb_lowz.eps Graphic file (type eps)
 
 <neutral_islands/figures/EPS/Lyb_lowz.eps>
 File: neutral_islands/figures/EPS/Lyb_highz.eps Graphic file (type eps)
 
-<neutral_islands/figures/EPS/Lyb_highz.eps> [117]
+<neutral_islands/figures/EPS/Lyb_highz.eps> [125]
 LaTeX Font Info:    Try loading font information for U+eus on input line 747.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueus.fd
 File: ueus.fd 2009/06/22 v3.00 Euler Script
-) [118] [119] [120]
-[121]
+) [126] [127] [128]
+[129]
 File: neutral_islands/figures/EPS/fig12a.eps Graphic file (type eps)
  <neutral_islands/figures/EPS/fig12a.eps>
 File: neutral_islands/figures/EPS/fig12b.eps Graphic file (type eps)
 
-<neutral_islands/figures/EPS/fig12b.eps> [122] [123] [124] [125]
+<neutral_islands/figures/EPS/fig12b.eps> [130] [131] [132] [133]
 File: neutral_islands/figures/EPS/fig13a.eps Graphic file (type eps)
 
 <neutral_islands/figures/EPS/fig13a.eps>
 File: neutral_islands/figures/EPS/fig13b.eps Graphic file (type eps)
 
-<neutral_islands/figures/EPS/fig13b.eps>) [126] [127] [128] [129] [130]
-[131] [132] [133]
+<neutral_islands/figures/EPS/fig13b.eps>) [134] [135] [136] [137] [138]
+[139] [140] [141]
 \openout2 = `igm_temperature/igm_temperature.aux'.
 
  (./igm_temperature/igm_temperature.tex
@@ -972,290 +1005,17 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 14.
 
+[142
 
-Package natbib Warning: Citation `1994MNRAS.266..343M' on page 134 undefined on
- input line 19.
 
 
-Package natbib Warning: Citation `Hui:1997dp' on page 134 undefined on input li
-ne 19.
-
-
-Package natbib Warning: Citation `Theuns:2002yc' on page 134 undefined on input
- line 19.
-
-
-Package natbib Warning: Citation `Hui:2003hn' on page 134 undefined on input li
-ne 19.
-
-
-Package natbib Warning: Citation `Trac:2008yz' on page 134 undefined on input l
-ine 27.
-
-
-Package natbib Warning: Citation `Cen:2009bg' on page 134 undefined on input li
-ne 27.
-
-
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 134 undefined on i
-nput line 27.
-
-[134
-
-
-
-]
-
-Package natbib Warning: Citation `Worseck:2011qk' on page 135 undefined on inpu
-t line 36.
-
-
-Package natbib Warning: Citation `Syphers:2011uw' on page 135 undefined on inpu
-t line 36.
-
-
-Package natbib Warning: Citation `Schaye:1999vr' on page 135 undefined on input
- line 38.
-
-
-Package natbib Warning: Citation `Ricotti:1999hx' on page 135 undefined on inpu
-t line 38.
-
-
-Package natbib Warning: Citation `McDonald:2000nn' on page 135 undefined on inp
-ut line 38.
-
-
-Package natbib Warning: Citation `Zaldarriaga:2000mz' on page 135 undefined on 
-input line 38.
-
-
-Package natbib Warning: Citation `Theuns:2001my' on page 135 undefined on input
- line 38.
-
-
-Package natbib Warning: Citation `Lidz:2009ca' on page 135 undefined on input l
-ine 38.
-
-
-Package natbib Warning: Citation `McQuinn:2008am' on page 135 undefined on inpu
-t line 40.
-
-
-Package natbib Warning: Citation `Becker:2012aq' on page 135 undefined on input
- line 47.
-
-
-Package natbib Warning: Citation `Bolton:2011ck' on page 135 undefined on input
- line 48.
-
-
-Package natbib Warning: Citation `Raskutti:2012qz' on page 135 undefined on inp
-ut line 48.
-
-[135]
-
-Package natbib Warning: Citation `Trac:2008yz' on page 136 undefined on input l
-ine 73.
-
-
-Package natbib Warning: Citation `Cen:2009bg' on page 136 undefined on input li
-ne 73.
-
-
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 136 undefined on i
-nput line 73.
-
-
-Package natbib Warning: Citation `Lai:2005ha' on page 136 undefined on input li
-ne 75.
-
-
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 136 undefined on i
-nput line 77.
-
-
-Package natbib Warning: Citation `Trac:2008yz' on page 136 undefined on input l
-ine 79.
-
-
-Package natbib Warning: Citation `Cen:2009bg' on page 136 undefined on input li
-ne 79.
-
-
-Package natbib Warning: Citation `Hui:1997dp' on page 136 undefined on input li
-ne 98.
-
-[136]
-
-Package natbib Warning: Citation `Lidz:2009ca' on page 137 undefined on input l
-ine 103.
-
-
-Package natbib Warning: Citation `2005MNRAS.364.1105S' on page 137 undefined on
- input line 104.
-
-[137]
-
-Package natbib Warning: Citation `Sheth:1999su' on page 138 undefined on input 
-line 125.
-
-
-Package natbib Warning: Citation `1987ApJ...321L.107S' on page 138 undefined on
- input line 126.
-
-
-Package natbib Warning: Citation `1999ApJ...514..648M' on page 138 undefined on
- input line 126.
-
-
-Package natbib Warning: Citation `Pawlik:2008mr' on page 138 undefined on input
- line 135.
-
-
-Package natbib Warning: Citation `McQuinn:2011aa' on page 138 undefined on inpu
-t line 135.
-
-[138] [139]
-
-Package natbib Warning: Citation `Gnedin:1997td' on page 140 undefined on input
- line 180.
-
-[140]
+] [143] [144] [145] [146] [147] [148]
 File: igm_temperature/figures/EPS/f1.eps Graphic file (type eps)
- <igm_temperature/figures/EPS/f1.eps> [141] [142]
-
-Package natbib Warning: Citation `Bennett:2012zja' on page 143 undefined on inp
-ut line 230.
-
-
-Package natbib Warning: Citation `Hui:2003hn' on page 143 undefined on input li
-ne 237.
-
-
-Package natbib Warning: Citation `Hui:1997dp' on page 143 undefined on input li
-ne 249.
-
-[143]
-
-Package natbib Warning: Citation `1994MNRAS.266..343M' on page 144 undefined on
- input line 262.
-
-
-Package natbib Warning: Citation `Hui:1997dp' on page 144 undefined on input li
-ne 262.
-
-
-Package natbib Warning: Citation `Hui:2003hn' on page 144 undefined on input li
-ne 262.
-
-
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 144 undefined on i
-nput line 262.
-
-[144]
-
-Package natbib Warning: Citation `Abel:1999vj' on page 145 undefined on input l
-ine 294.
-
-
-Package natbib Warning: Citation `Hui:1997dp' on page 145 undefined on input li
-ne 307.
-
-
-Package natbib Warning: Citation `Hui:1997dp' on page 145 undefined on input li
-ne 312.
-
-
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 145 undefined on i
-nput line 314.
-
-
-Package natbib Warning: Citation `Hui:2003hn' on page 145 undefined on input li
-ne 314.
-
-[145]
-
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 146 undefined on i
-nput line 323.
-
-
-Package natbib Warning: Citation `Hui:1997dp' on page 146 undefined on input li
-ne 329.
-
-
-Package natbib Warning: Citation `Hui:2003hn' on page 146 undefined on input li
-ne 330.
-
-
-Package natbib Warning: Citation `Chang:2011bf' on page 146 undefined on input 
-line 330.
-
-
-Package natbib Warning: Citation `Hui:1997dp' on page 146 undefined on input li
-ne 333.
-
-[146]
-
-Package natbib Warning: Citation `Hui:1997dp' on page 147 undefined on input li
-ne 338.
-
-
-Package natbib Warning: Citation `1970A&A.....5...84Z' on page 147 undefined on
- input line 338.
-
-
-Package natbib Warning: Citation `Hui:1997dp' on page 147 undefined on input li
-ne 342.
-
-[147]
-
-Package natbib Warning: Citation `Hui:1997dp' on page 148 undefined on input li
-ne 360.
-
-
-Package natbib Warning: Citation `1995ApJ...449..476R' on page 148 undefined on
- input line 360.
-
-
-Package natbib Warning: Citation `1970Afz.....6..581D' on page 148 undefined on
- input line 361.
-
-
-Package natbib Warning: Citation `Hui:1999ku' on page 148 undefined on input li
-ne 361.
-
-
-Package natbib Warning: Citation `Bertschinger:1993zv' on page 148 undefined on
- input line 361.
-
-
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 148 undefined on i
-nput line 364.
-
-
-Package natbib Warning: Citation `McQuinn:2012bq' on page 148 undefined on inpu
-t line 364.
-
-
-Package natbib Warning: Citation `1993ApJ...418...28Z' on page 148 undefined on
- input line 370.
-
-
-Package natbib Warning: Citation `Hui:2003hn' on page 148 undefined on input li
-ne 370.
-
-
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 148 undefined on i
-nput line 370.
-
+ <igm_temperature/figures/EPS/f1.eps>
+[149] [150] [151] [152] [153] [154] [155]
 File: igm_temperature/figures/EPS/f2.eps Graphic file (type eps)
-<igm_temperature/figures/EPS/f2.eps>
-
-Package natbib Warning: Citation `Hui:1997dp' on page 148 undefined on input li
-ne 401.
-
-[148] [149]
+ <igm_temperature/figures/EPS/f2.eps>
+[156] [157]
 File: igm_temperature/figures/EPS/f3a.ps Graphic file (type eps)
  <igm_temperature/figures/EPS/f3a.ps>
 File: igm_temperature/figures/EPS/f3b.ps Graphic file (type eps)
@@ -1265,288 +1025,76 @@ File: igm_temperature/figures/EPS/f4a.ps Graphic file (type eps)
  <igm_temperature/figures/EPS/f4a.ps>
 File: igm_temperature/figures/EPS/f4b.ps Graphic file (type eps)
 
-<igm_temperature/figures/EPS/f4b.ps>
-
-Package natbib Warning: Citation `Trac:2008yz' on page 150 undefined on input l
-ine 457.
-
-
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 150 undefined on i
-nput line 457.
-
-[150]
+<igm_temperature/figures/EPS/f4b.ps> [158] [159]
 File: igm_temperature/figures/EPS/f5.eps Graphic file (type eps)
- <igm_temperature/figures/EPS/f5.eps>
+
+<igm_temperature/figures/EPS/f5.eps>
 File: igm_temperature/figures/EPS/f6.eps Graphic file (type eps)
-
-<igm_temperature/figures/EPS/f6.eps>
-
-Package natbib Warning: Citation `Trac:2008yz' on page 151 undefined on input l
-ine 492.
-
-
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 151 undefined on i
-nput line 492.
-
-[151]
-
-Package natbib Warning: Citation `Trac:2008yz' on page 152 undefined on input l
-ine 503.
-
-
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 152 undefined on i
-nput line 503.
-
+ <igm_temperature/figures/EPS/f6.eps>
+[160] [161] [162]
 File: igm_temperature/figures/EPS/f7.eps Graphic file (type eps)
-<igm_temperature/figures/EPS/f7.eps> [152]
-
-Package natbib Warning: Citation `McQuinn:2012bq' on page 153 undefined on inpu
-t line 566.
-
-[153]
+ <igm_temperature/figures/EPS/f7.eps> [163] [164] [165]
 File: igm_temperature/figures/EPS/f8.eps Graphic file (type eps)
- <igm_temperature/figures/EPS/f8.eps> [154]
+
+<igm_temperature/figures/EPS/f8.eps> [166]
 File: igm_temperature/figures/EPS/f9.eps Graphic file (type eps)
 
-<igm_temperature/figures/EPS/f9.eps>
+<igm_temperature/figures/EPS/f9.eps> [167]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 630.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\sim' on input line 630.
+(hyperref)                removing `math shift' on input line 632.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 630.
+(hyperref)                removing `\sim' on input line 632.
 
 
-Package natbib Warning: Citation `Lidz:2009ca' on page 155 undefined on input l
-ine 636.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 632.
 
-
-Package natbib Warning: Citation `Gnedin:1997td' on page 155 undefined on input
- line 640.
-
-[155]
-
-Package natbib Warning: Citation `Zaldarriaga:2000mz' on page 156 undefined on 
-input line 645.
-
-
-Package natbib Warning: Citation `Zaldarriaga:2000mz' on page 156 undefined on 
-input line 646.
-
-
-Package natbib Warning: Citation `Peeples:2009ue' on page 156 undefined on inpu
-t line 646.
-
-
-Package natbib Warning: Citation `Lidz:2009ca' on page 156 undefined on input l
-ine 646.
-
-
-Package natbib Warning: Citation `Lidz:2009ca' on page 156 undefined on input l
-ine 659.
-
-[156]
-
-Package natbib Warning: Citation `Lidz:2009ca' on page 157 undefined on input l
-ine 664.
-
-
-Package natbib Warning: Citation `Lidz:2009ca' on page 157 undefined on input l
-ine 674.
-
-
-Package natbib Warning: Citation `Lidz:2009ca' on page 157 undefined on input l
-ine 680.
-
-[157]
+[168] [169]
 File: igm_temperature/figures/EPS/f10.eps Graphic file (type eps)
- <igm_temperature/figures/EPS/f10.eps>
-
-Package natbib Warning: Citation `Becker:2012aq' on page 158 undefined on input
- line 730.
-
-[158] [159]
+ <igm_temperature/figures/EPS/f10.eps> [170] [171]
 File: igm_temperature/figures/EPS/f11.eps Graphic file (type eps)
- <igm_temperature/figures/EPS/f11.eps> [160]
 
-Package natbib Warning: Citation `Becker:2012aq' on page 161 undefined on input
- line 804.
-
-
-Package natbib Warning: Citation `2008ApJ...681..831F' on page 161 undefined on
- input line 806.
-
-
-Package natbib Warning: Citation `Lidz:2009ca' on page 161 undefined on input l
-ine 809.
-
+<igm_temperature/figures/EPS/f11.eps> [172]
 File: igm_temperature/figures/EPS/f12a.eps Graphic file (type eps)
+
 <igm_temperature/figures/EPS/f12a.eps>
 File: igm_temperature/figures/EPS/f12b.eps Graphic file (type eps)
  <igm_temperature/figures/EPS/f12b.eps>
-Overfull \hbox (80.96294pt too wide) in paragraph at lines 813--823
-[][] [] 
- []
-
-[161]
-
-Package natbib Warning: Citation `McDonald:2004eu' on page 162 undefined on inp
-ut line 851.
-
-[162]
-
-Package natbib Warning: Citation `Dijkstra:2003pd' on page 163 undefined on inp
-ut line 870.
-
-
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 163 undefined on i
-nput line 870.
-
-
-Package natbib Warning: Citation `2007ApJ...657...15K' on page 163 undefined on
- input line 884.
-
-
-Package natbib Warning: Citation `Gnedin:1997td' on page 163 undefined on input
- line 886.
-
-
-Package natbib Warning: Citation `2007ApJ...657...15K' on page 163 undefined on
- input line 887.
-
-[163]
+[173] [174] [175] [176]
 File: igm_temperature/figures/EPS/f13.eps Graphic file (type eps)
- <igm_temperature/figures/EPS/f13.eps> [164]
+ <igm_temperature/figures/EPS/f13.eps>
 File: igm_temperature/figures/EPS/f14a.eps Graphic file (type eps)
 
 <igm_temperature/figures/EPS/f14a.eps>
 File: igm_temperature/figures/EPS/f14b.eps Graphic file (type eps)
  <igm_temperature/figures/EPS/f14b.eps>
-
-LaTeX Warning: Float too large for page by 202.13213pt on input line 950.
-
-
-Package natbib Warning: Citation `Becker:2012aq' on page 165 undefined on input
- line 955.
-
-[165] [166] [167]
-
-Package natbib Warning: Citation `Becker:2010cu' on page 168 undefined on input
- line 1016.
-
-
-Package natbib Warning: Citation `Hui:2000rw' on page 168 undefined on input li
-ne 1018.
-
-
-Package natbib Warning: Citation `Lidz:2009ca' on page 168 undefined on input l
-ine 1018.
-
-
-Package natbib Warning: Citation `Becker:2011ee' on page 168 undefined on input
- line 1028.
-
-
-Package natbib Warning: Citation `Becker:2012aq' on page 168 undefined on input
- line 1030.
-
-[168]
-
-Package natbib Warning: Citation `Lidz:2009ca' on page 169 undefined on input l
-ine 1052.
-
-[169] [170]
-
-Package natbib Warning: Citation `Trac:2008yz' on page 171 undefined on input l
-ine 1110.
-
-
-Package natbib Warning: Citation `Furlanetto:2009kr' on page 171 undefined on i
-nput line 1110.
-
-
-Package natbib Warning: Citation `Theuns:2002yc' on page 171 undefined on input
- line 1113.
-
-
-Package natbib Warning: Citation `Hui:2003hn' on page 171 undefined on input li
-ne 1113.
-
-
-Package natbib Warning: Citation `Lidz:2009ca' on page 171 undefined on input l
-ine 1120.
-
-[171]
-
-Package natbib Warning: Citation `McQuinn:2010mq' on page 172 undefined on inpu
-t line 1140.
-
-
-Package natbib Warning: Citation `Lai:2005ha' on page 172 undefined on input li
-ne 1140.
-
-
-Package natbib Warning: Citation `McQuinn:2010mq' on page 172 undefined on inpu
-t line 1145.
-
-
-Package natbib Warning: Citation `Levi:2013gra' on page 172 undefined on input 
-line 1146.
-
-
-Package natbib Warning: Citation `McQuinn:2010mq' on page 172 undefined on inpu
-t line 1146.
-
-[172]
-
-Package natbib Warning: Citation `Gnedin:1997td' on page 173 undefined on input
- line 1151.
-
-
-Package natbib Warning: Citation `Hui:1997dp' on page 173 undefined on input li
-ne 1164.
-
+[177] [178] [179] [180] [181] [182] [183] [184] [185]
 File: igm_temperature/figures/EPS/f15a.eps Graphic file (type eps)
+
 <igm_temperature/figures/EPS/f15a.eps>
 File: igm_temperature/figures/EPS/f15b.eps Graphic file (type eps)
  <igm_temperature/figures/EPS/f15b.eps>
-Overfull \hbox (80.96294pt too wide) in paragraph at lines 1169--1174
-[][] [] 
- []
-
-[173]
-
-Package natbib Warning: Citation `Hui:1997dp' on page 174 undefined on input li
-ne 1206.
-
-[174]
-
-Package natbib Warning: Citation `Hui:1997dp' on page 175 undefined on input li
-ne 1215.
-
-[175]) [176] [177] [178] [179] [180] [181] [182] [183] [184] [185] [186]
-[187] [188] [189]
+[186] [187] [188]) [189] [190] [191] [192] [193] [194] [195] [196] [197]
 \openout2 = `bubble_finding/bubble_finding.aux'.
 
- (./bubble_finding/bubble_finding.tex
+
+(./bubble_finding/bubble_finding.tex
 Chapter 4.
-[190
+[198
 
 
 
-] [191] [192] [193] [194] [195] [196] [197] [198] [199] [200]
+] [199] [200] [201] [202] [203] [204] [205] [206] [207] [208]
 File: bubble_finding/figures/EPS/f1.eps Graphic file (type eps)
 
 <bubble_finding/figures/EPS/f1.eps>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[201]
+[209]
 File: bubble_finding/figures/EPS/f2a.eps Graphic file (type eps)
  <bubble_finding/figures/EPS/f2a.eps>
 File: bubble_finding/figures/EPS/f2b.eps Graphic file (type eps)
@@ -1556,7 +1104,7 @@ File: bubble_finding/figures/EPS/f2c.eps Graphic file (type eps)
  <bubble_finding/figures/EPS/f2c.eps>
 File: bubble_finding/figures/EPS/f2d.eps Graphic file (type eps)
 
-<bubble_finding/figures/EPS/f2d.eps> [202]
+<bubble_finding/figures/EPS/f2d.eps> [210]
 File: bubble_finding/figures/EPS/f3a.eps Graphic file (type eps)
 
 <bubble_finding/figures/EPS/f3a.eps>
@@ -1565,13 +1113,13 @@ File: bubble_finding/figures/EPS/f3b.eps Graphic file (type eps)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[203] [204] [205] [206] [207]
+[211] [212] [213] [214] [215]
 File: bubble_finding/figures/EPS/f4.eps Graphic file (type eps)
  <bubble_finding/figures/EPS/f4.eps>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[208] [209]
+[216] [217]
 File: bubble_finding/figures/EPS/f5a.eps Graphic file (type eps)
  <bubble_finding/figures/EPS/f5a.eps>
 File: bubble_finding/figures/EPS/f5b.eps Graphic file (type eps)
@@ -1592,7 +1140,7 @@ File: bubble_finding/figures/EPS/f6b.eps Graphic file (type eps)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[210] [211]
+[218] [219]
 File: bubble_finding/figures/EPS/f7.eps Graphic file (type eps)
  <bubble_finding/figures/EPS/f7.eps>
 Overfull \hbox (44.38638pt too wide) in paragraph at lines 883--896
@@ -1607,9 +1155,9 @@ File: bubble_finding/figures/EPS/f8.eps Graphic file (type eps)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[212] [213]
+[220] [221]
 File: bubble_finding/figures/EPS/f9.eps Graphic file (type eps)
- <bubble_finding/figures/EPS/f9.eps> [214] [215] [216] [217]
+ <bubble_finding/figures/EPS/f9.eps> [222] [223] [224] [225]
 File: bubble_finding/figures/EPS/f10a.eps Graphic file (type eps)
 
 <bubble_finding/figures/EPS/f10a.eps>
@@ -1620,11 +1168,11 @@ File: bubble_finding/figures/EPS/f10c.eps Graphic file (type eps)
 <bubble_finding/figures/EPS/f10c.eps>
 File: bubble_finding/figures/EPS/f10d.eps Graphic file (type eps)
  <bubble_finding/figures/EPS/f10d.eps>
-[218]
+[226]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[219] [220]
+[227] [228]
 File: bubble_finding/figures/EPS/f11a.eps Graphic file (type eps)
  <bubble_finding/figures/EPS/f11a.eps>
 File: bubble_finding/figures/EPS/f11b.eps Graphic file (type eps)
@@ -1638,7 +1186,7 @@ File: bubble_finding/figures/EPS/f11d.eps Graphic file (type eps)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[221] [222] [223]
+[229] [230] [231]
 File: bubble_finding/figures/EPS/f12a.eps Graphic file (type eps)
  <bubble_finding/figures/EPS/f12a.eps>
 File: bubble_finding/figures/EPS/f12b.eps Graphic file (type eps)
@@ -1652,8 +1200,8 @@ File: bubble_finding/figures/EPS/f12d.eps Graphic file (type eps)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[224] [225] [226]) [227] [228] [229] [230] [231] [232] [233] [234] [235]
-[236] [237] [238]
+[232] [233] [234]) [235] [236] [237] [238] [239] [240] [241] [242] [243]
+[244] [245] [246]
 \openout2 = `conclusion/conclusion.aux'.
 
  (./conclusion/conclusion.tex
@@ -1662,27 +1210,37 @@ Chapter 5.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 15.
 
-[239
+[247
 
 
 
-] [240]) [241]
+] [248]) [249]
 \openout2 = `backmatter/appendix.aux'.
 
- (./backmatter/appendix.tex [242
+ (./backmatter/appendix.tex [250
 
 
 
 ]
 Appendix A.
-) [243
+) [251
 
 ]
 \openout2 = `backmatter/glossary.aux'.
 
  (./backmatter/glossary.tex) (./thesis.nls
+Underfull \hbox (badness 10000) detected at line 3
+[] []
+ []
+
+
 Underfull \hbox (badness 10000) detected at line 5
-[]\OT1/cmr/bx/n/9 M[]
+[]$ []$[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 7
+[]$[]$[]
  []
 
 
@@ -1691,112 +1249,122 @@ Underfull \hbox (badness 10000) detected at line 9
  []
 
 
-Underfull \hbox (badness 10000) detected at line 14
-[]$ []$[]
- []
-
-
-Underfull \hbox (badness 10000) detected at line 19
-[]$[]$[]
- []
-
-
-Underfull \hbox (badness 10000) detected at line 24
+Underfull \hbox (badness 10000) detected at line 11
 []\OT1/cmr/bx/n/9 11HUGS[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 29
+Underfull \hbox (badness 10000) detected at line 13
+[]\OT1/cmr/bx/n/9 2MASS[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 15
+[]\OT1/cmr/bx/n/9 M[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 17
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 19
 []$\OML/cmm/m/it/9 $[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 31
+Underfull \hbox (badness 10000) detected at line 21
 []$\OML/cmm/m/it/9 ^^N$[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 33
+Underfull \hbox (badness 10000) detected at line 23
 []$\OT1/cmr/m/n/9 ^^@[]$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
 []\OT1/cmr/m/n/9 Photoionization rate for hy-dro-gen
  []
 
 
-Underfull \hbox (badness 10000) detected at line 35
+Underfull \hbox (badness 10000) detected at line 25
 []$\U/msb/m/n/9 ~$[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 37
+Underfull \hbox (badness 10000) detected at line 27
 []$\OML/cmm/m/it/9 ^^U[]$[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 39
+Underfull \hbox (badness 10000) detected at line 29
 []$\OT1/cmr/m/n/9 
 []$[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 41
+Underfull \hbox (badness 10000) detected at line 31
 []$\OML/cmm/m/it/9 ^^Z[]$[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 43
+Underfull \hbox (badness 10000) detected at line 33
 []$\OML/cmm/m/it/9 ^^\[]$[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 45
+Underfull \hbox (badness 10000) detected at line 35
 []$\OML/cmm/m/it/9 e$[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 47
+Underfull \hbox (badness 10000) detected at line 37
 []$\OML/cmm/m/it/9 f[]$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--49
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
 []\OT1/cmr/m/n/9 Quantum me-chan-i-cal os-cil-la-tor
  []
 
 
-Underfull \hbox (badness 10000) detected at line 49
+Underfull \hbox (badness 10000) detected at line 39
 []$\OML/cmm/m/it/9 k[]$[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 51
+Underfull \hbox (badness 10000) detected at line 41
 []$\OML/cmm/m/it/9 m[]$[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 53
+Underfull \hbox (badness 10000) detected at line 43
 []$\OML/cmm/m/it/9 X[]$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--57
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
 []\OT1/cmr/m/n/9 Emission from
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--59
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
 []\OT1/cmr/m/n/9 An ob-ject
  []
 
 
-Underfull \hbox (badness 10000) detected at line 59
+Underfull \hbox (badness 10000) detected at line 49
 []\OT1/cmr/bx/n/9 CMB[]
  []
 
-[244
+
+Underfull \hbox (badness 10000) detected at line 51
+[]\OT1/cmr/bx/n/9 DLA[]
+ []
+
+[252
 
 
 
@@ -1806,90 +1374,90 @@ Underfull \hbox (badness 10000) detected at line 59
 
 
 ]
-Underfull \hbox (badness 10000) detected at line 61
-[]\OT1/cmr/bx/n/9 DLA[]
- []
-
-
-Underfull \hbox (badness 10000) detected at line 67
+Underfull \hbox (badness 10000) detected at line 57
 []\OT1/cmr/bx/n/9 HeI[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 68
+Underfull \hbox (badness 10000) detected at line 58
 []\OT1/cmr/bx/n/9 HeII[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 70
+Underfull \hbox (badness 10000) detected at line 60
 []\OT1/cmr/bx/n/9 HeIII[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 72
+Underfull \hbox (badness 10000) detected at line 62
 []\OT1/cmr/bx/n/9 HI[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 74
+Underfull \hbox (badness 10000) detected at line 64
 []\OT1/cmr/bx/n/9 HII[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 78
+Underfull \hbox (badness 10000) detected at line 68
 []\OT1/cmr/bx/n/9 IGM[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 82
+Underfull \hbox (badness 10000) detected at line 72
 []\OT1/cmr/bx/n/9 LAE[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--86
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
 []\OT1/cmr/m/n/9 Probability dis-tri-bu-
  []
 
-[245]
-Underfull \hbox (badness 10000) detected at line 96
+[253]
+Underfull \hbox (badness 10000) detected at line 86
 []\OT1/cmr/bx/n/9 GRB[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 100
+Underfull \hbox (badness 10000) detected at line 88
+[]\OT1/cmr/bx/n/9 GRB[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 92
 []\OT1/cmr/bx/n/9 Redshift[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 102
+Underfull \hbox (badness 10000) detected at line 94
 []\OT1/cmr/bx/n/9 Quasar[]
  []
 
-
-Underfull \hbox (badness 10000) detected at line 108
-[]\OT1/cmr/bx/n/9 2MASS[]
- []
-
-) [246] (./thesis.bbl (./thesis.brf)
+) [254] (./thesis.bbl (./thesis.brf)
 \tf@brf=\write9
 \openout9 = `thesis.brf'.
 
- [247
+ [255
 
 
 ]
-Underfull \hbox (badness 6658) in paragraph at lines 225--225
+Underfull \hbox (badness 6658) in paragraph at lines 292--292
 []\OT1/cmr/m/n/6 Ryan Cooke, Max Pet-tini, Regina A. Jor-gen-son,
  []
 
-[248]
-Underfull \hbox (badness 5345) in paragraph at lines 390--390
+[256]
+Underfull \hbox (badness 5345) in paragraph at lines 491--491
+[]\OT1/cmr/m/n/6 Geraint Harker, Saleem Zaroubi, Gi-anni Bernardi,
+ []
+
+[257]
+Underfull \hbox (badness 5345) in paragraph at lines 499--499
 []\OT1/cmr/m/n/6 Geraint Harker, Saleem Zaroubi, Gi-anni Bernardi,
  []
 
 
-Underfull \hbox (badness 5345) in paragraph at lines 398--398
-[]\OT1/cmr/m/n/6 Geraint Harker, Saleem Zaroubi, Gi-anni Bernardi,
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+\OT1/cmr/m/n/6 state of the pho-toion-ized in-ter-galac-tic medium.
  []
 
 Missing character: There is no Î in font cmr6!
@@ -1898,25 +1466,18 @@ Missing character: There is no Î in font cmr6!
 Missing character: There is no ² in font cmr6!
 Missing character: There is no Î in font cmr6!
 Missing character: There is no ± in font cmr6!
-[249]
+[258] [259]
 Missing character: There is no â in font cmr6!
 Missing character: There is no € in font cmr6!
 Missing character: There is no ™ in font cmr6!
- [250]
-Underfull \hbox (badness 10000) in paragraph at lines 805--805
+ [260]
+Underfull \hbox (badness 10000) in paragraph at lines 1033--1033
 []\OT1/cmr/m/n/6 Jason X. Prochaska, Stephane Herbert-Fort, and
  []
 
-[251]
-Underfull \hbox (badness 5924) in paragraph at lines 855--855
-[]\OT1/cmr/m/n/6 J.J. Saku-rai and J. Napoli-tano.  \OT1/cmr/m/it/6 Mod-ern Qua
-n-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 855--855
-\OT1/cmr/m/it/6 tum Me-chan-ics\OT1/cmr/m/n/6 .  Clas-si-cal Physics Text-book.
-
+[261]
+Underfull \hbox (badness 7777) in paragraph at lines 1217--1217
+\OT1/cmr/m/n/6 per-a-ture fluc-tu-a-tions in the in-ter-galac-tic medium.
  []
 
 Missing character: There is no Î in font cmr6!
@@ -1924,23 +1485,24 @@ Missing character: There is no ± in font cmr6!
 Missing character: There is no ï in font cmr6!
 Missing character: There is no ¿ in font cmr6!
 Missing character: There is no ½ in font cmr6!
-[252]) [253] (./thesis.ind)
-
-Package natbib Warning: There were undefined citations.
-
+[262]) [263] (./thesis.ind)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 234.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 234.
-(./thesis.aux (./frontmatter/dedication.aux) (./frontmatter/acknowledgement.aux
-) (./frontmatter/abstract.aux) (./introduction/introduction.aux)
-(./neutral_islands/neutral_islands.aux) (./igm_temperature/igm_temperature.aux)
-(./bubble_finding/bubble_finding.aux) (./conclusion/conclusion.aux)
-(./backmatter/appendix.aux) (./backmatter/glossary.aux))
+ (./thesis.aux (./frontmatter/dedication.aux)
+(./frontmatter/acknowledgement.aux) (./frontmatter/abstract.aux)
+(./introduction/introduction.aux) (./neutral_islands/neutral_islands.aux)
+(./igm_temperature/igm_temperature.aux) (./bubble_finding/bubble_finding.aux)
+(./conclusion/conclusion.aux) (./backmatter/appendix.aux)
+(./backmatter/glossary.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 234.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 234.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 28B606B01166F96637F62E2909F5FAAF;7021.
+(rerunfilecheck)             Checksum: E41E0E9042617F195DF081A3F9905DB0;7210.
 Package rerunfilecheck Info: File `thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: F5B59E4B413F0D4CAB172D4A05879110;17600.
+(rerunfilecheck)             Checksum: 2E1D1455CD5DCE330A19C6BE967A2E1B;23860.
+
+
+LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -1948,12 +1510,12 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 234.
  ) 
 Here is how much of TeX's memory you used:
- 10132 strings out of 495060
- 154107 string characters out of 3182053
- 394332 words of memory out of 3000000
- 12960 multiletter control sequences out of 15000+200000
- 31550 words of font info for 124 fonts, out of 3000000 for 9000
+ 10393 strings out of 495060
+ 159522 string characters out of 3182053
+ 397858 words of memory out of 3000000
+ 13216 multiletter control sequences out of 15000+200000
+ 31382 words of font info for 123 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 43i,21n,50p,1978b,887s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,21n,50p,2019b,979s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on thesis.dvi (281 pages, 1224120 bytes).
+Output written on thesis.dvi (293 pages, 1320832 bytes).
