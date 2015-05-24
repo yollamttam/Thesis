@@ -6,15 +6,16 @@ A level-1 auxiliary file: frontmatter/acknowledgement.aux
 A level-1 auxiliary file: frontmatter/abstract.aux
 A level-1 auxiliary file: introduction/introduction.aux
 A level-1 auxiliary file: neutral_islands/neutral_islands.aux
+A level-1 auxiliary file: preliminary_neutral_islands/preliminary_neutral_islands.aux
 A level-1 auxiliary file: igm_temperature/igm_temperature.aux
 A level-1 auxiliary file: bubble_finding/bubble_finding.aux
 A level-1 auxiliary file: conclusion/conclusion.aux
 A level-1 auxiliary file: backmatter/appendix.aux
 A level-1 auxiliary file: backmatter/glossary.aux
-The style file: plainnat.bst
-Reallocated field_info (elt_size=4) to 10320 items from 5000.
+The style file: Latex/Classes/PhDbiblio-intext-twoauth.bst
+Reallocated field_info (elt_size=4) to 10265 items from 5000.
 Database file #1: ./backmatter/references.bib
-Repeated entry---line 57 of file ./backmatter/references.bib
+Repeated entry---line 55 of file ./backmatter/references.bib
  : @article{Ade:2013zuv
  :                     ,
 I'm skipping whatever remains of this entry
@@ -22,7 +23,7 @@ Repeated entry---line 76 of file ./backmatter/references.bib
  : @article{ali2015paper
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 348 of file ./backmatter/references.bib
+Repeated entry---line 346 of file ./backmatter/references.bib
  : @article{Becker:2001ee
  :                       ,
 I'm skipping whatever remains of this entry
@@ -30,7 +31,7 @@ Repeated entry---line 962 of file ./backmatter/references.bib
  : @article{Chornock:2014fva
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1123 of file ./backmatter/references.bib
+Repeated entry---line 1121 of file ./backmatter/references.bib
  : @article{Croft:2000hs
  :                      ,
 I'm skipping whatever remains of this entry
@@ -50,71 +51,71 @@ Repeated entry---line 1804 of file ./backmatter/references.bib
  : @article{Furlanetto:2004nh
  :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2010 of file ./backmatter/references.bib
+Repeated entry---line 2008 of file ./backmatter/references.bib
  : @article{1965ApJ...142.1633G
  :                             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2528 of file ./backmatter/references.bib
+Repeated entry---line 2552 of file ./backmatter/references.bib
  : @article{Kuhlen:2012vy
  :                       ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2732 of file ./backmatter/references.bib
+Repeated entry---line 2758 of file ./backmatter/references.bib
  : @article{Lidz:2007mz
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3227 of file ./backmatter/references.bib
+Repeated entry---line 3289 of file ./backmatter/references.bib
  : @article{McGreer:2011dm
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3357 of file ./backmatter/references.bib
+Repeated entry---line 3419 of file ./backmatter/references.bib
  : @article{McQuinn:2007dy
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3411 of file ./backmatter/references.bib
+Repeated entry---line 3473 of file ./backmatter/references.bib
  : @article{McQuinn:2006et
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3429 of file ./backmatter/references.bib
+Repeated entry---line 3491 of file ./backmatter/references.bib
  : @article{McQuinn:2006et
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3669 of file ./backmatter/references.bib
+Repeated entry---line 3731 of file ./backmatter/references.bib
  : @article{Mesinger:2009mv
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3830 of file ./backmatter/references.bib
+Repeated entry---line 3892 of file ./backmatter/references.bib
  : @article{MiraldaEscude:1997qb
  :                              ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3868 of file ./backmatter/references.bib
+Repeated entry---line 3926 of file ./backmatter/references.bib
  : @article{MiraldaEscude:1995bu
  :                              ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4368 of file ./backmatter/references.bib
+Repeated entry---line 4440 of file ./backmatter/references.bib
  : @article{pober2015paper
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4569 of file ./backmatter/references.bib
+Repeated entry---line 4655 of file ./backmatter/references.bib
  : @article{Robertson:2013bq
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5142 of file ./backmatter/references.bib
+Repeated entry---line 5228 of file ./backmatter/references.bib
  : @article{Totani:2005ng
  :                       ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5235 of file ./backmatter/references.bib
+Repeated entry---line 5320 of file ./backmatter/references.bib
  : @article{Viel:2013fqw
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5506 of file ./backmatter/references.bib
+Repeated entry---line 5590 of file ./backmatter/references.bib
  : @article{Zahn:2006sg
  :                     ,
 I'm skipping whatever remains of this entry
 Warning--empty journal in Ade:2013zuv
 Warning--empty journal in Beardsley:2012za
 Warning--empty journal in Becker:2013ffa
-Warning--empty journal in Becker:2012aq
 Warning--empty journal in Becker:2014oga
+Warning--empty journal in Becker:2012aq
 Warning--empty journal in Bolton:2011ck
 Warning--empty journal in Bolton:2011vb
 Warning--empty journal in Bouwens:2011xu
@@ -146,45 +147,45 @@ Warning--empty journal in Trac:2008yz
 Warning--empty journal in Worseck:2014fya
 Warning--empty journal in Zahn:2010yw
 Warning--empty journal in Zaroubi:2012cy
-You've used 190 entries,
-            2773 wiz_defined-function locations,
-            1708 strings with 43071 characters,
-and the built_in function-call counts, 103292 in all, are:
-= -- 8623
-> -- 8315
-< -- 62
-+ -- 2822
-- -- 2610
-* -- 9398
-:= -- 16781
-add.period$ -- 679
-call.type$ -- 190
-change.case$ -- 1376
-chr.to.int$ -- 168
-cite$ -- 416
-duplicate$ -- 3885
-empty$ -- 6897
-format.name$ -- 2891
-if$ -- 20978
-int.to.chr$ -- 23
+You've used 195 entries,
+            2928 wiz_defined-function locations,
+            1735 strings with 43845 characters,
+and the built_in function-call counts, 148474 in all, are:
+= -- 11291
+> -- 8131
+< -- 0
++ -- 3669
+- -- 2295
+* -- 16008
+:= -- 21395
+add.period$ -- 656
+call.type$ -- 195
+change.case$ -- 1550
+chr.to.int$ -- 196
+cite$ -- 231
+duplicate$ -- 9457
+empty$ -- 9191
+format.name$ -- 2840
+if$ -- 27842
+int.to.chr$ -- 21
 int.to.str$ -- 1
-missing$ -- 193
-newline$ -- 1065
-num.names$ -- 760
-pop$ -- 2461
+missing$ -- 2238
+newline$ -- 1052
+num.names$ -- 780
+pop$ -- 3998
 preamble$ -- 1
-purify$ -- 1189
+purify$ -- 1550
 quote$ -- 0
-skip$ -- 3148
+skip$ -- 5683
 stack$ -- 0
-substring$ -- 2697
-swap$ -- 224
+substring$ -- 4551
+swap$ -- 8106
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2075
+type$ -- 1746
 warning$ -- 36
-while$ -- 717
+while$ -- 933
 width$ -- 0
-write$ -- 2611
+write$ -- 2831
 (There were 24 error messages)

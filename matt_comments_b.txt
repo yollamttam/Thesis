@@ -1,0 +1,108 @@
+
+pg. 39 You don’t need the approx signs for the energies, wavelength, frequency. You can just use an equality sign.
+
+pg. 39 “Measurements of the evolution” —> “In principle, detailed measurements of the 21 cm signal as a function of redshift and angle on the sky should provide a ``movie’’ of the reionization process, and finally reveal the nature of the EoR in its entirety.”
+
+pg. 39 “Also, since we are directly observing…” —> “As we will discuss, the 21 cm line is a weak transition and so the emission from fully neutral regions in the IGM is unsaturated, unlike the case of the much stronger Ly-a line. This should greatly facilitate the interpretation of redshifted 21 cm measurements.”
+
+pg 41 “where arrows denote spin” —> “where the arrows are short-hand for the sign of the z-component of the spin angular momentum for each of the electron and the proton.”
+
+pg 41 before 1.37 “so we have n_1/n_0 = 3” —> “n_1/n_0 \approx g_1/g_0 = 3”
+
+pg 42 might help to add a sentence of explanation regarding the velocity gradient term in 1.42.
+
+pg 43 Some of the discussion that you have in the “global 21 cm” section might be moved after 1.47 instead, since it is really relevant for the experiments aiming to measure fluctuations as well. Alternatively, you can just mention that the physics describing the expected evolution of the main terms in Eq. 1.47 is discussed subsequently and refer to the global section.
+
+Figure 1.11 change approx to equality.
+
+Figure 1.12 caption “dominant of different scales” —> “dominant on different scales”
+
+pg 46 before Eq. 1.48, edit “it will take light extra time…” —> “there will be a time difference, $\Delta t = r/c$, between when the light reaches the two antennas.”
+
+pg 47 Above Eq. 1.50 there is a hat missing on theta in the equation.
+
+pg 47 Around Eq. 1.50, I think you need to give the caveat that you are considering a narrow-field of view, otherwise there are curved-sky effects, etc…
+
+pg 47 following sentence that starts “Therefore, …” —> “The observed electric field at any position, r, is then related…”
+
+pg 47 After 1.51, Remove “However,”
+
+pg 48, par 2 “first overcome several formidable sources of noise” —> “first overcome several formidable challenges.” Maybe comment that you will only discuss a couple of the challenges here, and refer the reader to e.g. the review by Morales & Wyithe for further discussion. Then add “The first challenge is to remove contamination from various sources of foreground emission, which are many orders of magnitude brighter than the redshifted 21 cm signal of interest.”
+
+pg. 48 before Eq. 1.53 “the intensity of this radiation obeys the following scaling relation” —> “the intensity of this radiation is a power-law in frequency of the form:”
+
+pg. 48, bottom: remove “(relatively predictable)” or edit this.
+
+pg. 49, end of par 1 “This is essentially done..” —> “This is essentially done by excising modes with small wavenumber in the line of sight/frequency direction, i.e. by removing spectrally smooth components. See \S 4.2.4 for a brief discussion.” Should you also mention that this gives up on measuring the *signal* for such modes?
+
+pg 49, start of par 2, edit “A second significant source of noise…” —> “A second challenge relates to achieving the sensitivity required to measure the faint spatial fluctuations in the redshifted 21 cm emission from the EoR.” Then edit existing sentence to :“This is discussed in more detail in \S 4.2.3 but the power spectrum for thermal noise in the interferometer should follow”
+
+pg 50, top “For the first generation…” —> “The expected level of thermal noise in first generation experiments should mostly prohibit constructing detailed maps of the redshifted 21 cm signal.”
+
+pg 50 I think Figure 1.14 is a bit out of date since old configurations for the various instruments were considered. It is likely optimistic in the assumed specs for the different surveys, but on the other hand assuming the 21 cm signal is produced only by density flucs underestimates the imaging prospects. You might mention this here. In any case, you make improved forecasts of the imaging capabilities with your Weiner Filter analysis in the later chapter/paper.
+
+pg 50, you might say something like “Although the signal to noise in each Fourier mode is generally expected to be small, one can still make a statistical detection; for example, one can bin together many individually noisy modes to detect the power spectrum of 21 cm fluctuations.” or something like this…
+
+pg 50 bottom “reaches its midpoint” —> “reaches its midpoint (defined here as the redshift at which $\sim 50\%$ of the volume is in the ionized phase)”
+
+pg 53 caption “This figure shows” —> “Precentage of “imaged” (SNR > 1) pixels…”
+
+pg 54 caption Add: “The redshift evolution of the 21 cm power spectrum in simulated models of reionization” or something like this to the beginning of the caption.
+
+pg 57 above Figure 1.18 add “(described below)” after “pathfinder for HERA”
+
+pg 57 Regarding HERA: I think the present plan is ultimately to reach 331 elements, rather than 547 but possible I am mistaken.
+
+pg 58 and 59 captions need names “HERA” and “LOFAR” respectively.
+
+pg 60 After Eq. 1.55 “As mentioned earlier…” —> “As we discuss subsequently, the current expectation is that X-ray heating will boost the kinetic temperature of the gas in the IGM to much above the CMB temperature significantly before reionization completes. This may happen throughout much of the IGM volume by the time only $\sim 10\%$ of the volume is ionized. At this point, the Wouthuysen-Field effect (see below) should also have succeeded in coupling the gas kinetic and spin temperatures, and so the spin temperature will be globally larger than the CMB temperature. In this case, the spin temperature factor will (approximately) drop out of Eq. 1.55.” (Add cites) Or something like this…
+
+pg 61 z > 150 “ “temperature is equal to the CMB” —> “the gas temperature is itself coupled to the CMB temperature”…briefly describe coupling.
+
+pg 61 In this timeline you need to briefly describe the physics of the WF effect.
+
+pg 61 z<5.5 “The 21-cm signal is still observable…” follow with instead “from neutral gas in galaxies and DLAs which retain self-shielded neutral gas after reionization.”
+
+pg 62 I would replace Fig 1.22 with Figure 1 of Pritchard & Loeb arXiv:1109.6012. This looks nicer. You can add labels with the coupling mechanisms onto the P&L figure.
+
+pg 64, par 1 edit “collisions between its constituent…” —> “if atoms momentarily formed, they were immediately stripped apart, mostly from collisions with photons above the ionization threshold.”
+
+pg 64, par 1 last sentence edit to “Because of this, the CMB photons propagate to us from a so-called “surface of last scattering.”
+
+pg 65 Change everywhere “Thompson scattering” —> “Thomson scattering”
+
+pg 65 “The first observable we discuss..” —> “The first observable we discuss is the optical depth of CMB photons to Thomson scattering off of free electrons produced during and after reionization.”
+
+pg 65 “As mentioned earlier…” —> “As mentioned earlier, just after leaving the last-scattering surface CMB photons encounter a low enough density of free electrons to propagate unimpeded.”
+
+pg 65 No approx sign in Eq 1.59 or in alpha needed.
+
+pg 66 “Thus, we see that…” —> “Thus, we see that a measurement of the optical depth of CMB photons to Thomson scattering off of electrons released during reionization provides an integral constraint on $\avg{x_{\rm HI}(z)}$.
+
+pg 66, edit last sentence of par 1 to: “The instantaneous reionization model is not to be taken seriously, but it nevertheless provides a rough indication of the typical redshifts at which reionization occurs.” I would remove the footnote.
+
+pg 66 Edit last sentence of par 2 to “This shows a quadropole variation in the intensity of radiation incident on a free electron. In this case, the radiation intensity incident from the left is greater than that from above and this generates a net {\em vertical} polarization after Thomson scattering.” or something like this.
+
+pg 69, par 3 edit “Second, since the patchy…” —> “Second, since the patchy KSZ signal is sourced by ionized bubbles, it is sensitive to the size of the ionized regions, and the strength will also increase with patchier models of reionization.”
+
+pg 69, par 3 last sentence edit to “As such, if the kSZ is found to be smaller than expected, this might indicate a more homogeneous reionization process; this could, for example, imply a significant contribution from X-ray emitting sources (Visbal and Loeb 170).”
+
+pg 71, par 2 regarding Ly-a photons escaping in a ionized IGM. This is not quite right because the opacity in an ionized IGM is so high that the *blue* side of a Ly-a line is almost entirely absorbed at the redshifts of interest. The red-side of the line can generally escape in the ionized case, since if the IGM is highly ionized the damping-wing has a negligible effect. Large-scale infall in an ionized IGM can also absorb red-side flux, however.
+
+pg 74, end of par 1 “Lyman limit” —> “Ly-a”
+
+pg 74, end of par 2 “some uncertainties due to the overall..” —> “some of the overall redshift evolution in the {\em intrinsic properties} of the observed galaxies, unrelated to the EoR, will drop out.”
+
+pg 75 below 1.2.5 edit sentence to “Luminosity functions describe the abundance of sources, in this case galaxies, as a function of their luminosity (here in the rest-frame ultraviolet part of the electromagnetic spectrum, near $1350 \Ang$).
+
+pg 75 Edit last sentence of the footnote to “but this conclusion requires a high escape fraction; more than $20\%$ of the ionizing photons must be able to escape from the galaxy.”
+
+pg 76, par 2 “by z~6” add “, even assuming $f_{\rm esc} = 0.2$”
+
+Figure 1.25: Try to avoid starting caption headings with phrases like “The above figure…” Instead just put “Several constraints on the IGM neutral fraction, $\avg{x_{\rm HI}$, from the literature, here compiled by (147)” or something like this.
+
+Add some summary of Chapter 1 at the end to transition to the rest of the thesis.
+
+
+
+

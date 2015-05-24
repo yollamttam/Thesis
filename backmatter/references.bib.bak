@@ -48,10 +48,8 @@
   Archiveprefix            = {arXiv},
   Collaboration            = {Planck Collaboration},
   Eprint                   = {1303.5076},
-  Owner                    = {matt},
   Primaryclass             = {astro-ph.CO},
-  Slaccitation             = {%%CITATION = ARXIV:1303.5076;%%},
-  Timestamp                = {2015.05.22}
+  Slaccitation             = {%%CITATION = ARXIV:1303.5076;%%}
 }
 
 @Article{Ade:2013zuv,
@@ -62,8 +60,10 @@
   Archiveprefix            = {arXiv},
   Collaboration            = {Planck Collaboration},
   Eprint                   = {1303.5076},
+  Owner                    = {matt},
   Primaryclass             = {astro-ph.CO},
-  Slaccitation             = {%%CITATION = ARXIV:1303.5076;%%}
+  Slaccitation             = {%%CITATION = ARXIV:1303.5076;%%},
+  Timestamp                = {2015.05.22}
 }
 
 @Article{ali2015paper,
@@ -196,7 +196,7 @@
 
 @Article{Becker:2014oga,
   Title                    = {{Evidence of patchy hydrogen reionization from an extreme
- Ly{$\alpha$} trough below redshift six}},
+ Lya trough below redshift six}},
   Author                   = {Becker, George D. and Bolton, James S. and Madau, Piero
  and Pettini, Max and Ryan-Weber, Emma V. and others},
   Year                     = {2014},
@@ -208,7 +208,7 @@
 }
 
 @Article{2013MNRAS.430.2067B,
-  Title                    = {{A refined measurement of the mean transmitted flux in the Ly{$\alpha$} forest over {$2 < z < 5$} using composite quasar spectra}},
+  Title                    = {{A refined measurement of the mean transmitted flux in the Lya forest over {$2 < z < 5$} using composite quasar spectra}},
   Author                   = {{Becker}, G.~D. and {Hewett}, P.~C. and {Worseck}, G. and {Prochaska}, J.~X. },
   Journal                  = {MNRAS},
   Year                     = {2013},
@@ -227,7 +227,7 @@
 }
 
 @Article{Becker2013,
-  Title                    = {{A refined measurement of the mean transmitted flux in the Ly{$\alpha$} forest over {$2 < z < 5$} using composite quasar spectra}},
+  Title                    = {{A refined measurement of the mean transmitted flux in the Lya forest over {$2 < z < 5$} using composite quasar spectra}},
   Author                   = {{Becker}, G.~D. and {Hewett}, P.~C. and {Worseck}, G. and {Prochaska}, J.~X. },
   Journal                  = {MNRAS},
   Year                     = {2013},
@@ -250,7 +250,7 @@
 
 @Article{Becker:2012aq,
   Title                    = {{A Refined Measurement of the Mean Transmitted Flux in
- the Ly-alpha Forest over 2 \&lt; z \&lt; 5 Using Composite
+ the Ly-alpha Forest over {2 < z < 5} Using Composite
  Quasar Spectra}},
   Author                   = {Becker, George D. and Hewett, Paul C. and Worseck, Gabor
  and Prochaska, J. Xavier},
@@ -306,9 +306,9 @@
 }
 
 @Article{Becker2001,
-  Title                    = {{Evidence for Reionization at z\~{}6: Detection of a Gunn-Peterson Trough in a z=6.28 Quasar}},
+  Title                    = {{Evidence for Reionization at z{$\sim$}6: Detection of a Gunn-Peterson Trough in a z=6.28 Quasar}},
   Author                   = {{Becker}, R.~H. and {Fan}, X. and {White}, R.~L. and {Strauss}, M.~A. and {Narayanan}, V.~K. and {Lupton}, R.~H. and {Gunn}, J.~E. and {Annis}, J. and {Bahcall}, N.~A. and {Brinkmann}, J. and {Connolly}, A.~J. and {Csabai}, I. and {Czarapata}, P.~C. and {Doi}, M. and {Heckman}, T.~M. and {Hennessy}, G.~S. and {Ivezi{\'c}}, {\v Z}. and {Knapp}, G.~R. and {Lamb}, D.~Q. and {McKay}, T.~A. and {Munn}, J.~A. and {Nash}, T. and {Nichol}, R. and {Pier}, J.~R. and {Richards}, G.~T. and {Schneider}, D.~P. and {Stoughton}, C. and {Szalay}, A.~S. and {Thakar}, A.~R. and {York}, D.~G.},
-  Journal                  = {\aj},
+  Journal                  = {ApJ},
   Year                     = {2001},
 
   Month                    = dec,
@@ -338,11 +338,9 @@
   Collaboration            = {SDSS Collaboration},
   Doi                      = {10.1086/324231},
   Eprint                   = {astro-ph/0108097},
-  Owner                    = {matt},
   Primaryclass             = {astro-ph},
   Reportnumber             = {FERMILAB-PUB-01-471-A},
-  Slaccitation             = {%%CITATION = ASTRO-PH/0108097;%%},
-  Timestamp                = {2015.05.22}
+  Slaccitation             = {%%CITATION = ASTRO-PH/0108097;%%}
 }
 
 @Article{Becker:2001ee,
@@ -358,9 +356,11 @@
   Collaboration            = {SDSS Collaboration},
   Doi                      = {10.1086/324231},
   Eprint                   = {astro-ph/0108097},
+  Owner                    = {matt},
   Primaryclass             = {astro-ph},
   Reportnumber             = {FERMILAB-PUB-01-471-A},
-  Slaccitation             = {%%CITATION = ASTRO-PH/0108097;%%}
+  Slaccitation             = {%%CITATION = ASTRO-PH/0108097;%%},
+  Timestamp                = {2015.05.22}
 }
 
 @Article{Bennett:2012zja,
@@ -480,7 +480,7 @@
 }
 
 @Article{Bolton2011,
-  Title                    = {{Improved measurements of the intergalactic medium temperature around quasars: possible evidence for the initial stages of He-II reionisation at z\~{}6}},
+  Title                    = {{Improved measurements of the intergalactic medium temperature around quasars: possible evidence for the initial stages of He-II reionisation at z{$\sim$}6}},
   Author                   = {{Bolton}, J.~S. and {Becker}, G.~D. and {Raskutti}, S. and {Wyithe}, J.~S.~B. and {Haehnelt}, M.~G. and {Sargent}, W.~L.~W.},
   Journal                  = {ArXiv e-prints},
   Year                     = {2011},
@@ -518,7 +518,7 @@
 }
 
 @Article{2013MNRAS.429.1695B,
-  Title                    = {{On the rapid demise of Ly {$\alpha$} emitters at redshift {$z \gtrsim 7$} due to the increasing incidence of optically thick absorption systems}},
+  Title                    = {{On the rapid demise of Lya emitters at redshift {$z > 7$} due to the increasing incidence of optically thick absorption systems}},
   Author                   = {{Bolton}, J.~S. and {Haehnelt}, M.~G.},
   Journal                  = {MNRAS},
   Year                     = {2013},
@@ -537,7 +537,7 @@
 }
 
 @Article{bolton2013rapid,
-  Title                    = {On the rapid demise of Ly $\alpha$ emitters at redshift z≳ 7 due to the increasing incidence of optically thick absorption systems},
+  Title                    = {On the rapid demise of Lya emitters at redshift z≳ 7 due to the increasing incidence of optically thick absorption systems},
   Author                   = {Bolton, James S and Haehnelt, Martin G},
   Journal                  = {Monthly Notices of the Royal Astronomical Society},
   Year                     = {2013},
@@ -625,7 +625,7 @@
 @Article{Bouwens:2011xu,
   Title                    = {{Lower-Luminosity Galaxies could reionize the Universe:
  Very Steep Faint-End Slopes to the UV Luminosity Functions
- at z\&gt;=5-8 from the HUDF09 WFC3/IR Observations}},
+ at z>5-8 from the HUDF09 WFC3/IR Observations}},
   Author                   = {Bouwens, R.J. and Illingworth, G.D. and Oesch, P.A. and
  Trenti, M. and Labbe, I. and others},
   Year                     = {2011},
@@ -799,7 +799,7 @@
 }
 
 @Article{caruana2012no,
-  Title                    = {No evidence for Lyman $\alpha$ emission in spectroscopy of z> 7 candidate galaxies},
+  Title                    = {No evidence for Lyman-alpha emission in spectroscopy of z> 7 candidate galaxies},
   Author                   = {Caruana, Joseph and Bunker, Andrew J and Wilkins, Stephen M and Stanway, Elizabeth R and Lacy, Mark and Jarvis, Matt J and Lorenzoni, Silvio and Hickey, Samantha},
   Journal                  = {Monthly Notices of the Royal Astronomical Society},
   Year                     = {2012},
@@ -811,7 +811,7 @@
 }
 
 @Article{caruana2014spectroscopy,
-  Title                    = {Spectroscopy of z~ 7 candidate galaxies: using Lyman $\alpha$ to constrain the neutral fraction of hydrogen in the high-redshift universe},
+  Title                    = {Spectroscopy of z~ 7 candidate galaxies: using Lyman-alpha to constrain the neutral fraction of hydrogen in the high-redshift universe},
   Author                   = {Caruana, Joseph and Bunker, Andrew J and Wilkins, Stephen M and Stanway, Elizabeth R and Lorenzoni, Silvio and Jarvis, Matt J and Ebert, Holly},
   Journal                  = {Monthly Notices of the Royal Astronomical Society},
   Year                     = {2014},
@@ -842,7 +842,7 @@
 }
 
 @Article{Cen2009,
-  Title                    = {{Probing the Epoch of Reionization with the Ly{$\alpha$} Forest at z \~{} 4-5}},
+  Title                    = {{Probing the Epoch of Reionization with the Lya Forest at z {$\sim$} 4-5}},
   Author                   = {{Cen}, R. and {McDonald}, P. and {Trac}, H. and {Loeb}, A.},
   Journal                  = {ApJl},
   Year                     = {2009},
@@ -1051,7 +1051,7 @@
 }
 
 @Article{Compostella2013,
-  Title                    = {{The imprint of inhomogeneous He II reionization on the H I and He II Ly{$\alpha$} forest}},
+  Title                    = {{The imprint of inhomogeneous He II reionization on the H I and He II Lya forest}},
   Author                   = {{Compostella}, M. and {Cantalupo}, S. and {Porciani}, C.},
   Journal                  = {MNRAS},
   Year                     = {2013},
@@ -1114,10 +1114,8 @@
   Archiveprefix            = {arXiv},
   Doi                      = {10.1086/344099},
   Eprint                   = {astro-ph/0012324},
-  Owner                    = {matt},
   Primaryclass             = {astro-ph},
-  Slaccitation             = {%%CITATION = ASTRO-PH/0012324;%%},
-  Timestamp                = {2015.05.22}
+  Slaccitation             = {%%CITATION = ASTRO-PH/0012324;%%}
 }
 
 @Article{Croft:2000hs,
@@ -1133,12 +1131,14 @@
   Archiveprefix            = {arXiv},
   Doi                      = {10.1086/344099},
   Eprint                   = {astro-ph/0012324},
+  Owner                    = {matt},
   Primaryclass             = {astro-ph},
-  Slaccitation             = {%%CITATION = ASTRO-PH/0012324;%%}
+  Slaccitation             = {%%CITATION = ASTRO-PH/0012324;%%},
+  Timestamp                = {2015.05.22}
 }
 
 @Article{Croft2002,
-  Title                    = {{Toward a Precise Measurement of Matter Clustering: Ly{$\alpha$} Forest Data at Redshifts 2-4}},
+  Title                    = {{Toward a Precise Measurement of Matter Clustering: Lya Forest Data at Redshifts 2-4}},
   Author                   = {{Croft}, R.~A.~C. and {Weinberg}, D.~H. and {Bolte}, M. and {Burles}, S. and {Hernquist}, L. and {Katz}, N. and {Kirkman}, D. and {Tytler}, D.},
   Journal                  = {ApJ},
   Year                     = {2002},
@@ -1321,7 +1321,7 @@
 }
 
 @Article{Dijkstra2004,
-  Title                    = {{Beyond Ly{$\alpha$}: Constraints and Consistency Tests from the Ly{$\beta$} Forest}},
+  Title                    = {{Beyond Lya: Constraints and Consistency Tests from the Lyb Forest}},
   Author                   = {{Dijkstra}, M. and {Lidz}, A. and {Hui}, L.},
   Journal                  = {ApJ},
   Year                     = {2004},
@@ -1423,7 +1423,7 @@
 }
 
 @Article{fan2002evolution,
-  Title                    = {Evolution of the Ionizing Background and the Epoch of Reionization from the Spectra of z\~{} 6 Quasars},
+  Title                    = {Evolution of the Ionizing Background and the Epoch of Reionization from the Spectra of z{$\sim$} 6 Quasars},
   Author                   = {Fan, Xiaohui and Narayanan, Vijay K and Strauss, Michael A and White, Richard L and Becker, Robert H and Pentericci, Laura and Rix, Hans-Walter},
   Journal                  = {The Astronomical Journal},
   Year                     = {2002},
@@ -1453,7 +1453,7 @@
 }
 
 @Article{Fan2006a,
-  Title                    = {{Constraining the Evolution of the Ionizing Background and the Epoch of Reionization with z\~{}6 Quasars. II. A Sample of 19 Quasars}},
+  Title                    = {{Constraining the Evolution of the Ionizing Background and the Epoch of Reionization with z{$\sim$}6 Quasars. II. A Sample of 19 Quasars}},
   Author                   = {{Fan}, X. and {Strauss}, M.~A. and {Becker}, R.~H. and {White}, R.~L. and {Gunn}, J.~E. and {Knapp}, G.~R. and {Richards}, G.~T. and {Schneider}, D.~P. and {Brinkmann}, J. and {Fukugita}, M.},
   Journal                  = {Astrophysical Journal},
   Year                     = {2006},
@@ -1489,7 +1489,7 @@
   Owner                    = {matt},
   Primaryclass             = {astro-ph},
   Slaccitation             = {%%CITATION = ASTRO-PH/0512082;%%},
-  Timestamp                = {2015.05.22}
+  Timestamp                = {2015.05.21}
 }
 
 @Article{Fan:2005es,
@@ -1527,7 +1527,7 @@
   Owner                    = {matt},
   Primaryclass             = {astro-ph},
   Slaccitation             = {%%CITATION = ASTRO-PH/0512082;%%},
-  Timestamp                = {2015.05.21}
+  Timestamp                = {2015.05.22}
 }
 
 @Article{Fan2006,
@@ -1574,9 +1574,9 @@
 }
 
 @Article{2008ApJ...681..831F,
-  Title                    = {{A Direct Precision Measurement of the Intergalactic Ly{$\alpha$} Opacity at 2 {\lt}= z {\lt}= 4.2}},
+  Title                    = {{A Direct Precision Measurement of the Intergalactic Lya Opacity at 2 {<}= z {<}= 4.2}},
   Author                   = {{Faucher-Gigu{\`e}re}, C.-A. and {Prochaska}, J.~X. and {Lidz}, A. and {Hernquist}, L. and {Zaldarriaga}, M.},
-  Journal                  = {\apj},
+  Journal                  = {ApJ},
   Year                     = {2008},
 
   Month                    = jul,
@@ -1594,7 +1594,7 @@
 }
 
 @Article{Faucher-Giguere2008,
-  Title                    = {{A Direct Precision Measurement of the Intergalactic Ly{$\alpha$} Opacity at {$2 \leq z \leq 4.2$}}},
+  Title                    = {{A Direct Precision Measurement of the Intergalactic Lya Opacity at {$2 \leq z \leq 4.2$}}},
   Author                   = {{Faucher-Gigu{\`e}re}, C.-A. and {Prochaska}, J.~X. and {Lidz}, A. and {Hernquist}, L. and {Zaldarriaga}, M.},
   Journal                  = {ApJ},
   Year                     = {2008},
@@ -1782,7 +1782,7 @@
   Owner                    = {matt},
   Primaryclass             = {astro-ph},
   Slaccitation             = {%%CITATION = ASTRO-PH/0403697;%%},
-  Timestamp                = {2015.05.22}
+  Timestamp                = {2015.05.21}
 }
 
 @Article{Furlanetto:2004nh,
@@ -1816,7 +1816,7 @@
   Owner                    = {matt},
   Primaryclass             = {astro-ph},
   Slaccitation             = {%%CITATION = ASTRO-PH/0403697;%%},
-  Timestamp                = {2015.05.21}
+  Timestamp                = {2015.05.22}
 }
 
 @Article{Furlanetto2004,
@@ -1993,7 +1993,7 @@
 @Article{1965ApJ...142.1633G,
   Title                    = {{On the Density of Neutral Hydrogen in Intergalactic Space.}},
   Author                   = {{Gunn}, J.~E. and {Peterson}, B.~A.},
-  Journal                  = {\apj},
+  Journal                  = {ApJ},
   Year                     = {1965},
 
   Month                    = nov,
@@ -2002,9 +2002,7 @@
 
   Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
   Adsurl                   = {http://adsabs.harvard.edu/abs/1965ApJ...142.1633G},
-  Doi                      = {10.1086/148444},
-  Owner                    = {matt},
-  Timestamp                = {2015.05.22}
+  Doi                      = {10.1086/148444}
 }
 
 @Article{1965ApJ...142.1633G,
@@ -2019,7 +2017,9 @@
 
   Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
   Adsurl                   = {http://adsabs.harvard.edu/abs/1965ApJ...142.1633G},
-  Doi                      = {10.1086/148444}
+  Doi                      = {10.1086/148444},
+  Owner                    = {matt},
+  Timestamp                = {2015.05.22}
 }
 
 @Article{Gunn1965,
@@ -2077,6 +2077,18 @@
   Reportnumber             = {MPA-883},
   Slaccitation             = {%%CITATION = ASTRO-PH/9507077;%%},
   Timestamp                = {2015.04.01}
+}
+
+@Article{hansen2004we,
+  Title                    = {Do we need stars to reionize the universe at high redshifts? Early reionization by decaying heavy sterile neutrinos},
+  Author                   = {Hansen, Steen H and Haiman, Zoltan},
+  Journal                  = {The Astrophysical Journal},
+  Year                     = {2004},
+  Number                   = {1},
+  Pages                    = {26},
+  Volume                   = {600},
+
+  Publisher                = {IOP Publishing}
 }
 
 @Article{Harker:2010ht,
@@ -2372,10 +2384,22 @@
   Timestamp                = {2015.04.01}
 }
 
+@Article{kasuya2004early,
+  Title                    = {Early reionization by decaying particles and cosmic microwave background radiation},
+  Author                   = {Kasuya, S and Kawasaki, M},
+  Journal                  = {Physical Review D},
+  Year                     = {2004},
+  Number                   = {10},
+  Pages                    = {103519},
+  Volume                   = {70},
+
+  Publisher                = {APS}
+}
+
 @Article{2007ApJ...657...15K,
   Title                    = {{Large-Scale Simulations of Reionization}},
   Author                   = {{Kohler}, K. and {Gnedin}, N.~Y. and {Hamilton}, A.~J.~S.},
-  Journal                  = {\apj},
+  Journal                  = {ApJ},
   Year                     = {2007},
 
   Month                    = mar,
@@ -2522,7 +2546,7 @@
   Owner                    = {matt},
   Primaryclass             = {astro-ph.CO},
   Slaccitation             = {%%CITATION = ARXIV:1201.0757;%%},
-  Timestamp                = {2015.05.22}
+  Timestamp                = {2015.05.21}
 }
 
 @Article{Kuhlen:2012vy,
@@ -2536,7 +2560,7 @@
   Owner                    = {matt},
   Primaryclass             = {astro-ph.CO},
   Slaccitation             = {%%CITATION = ARXIV:1201.0757;%%},
-  Timestamp                = {2015.05.21}
+  Timestamp                = {2015.05.22}
 }
 
 @Article{Kuhlen2012,
@@ -2574,7 +2598,7 @@
 }
 
 @Article{Lai2006,
-  Title                    = {{The Impact of Temperature Fluctuations on the Ly{$\alpha$} Forest Power Spectrum}},
+  Title                    = {{The Impact of Temperature Fluctuations on the Lya Forest Power Spectrum}},
   Author                   = {{Lai}, K. and {Lidz}, A. and {Hernquist}, L. and {Zaldarriaga}, M. },
   Journal                  = {ApJ},
   Year                     = {2006},
@@ -2643,7 +2667,7 @@
 }
 
 @Article{Lidz2010,
-  Title                    = {{A Measurement of Small-scale Structure in the {$2.2 \leq z \leq 4.2$} Ly{$\alpha$} Forest}},
+  Title                    = {{A Measurement of Small-scale Structure in the {$2.2 \leq z \leq 4.2$} Lya Forest}},
   Author                   = {{Lidz}, A. and {Faucher-Gigu{\`e}re}, C.-A. and {Dall'Aglio}, A. and {McQuinn}, M. and {Fechner}, C. and {Zaldarriaga}, M. and {Hernquist}, L. and {Dutta}, S.},
   Journal                  = {ApJ},
   Year                     = {2010},
@@ -2664,8 +2688,8 @@
 }
 
 @Article{Lidz:2009ca,
-  Title                    = {{A Measurement of Small Scale Structure in the 2.2 \&lt; z
- \&lt; 4.2 Lyman-alpha Forest}},
+  Title                    = {{A Measurement of Small Scale Structure in the 2.2 < z
+ < 4.2 Lyman-alpha Forest}},
   Author                   = {Lidz, Adam and Faucher-Giguere, C.-A. and Dall'Aglio,
  Aldo and McQuinn, Matthew and Fechner, Cora and others},
   Journal                  = {Astrophys.J.},
@@ -2725,8 +2749,10 @@
   Archiveprefix            = {arXiv},
   Doi                      = {10.1086/521974},
   Eprint                   = {astro-ph/0703667},
+  Owner                    = {matt},
   Primaryclass             = {ASTRO-PH},
-  Slaccitation             = {%%CITATION = ASTRO-PH/0703667;%%}
+  Slaccitation             = {%%CITATION = ASTRO-PH/0703667;%%},
+  Timestamp                = {2015.05.22}
 }
 
 @Article{Lidz:2007mz,
@@ -2740,10 +2766,8 @@
   Archiveprefix            = {arXiv},
   Doi                      = {10.1086/521974},
   Eprint                   = {astro-ph/0703667},
-  Owner                    = {matt},
   Primaryclass             = {ASTRO-PH},
-  Slaccitation             = {%%CITATION = ASTRO-PH/0703667;%%},
-  Timestamp                = {2015.05.22}
+  Slaccitation             = {%%CITATION = ASTRO-PH/0703667;%%}
 }
 
 @Article{Lidz2007,
@@ -2948,9 +2972,8 @@
   Publisher                = {Princeton University Press},
   Year                     = {2010},
 
-  __markedentry            = {[matt:]},
   Owner                    = {matt},
-  Timestamp                = {2015.04.01}
+  Timestamp                = {2015.05.21}
 }
 
 @Book{Loeb2010,
@@ -2959,8 +2982,9 @@
   Publisher                = {Princeton University Press},
   Year                     = {2010},
 
+  __markedentry            = {[matt:]},
   Owner                    = {matt},
-  Timestamp                = {2015.05.21}
+  Timestamp                = {2015.04.01}
 }
 
 @Article{Lonsdale:2009cb,
@@ -3003,7 +3027,7 @@
 @Article{1999ApJ...514..648M,
   Title                    = {{Radiative Transfer in a Clumpy Universe. III. The Nature of Cosmological Ionizing Sources}},
   Author                   = {{Madau}, P. and {Haardt}, F. and {Rees}, M.~J.},
-  Journal                  = {\apj},
+  Journal                  = {ApJ},
   Year                     = {1999},
 
   Month                    = apr,
@@ -3076,6 +3100,30 @@
   Timestamp                = {2015.04.01}
 }
 
+@Article{malloy2015search,
+  Title                    = {How to Search for Islands of Neutral Hydrogen in the z\~{} 5.5 IGM},
+  Author                   = {Malloy, Matthew and Lidz, Adam},
+  Journal                  = {The Astrophysical Journal},
+  Year                     = {2015},
+  Number                   = {2},
+  Pages                    = {179},
+  Volume                   = {799},
+
+  Publisher                = {IOP Publishing}
+}
+
+@Article{malloy2013identifying,
+  Title                    = {Identifying Ionized Regions in Noisy Redshifted 21 cm Data Sets},
+  Author                   = {Malloy, Matthew and Lidz, Adam},
+  Journal                  = {The Astrophysical Journal},
+  Year                     = {2013},
+  Number                   = {1},
+  Pages                    = {68},
+  Volume                   = {767},
+
+  Publisher                = {IOP Publishing}
+}
+
 @Article{Mao:2011xp,
   Title                    = {{Redshift Space Distortion of the 21cm Background from
  the Epoch of Reionization I: Methodology Re-examined}},
@@ -3093,6 +3141,18 @@
   Primaryclass             = {astro-ph.CO},
   Slaccitation             = {%%CITATION = ARXIV:1104.2094;%%},
   Timestamp                = {2015.05.21}
+}
+
+@Article{mapelli2006impact,
+  Title                    = {Impact of dark matter decays and annihilations on reionization},
+  Author                   = {Mapelli, Michela and Ferrara, Andrea and Pierpaoli, Elena},
+  Journal                  = {Monthly Notices of the Royal Astronomical Society},
+  Year                     = {2006},
+  Number                   = {4},
+  Pages                    = {1719--1724},
+  Volume                   = {369},
+
+  Publisher                = {Oxford University Press}
 }
 
 @Article{Marian:2008fd,
@@ -3115,7 +3175,7 @@
 }
 
 @Article{McDonald2001,
-  Title                    = {{A Measurement of the Temperature-Density Relation in the Intergalactic Medium Using a New Ly{$\alpha$} Absorption-Line Fitting Method}},
+  Title                    = {{A Measurement of the Temperature-Density Relation in the Intergalactic Medium Using a New Lya Absorption-Line Fitting Method}},
   Author                   = {{McDonald}, P. and {Miralda-Escud{\'e}}, J. and {Rauch}, M. and {Sargent}, W.~L.~W. and {Barlow}, T.~A. and {Cen}, R.},
   Journal                  = {ApJ},
   Year                     = {2001},
@@ -3175,7 +3235,7 @@
 }
 
 @Article{McDonald2006,
-  Title                    = {{The Ly{$\alpha$} Forest Power Spectrum from the Sloan Digital Sky Survey}},
+  Title                    = {{The Lya Forest Power Spectrum from the Sloan Digital Sky Survey}},
   Author                   = {{McDonald}, P. and {Seljak}, U. and {Burles}, S. and {Schlegel}, D.~J. and {Weinberg}, D.~H. and {Cen}, R. and {Shih}, D. and {Schaye}, J. and {Schneider}, D.~P. and {Bahcall}, N.~A. and {Briggs}, J.~W. and {Brinkmann}, J. and {Brunner}, R.~J. and {Fukugita}, M. and {Gunn}, J.~E. and {Ivezi{\'c}}, {\v Z}. and {Kent}, S. and {Lupton}, R.~H. and {Vanden Berk}, D.~E.},
   Journal                  = {ApJs},
   Year                     = {2006},
@@ -3196,7 +3256,7 @@
 
 @Article{McGreer:2014qwa,
   Title                    = {{Model-independent evidence in favour of an end to
- reionization by $z \approx$ 6}},
+ reionization by {$z \approx$ 6}}},
   Author                   = {McGreer, Ian and Mesinger, Andrei and D'Odorico,
  Valentina},
   Journal                  = {Mon.Not.Roy.Astron.Soc.},
@@ -3220,8 +3280,10 @@
 
   Archiveprefix            = {arXiv},
   Eprint                   = {1101.3314},
+  Owner                    = {matt},
   Primaryclass             = {astro-ph.CO},
-  Slaccitation             = {%%CITATION = ARXIV:1101.3314;%%}
+  Slaccitation             = {%%CITATION = ARXIV:1101.3314;%%},
+  Timestamp                = {2015.05.22}
 }
 
 @Article{McGreer:2011dm,
@@ -3232,10 +3294,8 @@
 
   Archiveprefix            = {arXiv},
   Eprint                   = {1101.3314},
-  Owner                    = {matt},
   Primaryclass             = {astro-ph.CO},
-  Slaccitation             = {%%CITATION = ARXIV:1101.3314;%%},
-  Timestamp                = {2015.05.22}
+  Slaccitation             = {%%CITATION = ARXIV:1101.3314;%%}
 }
 
 @Article{McGreer2011,
@@ -3319,7 +3379,7 @@
 }
 
 @Article{McQuinn2011a,
-  Title                    = {{The signatures of large-scale temperature and intensity fluctuations in the Lyman {$\alpha$} forest}},
+  Title                    = {{The signatures of large-scale temperature and intensity fluctuations in the Lyman-alpha forest}},
   Author                   = {{McQuinn}, M. and {Hernquist}, L. and {Lidz}, A. and {Zaldarriaga}, M. },
   Journal                  = {MNRAS},
   Year                     = {2011},
@@ -3350,8 +3410,10 @@
 
   Archiveprefix            = {arXiv},
   Eprint                   = {0704.2239},
+  Owner                    = {matt},
   Primaryclass             = {astro-ph},
-  Slaccitation             = {%%CITATION = ARXIV:0704.2239;%%}
+  Slaccitation             = {%%CITATION = ARXIV:0704.2239;%%},
+  Timestamp                = {2015.05.22}
 }
 
 @Article{McQuinn:2007dy,
@@ -3365,14 +3427,12 @@
 
   Archiveprefix            = {arXiv},
   Eprint                   = {0704.2239},
-  Owner                    = {matt},
   Primaryclass             = {astro-ph},
-  Slaccitation             = {%%CITATION = ARXIV:0704.2239;%%},
-  Timestamp                = {2015.05.22}
+  Slaccitation             = {%%CITATION = ARXIV:0704.2239;%%}
 }
 
 @Article{McQuinn2007b,
-  Title                    = {{Studying reionization with Ly{$\alpha$} emitters}},
+  Title                    = {{Studying reionization with Lya emitters}},
   Author                   = {{McQuinn}, M. and {Hernquist}, L. and {Zaldarriaga}, M. and {Dutta}, S.},
   Journal                  = {MNRAS},
   Year                     = {2007},
@@ -3404,8 +3464,10 @@
   Archiveprefix            = {arXiv},
   Doi                      = {10.1111/j.1365-2966.2007.11489.x},
   Eprint                   = {astro-ph/0610094},
+  Owner                    = {matt},
   Primaryclass             = {astro-ph},
-  Slaccitation             = {%%CITATION = ASTRO-PH/0610094;%%}
+  Slaccitation             = {%%CITATION = ASTRO-PH/0610094;%%},
+  Timestamp                = {2015.05.21}
 }
 
 @Article{McQuinn:2006et,
@@ -3438,10 +3500,8 @@
   Archiveprefix            = {arXiv},
   Doi                      = {10.1111/j.1365-2966.2007.11489.x},
   Eprint                   = {astro-ph/0610094},
-  Owner                    = {matt},
   Primaryclass             = {astro-ph},
-  Slaccitation             = {%%CITATION = ASTRO-PH/0610094;%%},
-  Timestamp                = {2015.05.21}
+  Slaccitation             = {%%CITATION = ASTRO-PH/0610094;%%}
 }
 
 @Article{McQuinn2007,
@@ -3615,7 +3675,7 @@
 }
 
 @Article{2010MNRAS.407.1328M,
-  Title                    = {{Was reionization complete by z \~{} 5-6?}},
+  Title                    = {{Was reionization complete by z {$\sim$} 5-6?}},
   Author                   = {{Mesinger}, A.},
   Journal                  = {MNRAS},
   Year                     = {2010},
@@ -3634,7 +3694,7 @@
 }
 
 @Article{Mesinger2010a,
-  Title                    = {{Was reionization complete by z \~{} 5-6?}},
+  Title                    = {{Was reionization complete by z {$\sim$} 5-6?}},
   Author                   = {{Mesinger}, A.},
   Journal                  = {MNRAS},
   Year                     = {2010},
@@ -3662,8 +3722,10 @@
 
   Archiveprefix            = {arXiv},
   Eprint                   = {0910.4161},
+  Owner                    = {matt},
   Primaryclass             = {astro-ph.CO},
-  Slaccitation             = {%%CITATION = ARXIV:0910.4161;%%}
+  Slaccitation             = {%%CITATION = ARXIV:0910.4161;%%},
+  Timestamp                = {2015.05.22}
 }
 
 @Article{Mesinger:2009mv,
@@ -3673,10 +3735,8 @@
 
   Archiveprefix            = {arXiv},
   Eprint                   = {0910.4161},
-  Owner                    = {matt},
   Primaryclass             = {astro-ph.CO},
-  Slaccitation             = {%%CITATION = ARXIV:0910.4161;%%},
-  Timestamp                = {2015.05.22}
+  Slaccitation             = {%%CITATION = ARXIV:0910.4161;%%}
 }
 
 @Article{Mesinger:2007pd,
@@ -3779,7 +3839,7 @@
 @Article{1994MNRAS.266..343M,
   Title                    = {{Reionization and thermal evolution of a photoionized intergalactic medium.}},
   Author                   = {{Miralda-Escud{\'e}}, J. and {Rees}, M.~J.},
-  Journal                  = {\mnras},
+  Journal                  = {MNRAS},
   Year                     = {1994},
 
   Month                    = jan,
@@ -3823,8 +3883,10 @@
   Archiveprefix            = {arXiv},
   Doi                      = {10.1086/305799},
   Eprint                   = {astro-ph/9708253},
+  Owner                    = {matt},
   Primaryclass             = {astro-ph},
-  Slaccitation             = {%%CITATION = ASTRO-PH/9708253;%%}
+  Slaccitation             = {%%CITATION = ASTRO-PH/9708253;%%},
+  Timestamp                = {2015.05.21}
 }
 
 @Article{MiraldaEscude:1997qb,
@@ -3839,10 +3901,26 @@
   Archiveprefix            = {arXiv},
   Doi                      = {10.1086/305799},
   Eprint                   = {astro-ph/9708253},
-  Owner                    = {matt},
   Primaryclass             = {astro-ph},
-  Slaccitation             = {%%CITATION = ASTRO-PH/9708253;%%},
-  Timestamp                = {2015.05.21}
+  Slaccitation             = {%%CITATION = ASTRO-PH/9708253;%%}
+}
+
+@Article{MiraldaEscude:1995bu,
+  Title                    = {{The Lyman alpha forest from gravitational collapse in
+ the CDM + Lambda Model}},
+  Author                   = {Miralda-Escude, Jordi and Cen, Ren-yue and Ostriker,
+ Jeremiah P. and Rauch, Michael},
+  Journal                  = {Astrophys.J.},
+  Year                     = {1996},
+  Pages                    = {582},
+  Volume                   = {471},
+
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1086/177992},
+  Eprint                   = {astro-ph/9511013},
+  Primaryclass             = {astro-ph},
+  Reportnumber             = {IASSNS-AST-95-44},
+  Slaccitation             = {%%CITATION = ASTRO-PH/9511013;%%}
 }
 
 @Article{MiraldaEscude:1995bu,
@@ -3863,24 +3941,6 @@
   Reportnumber             = {IASSNS-AST-95-44},
   Slaccitation             = {%%CITATION = ASTRO-PH/9511013;%%},
   Timestamp                = {2015.05.22}
-}
-
-@Article{MiraldaEscude:1995bu,
-  Title                    = {{The Lyman alpha forest from gravitational collapse in
- the CDM + Lambda Model}},
-  Author                   = {Miralda-Escude, Jordi and Cen, Ren-yue and Ostriker,
- Jeremiah P. and Rauch, Michael},
-  Journal                  = {Astrophys.J.},
-  Year                     = {1996},
-  Pages                    = {582},
-  Volume                   = {471},
-
-  Archiveprefix            = {arXiv},
-  Doi                      = {10.1086/177992},
-  Eprint                   = {astro-ph/9511013},
-  Primaryclass             = {astro-ph},
-  Reportnumber             = {IASSNS-AST-95-44},
-  Slaccitation             = {%%CITATION = ASTRO-PH/9511013;%%}
 }
 
 @Article{MiraldaEscude:1997en,
@@ -4027,7 +4087,7 @@
 }
 
 @Article{Ouchi:2010,
-  Title                    = {{Statistics of 207 Ly$\alpha$ Emitters at a Redshift Near 7: Constraints
+  Title                    = {{Statistics of 207 Lya Emitters at a Redshift Near 7: Constraints
  on Reionization and Galaxy Formation Models}},
   Author                   = {Ouchi, Masami and Shimasaku, Kazuhiro and Furusawa, Hisanori and others},
   Journal                  = {Astrophys.J.},
@@ -4044,7 +4104,7 @@
 }
 
 @Article{Ouchi2010,
-  Title                    = {{Statistics of 207 Ly$\alpha$ Emitters at a Redshift Near 7: Constraints
+  Title                    = {{Statistics of 207 Lya Emitters at a Redshift Near 7: Constraints
  on Reionization and Galaxy Formation Models}},
   Author                   = {Ouchi, Masami and Shimasaku, Kazuhiro and Furusawa, Hisanori and others},
   Journal                  = {Astrophys.J.},
@@ -4241,7 +4301,7 @@
 }
 
 @Article{Peeples2010,
-  Title                    = {{Pressure support versus thermal broadening in the Lyman {$\alpha$} forest - II. Effects of the equation of state on transverse structure}},
+  Title                    = {{Pressure support versus thermal broadening in the Lyman-alpha forest - II. Effects of the equation of state on transverse structure}},
   Author                   = {{Peeples}, M.~S. and {Weinberg}, D.~H. and {Dav{\'e}}, R. and {Fardal}, M.~A. and {Katz}, N.},
   Journal                  = {MNRAS},
   Year                     = {2010},
@@ -4282,7 +4342,7 @@
 }
 
 @Article{pentericci2011spectroscopic,
-  Title                    = {Spectroscopic confirmation of z\~{} 7 Lyman break galaxies: probing the earliest galaxies and the epoch of reionization},
+  Title                    = {Spectroscopic confirmation of z{$\sim$} 7 Lyman break galaxies: probing the earliest galaxies and the epoch of reionization},
   Author                   = {Pentericci, L and Fontana, A and Vanzella, E and Castellano, M and Grazian, A and Dijkstra, M and Boutsia, K and Cristiani, S and Dickinson, M and Giallongo, E and others},
   Journal                  = {The Astrophysical Journal},
   Year                     = {2011},
@@ -4335,10 +4395,22 @@
   Timestamp                = {2015.04.01}
 }
 
+@Article{pierpaoli2004decaying,
+  Title                    = {Decaying particles and the reionization history of the universe},
+  Author                   = {Pierpaoli, Elena},
+  Journal                  = {Physical review letters},
+  Year                     = {2004},
+  Number                   = {3},
+  Pages                    = {031301},
+  Volume                   = {92},
+
+  Publisher                = {APS}
+}
+
 @Article{PlanckCollaboration2014,
   Title                    = {{Planck 2013 results. XVI. Cosmological parameters}},
   Author                   = {{Planck Collaboration} and {Ade}, P.~A.~R. and {Aghanim}, N. and {Armitage-Caplan}, C. and {Arnaud}, M. and {Ashdown}, M. and {Atrio-Barandela}, F. and {Aumont}, J. and {Baccigalupi}, C. and {Banday}, A.~J. and et al.},
-  Journal                  = {\aap},
+  Journal                  = {Astronomy and Astrophysics},
   Year                     = {2014},
 
   Month                    = nov,
@@ -4461,7 +4533,7 @@
 @Article{1995ApJ...449..476R,
   Title                    = {{The Gunn-Peterson Effect from Underdense Regions in a Photoionized Intergalactic Medium}},
   Author                   = {{Reisenegger}, A. and {Miralda-Escude}, J.},
-  Journal                  = {\apj},
+  Journal                  = {ApJ},
   Year                     = {1995},
 
   Month                    = aug,
@@ -4562,8 +4634,10 @@
   Archiveprefix            = {arXiv},
   Doi                      = {10.1088/0004-637X/768/1/71},
   Eprint                   = {1301.1228},
+  Owner                    = {matt},
   Primaryclass             = {astro-ph.CO},
-  Slaccitation             = {%%CITATION = ARXIV:1301.1228;%%}
+  Slaccitation             = {%%CITATION = ARXIV:1301.1228;%%},
+  Timestamp                = {2015.05.22}
 }
 
 @Article{Robertson:2013bq,
@@ -4580,10 +4654,8 @@
   Archiveprefix            = {arXiv},
   Doi                      = {10.1088/0004-637X/768/1/71},
   Eprint                   = {1301.1228},
-  Owner                    = {matt},
   Primaryclass             = {astro-ph.CO},
-  Slaccitation             = {%%CITATION = ARXIV:1301.1228;%%},
-  Timestamp                = {2015.05.22}
+  Slaccitation             = {%%CITATION = ARXIV:1301.1228;%%}
 }
 
 @Article{Robertson2013,
@@ -4617,8 +4689,7 @@
   Series                   = {A Wiley-Interscience publication},
 
   ISBN                     = {9780471827597},
-  Lccn                     = {79015531},
-  Url                      = {http://books.google.com/books?id=LtdEjNABMlsC}
+  Lccn                     = {79015531}
 }
 
 @Book{sakurai2011modern,
@@ -4629,8 +4700,7 @@
   Series                   = {Classical Physics Textbook},
 
   ISBN                     = {9780805382914},
-  Lccn                     = {2010022349},
-  Url                      = {http://books.google.com/books?id=N4I-AQAACAAJ}
+  Lccn                     = {2010022349}
 }
 
 @Article{Salvaterra:2015gpa,
@@ -4715,9 +4785,9 @@
 }
 
 @Article{Schenker:2011ea,
-  Title                    = {{Keck Spectroscopy of Faint 3\&lt;z\&lt;8 Lyman Break
+  Title                    = {{Keck Spectroscopy of Faint 3<z<8 Lyman Break
  Galaxies:- Evidence for a Declining Fraction of Emission
- Line Sources In the Redshift Range 6\&lt;z\&lt;8}},
+ Line Sources In the Redshift Range 6<z<8}},
   Author                   = {Schenker, M.A. and Stark, D.P and Ellis, R.S. and
  Robertson, B.E. and Dunlop, J.S. and others},
   Journal                  = {Astrophys.J.},
@@ -4777,7 +4847,7 @@
 @Article{1987ApJ...321L.107S,
   Title                    = {{Cosmological H II regions and the photoionization of the intergalactic medium}},
   Author                   = {{Shapiro}, P.~R. and {Giroux}, M.~L.},
-  Journal                  = {\apjl},
+  Journal                  = {ApJl},
   Year                     = {1987},
 
   Month                    = oct,
@@ -4913,7 +4983,7 @@
 @Article{2005MNRAS.364.1105S,
   Title                    = {{The cosmological simulation code GADGET-2}},
   Author                   = {{Springel}, V.},
-  Journal                  = {\mnras},
+  Journal                  = {MNRAS},
   Year                     = {2005},
 
   Month                    = dec,
@@ -4973,7 +5043,7 @@
 }
 
 @Article{Syphers:2011uw,
-  Title                    = {{He II Ly{\beta} Gunn-Peterson Absorption: New HST
+  Title                    = {{He II Ly{$\beta$} Gunn-Peterson Absorption: New HST
  Observations, and Theoretical Expectations}},
   Author                   = {Syphers, David and Anderson, Scott F. and Zheng, Wei and
  Smith, Britton and Pieri, Matthew and others},
@@ -5137,8 +5207,10 @@
 
   Archiveprefix            = {arXiv},
   Eprint                   = {astro-ph/0512154},
+  Owner                    = {matt},
   Primaryclass             = {astro-ph},
-  Slaccitation             = {%%CITATION = ASTRO-PH/0512154;%%}
+  Slaccitation             = {%%CITATION = ASTRO-PH/0512154;%%},
+  Timestamp                = {2015.05.21}
 }
 
 @Article{Totani:2005ng,
@@ -5154,10 +5226,8 @@
 
   Archiveprefix            = {arXiv},
   Eprint                   = {astro-ph/0512154},
-  Owner                    = {matt},
   Primaryclass             = {astro-ph},
-  Slaccitation             = {%%CITATION = ASTRO-PH/0512154;%%},
-  Timestamp                = {2015.05.21}
+  Slaccitation             = {%%CITATION = ASTRO-PH/0512154;%%}
 }
 
 @Article{Totani2006,
@@ -5216,25 +5286,6 @@
 }
 
 @Article{Viel:2013fqw,
-  Title                    = {{Warm dark matter as a solution to the small scale
- crisis: New constraints from high redshift Lyman-α forest
- data}},
-  Author                   = {Viel, Matteo and Becker, George D. and Bolton, James S.
- and Haehnelt, Martin G.},
-  Journal                  = {Phys.Rev.},
-  Year                     = {2013},
-  Number                   = {4},
-  Pages                    = {043502},
-  Volume                   = {D88},
-
-  Archiveprefix            = {arXiv},
-  Doi                      = {10.1103/PhysRevD.88.043502},
-  Eprint                   = {1306.2314},
-  Primaryclass             = {astro-ph.CO},
-  Slaccitation             = {%%CITATION = ARXIV:1306.2314;%%}
-}
-
-@Article{Viel:2013fqw,
   Title                    = {{Warm Dark Matter as a solution to the small scale
  crisis: new constraints from high redshift Lyman-alpha
  forest data}},
@@ -5254,10 +5305,29 @@
   Timestamp                = {2015.05.22}
 }
 
+@Article{Viel:2013fqw,
+  Title                    = {{Warm dark matter as a solution to the small scale
+ crisis: New constraints from high redshift Lyman-α forest
+ data}},
+  Author                   = {Viel, Matteo and Becker, George D. and Bolton, James S.
+ and Haehnelt, Martin G.},
+  Journal                  = {Phys.Rev.},
+  Year                     = {2013},
+  Number                   = {4},
+  Pages                    = {043502},
+  Volume                   = {D88},
+
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1103/PhysRevD.88.043502},
+  Eprint                   = {1306.2314},
+  Primaryclass             = {astro-ph.CO},
+  Slaccitation             = {%%CITATION = ARXIV:1306.2314;%%}
+}
+
 @Article{Viel2013,
   Title                    = {{Warm dark matter as a solution to the small scale crisis: New constraints from high redshift Lyman-{$\alpha$} forest data}},
   Author                   = {{Viel}, M. and {Becker}, G.~D. and {Bolton}, J.~S. and {Haehnelt}, M.~G. },
-  Journal                  = {\prd},
+  Journal                  = {Physical Review D},
   Year                     = {2013},
 
   Month                    = aug,
@@ -5344,7 +5414,7 @@
 }
 
 @Article{Worseck2011,
-  Title                    = {{The End of Helium Reionization at z \~{}= 2.7 Inferred from Cosmic Variance in HST/COS He II Ly{$\alpha$} Absorption Spectra}},
+  Title                    = {{The End of Helium Reionization at z {$\sim$} 2.7 Inferred from Cosmic Variance in HST/COS He II Ly{$\alpha$} Absorption Spectra}},
   Author                   = {{Worseck}, G. and {Prochaska}, J.~X. and {McQuinn}, M. and {Dall'Aglio}, A. and {Fechner}, C. and {Hennawi}, J.~F. and {Reimers}, D. and {Richter}, P. and {Wisotzki}, L.},
   Journal                  = {ApJl},
   Year                     = {2011},
@@ -5502,7 +5572,7 @@
   Owner                    = {matt},
   Primaryclass             = {astro-ph},
   Slaccitation             = {%%CITATION = ASTRO-PH/0604177;%%},
-  Timestamp                = {2015.05.22}
+  Timestamp                = {2015.05.21}
 }
 
 @Article{Zahn:2006sg,
@@ -5521,7 +5591,7 @@
   Owner                    = {matt},
   Primaryclass             = {astro-ph},
   Slaccitation             = {%%CITATION = ASTRO-PH/0604177;%%},
-  Timestamp                = {2015.05.21}
+  Timestamp                = {2015.05.22}
 }
 
 @Article{Zahn2006,
@@ -5656,7 +5726,7 @@
 }
 
 @Article{zaldarriaga2002searching,
-  Title                    = {Searching for fluctuations in the intergalactic medium temperature using the Ly$\alpha$ forest},
+  Title                    = {Searching for fluctuations in the intergalactic medium temperature using the Lya forest},
   Author                   = {Zaldarriaga, Matias},
   Journal                  = {The Astrophysical Journal},
   Year                     = {2002},
@@ -5781,7 +5851,7 @@
 @Article{1970A&A.....5...84Z,
   Title                    = {{Gravitational instability: An approximate theory for large density perturbations.}},
   Author                   = {{Zel'dovich}, Y.~B.},
-  Journal                  = {\aap},
+  Journal                  = {Astronomy and Astrophysics},
   Year                     = {1970},
 
   Month                    = mar,
@@ -5797,7 +5867,7 @@
 @Article{Zeldovich1970,
   Title                    = {{Gravitational instability: An approximate theory for large density perturbations.}},
   Author                   = {{Zel'dovich}, Y.~B.},
-  Journal                  = {\aap},
+  Journal                  = {Astronomy and Astrophysics},
   Year                     = {1970},
 
   Month                    = mar,
@@ -5814,7 +5884,7 @@
 @Article{1993ApJ...418...28Z,
   Title                    = {{Absorption by Discrete Intergalactic Clouds: Theory and Some Applications}},
   Author                   = {{Zuo}, L. and {Phinney}, E.~S.},
-  Journal                  = {\apj},
+  Journal                  = {ApJ},
   Year                     = {1993},
 
   Month                    = nov,

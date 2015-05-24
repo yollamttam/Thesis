@@ -24,7 +24,7 @@ fossil may therefore improve our understanding of reionization. For example, the
 reionized at relatively high redshift, near e.g. $z \sim 10$, than if reionization happened later, near say $z \sim 6$. If reionization occurs
 early, the gas has longer to cool and reaches a lower temperature than if it happens late, at least provided the gas is heated to a fixed
 temperature at reionization. In addition, the IGM temperature should be inhomogeneous, partly as a result of spatial
-variations in the timing of reionization across the universe \citep{Trac:2008yz,Cen:2009bg,Furlanetto:2009kr}. Careful measurements of the IGM temperature after reionization should hence
+variations in the timing of reionization across the universe (\citealt{Trac:2008yz,Cen:2009bg,Furlanetto:2009kr}). Careful measurements of the IGM temperature after reionization should hence
 constrain the average reionization history of the universe, and may potentially reveal spatial variations around the average 
 history as well.
 
@@ -35,7 +35,7 @@ before $z \sim 6$ or so (e.g. \citealt{Fan:2005es}, although it might conceivabl
 as late as $z \sim 5$ -- see \citealt{McGreer:2011dm,Mesinger:2009mv,Lidz:2007mz}) ,
 while mounting evidence suggests HeII reionization finished by $z \gtrsim 2.5-3$ (see e.g. \citealt{Worseck:2011qk,Syphers:2011uw} and references therein). 
 Many of the existing IGM temperature measurements focus on redshifts of
-$z \sim 2-4$ \citep{Schaye:1999vr,Ricotti:1999hx,McDonald:2000nn,Zaldarriaga:2000mz,Theuns:2001my,Lidz:2009ca};
+$z \sim 2-4$ (\citealt{Schaye:1999vr,Ricotti:1999hx,McDonald:2000nn,Zaldarriaga:2000mz,Theuns:2001my,Lidz:2009ca});
 in this case the temperature is likely strongly influenced by HeII
 reionization (e.g. \citealt{McQuinn:2008am}) and so these measurements
 mostly constrain helium reionization rather than hydrogen reionization.
@@ -56,7 +56,7 @@ In addition, the ``memory'' of intergalactic gas to heating during the EoR gradu
 to the EoR should, in principle, be most constraining.
 It is not, however, obvious that the IGM temperature can be measured accurately enough 
 from the $z \gtrsim 5$ Ly-$\alpha$ forest to exploit the sensitivity of the high redshift temperature to the properties of reionization. In particular, the forest is highly absorbed by $z \sim 5$ with $z \gtrsim 6$ spectra showing
-essentially complete Gunn-Peterson \citep{1965ApJ...142.1633G} absorption troughs \citep{Becker:2001ee,Fan:2005es}. An interesting question is then: what is the highest redshift at which it is feasible
+essentially complete Gunn-Peterson (\citealt{1965ApJ...142.1633G}) absorption troughs (\citealt{Becker:2001ee,Fan:2005es}). An interesting question is then: what is the highest redshift at which it is feasible
 to measure the IGM temperature from the Ly-$\alpha$ forest?
 
 Towards this end, the goal of this chapter is to both model the thermal state of the $z \sim 5$ IGM, incorporating inhomogeneities in
@@ -70,13 +70,13 @@ the temperature from the $z \sim 5$ Ly-$\alpha$ forest, and forecast how well it
 are described in \S \ref{sec:IGMTemperatureconclusions}.
 
 This work partly overlaps with previous work which also recognized the importance of, and modeled, temperature inhomogeneities in the $z \sim 5$ IGM
-and considered some of the observable implications \citep{Trac:2008yz,Cen:2009bg,Furlanetto:2009kr}.\footnote{\citet{Lai:2005ha} also considered
+and considered some of the observable implications (\citealt{Trac:2008yz,Cen:2009bg,Furlanetto:2009kr}).\footnote{\citet{Lai:2005ha} also considered
 temperature fluctuations from hydrogen reionization, but these authors focused on $z \sim 3$ where -- as they discussed -- these fluctuations should be small and swamped
 by effects from HeII reionization.} One key difference with this earlier work is
 that we consider a more direct approach for measuring the temperature of the $z \sim 5$ IGM from the Ly-$\alpha$ forest. Our modeling of
 the thermal state of the IGM is closely related to that in \citet{Furlanetto:2009kr}, except that we implement a similar general approach
 using numerical simulations, which allow us to construct mock Ly-$\alpha$ forest spectra and to measure the detailed statistical properties
-of these spectra. The works of \citep{Trac:2008yz,Cen:2009bg} use radiative transfer simulations to model hydrogen reionization and the
+of these spectra. The works of (\citealt{Trac:2008yz,Cen:2009bg}) use radiative transfer simulations to model hydrogen reionization and the
 thermal history of the IGM and so these authors track
 some of the underlying physics in more detail than we do here. However, our approach here is faster, simpler, and more flexible, while we believe
 that it nevertheless captures many of the important processes involved. 
@@ -101,7 +101,7 @@ we additionally account for the temperature
 variations from inhomogeneous reionization.
 
 We also make use of one of the smoothed particle hydrodynamic (SPH) simulations from \citet{Lidz:2009ca}. These simulations 
-were run using the code Gadget-2 \citep{2005MNRAS.364.1105S}. This simulation tracks $2\times 1024^3$ particles
+were run using the code Gadget-2 (\citealt{2005MNRAS.364.1105S}). This simulation tracks $2\times 1024^3$ particles
 (with equal numbers of dark matter and baryonic particles) in a $50$ Mpc/$h$ simulation box. In these calculations, we ignore
 the inhomogeneity of the reionization process. We use these simulations to more faithfully capture the gas distribution (for
 gas elements that reionize at a given time). In constructing mock Ly-$\alpha$ forest spectra from these simulations, we first
@@ -122,8 +122,8 @@ For simplicity, we assume (as is common) that early galaxy populations produce i
 that is directly proportional
 to the rate at which matter collapses into halos above some minimum mass. The minimum mass describes the 
 host halo mass above which galaxies form readily; here we adopt $M_{\rm min} = 10^9 M_\odot$. We compute the collapse fraction
-from the Sheth-Tormen halo mass function \citep{Sheth:1999su}.
-With these assumptions, the volume averaged ionization fraction ($\avg{x_i}$) obeys the following differential equation \citep{1987ApJ...321L.107S,1999ApJ...514..648M}:
+from the Sheth-Tormen halo mass function (\citealt{Sheth:1999su}).
+With these assumptions, the volume averaged ionization fraction ($\avg{x_i}$) obeys the following differential equation (\citealt{1987ApJ...321L.107S,1999ApJ...514..648M}):
 \beqa
 \frac{d\avg{x_i}}{dt} = \zeta \frac{df_{\rm coll}}{dt} - \frac{\avg{x_i}}{\bar{t}_{\rm rec}}.
 \label{eq:xi_ode}
@@ -168,7 +168,7 @@ reionization -- and the coherence scale of these inhomogeneities -- across the s
 
 Note that here we approximate the excursion set model as determining the redshift at which each {\em volume element} is reionized, although
 in reality mass elements move from their initial positions, and overdense regions expand less rapidly than typical locations. This approximation
-is commonly made, and is reasonable given the large size of the ionized regions \citep{Furlanetto:2004nh} and the correspondingly large coherence scale of
+is commonly made, and is reasonable given the large size of the ionized regions (\citealt{Furlanetto:2004nh}) and the correspondingly large coherence scale of
 the spatial variations in the reionization redshift.
 
 Another ingredient we use from the \citet{McQuinn:2007dy} simulation is the evolved non-linear
@@ -177,7 +177,7 @@ the gas distribution follows the simulated, gridded dark matter distribution. No
 comparable to the Jeans smoothing scale:
 the co-moving Jeans wavenumber for isothermal gas
 at $10^4$ K, is $k_J = 13 h$ Mpc$^{-1}$ at $z=5$ which is comparable to the Nyquist wavenumber of the grid, $k_{\rm Nyq} = 12 h$ Mpc$^{-1}$.
-More relevant, however, is the ``filtering scale'' -- essentially a time-averaged Jeans scale -- and this should be smaller than the Jeans scale by around a factor of a few \citep{Gnedin:1997td}. In any case a single global smoothing only roughly approximates the full effect of Jeans smoothing. We will return to discuss this further in \S \ref{sec:IGMTemperaturetemp_measure} and \S \ref{sec:IGMTemperaturewave_inhomog}. In particular, in order to approximately 
+More relevant, however, is the ``filtering scale'' -- essentially a time-averaged Jeans scale -- and this should be smaller than the Jeans scale by around a factor of a few (\citealt{Gnedin:1997td}). In any case a single global smoothing only roughly approximates the full effect of Jeans smoothing. We will return to discuss this further in \S \ref{sec:IGMTemperaturetemp_measure} and \S \ref{sec:IGMTemperaturewave_inhomog}. In particular, in order to approximately 
 capture the impact of small scale structure and thermal broadening in our mock quasar spectra, we will add small-scale structure using a lognormal model. Although using the gridded dark matter density field to represent the gas distribution is inadequate for making detailed mock spectra, it suffices for our model of the temperature distribution of the low density gas.
 
 Returning to further consider the semi-numeric modeling, an important caveat is that this algorithm does not return precisely the
@@ -226,8 +226,8 @@ models respectively. These values assume that the fraction of helium that is sin
 is ionized, and ignore the slight boost expected from the free
 electrons produced after HeII reionization, which we do not track in this work. 
 
-The present constraint on $\tau_e$ from Planck CMB temperature anisotropy data \citep{Ade:2013zuv}, combined with the E-mode polarization power spectrum
-at large angular scales from WMAP nine year data \citep{Bennett:2012zja}, is $\tau_e = 0.089^{+0.012}_{-0.014}$. Most of the constraining power here
+The present constraint on $\tau_e$ from Planck CMB temperature anisotropy data (\citealt{Ade:2013zuv}), combined with the E-mode polarization power spectrum
+at large angular scales from WMAP nine year data (\citealt{Bennett:2012zja}), is $\tau_e = 0.089^{+0.012}_{-0.014}$. Most of the constraining power here
 comes from the WMAP polarization data. Hence our High-z model produces a $\tau_e$ close to the presently preferred value, the Mid-z model is low by $1.6-\sigma$, while the Low-z model is too low by $2.6-\sigma$. Hence our lower redshift reionization models are already marginally
 disfavored, but they are still certainly worthy of further investigation. The Planck collaboration should soon announce new large-scale CMB
 polarization measurements; the improved frequency coverage of the Planck satellite should help guard against foreground contamination, and
@@ -291,7 +291,7 @@ In ionization equilibrium, each recombination is balanced by a photoionization a
 the gas; the average time between recombinations in the low density IGM is long, and so the heat input from photoionization
 is significantly reduced after a parcel becomes highly ionized during reionization. In 
 addition, the spectral shape of the ionizing radiation incident on
-a typical gas element should soften -- i.e., the average heat input per photoionization should drop -- after reionization as the optical depth to ionizing photons decreases \citep{Abel:1999vj}.\footnote{In reality, the spectral
+a typical gas element should soften -- i.e., the average heat input per photoionization should drop -- after reionization as the optical depth to ionizing photons decreases (\citealt{Abel:1999vj}).\footnote{In reality, the spectral
 softening depends on how progressed reionization is {\em globally} since the hardening from absorption depends on the 
 density and ionization
 state of all of the gas between a source and an absorber. Here we neglect this by fixing the spectral shape incident on each
@@ -335,7 +335,7 @@ adiabatic cooling/heating), that are useful for fast and fairly accurate estimat
 In principle we could calculate the adiabatic expansion/contraction term (second term in Eq. \ref{eq:tev}) directly from the \citet{McQuinn:2007dy} 
 simulation, at least
 under the approximation that the gas distribution traces the simulated dark matter density field. Here we instead follow the approach of
-\citet{Hui:1997dp} and compute this term for tracer elements assuming their density evolution obeys the Zel'dovich approximation \citep{1970A&A.....5...84Z}.
+\citet{Hui:1997dp} and compute this term for tracer elements assuming their density evolution obeys the Zel'dovich approximation (\citealt{1970A&A.....5...84Z}).
 As mentioned earlier, we do, however, extend this calculation to consider gas elements with a range of different reionization redshifts. 
 
 The basic premise here is that gas elements with identical reionization redshifts should land on a well-defined temperature-density
@@ -358,7 +358,7 @@ In the Zel'dovich approximation, the density field evolves according to the equa
 with $\psi_{ij}$ denoting the initial deformation tensor, and $D(t)$ denoting the linear growth factor (normalized to unity today). The density evolution of a tracer element can then be specified by the eigenvalues of the local initial deformation 
 tensor.  
 As in \citet{Hui:1997dp} and \citet{1995ApJ...449..476R}, we can construct realizations of the density evolution in the Zel'dovich approximation 
-by randomly drawing eigenvalues of $\psi_{ij}$ from the expected probability distribution \citep{1970Afz.....6..581D}. We do this following \citet{Hui:1999ku,Bertschinger:1993zv}. 
+by randomly drawing eigenvalues of $\psi_{ij}$ from the expected probability distribution (\citealt{1970Afz.....6..581D}). We do this following \citet{Hui:1999ku,Bertschinger:1993zv}. 
 
 
 In our fiducial model, we take the temperature at reionization to be $T_r = 2 \times 10^4$ K (see \citealt{Furlanetto:2009kr,McQuinn:2012bq} for a discussion
@@ -367,7 +367,7 @@ intensity of the ionizing radiation
 is a power-law in frequency close to the hydrogen photoionization threshold, $J(\nu) \propto \nu^{-\alpha}$ with $\alpha=1.5$.
 As mentioned previously, the heat input is insensitive to the amplitude of the ionizing radiation, provided the gas is highly ionized. This spectral shape is intended
 to be somewhat harder than expected for the {\em intrinsic spectrum} of the ionizing sources, since intervening absorption will harden
-this spectrum \citep{1993ApJ...418...28Z,Hui:2003hn,Furlanetto:2009kr}.
+this spectrum (\citealt{1993ApJ...418...28Z,Hui:2003hn,Furlanetto:2009kr}).
 
 
 \subsection{Simulated Temperature Field}
@@ -398,7 +398,7 @@ high redshift, however, become insensitive to the precise redshift of reionizati
 reionize above $z_r \gtrsim 10$ are all at $T_0 = 6,700$ K at $z=5.5$, irrespective of $z_r$. This results mainly
 because Compton cooling is very efficient at high redshift ($z \gtrsim 10$), and effectively erases the 
 memory of the photoheating during
-reionization \citep{Hui:1997dp}. Indeed, this is the main reason that we don't consider still higher redshift reionization
+reionization (\citealt{Hui:1997dp}). Indeed, this is the main reason that we don't consider still higher redshift reionization
 models, although they would be allowed by the present $\tau_e$ constraints as discussed in \S \ref{sec:IGMTemperaturereion_hist} (but perhaps disfavored by other data sets, see e.g. \citealt{Robertson:2013bq,Kuhlen:2012vy} for recent summaries.): 
 the thermal state of the IGM is insensitive to higher redshift reionization models.
 
@@ -500,7 +500,7 @@ for gas less dense than the cosmic mean.
 Note that although the regions that have low density -- when the density field is averaged on large scales -- ionize last and are mostly
 hotter than denser regions (see Fig. \ref{fig:tslice_lowz}), this does not fully ``invert'' the temperature-density relation. This is because the density field on the scale of the simulation grid (and at the Jeans scale) is
 only somewhat correlated with the larger scale density variations that determine the spread in the timing of reionization
-in our model. In any case, in agreement with previous work \citep{Trac:2008yz,Furlanetto:2009kr}, the usual temperature-density
+in our model. In any case, in agreement with previous work (\citealt{Trac:2008yz,Furlanetto:2009kr}), the usual temperature-density
 relation is a poor description of the thermal state of the IGM in the Low-z model at $z=5.5$. 
 At slightly lower redshifts, $z=4.5$, the temperature
 has dropped somewhat and the scatter in the Low-z model has partially subsided, although it is still substantial. The median
@@ -639,13 +639,13 @@ on the statistics of the Ly-$\alpha$ forest are discussed, for example, in \cite
 are: higher temperatures produce more Doppler broadening; the recombination rate of the absorbing gas is temperature
 dependent with hotter gas recombining more slowly, leading to less neutral gas and less absorption; hotter gas leads
 to more Jeans smoothing, with the precise impact of this smoothing depending on the entire prior thermal history of the absorbing gas
-\citep{Gnedin:1997td}. 
+(\citealt{Gnedin:1997td}). 
 
 The enhanced Doppler broadening and Jeans smoothing in models with high temperatures each act to reduce the amount of small-scale structure in the Ly-$\alpha$ forest.
 These two effects are not, however, entirely degenerate: Jeans smoothing filters the gas distribution in three dimensions, while
 Doppler broadening smooths the optical depth field along the line of sight 
 (e.g. \citealt{Zaldarriaga:2000mz}). Previous studies suggest that Doppler broadening impacts the small scale structure in the
-forest more than Jeans smoothing, at least near $z \sim 3$ \citep{Zaldarriaga:2000mz,Peeples:2009ue,Lidz:2009ca}. At $z \sim 5$, we 
+forest more than Jeans smoothing, at least near $z \sim 3$ (\citealt{Zaldarriaga:2000mz,Peeples:2009ue,Lidz:2009ca}). At $z \sim 5$, we 
 expect Jeans smoothing to have more impact, however: the high opacity in the Ly-$\alpha$ line at these redshifts implies that even slight
 density enhancements can give rise to noticeable absorption lines, and these slight density variations may be erased by Jeans
 smoothing. Unfortunately, it is challenging to model the impact of Jeans smoothing while incorporating a realistic model
@@ -954,7 +954,7 @@ while $L=1,000$ km/s.}
 
 More quantitatively, the resulting wavelet amplitude PDFs for some example inhomogeneous temperature models are shown in Fig. \ref{fig:pdf_al_inhomog}. Since the 
 mean transmitted flux at this redshift ($z=5.5$) is somewhat uncertain, we compare models normalized to each of $\avg{F}=0.2$ (top panel) and $\avg{F}=0.1$ (bottom panel) in order
-to illustrate the impact of varying $\avg{F}$. Extrapolating the best fit measurement from \citep{Becker:2012aq}, we find
+to illustrate the impact of varying $\avg{F}$. Extrapolating the best fit measurement from (\citealt{Becker:2012aq}), we find
 $\avg{F}=0.13$ at $z=5.5$ so this range should approximately bracket the expected value, although the lower end of this range
 is preferred. Note that there is some evidence that the mean transmitted flux decreases more rapidly above $z \sim 5.5$ or so compared to the evolution
 expected from lower redshifts (e.g. \citealt{Fan:2005es}), and so this would
@@ -1017,7 +1017,7 @@ which have a spectral resolution of FWHM $= 6.7$ km/s. Spectra from the MIKE spe
 on Magellan would partly resolve the thermal broadening scale: the resolution of these spectra is a factor of $\sim 2$ worse
 than HIRES (e.g. \citealt{Becker:2010cu}). Next, we consider the impact of photon and instrumental noise. In particular,
 we estimate the $S/N$ (at the continuum) per HIRES pixel at which the expected shot-noise is a small fraction of the average wavelet amplitude in plausible models. The mean wavelet amplitude from the noise should be roughly 
-$\avg{A_{\rm noise}} \approx (N/S)^2/\avg{F}$ \citep{Hui:2000rw,Lidz:2009ca}. In order for the noise to be sub-dominant, we impose
+$\avg{A_{\rm noise}} \approx (N/S)^2/\avg{F}$ (\citealt{Hui:2000rw,Lidz:2009ca}). In order for the noise to be sub-dominant, we impose
 that the noise should be less than $10\%$ of the
 mean wavelet amplitude in our Low-z, $T_r = 2 \times 10^4$ K model at $\avg{F}=0.2$ (which has $\avg{A}=0.35$). This requires a
 $S/N \gtrsim 12$ at the continuum, per $2.1$ km/s HIRES pixel. This is a fairly stringent requirement for quasars at the high
@@ -1051,7 +1051,7 @@ moments of the wavelet amplitude PDF by further averaging over a length scale $L
 two smoothing scales here: $L$ is the smoothing scale over which we are studying the wavelet amplitude variations, while
 $L_{\rm spec}$ is the scale over which we estimate the moments from each spectrum.
 
-The formula for the sample variance for a single sightline is then \citep{Lidz:2009ca}:
+The formula for the sample variance for a single sightline is then (\citealt{Lidz:2009ca}):
 \beqa
 \frac{\sigma^2_{A,L}(L_{\rm spec})}{\avg{A}^2} = \int_{-\infty}^{\infty} \frac{dk^\prime}{2 \pi} \left[\frac{\rm{sin}(k^\prime L_{\rm spec}/2)}{k^\prime L_{\rm spec}/2} \right]^2 P_{A,L}(k^\prime). \nonumber \\
 \label{eq:var_al}
@@ -1109,7 +1109,7 @@ expected constraints are similar for $\avg{F}=0.1$.
 In this work, we modeled the temperature of the IGM at $z \gtrsim 5$, incorporating the impact of spatial
 variations in the timing of reionization across the universe. We contrasted the $z \sim 5$ temperature in models
 where reionization completes at high redshift -- near $z=10$ -- with scenarios where reionization completes
-later, near $z = 6$. In agreement with previous work \citep{Trac:2008yz,Furlanetto:2009kr}\footnote{This is also
+later, near $z = 6$. In agreement with previous work (\citealt{Trac:2008yz,Furlanetto:2009kr})\footnote{This is also
 in general agreement with still earlier work by 
 \citealt{Theuns:2002yc} and \citealt{Hui:2003hn}, although these two studies did not incorporate inhomogeneities in the
 timing of reionization.}, we found
@@ -1145,12 +1145,12 @@ resolution sightlines. Larger samples could improve on this, and an analysis of 
 Ly-$\beta$ forest might help as well. In this chapter, we focused on the small-scale structure since it is a direct
 indicator of the temperature, but another approach would be to consider instead transmission fluctuations on
 large scales, especially as probed in ``3D'' measurements of the Ly-$\alpha$ forest (e.g. \citealt{McQuinn:2010mq}). This
-may be possible at $z \gtrsim 4$ with DESI \citep{Levi:2013gra,McQuinn:2010mq}.
+may be possible at $z \gtrsim 4$ with DESI (\citealt{Levi:2013gra,McQuinn:2010mq}).
 
 To robustly interpret future measurements, our modeling should be improved in various ways. In particular, we should incorporate
 inhomogeneous Jeans smoothing effects into our modeling. This might be accomplished by, for example, 
 incorporating our semi-numeric
-modeling on top of a large dynamic range HPM \citep{Gnedin:1997td} simulation. These 
+modeling on top of a large dynamic range HPM (\citealt{Gnedin:1997td}) simulation. These 
 calculations will need to face
 the competing requirements of capturing the large-scale variations in the timing of reionization, while simultaneously
 resolving the filtering scale. Nevertheless, we believe that measurements of the $z \gtrsim 5$ IGM temperature should
@@ -1205,7 +1205,7 @@ The approximate equation for the thermal evolution is then:
  + \frac{4}{3}\frac{\sigma_T a_{\rm rad} T_\gamma^4}{m_e c} \left(T_\gamma - T \right).
 \label{eq:tev_approx}
 \end{align}
-Here $\alpha_0$ is the (case-A) recombination coefficient for hydrogen at $T=10^4$ K\footnote{We assume the case-A recombination coefficient and use the approximation $\alpha_A = 4.2 \times 10^{-13} (T/10^4 K)^{-0.7}$ cm$^3 s^{-1}$ \citep{Hui:1997dp} in this Appendix.}, $E_J$ is the average energy injected into the gas
+Here $\alpha_0$ is the (case-A) recombination coefficient for hydrogen at $T=10^4$ K\footnote{We assume the case-A recombination coefficient and use the approximation $\alpha_A = 4.2 \times 10^{-13} (T/10^4 K)^{-0.7}$ cm$^3 s^{-1}$ (\citealt{Hui:1997dp}) in this Appendix.}, $E_J$ is the average energy injected into the gas
 per photoionization\footnote{Assuming a power-law spectral index, $J_\nu \propto \nu^{-\alpha}$ (with the power law accounting for hardening
 from absorption), $E_J=h \nu_{HI}/(\alpha+2)$.}, $T_\gamma$ is the CMB temperature (at the scale factor of interest), $\sigma_T$ is the Thomson scattering cross
 section, and $a_{\rm rad} T_\gamma^4$ is the energy

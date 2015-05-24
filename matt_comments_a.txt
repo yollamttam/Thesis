@@ -1,0 +1,121 @@
+
+
+### 1st par. change last sentence to “Let us start with a brief description
+of the reionization process, discuss how it relates to the evolution of the Universe as a whole, and mention some of the open questions that this thesis aims to address.”
+
+### par 2. second sentence is a little unclear. I think you need to break this up into two pieces. You mean to say that BBN implies that almost all of the baryonic mass is in hydrogen and helium nuclei, while the CMB implies that the universe first became neutral after 380,000 years of expanding and cooling.
+
+### par 2. change sentence “However, observations…today is almost entirely ionized” —>
+“is almost entirely ionized {\em by at least} x.x billion years after the big bang to the present day.” (Insert the age of the universe at z=5, for the x.x) I would cite GP65 here
+in the text. In the footnote remove the first sentence since you already mention this in the body of the text. I would also comment that the efficient galaxy formation clearing the gas from galaxies is no longer tenable, and comment in a sentence on why, or remove this footnote entirely. It is interesting but not really necessary here.
+
+### pg. 2 I would edit “very energetic process” since the energies of the ionizing photons are not really very energetic by astrophysical standards. How about: “Therefore, some process — acting across the entire volume of intergalactic space in the intervening 13 billion years or so — must have managed to strip the electrons from almost all atoms.” After “We refer to…” add “The high level of ionization needs to be maintained down to the present day.”
+
+### pg. 2, par 2. “the inflation” —> “inflation”
+
+### pg. 2, par 2. I would change “500 million years” to maybe “200 million years” since I think there will be low level ionization very early on, perhaps even earlier…
+
+### pg. 4, top “until the entire IGM was ionized” —> “until the entire volume of the IGM became filled with ionized gas.”
+
+### pg 4., par 2 “If reionization is driven” —> “If the ionizing sources mostly have a “harder spectrum” (In general try to avoid repeating the same word in separate sentences..Here you were using “driven” too much.)
+
+### pg. 4, par 2 need a better starting sentence for this paragraph. Maybe something like 
+“Fig. 1.2 shows example slices through numerical simulations of reionization that illustrate how reionization may have proceeded across cosmic time.” Your last sentence can be moved up from the end of the paragraph…Follow with “The ionized regions in the figure (in white) show how ionized “bubbles” form around galaxies, and how they grow and merge to fill progressively more of the IGM volume as reionization progresses. Eventually the entire volume of the IGM is filled with ionized gas.” The and that “The figure also illustrates one of ways in which the size of the ionized regions depends on the properties of the ionizing sources.”
+
+### pg. 4., par 2 “In each row, the fraction of hydrogen atoms” —> I would change this to something like “the fraction of the IGM volume that is in the neutral phase”.
+
+### pg 4., par 2 “Each column corresponds to a different mass distribution for the ionizing sources” —> “In each column the ionizing luminosity of a galaxy is assumed to be a power-law in the mass of the galaxy’s host dark matter halo, with the typical host halo mass increasing as one moves from left to right.” or something like this.
+
+### pg 4., par 2 I think you can remove the final sentence in the paragraph once edited as above to move this idea earlier. If you keep something like this in I would remove the “Despite the uncertainties…” part since this sounds too negative.
+
+### Fig 1.2 caption needs a name and more description. The name could be “Slices through  numerical simulations of reionization,” for example. You also need to give the dimensions of the slices.
+
+### pg. 6, par 1 “worth emphasizing why astrophysicists…” —> “With this qualitative picture in mind, we briefly discuss the broad ways in which reionization is important for our understanding of astrophysics and cosmology.”
+
+### pg. 6, par 1 “will reveal more exotic and unexpected scenarios, such as…” —> “will reveal more exotic and unexpected scenarios. For example, annihilating or decaying dark matter might play a role in reionizing the universe.” Might be good to give citations here.
+
+### pg. 6, last par “Towards these goals,…” —> “Consequently, a key goal of modern cosmology is to understand the timing and nature of reionization.”
+
+****************pg. 6, last sentence is a bit awkward.
+
+### I would remove S 1.1.1
+
+### pg. 9 “experts in the field have developed” —> something like: “An inspiring aspect of EoR studies is that — even though it seems impossible to understand the properties of the universe at such early times — a number of powerful approaches have been developed to determine the nature of reionization.”
+
+### pg. 9, under 1.2.1 “As the Universe expands,” —> something like: “This redshifting is a consequence of the expansion of the Universe: the wavelengths of photons propagating through the Universe are stretched with the expansion.”
+
+**************** pg. 9, edit sentence about expansion history and color. Maybe something like “The redshifts of luminous objects can be determined from their spectra, while the distance to an object can then be inferred from a model for the expansion history of the Universe”.
+
+### pg. 9, last par “gamma-ray bursts” —> “gamma-ray burst afterglows”
+
+### pg. 10, par 2 “First, lines deeper..” —> “First lines deeper in the series have smaller absorption cross sections”
+
+### pg. 10, par 2 last sentence “when considering higher-order lines” —> “when considering still higher-order lines”
+
+**************** pg. 11, before Eq. 1.2. I think maybe you should define optical depth here. Also, I would say that you are approximating the line-profile as a delta-function in frequency here. And that you will discuss more realistic descriptions of the line profile subsequently.
+
+### pg 11., Eq. 1.5 Write X_{\rm HI} = 1.4 \times 10^{-4}.
+
+### pg 11, under Eq. 1.5 “This allows absorption..” —> “Evidently, even highly ionized gas can lead to near complete absorption in the Ly-a line at the redshifts of interest.”
+
+**************** pg 11, “In fact, the second example…” I am worried that this z=3.62 example is a little confusing because the average transmission is still quite high at this redshift and there are only short regions of fully saturated absorption.
+
+### pg. 11, “since Ly-a absorption can be caused by matter over densities..” —> “The fluctuating pattern of absorption and transmission in the Ly-a forest in part traces line-of-sight fluctuations in the underlying matter distribution. Consequently, it can be used to constrain the matter power spectrum and used to measure the baryon acoustic oscillations, put lower limits on the mass of the dark matter, and to help elucidate
+the physics of inflation.”
+
+### pg. 16 Eq. 1.11 and subsequent equations/discussion: You are already using X for the neutral fraction. So for the mass-fraction of hydrogen maybe use “1-Y_{\rm HE}” where Y_{\rm HE} is the helium mass fraction. This is a pretty standard notation. 
+
+### pg. 16, below Eq. 1.13 delta for “mass overdensity” —> “baryonic overdensity”
+
+### pg. 17, top “However, it is probably…” —> “However, provided helium is singly-ionized along with hydrogen, the number density will increase according to”
+
+### pg. 17, I would clarify that you are just adopting the n_e ~ n_H for discussion here, and not in the actual thesis work.
+
+### pg. 17, you introduce the temperature-density relation without much discussion. perhaps mention that it is discussed later? also this tight relation will not be a good approx close to reionization itself
+
+### pg. 18 Edit “A common assumption in these type of analyses…” —> “In most previous work, the photoionization rate has been approximated as spatially uniform. This approximation is well-motivated at $z \leq 5$ or so, when the mean free path to ionizing photons is inferred to be rather long (cites e.g. Worczeck, Prochaska et al. work): in this case each gas parcel is exposed to ionizing radiation from many sources and so fluctuations in the radiation field are correspondingly small. During reionization, however, the photoionization rate will have large spatial fluctuations: there will be neutral regions that have not yet been exposed to radiation, and even the radiation field incident on
+ionized parcels will vary with the size of the ionized region that the parcel belongs to, and other IGM properties.”
+
+### pg. 18 “As such, an intriguing question…” —>  “It is then interesting to adopt a model for the probability distribution of the underlying density field (extracted from numerical simulations of cosmological structure formation), and determine the value of $\Gamma_{\rm HI}$ (assumed to be uniform) that matches the observed mean transmitted flux, $\avg{F}$.”
+
+### pg. 18, footnote “intro for (99)” —> “intro to (99)”
+
+### pg. 18, “First accepting the assumption” —> “In particular, assuming that the ionization state of the IGM is determined by a {\em spatially uniform $\Gamma_{\rm HI}$ is essentially tantamount to assuming that reionization has in fact completed.}”
+
+pg. 19, Need to expand the caption to Figure 1.5. For example, you need to explain what all of the Ly-a, Ly-b, Ly-gamma points mean briefly.
+
+pg. 20 I would remove the part about quasars living in special locations, since this is only really an issue in the proximity zone close to the quasar itself.
+
+pg. 21 first par. “In this regard, …” —> “In this regard, measurements of the dark pixel covering fraction in high redshift quasars can be used to place robust upper limits on the fraction of the IGM volume that is in the neutral phase, $\avg{x_{\rm HI}}$.” 
+
+pg. 21, par 2 “will significantly” —> “may significantly”
+
+pg. 21, “First quasar observations are…” —> “First, there are several sources of random noise that add scatter to each observed quasar spectrum. This can result in spurious…”
+
+pg. 21, same par “Alternatively, ..” —> “Alternatively — provided the noise has zero median — half of all truly absorbed…”
+
+pg. 23, I would edit the last sentence and remove the footnote. How about: “{\em Namely, this more model-independent analysis does not in fact require reionization to complete by $z \lesssim 6$, contrary to much of the conventional wisdom in the reionization field.}”
+
+pg. 25, I would cite Miralda-Escude 98 since this is really the paper that introduced the damping wing test.
+
+pg. 25 In the ensuing discussion of the damping wing profile, it is not entirely clear that an extended neutral region leads to a different profile than a compact absorber. I think you should find a way to clarify this a bit. (It is basically 1/delta lambda as opposed to 1/(delta lambda)^2 as you know).
+
+pg. 31, Edit following “During reionization,…” —> something like “The utility of the IGM temperature in studying reionization stems mostly from the long cooling time of the low density gas in the IGM. The gradual cooling of the gas implies that it retains some memory of when and how it was ionized. Typically, the gas is photo-heated to temperatures of around 20,000 K during reionization and the main cooling mechanism is adiabatic cooling from the expansion of the Universe, although Compton cooling off of the CMB is important for gas that is ionized sufficiently early on, at $z \gtrsim 10$ or so. In general, gas that was ionized early on will have longer to cool and reach a lower temperature after reionization than gas that ionized more recently. Since the memory of prior photo-heating gradually fades, this measurement is most powerful if it can be made as close as possible to reionization.” Need cites here, e.g. Miralda-Escude & Rees, Hui & Gnedin, our paper…
+
+pg. 31, Edit “As such, a hydrogen atom traveling toward” —> “As such, a hydrogen atom traveling away”
+
+pg. 33 Edit “Therfore, …” —> “Therefore, comparisons between Voigt profiles to actual spectra and mock spectra constructed from cosmological simulations should provide insight into the thermal properties of the IGM.”
+
+pg. 33, last paragraph: You need to define quasar proximity zones here I think.
+
+pg. 34 Edit second paragraph “Although the main drawback of the previous method is that it  works only in a limited stretch of spectrum close to the quasar itself, a second disadvantage is that it requires fitting discrete absorption lines to the forest. Decomposing the Ly-a forest into a set of discrete absorption lines is actually not so well-motivated. The forest is better viewed as a continuously fluctuating field that traces underlying fluctuations in the line of sight density field (cites). This is especially true in the high-redshift region of interest, $z \gtrsim 5$, in which essentially all regions of the forest show some absorption. In this regime,  the forest is ``inverted’’ in that instead of stretches of transmission punctuated with absorption features, there are regions of heavy absorption with some transmissive segments interspersed.” Then continue with “This renders…”
+
+pg. 34, last paragraph “in order to measure the level of small-scale fluctuations” add “as a function of position across each spectrum.”
+
+Fig. 1.10 caption give label, maybe “Measuring the temperature of the IGM in $z \gtrsim 6$ quasar proximity zones.”
+
+
+
+
+
+

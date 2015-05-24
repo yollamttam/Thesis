@@ -64,7 +64,7 @@ crude images of the large scale features even in the regime where the signal to 
 than unity.  Even if it is only possible to identify a few unusually large ionized regions in upcoming data sets, this would
 still be quite valuable. Any such detection would be straightforward to interpret, and would open-up several interesting
 possibilities for follow-up investigations.
-Towards this end, we extend previous work by \cite{Datta:2007nj} and \cite{Datta:2008ry}, who considered the prospects for detecting
+Towards this end, we extend previous work by \citet{Datta:2007nj} and \citet{Datta:2008ry}, who considered the prospects for detecting
 ionized regions using an optimal matched filter. A matched filter is constructed by correlating a known `template' signal with a
 noisy data set in order to determine whether the template signal is present in the noisy data. Matched filters are used
 widely in astrophysics: to name just a few examples, matched filters are used to detect clusters in cosmic microwave background (CMB) data (\citealt{Haehnelt:1995dg}), to identify galaxy clusters from weak lensing shear fields (e.g., \citealt{Hennawi:2004ai}, \citealt{Marian:2008fd}), 
@@ -82,7 +82,7 @@ Throughout we consider a $\Lambda$CDM cosmology
 parametrized by $n_s =1, \sigma_8 = 0.8, \Omega_m = 0.27,
 \Omega_\Lambda = 0.73, \Omega_b = 0.046$, and $h=0.7$, (all symbols
 have their usual meanings), consistent with the latest WMAP
-constraints from \cite{Komatsu:2010fb}.
+constraints from \citet{Komatsu:2010fb}.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -126,16 +126,16 @@ in units of $T_{0}$.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 In order to simulate reionization we use the `semi-numeric' scheme described in 
-\cite{Zahn:2006sg} (see also e.g., \citealt{Mesinger:2010ne}, for related work and extensions to this technique). This scheme is essentially a Monte Carlo implementation
-of the analytic model of \cite{Furlanetto:2004nh}, which is in turn based
-on the excursion set formalism. The \cite{Zahn:2006sg} algorithm allows us to rapidly generate
+\citet{Zahn:2006sg} (see also e.g., \citealt{Mesinger:2010ne}, for related work and extensions to this technique). This scheme is essentially a Monte Carlo implementation
+of the analytic model of \citet{Furlanetto:2004nh}, which is in turn based
+on the excursion set formalism. The \citet{Zahn:2006sg} algorithm allows us to rapidly generate
 realizations of the ionization field over large simulation volumes at various
 stages of the reionization process. The results of these calculations agree well with
 more detailed simulations of reionization on large scales (\citealt{Zahn:2006sg,Zahn:2010yw}). 
 
 We start by generating a realization of the linear density field in a simulation
 box with a co-moving side length of $1$ $h^{-1}$Gpc and $512^3$ grid cells. The
-ionization field, $x_i$, is generated following the algorithm of \cite{Zahn:2006sg},
+ionization field, $x_i$, is generated following the algorithm of \citet{Zahn:2006sg},
 assuming a minimum host halo mass of $M_{\rm min} = 10^8 M_\odot$, comparable
 to the atomic cooling mass at these redshifts (\citealt{Barkana:2000fd}). Each halo above $M_{\rm min}$
 is assumed to host an ionizing source, and the ionizing efficiency of each galaxy is taken to be 
@@ -225,13 +225,13 @@ $\lambda = 0.211(1+z) \meter$, and $A_{\text{e}}$ is the effective area of
 each antenna tile. We determine $A_{\text{e}}$ by linearly extrapolating
 or interpolating from the values given in
 \href{http://iopscience.iop.org/0004-637X/661/1/1/fulltext/64283.tb2.html}{Table
-  2} of \cite{Bowman:2005hj}; the effective area at $z_{\rm fid} = 6.9$ is
+  2} of \citet{Bowman:2005hj}; the effective area at $z_{\rm fid} = 6.9$ is
 $A_{\text{e}}=11.25 \meter^2$. We assume that the full survey bandwidth of
 $32 \MHz$ is broken into individual blocks of bandwidth $B = 6 \MHz$ to protect
 against redshift evolution across the analysis bandwidth (\citealt{McQuinn:2005hk}). The co-moving survey depth depth corresponding to a $B= 6 \MHz$ chunk is $\Delta D = 69$ $h^{-1}$Mpc.
 The $n(k_\perp)$ term describes the configuration of the antenna tiles. More specifically,
 it is the number density of baselines observing modes with transverse wavenumber
-$k_{\perp}$ (\citealt{McQuinn:2005hk}). Following \cite{Bowman:2005cr} and \cite{McQuinn:2005hk},
+$k_{\perp}$ (\citealt{McQuinn:2005hk}). Following \citet{Bowman:2005cr} and \citet{McQuinn:2005hk},
 we assume the antenna tiles are initially packed as closely as possible in a
 dense compact core, and that the number density of antenna tiles subsequently falls off
 as $r^{-2}$ out to a
@@ -306,9 +306,9 @@ quite interesting, especially given that the ionized regions during reionization
 features. We hence seek to quantify the imaging capabilities
 further using our corrupted reionization
 simulations. Here our work complements recent work in a similar
-vein by \cite{Zaroubi:2012cy}, who considered the prospects for imaging with
+vein by \citet{Zaroubi:2012cy}, who considered the prospects for imaging with
 LOFAR. While the central idea in this section
-is similar to this previous work, we focus on the MWA while \cite{Zaroubi:2012cy}
+is similar to this previous work, we focus on the MWA while \citet{Zaroubi:2012cy}
 considered LOFAR. In order to construct the best possible images from
 the noisy mock 21 cm data, we apply a Wiener filter. We assess the
 ability of the MWA to image the redshifted 21 cm sky by comparing the filtered (recovered)  noisy
@@ -324,7 +324,7 @@ signal with the underlying noise-free 21 cm input signal.
 The Wiener filter is the optimal filter for extracting
 an input signal of known power spectrum when it is corrupted by additive noise,
 also with known power spectrum. 
-As described in \cite{NRecipes},
+As described in \citet{NRecipes},
 this filter is optimal in that it minimizes the expectation value of the integrated squared
 error between the estimated signal field and the true signal
 field. The estimate of the true signal is a convolution of the Wiener
@@ -684,7 +684,7 @@ size distribution. In particular, while the contrast of an ionized region increa
 neutral fraction, large ionized bubbles become increasingly scarce for larger values of the neutral
 fraction. For instance, we can consider the model bubble size distributions in
 \href{http://iopscience.iop.org/0004-637X/654/1/12/fulltext/65071.fg4.html}{Figure
-  4} of \cite{Zahn:2006sg}. This figure indicates that bubbles of radius larger than $30$ $h^{-1}$Mpc
+  4} of \citet{Zahn:2006sg}. This figure indicates that bubbles of radius larger than $30$ $h^{-1}$Mpc
 are exceedingly rare for neutral fractions larger than $\langle x_{\rm HI}\rangle > 0.5$, with only
 the tail end of the distribution extending past $25$ $h^{-1}$Mpc. However, bubbles this size
 are relatively common later in reionization. Since Figure \ref{fig:ToySNR} indicates
@@ -694,8 +694,8 @@ $\sim 50\%$ ionized, but that it will be difficult to use this method at earlier
 stages of the reionization process. Also, note again that the the calculation here neglects the effects of foreground cleaning. However, we find that incorporating foreground cleaning only has a small effect on bubbles of this size ($\lesssim 30\hmpc$, \S \ref{sec:BubbleForegroundCleaning}). Bubble detection will also be challenging once
 the Universe is less than $\sim 10-20\%$ neutral, owing mostly to the reduced contrast
 between the bubbles and typical regions. If the ionized bubbles at a given stage of the EoR are larger than in
-the model of \cite{Zahn:2006sg}, then the prospects for bubble detection will be enhanced. We refer
-the reader to \cite{McQuinn:2006et} for a quantitative exploration of the bubble size distribution across
+the model of \citet{Zahn:2006sg}, then the prospects for bubble detection will be enhanced. We refer
+the reader to \citet{McQuinn:2006et} for a quantitative exploration of the bubble size distribution across
 plausible models for the ionizing sources.
 
 
@@ -1159,7 +1159,7 @@ true underlying bubble size distributions. For example, in Figure
 \ref{fig:SizeHists}, the size distribution peaks around $\gtrsim40\hmpc$ for
 the case of $x_i = 0.79$, despite volume-weighted size distribution peaking around $\sim 30\hmpc$ in
 \href{http://iopscience.iop.org/0004-637X/654/1/12/fulltext/65071.fg4.html}{Figure
-  4} of \cite{Zahn:2006sg} at roughly the same ionized fraction. Nonetheless,
+  4} of \citet{Zahn:2006sg} at roughly the same ionized fraction. Nonetheless,
 the histograms illustrate a general shift from smaller to larger detected
 bubble radius as the ionized fraction increases. By applying
 the matched filter to several redshift bins, one can potentially
@@ -1247,7 +1247,7 @@ detection should be feasible with the MWA-500 if our fiducial ionized fraction o
 but that the prospects are rather limited in the case of significantly earlier
 reionization. A range of recent work in the literature, however, suggests that
 reionization is unlikely to complete so early. See, for example, Figure 9 from the recent
-study of \cite{Kuhlen:2012vy} which combines
+study of \citet{Kuhlen:2012vy} which combines
 Ly-$\alpha$ forest data (\citealt{Fan:2005es}), measurements of the
 Thomson optical depth from WMAP (\citealt{Komatsu:2010fb}), and measurements of the Lyman-break
 galaxy luminosity function (\citealt{Bouwens:2009qs}). Hence, the prospects for bubble detection appear good for the MWA-500.
@@ -1265,7 +1265,7 @@ of $B=16$ MHz, across each line of sight. The optimal foreground cleaning
 strategy avoids `over-fitting' by removing the smoothest possible function
 over the largest possible bandwidth, in order to preserve the underlying signal
 as much as possible. It also avoids `under-fitting' by ensuring that foreground
-residuals do not excessively contaminate the signal. \cite{Liu:2011ih}, for
+residuals do not excessively contaminate the signal. \citet{Liu:2011ih}, for
 example, find that 21 cm foregrounds can be removed to one part in
 $10^5$ or $10^6$ by subtracting roughly three modes over $\sim 32$ MHz of
 bandwidth. This should have a fairly similar impact to our fiducial
@@ -1309,7 +1309,7 @@ as possible within a core of radius $8 \meter$ and that
 the antenna distribution subsequently falls off as
 $r^{-2}$ out to a maximum baseline of $1.5$ km. After
 comparing the thermal noise power spectrum in this
-configuration with that in \cite{Beardsley:2012za}, we
+configuration with that in \citet{Beardsley:2012za}, we
 find that our noise power is larger by up to a
 factor of a few.
 This could possibly be due to our approximation of a
@@ -1320,7 +1320,7 @@ does not incorporate a full treatment of rotation synthesis. In
 an effort to bracket somewhat the impact of the detailed antenna
 distribution, we further consider a configuration where all antenna
 tiles are packed as closely in a dense core of radius $\sim 25 \meter$.
-This resembles the `super-core' configuration considered in \cite{Lidz:2007az}
+This resembles the `super-core' configuration considered in \citet{Lidz:2007az}
 for the power spectrum.
 
 
@@ -1393,7 +1393,7 @@ for this purpose.
 
 In order to get some sense for these trade-offs, we consider here
 a LOFAR-style interferometer with the specifications
-listed in \cite{McQuinn:2006et}. Although the detailed
+listed in \citet{McQuinn:2006et}. Although the detailed
 specifications for LOFAR have evolved somewhat (e.g., \citealt{Zaroubi:2012cy}),
 (as have the MWA specifications), this is nonetheless a helpful case to consider. In particular,
 our toy LOFAR-style interferometer has many fewer antenna tiles than the
@@ -1465,7 +1465,7 @@ interferometer at $z = 6.9$.}
 \section{Comparisons to Previous Work} \label{sec:BubblePreviousWork}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Previous work by \cite{Datta:2007nj} and \cite{Datta:2008ry} also
+Previous work by \citet{Datta:2007nj} and \citet{Datta:2008ry} also
 considered the possibility of detecting ionized regions in
 noisy redshifted 21 cm data sets using a matched filter technique. 
 The main difference between our study and this earlier work is
@@ -1488,7 +1488,7 @@ the most feasible approach for the MWA-128 and other first generation
 surveys. 
 
 Nonetheless, our work is a significant extension to the earlier
-work by \cite{Datta:2007nj} in that we conduct a blind search across
+work by \citet{Datta:2007nj} in that we conduct a blind search across
 an entire mock survey volume. A detailed comparison with their
 work is not straightforward given the difference between our approaches, but
 both studies have a similar bottom-line conclusion: ionized regions

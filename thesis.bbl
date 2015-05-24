@@ -1,1434 +1,1772 @@
-\begin{thebibliography}{190}
+\begin{thebibliography}{195}
 \providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\bibinfo}[2]{#2}
 
-\bibitem[Abel and Haehnelt(1999)]{Abel:1999vj}
-Tom Abel and Martin~G. Haehnelt.
-\newblock {Radiative transfer effects during photoheating of the intergalactic
-  medium}.
-\newblock \emph{Astrophys.J.}, 520:\penalty0 L13--L16, 1999.
+\bibitem[\protect\astroncite{Abel and Haehnelt}{1999}]{Abel:1999vj}
+\textsc{\bibinfo{author}{Abel, T.} and \bibinfo{author}{Haehnelt, M.~G.}}
+\newblock \bibinfo{title}{{Radiative transfer effects during photoheating of
+  the intergalactic medium}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{520}}:\bibinfo{pages}{L13--L16}
+  (\bibinfo{year}{1999}).
 \newblock \doi{10.1086/312136}.
 
-\bibitem[Ade et~al.(2013)]{Ade:2013zuv}
-P.A.R. Ade et~al.
-\newblock {Planck 2013 results. XVI. Cosmological parameters}.
-\newblock 2013.
+\bibitem[\protect\astroncite{Ade et~al.}{2013}]{Ade:2013zuv}
+\textsc{\bibinfo{author}{Ade, P.} et~al.}
+\newblock \bibinfo{title}{{Planck 2013 results. XVI. Cosmological parameters}}
+  (\bibinfo{year}{2013}).
 
-\bibitem[Ali et~al.(2015)Ali, Parsons, Zheng, Pober, Liu, Aguirre, Bradley,
-  Bernardi, Carilli, Cheng, et~al.]{ali2015paper}
-Zaki~S Ali, Aaron~R Parsons, Haoxuan Zheng, Jonathan~C Pober, Adrian Liu,
-  James~E Aguirre, Richard~F Bradley, Gianni Bernardi, Chris~L Carilli, Carina
-  Cheng, et~al.
-\newblock Paper-64 constraints on reionization: The 21cm power spectrum at z=
-  8.4.
-\newblock \emph{arXiv preprint arXiv:1502.06016}, 2015.
+\bibitem[\protect\astroncite{Ali et~al.}{2015}]{ali2015paper}
+\textsc{\bibinfo{author}{Ali, Z.~S.}, \bibinfo{author}{Parsons, A.~R.},
+  \bibinfo{author}{Zheng, H.}, \bibinfo{author}{Pober, J.~C.},
+  \bibinfo{author}{Liu, A.}, \bibinfo{author}{Aguirre, J.~E.},
+  \bibinfo{author}{Bradley, R.~F.}, \bibinfo{author}{Bernardi, G.}, et~al.}
+\newblock \bibinfo{title}{PAPER-64 Constraints on Reionization: The 21cm Power
+  Spectrum at z= 8.4}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:1502.06016}
+  (\bibinfo{year}{2015}).
 
-\bibitem[Barkana and Loeb(2001{\natexlab{a}})]{Barkana:2000fd}
-Rennan Barkana and Abraham Loeb.
-\newblock {In the beginning: The First sources of light and the reionization of
-  the Universe}.
-\newblock \emph{Phys.Rept.}, 349:\penalty0 125--238, 2001{\natexlab{a}}.
+\bibitem[\protect\astroncite{Barkana and
+  Loeb}{2001{\natexlab{a}}}]{barkana2001beginning}
+\textsc{\bibinfo{author}{Barkana, R.} and \bibinfo{author}{Loeb, A.}}
+\newblock \bibinfo{title}{In the beginning: the first sources of light and the
+  reionization of the universe}.
+\newblock \bibinfo{journal}{Physics Reports},
+  \textbf{\bibinfo{volume}{349}}(\bibinfo{number}{2}):\bibinfo{pages}{125--238}
+  (\bibinfo{year}{2001}{\natexlab{a}}).
+
+\bibitem[\protect\astroncite{Barkana and
+  Loeb}{2001{\natexlab{b}}}]{Barkana:2000fd}
+\textsc{\bibinfo{author}{Barkana, R.} and \bibinfo{author}{Loeb, A.}}
+\newblock \bibinfo{title}{{In the beginning: The First sources of light and the
+  reionization of the Universe}}.
+\newblock \bibinfo{journal}{Phys.Rept.},
+  \textbf{\bibinfo{volume}{349}}:\bibinfo{pages}{125--238}
+  (\bibinfo{year}{2001}{\natexlab{b}}).
 \newblock \doi{10.1016/S0370-1573(01)00019-9}.
 
-\bibitem[Barkana and Loeb(2001{\natexlab{b}})]{barkana2001beginning}
-Rennan Barkana and Abraham Loeb.
-\newblock In the beginning: the first sources of light and the reionization of
-  the universe.
-\newblock \emph{Physics Reports}, 349\penalty0 (2):\penalty0 125--238,
-  2001{\natexlab{b}}.
+\bibitem[\protect\astroncite{Beardsley et~al.}{2012}]{Beardsley:2012za}
+\textsc{\bibinfo{author}{Beardsley, A.}, \bibinfo{author}{Hazelton, B.},
+  \bibinfo{author}{Morales, M.}, \bibinfo{author}{Arcus, W.},
+  \bibinfo{author}{Barnes, D.}, et~al.}
+\newblock \bibinfo{title}{{The EoR Sensitivity of the 128 Antenna Murchison
+  Widefield Array}} (\bibinfo{year}{2012}).
 
-\bibitem[Beardsley et~al.(2012)Beardsley, Hazelton, Morales, Arcus, Barnes,
-  et~al.]{Beardsley:2012za}
-A.P. Beardsley, B.J. Hazelton, M.F. Morales, W.~Arcus, D.~Barnes, et~al.
-\newblock {The EoR Sensitivity of the 128 Antenna Murchison Widefield Array}.
-\newblock 2012.
+\bibitem[\protect\astroncite{Becker and Bolton}{2013}]{Becker:2013ffa}
+\textsc{\bibinfo{author}{Becker, G.~D.} and \bibinfo{author}{Bolton, J.~S.}}
+\newblock \bibinfo{title}{{New Measurements of the Ionizing Ultraviolet
+  Background over {$2 < z < 5$} and Implications for Hydrogen Reionization}}
+  (\bibinfo{year}{2013}).
 
-\bibitem[{Becker} et~al.(2013){Becker}, {Hewett}, {Worseck}, and
-  {Prochaska}]{2013MNRAS.430.2067B}
-G.~D. {Becker}, P.~C. {Hewett}, G.~{Worseck}, and J.~X. {Prochaska}.
-\newblock {A refined measurement of the mean transmitted flux in the Lya forest
-  over {$2 < z < 5$} using composite quasar spectra}.
-\newblock \emph{MNRAS}, 430:\penalty0 2067--2081, April 2013.
+\bibitem[\protect\astroncite{Becker et~al.}{2011{\natexlab{a}}}]{Becker:2010cu}
+\textsc{\bibinfo{author}{Becker, G.~D.}, \bibinfo{author}{Bolton, J.~S.},
+  \bibinfo{author}{Haehnelt, M.~G.}, and \bibinfo{author}{Sargent, W.~L.}}
+\newblock \bibinfo{title}{{Detection of Extended He II Reionization in the
+  Temperature Evolution of the Intergalactic Medium}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{410}}:\bibinfo{pages}{1096}
+  (\bibinfo{year}{2011}{\natexlab{a}}).
+
+\bibitem[\protect\astroncite{Becker et~al.}{2014}]{Becker:2014oga}
+\textsc{\bibinfo{author}{Becker, G.~D.}, \bibinfo{author}{Bolton, J.~S.},
+  \bibinfo{author}{Madau, P.}, \bibinfo{author}{Pettini, M.},
+  \bibinfo{author}{Ryan-Weber, E.~V.}, et~al.}
+\newblock \bibinfo{title}{{Evidence of patchy hydrogen reionization from an
+  extreme Lya trough below redshift six}} (\bibinfo{year}{2014}).
+
+\bibitem[\protect\astroncite{Becker et~al.}{2012}]{Becker:2012aq}
+\textsc{\bibinfo{author}{Becker, G.~D.}, \bibinfo{author}{Hewett, P.~C.},
+  \bibinfo{author}{Worseck, G.}, and \bibinfo{author}{Prochaska, J.~X.}}
+\newblock \bibinfo{title}{{A Refined Measurement of the Mean Transmitted Flux
+  in the Ly-alpha Forest over {2 < z < 5} Using Composite Quasar Spectra}}
+  (\bibinfo{year}{2012}).
+
+\bibitem[\protect\astroncite{{Becker} et~al.}{2013}]{2013MNRAS.430.2067B}
+\textsc{\bibinfo{author}{{Becker}, G.~D.}, \bibinfo{author}{{Hewett}, P.~C.},
+  \bibinfo{author}{{Worseck}, G.}, and \bibinfo{author}{{Prochaska}, J.~X.}}
+\newblock \bibinfo{title}{{A refined measurement of the mean transmitted flux
+  in the Lya forest over {$2 < z < 5$} using composite quasar spectra}}.
+\newblock \bibinfo{journal}{MNRAS},
+  \textbf{\bibinfo{volume}{430}}:\bibinfo{pages}{2067--2081}
+  (\bibinfo{year}{2013}).
 \newblock \doi{10.1093/mnras/stt031}.
 
-\bibitem[Becker and Bolton(2013)]{Becker:2013ffa}
-George~D. Becker and James~S. Bolton.
-\newblock {New Measurements of the Ionizing Ultraviolet Background over {$2 < z
-  < 5$} and Implications for Hydrogen Reionization}.
-\newblock 2013.
-
-\bibitem[Becker et~al.(2011{\natexlab{a}})Becker, Bolton, Haehnelt, and
-  Sargent]{Becker:2010cu}
-George~D. Becker, James~S. Bolton, Martin~G. Haehnelt, and Wallace~L.W.
-  Sargent.
-\newblock {Detection of Extended He II Reionization in the Temperature
-  Evolution of the Intergalactic Medium}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 410:\penalty0 1096,
-  2011{\natexlab{a}}.
-
-\bibitem[Becker et~al.(2011{\natexlab{b}})Becker, Sargent, Rauch, and
-  Calverley]{Becker:2011ee}
-George~D. Becker, Wallace~L.W. Sargent, Michael Rauch, and Alexander~P.
-  Calverley.
-\newblock {High-Redshift Metals. II. Probing Reionization Galaxies with
-  Low-Ionization Absorption Lines at Redshift Six}.
-\newblock \emph{Astrophys.J.}, 735:\penalty0 93, 2011{\natexlab{b}}.
+\bibitem[\protect\astroncite{Becker et~al.}{2011{\natexlab{b}}}]{Becker:2011ee}
+\textsc{\bibinfo{author}{Becker, G.~D.}, \bibinfo{author}{Sargent, W.~L.},
+  \bibinfo{author}{Rauch, M.}, and \bibinfo{author}{Calverley, A.~P.}}
+\newblock \bibinfo{title}{{High-Redshift Metals. II. Probing Reionization
+  Galaxies with Low-Ionization Absorption Lines at Redshift Six}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{735}}:\bibinfo{pages}{93}
+  (\bibinfo{year}{2011}{\natexlab{b}}).
 \newblock \doi{10.1088/0004-637X/735/2/93}.
 
-\bibitem[Becker et~al.(2012)Becker, Hewett, Worseck, and
-  Prochaska]{Becker:2012aq}
-George~D. Becker, Paul~C. Hewett, Gabor Worseck, and J.~Xavier Prochaska.
-\newblock {A Refined Measurement of the Mean Transmitted Flux in the Ly-alpha
-  Forest over {2 < z < 5} Using Composite Quasar Spectra}.
-\newblock 2012.
-
-\bibitem[Becker et~al.(2014)Becker, Bolton, Madau, Pettini, Ryan-Weber,
-  et~al.]{Becker:2014oga}
-George~D. Becker, James~S. Bolton, Piero Madau, Max Pettini, Emma~V.
-  Ryan-Weber, et~al.
-\newblock {Evidence of patchy hydrogen reionization from an extreme Lya trough
-  below redshift six}.
-\newblock 2014.
-
-\bibitem[Becker et~al.(2001)]{Becker:2001ee}
-Robert~H. Becker et~al.
-\newblock {Evidence for reionization at Z ~ 6: Detection of a Gunn-Peterson
-  trough in a Z = 6.28 quasar}.
-\newblock \emph{Astron.J.}, 122:\penalty0 2850, 2001.
+\bibitem[\protect\astroncite{Becker et~al.}{2001}]{Becker:2001ee}
+\textsc{\bibinfo{author}{Becker, R.~H.} et~al.}
+\newblock \bibinfo{title}{{Evidence for reionization at Z ~ 6: Detection of a
+  Gunn-Peterson trough in a Z = 6.28 quasar}}.
+\newblock \bibinfo{journal}{Astron.J.},
+  \textbf{\bibinfo{volume}{122}}:\bibinfo{pages}{2850} (\bibinfo{year}{2001}).
 \newblock \doi{10.1086/324231}.
 
-\bibitem[{Bennett} et~al.(2013){Bennett}, {Larson}, {Weiland}, {Jarosik},
-  {Hinshaw}, {Odegard}, {Smith}, {Hill}, {Gold}, {Halpern}, {Komatsu}, {Nolta},
-  {Page}, {Spergel}, {Wollack}, {Dunkley}, {Kogut}, {Limon}, {Meyer}, {Tucker},
-  and {Wright}]{Bennett2013}
-C.~L. {Bennett}, D.~{Larson}, J.~L. {Weiland}, N.~{Jarosik}, G.~{Hinshaw},
-  N.~{Odegard}, K.~M. {Smith}, R.~S. {Hill}, B.~{Gold}, M.~{Halpern},
-  E.~{Komatsu}, M.~R. {Nolta}, L.~{Page}, D.~N. {Spergel}, E.~{Wollack},
-  J.~{Dunkley}, A.~{Kogut}, M.~{Limon}, S.~S. {Meyer}, G.~S. {Tucker}, and
-  E.~L. {Wright}.
-\newblock {Nine-year Wilkinson Microwave Anisotropy Probe (WMAP) Observations:
-  Final Maps and Results}.
-\newblock \emph{ApJs}, 208:\penalty0 20, October 2013.
+\bibitem[\protect\astroncite{Bennett et~al.}{2013}]{Bennett:2012zja}
+\textsc{\bibinfo{author}{Bennett, C.} et~al.}
+\newblock \bibinfo{title}{{Nine-Year Wilkinson Microwave Anisotropy Probe
+  (WMAP) Observations: Final Maps and Results}}.
+\newblock \bibinfo{journal}{Astrophys.J.Suppl.},
+  \textbf{\bibinfo{volume}{208}}:\bibinfo{pages}{20} (\bibinfo{year}{2013}).
 \newblock \doi{10.1088/0067-0049/208/2/20}.
 
-\bibitem[Bennett et~al.(2013)]{Bennett:2012zja}
-C.L. Bennett et~al.
-\newblock {Nine-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations:
-  Final Maps and Results}.
-\newblock \emph{Astrophys.J.Suppl.}, 208:\penalty0 20, 2013.
+\bibitem[\protect\astroncite{{Bennett} et~al.}{2013}]{Bennett2013}
+\textsc{\bibinfo{author}{{Bennett}, C.~L.}, \bibinfo{author}{{Larson}, D.},
+  \bibinfo{author}{{Weiland}, J.~L.}, \bibinfo{author}{{Jarosik}, N.},
+  \bibinfo{author}{{Hinshaw}, G.}, \bibinfo{author}{{Odegard}, N.},
+  \bibinfo{author}{{Smith}, K.~M.}, \bibinfo{author}{{Hill}, R.~S.}, et~al.}
+\newblock \bibinfo{title}{{Nine-year Wilkinson Microwave Anisotropy Probe
+  (WMAP) Observations: Final Maps and Results}}.
+\newblock \bibinfo{journal}{ApJs},
+  \textbf{\bibinfo{volume}{208}}:\bibinfo{eid}{20} (\bibinfo{year}{2013}).
 \newblock \doi{10.1088/0067-0049/208/2/20}.
 
-\bibitem[Bertschinger and Jain(1994)]{Bertschinger:1993zv}
-Edmund Bertschinger and Bhuvnesh Jain.
-\newblock {Gravitational instability of cold matter}.
-\newblock \emph{Astrophys.J.}, 431:\penalty0 486, 1994.
+\bibitem[\protect\astroncite{Bertschinger and Jain}{1994}]{Bertschinger:1993zv}
+\textsc{\bibinfo{author}{Bertschinger, E.} and \bibinfo{author}{Jain, B.}}
+\newblock \bibinfo{title}{{Gravitational instability of cold matter}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{431}}:\bibinfo{pages}{486} (\bibinfo{year}{1994}).
 \newblock \doi{10.1086/174501}.
 
-\bibitem[{Bolton} and {Haehnelt}(2007)]{Bolton:2007b}
-J.~S. {Bolton} and M.~G. {Haehnelt}.
-\newblock {The observed ionization rate of the intergalactic medium and the
-  ionizing emissivity at {$z > 5$}: evidence for a photon-starved and extended
-  epoch of reionization}.
-\newblock \emph{MNRAS}, 382:\penalty0 325--341, November 2007.
-\newblock \doi{10.1111/j.1365-2966.2007.12372.x}.
+\bibitem[\protect\astroncite{Bolton et~al.}{2011{\natexlab{a}}}]{Bolton:2011ck}
+\textsc{\bibinfo{author}{Bolton, J.~S.}, \bibinfo{author}{Becker, G.~D.},
+  \bibinfo{author}{Raskutti, S.}, \bibinfo{author}{Wyithe, J. S.~B.},
+  \bibinfo{author}{Haehnelt, M.~G.}, et~al.}
+\newblock \bibinfo{title}{{Improved measurements of the intergalactic medium
+  temperature around quasars: possible evidence for the initial stages of He-II
+  reionisation at z~6}} (\bibinfo{year}{2011}{\natexlab{a}}).
 
-\bibitem[{Bolton} and {Haehnelt}(2013)]{2013MNRAS.429.1695B}
-J.~S. {Bolton} and M.~G. {Haehnelt}.
-\newblock {On the rapid demise of Lya emitters at redshift {$z > 7$} due to the
-  increasing incidence of optically thick absorption systems}.
-\newblock \emph{MNRAS}, 429:\penalty0 1695--1704, February 2013.
-\newblock \doi{10.1093/mnras/sts455}.
-
-\bibitem[{Bolton} et~al.(2010){Bolton}, {Becker}, {Wyithe}, {Haehnelt}, and
-  {Sargent}]{BoltonQuasar}
-J.~S. {Bolton}, G.~D. {Becker}, J.~S.~B. {Wyithe}, M.~G. {Haehnelt}, and
-  W.~L.~W. {Sargent}.
-\newblock {A first direct measurement of the intergalactic medium temperature
-  around a quasar at z = 6}.
-\newblock \emph{MNRAS}, 406:\penalty0 612--625, July 2010.
+\bibitem[\protect\astroncite{{Bolton} et~al.}{2010}]{BoltonQuasar}
+\textsc{\bibinfo{author}{{Bolton}, J.~S.}, \bibinfo{author}{{Becker}, G.~D.},
+  \bibinfo{author}{{Wyithe}, J.~S.~B.}, \bibinfo{author}{{Haehnelt}, M.~G.},
+  and \bibinfo{author}{{Sargent}, W.~L.~W.}}
+\newblock \bibinfo{title}{{A first direct measurement of the intergalactic
+  medium temperature around a quasar at z = 6}}.
+\newblock \bibinfo{journal}{MNRAS},
+  \textbf{\bibinfo{volume}{406}}:\bibinfo{pages}{612--625}
+  (\bibinfo{year}{2010}).
 \newblock \doi{10.1111/j.1365-2966.2010.16701.x}.
 
-\bibitem[Bolton et~al.(2011{\natexlab{a}})Bolton, Becker, Raskutti, Wyithe,
-  Haehnelt, et~al.]{Bolton:2011ck}
-James~S. Bolton, George~D. Becker, Sudhir Raskutti, J.~Stuart~B. Wyithe,
-  Martin~G. Haehnelt, et~al.
-\newblock {Improved measurements of the intergalactic medium temperature around
-  quasars: possible evidence for the initial stages of He-II reionisation at
-  z~6}.
-\newblock 2011{\natexlab{a}}.
+\bibitem[\protect\astroncite{{Bolton} and {Haehnelt}}{2007}]{Bolton:2007b}
+\textsc{\bibinfo{author}{{Bolton}, J.~S.} and \bibinfo{author}{{Haehnelt},
+  M.~G.}}
+\newblock \bibinfo{title}{{The observed ionization rate of the intergalactic
+  medium and the ionizing emissivity at {$z > 5$}: evidence for a
+  photon-starved and extended epoch of reionization}}.
+\newblock \bibinfo{journal}{MNRAS},
+  \textbf{\bibinfo{volume}{382}}:\bibinfo{pages}{325--341}
+  (\bibinfo{year}{2007}).
+\newblock \doi{10.1111/j.1365-2966.2007.12372.x}.
 
-\bibitem[Bolton et~al.(2011{\natexlab{b}})Bolton, Haehnelt, Warren, Hewett,
-  Mortlock, et~al.]{Bolton:2011vb}
-James~S. Bolton, Martin~G. Haehnelt, Stephen~J. Warren, Paul~C. Hewett,
-  Daniel~J. Mortlock, et~al.
-\newblock {How neutral is the intergalactic medium surrounding the redshift
-  z=7.085 quasar ULAS J1120+0641?}
-\newblock 2011{\natexlab{b}}.
+\bibitem[\protect\astroncite{{Bolton} and
+  {Haehnelt}}{2013}]{2013MNRAS.429.1695B}
+\textsc{\bibinfo{author}{{Bolton}, J.~S.} and \bibinfo{author}{{Haehnelt},
+  M.~G.}}
+\newblock \bibinfo{title}{{On the rapid demise of Lya emitters at redshift {$z
+  > 7$} due to the increasing incidence of optically thick absorption
+  systems}}.
+\newblock \bibinfo{journal}{MNRAS},
+  \textbf{\bibinfo{volume}{429}}:\bibinfo{pages}{1695--1704}
+  (\bibinfo{year}{2013}).
+\newblock \doi{10.1093/mnras/sts455}.
 
-\bibitem[Bouwens et~al.(2011{\natexlab{a}})Bouwens, Illingworth, Labbe, Oesch,
-  Trenti, et~al.]{Bouwens:2009qs}
-R.J. Bouwens, G.D. Illingworth, I.~Labbe, P.A. Oesch, M.~Trenti, et~al.
-\newblock {A candidate redshift z ~ 10 galaxy and rapid changes in that
-  population at an age of 500 Myr}.
-\newblock \emph{Nature}, 469:\penalty0 504--507, 2011{\natexlab{a}}.
+\bibitem[\protect\astroncite{Bolton et~al.}{2011{\natexlab{b}}}]{Bolton:2011vb}
+\textsc{\bibinfo{author}{Bolton, J.~S.}, \bibinfo{author}{Haehnelt, M.~G.},
+  \bibinfo{author}{Warren, S.~J.}, \bibinfo{author}{Hewett, P.~C.},
+  \bibinfo{author}{Mortlock, D.~J.}, et~al.}
+\newblock \bibinfo{title}{{How neutral is the intergalactic medium surrounding
+  the redshift z=7.085 quasar ULAS J1120+0641?}}
+  (\bibinfo{year}{2011}{\natexlab{b}}).
+
+\bibitem[\protect\astroncite{Bouwens
+  et~al.}{2011{\natexlab{a}}}]{Bouwens:2009qs}
+\textsc{\bibinfo{author}{Bouwens, R.}, \bibinfo{author}{Illingworth, G.},
+  \bibinfo{author}{Labbe, I.}, \bibinfo{author}{Oesch, P.},
+  \bibinfo{author}{Trenti, M.}, et~al.}
+\newblock \bibinfo{title}{{A candidate redshift z ~ 10 galaxy and rapid changes
+  in that population at an age of 500 Myr}}.
+\newblock \bibinfo{journal}{Nature},
+  \textbf{\bibinfo{volume}{469}}:\bibinfo{pages}{504--507}
+  (\bibinfo{year}{2011}{\natexlab{a}}).
 \newblock \doi{10.1038/nature09717}.
 
-\bibitem[Bouwens et~al.(2011{\natexlab{b}})Bouwens, Illingworth, Oesch, Trenti,
-  Labbe, et~al.]{Bouwens:2011xu}
-R.J. Bouwens, G.D. Illingworth, P.A. Oesch, M.~Trenti, I.~Labbe, et~al.
-\newblock {Lower-Luminosity Galaxies could reionize the Universe: Very Steep
-  Faint-End Slopes to the UV Luminosity Functions at z>5-8 from the HUDF09
-  WFC3/IR Observations}.
-\newblock 2011{\natexlab{b}}.
+\bibitem[\protect\astroncite{Bouwens
+  et~al.}{2011{\natexlab{b}}}]{Bouwens:2011xu}
+\textsc{\bibinfo{author}{Bouwens, R.}, \bibinfo{author}{Illingworth, G.},
+  \bibinfo{author}{Oesch, P.}, \bibinfo{author}{Trenti, M.},
+  \bibinfo{author}{Labbe, I.}, et~al.}
+\newblock \bibinfo{title}{{Lower-Luminosity Galaxies could reionize the
+  Universe: Very Steep Faint-End Slopes to the UV Luminosity Functions at z>5-8
+  from the HUDF09 WFC3/IR Observations}} (\bibinfo{year}{2011}{\natexlab{b}}).
 
-\bibitem[Bowman and Rogers(2010)]{bowman2010lower}
-Judd~D Bowman and Alan~EE Rogers.
-\newblock A lower limit of [dgr] z [thinsp]>[thinsp] 0.06 for the duration of
-  the reionization epoch.
-\newblock \emph{Nature}, 468\penalty0 (7325):\penalty0 796--798, 2010.
-
-\bibitem[Bowman et~al.(2006)Bowman, Morales, and Hewitt]{Bowman:2005cr}
-Judd~D. Bowman, Miguel~F. Morales, and Jacqueline~N. Hewitt.
-\newblock {The Sensitivity of first generation epoch of reionization
-  observatories and their potential for differentiating theoretical power
-  spectra}.
-\newblock \emph{Astrophys.J.}, 638:\penalty0 20--26, 2006.
+\bibitem[\protect\astroncite{Bowman et~al.}{2006}]{Bowman:2005cr}
+\textsc{\bibinfo{author}{Bowman, J.~D.}, \bibinfo{author}{Morales, M.~F.}, and
+  \bibinfo{author}{Hewitt, J.~N.}}
+\newblock \bibinfo{title}{{The Sensitivity of first generation epoch of
+  reionization observatories and their potential for differentiating
+  theoretical power spectra}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{638}}:\bibinfo{pages}{20--26}
+  (\bibinfo{year}{2006}).
 \newblock \doi{10.1086/498703}.
 
-\bibitem[Bowman et~al.(2007)Bowman, Morales, and Hewitt]{Bowman:2005hj}
-Judd~D. Bowman, Miguel~F. Morales, and Jacqueline~N. Hewitt.
-\newblock {Constraints on fundamental cosmological parameters with upcoming
-  epoch of reionization observations}.
-\newblock \emph{Astrophys.J.}, 661:\penalty0 1--9, 2007.
+\bibitem[\protect\astroncite{Bowman et~al.}{2007}]{Bowman:2005hj}
+\textsc{\bibinfo{author}{Bowman, J.~D.}, \bibinfo{author}{Morales, M.~F.}, and
+  \bibinfo{author}{Hewitt, J.~N.}}
+\newblock \bibinfo{title}{{Constraints on fundamental cosmological parameters
+  with upcoming epoch of reionization observations}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{661}}:\bibinfo{pages}{1--9} (\bibinfo{year}{2007}).
 \newblock \doi{10.1086/516560}.
 
-\bibitem[Burns et~al.(2012)Burns, Lazio, Bale, Bowman, Bradley, Carilli,
-  Furlanetto, Harker, Loeb, and Pritchard]{burns2012probing}
-Jack~O Burns, J~Lazio, S~Bale, J~Bowman, R~Bradley, C~Carilli, S~Furlanetto,
-  G~Harker, A~Loeb, and J~Pritchard.
-\newblock Probing the first stars and black holes in the early universe with
-  the dark ages radio explorer (dare).
-\newblock \emph{Advances in Space Research}, 49\penalty0 (3):\penalty0
-  433--450, 2012.
+\bibitem[\protect\astroncite{Bowman and Rogers}{2010}]{bowman2010lower}
+\textsc{\bibinfo{author}{Bowman, J.~D.} and \bibinfo{author}{Rogers, A.~E.}}
+\newblock \bibinfo{title}{A lower limit of [Dgr] z [thinsp]>[thinsp] 0.06 for
+  the duration of the reionization epoch}.
+\newblock \bibinfo{journal}{Nature},
+  \textbf{\bibinfo{volume}{468}}(\bibinfo{number}{7325}):\bibinfo{pages}{796--798}
+  (\bibinfo{year}{2010}).
 
-\bibitem[Caruana et~al.(2012)Caruana, Bunker, Wilkins, Stanway, Lacy, Jarvis,
-  Lorenzoni, and Hickey]{caruana2012no}
-Joseph Caruana, Andrew~J Bunker, Stephen~M Wilkins, Elizabeth~R Stanway, Mark
-  Lacy, Matt~J Jarvis, Silvio Lorenzoni, and Samantha Hickey.
-\newblock No evidence for lyman-alpha emission in spectroscopy of z> 7
-  candidate galaxies.
-\newblock \emph{Monthly Notices of the Royal Astronomical Society},
-  427\penalty0 (4):\penalty0 3055--3070, 2012.
+\bibitem[\protect\astroncite{Burns et~al.}{2012}]{burns2012probing}
+\textsc{\bibinfo{author}{Burns, J.~O.}, \bibinfo{author}{Lazio, J.},
+  \bibinfo{author}{Bale, S.}, \bibinfo{author}{Bowman, J.},
+  \bibinfo{author}{Bradley, R.}, \bibinfo{author}{Carilli, C.},
+  \bibinfo{author}{Furlanetto, S.}, \bibinfo{author}{Harker, G.}, et~al.}
+\newblock \bibinfo{title}{Probing the first stars and black holes in the early
+  Universe with the Dark Ages Radio Explorer (DARE)}.
+\newblock \bibinfo{journal}{Advances in Space Research},
+  \textbf{\bibinfo{volume}{49}}(\bibinfo{number}{3}):\bibinfo{pages}{433--450}
+  (\bibinfo{year}{2012}).
 
-\bibitem[Caruana et~al.(2014)Caruana, Bunker, Wilkins, Stanway, Lorenzoni,
-  Jarvis, and Ebert]{caruana2014spectroscopy}
-Joseph Caruana, Andrew~J Bunker, Stephen~M Wilkins, Elizabeth~R Stanway, Silvio
-  Lorenzoni, Matt~J Jarvis, and Holly Ebert.
-\newblock Spectroscopy of z~ 7 candidate galaxies: using lyman-alpha to
-  constrain the neutral fraction of hydrogen in the high-redshift universe.
-\newblock \emph{Monthly Notices of the Royal Astronomical Society},
-  443\penalty0 (4):\penalty0 2831--2842, 2014.
+\bibitem[\protect\astroncite{Caruana et~al.}{2012}]{caruana2012no}
+\textsc{\bibinfo{author}{Caruana, J.}, \bibinfo{author}{Bunker, A.~J.},
+  \bibinfo{author}{Wilkins, S.~M.}, \bibinfo{author}{Stanway, E.~R.},
+  \bibinfo{author}{Lacy, M.}, \bibinfo{author}{Jarvis, M.~J.},
+  \bibinfo{author}{Lorenzoni, S.}, and \bibinfo{author}{Hickey, S.}}
+\newblock \bibinfo{title}{No evidence for Lyman-alpha emission in spectroscopy
+  of z> 7 candidate galaxies}.
+\newblock \bibinfo{journal}{Monthly Notices of the Royal Astronomical Society},
+  \textbf{\bibinfo{volume}{427}}(\bibinfo{number}{4}):\bibinfo{pages}{3055--3070}
+  (\bibinfo{year}{2012}).
 
-\bibitem[Cen et~al.(2009)Cen, McDonald, Trac, and Loeb]{Cen:2009bg}
-Renyue Cen, Patrick McDonald, Hy~Trac, and Abraham Loeb.
-\newblock {Probing the Epoch of Reionization with the Lyman Alpha Forest at
-  z~4-5}.
-\newblock \emph{Astrophys.J.}, 706:\penalty0 L164--L167, 2009.
+\bibitem[\protect\astroncite{Caruana et~al.}{2014}]{caruana2014spectroscopy}
+\textsc{\bibinfo{author}{Caruana, J.}, \bibinfo{author}{Bunker, A.~J.},
+  \bibinfo{author}{Wilkins, S.~M.}, \bibinfo{author}{Stanway, E.~R.},
+  \bibinfo{author}{Lorenzoni, S.}, \bibinfo{author}{Jarvis, M.~J.}, and
+  \bibinfo{author}{Ebert, H.}}
+\newblock \bibinfo{title}{Spectroscopy of z~ 7 candidate galaxies: using
+  Lyman-alpha to constrain the neutral fraction of hydrogen in the
+  high-redshift universe}.
+\newblock \bibinfo{journal}{Monthly Notices of the Royal Astronomical Society},
+  \textbf{\bibinfo{volume}{443}}(\bibinfo{number}{4}):\bibinfo{pages}{2831--2842}
+  (\bibinfo{year}{2014}).
+
+\bibitem[\protect\astroncite{Cen et~al.}{2009}]{Cen:2009bg}
+\textsc{\bibinfo{author}{Cen, R.}, \bibinfo{author}{McDonald, P.},
+  \bibinfo{author}{Trac, H.}, and \bibinfo{author}{Loeb, A.}}
+\newblock \bibinfo{title}{{Probing the Epoch of Reionization with the Lyman
+  Alpha Forest at z~4-5}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{706}}:\bibinfo{pages}{L164--L167}
+  (\bibinfo{year}{2009}).
 \newblock \doi{10.1088/0004-637X/706/1/L164}.
 
-\bibitem[Chang et~al.(2012)Chang, Broderick, and Pfrommer]{Chang:2011bf}
-Philip Chang, Avery~E. Broderick, and Christoph Pfrommer.
-\newblock {The Cosmological Impact of Luminous TeV Blazars II: Rewriting the
-  Thermal History of the Intergalactic Medium}.
-\newblock \emph{Astrophys.J.}, 752:\penalty0 23, 2012.
+\bibitem[\protect\astroncite{Chang et~al.}{2012}]{Chang:2011bf}
+\textsc{\bibinfo{author}{Chang, P.}, \bibinfo{author}{Broderick, A.~E.}, and
+  \bibinfo{author}{Pfrommer, C.}}
+\newblock \bibinfo{title}{{The Cosmological Impact of Luminous TeV Blazars II:
+  Rewriting the Thermal History of the Intergalactic Medium}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{752}}:\bibinfo{pages}{23} (\bibinfo{year}{2012}).
 \newblock \doi{10.1088/0004-637X/752/1/23}.
 
-\bibitem[Chapman et~al.(2012)Chapman, Abdalla, Harker, Jelic, Labropoulos,
-  et~al.]{Chapman:2012yj}
-Emma Chapman, Filipe~B. Abdalla, Geraint Harker, Vibor Jelic, Panagiotis
-  Labropoulos, et~al.
-\newblock {Foreground Removal using FastICA: A Showcase of LOFAR-EoR}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 423:\penalty0 2518--2532, 2012.
+\bibitem[\protect\astroncite{Chapman et~al.}{2012}]{Chapman:2012yj}
+\textsc{\bibinfo{author}{Chapman, E.}, \bibinfo{author}{Abdalla, F.~B.},
+  \bibinfo{author}{Harker, G.}, \bibinfo{author}{Jelic, V.},
+  \bibinfo{author}{Labropoulos, P.}, et~al.}
+\newblock \bibinfo{title}{{Foreground Removal using FastICA: A Showcase of
+  LOFAR-EoR}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{423}}:\bibinfo{pages}{2518--2532}
+  (\bibinfo{year}{2012}).
 \newblock \doi{10.1111/j.1365-2966.2012.21065.x}.
 
-\bibitem[Chornock et~al.(2014)Chornock, Berger, Fox, Fong, Laskar,
-  et~al.]{Chornock:2014fva}
-R.~Chornock, E.~Berger, D.B. Fox, W.~Fong, T.~Laskar, et~al.
-\newblock {GRB 140515A at z=6.33: Constraints on the End of Reionization From a
-  Gamma-ray Burst in a Low Hydrogen Column Density Environment}.
-\newblock 2014.
+\bibitem[\protect\astroncite{Chornock et~al.}{2014}]{Chornock:2014fva}
+\textsc{\bibinfo{author}{Chornock, R.}, \bibinfo{author}{Berger, E.},
+  \bibinfo{author}{Fox, D.}, \bibinfo{author}{Fong, W.},
+  \bibinfo{author}{Laskar, T.}, et~al.}
+\newblock \bibinfo{title}{{GRB 140515A at z=6.33: Constraints on the End of
+  Reionization From a Gamma-ray Burst in a Low Hydrogen Column Density
+  Environment}} (\bibinfo{year}{2014}).
 
-\bibitem[Chornock et~al.(2013)Chornock, Berger, Fox, Lunnan, Drout,
-  et~al.]{Chornock:2013una}
-Ryan Chornock, Edo Berger, Derek~B. Fox, Ragnhild Lunnan, Maria~R. Drout,
-  et~al.
-\newblock {GRB 130606A as a Probe of the Intergalactic Medium and the
-  Interstellar Medium in a Star-forming Galaxy in the First Gyr After the Big
-  Bang}.
-\newblock \emph{Astrophys.J.}, 774:\penalty0 26, 2013.
+\bibitem[\protect\astroncite{Chornock et~al.}{2013}]{Chornock:2013una}
+\textsc{\bibinfo{author}{Chornock, R.}, \bibinfo{author}{Berger, E.},
+  \bibinfo{author}{Fox, D.~B.}, \bibinfo{author}{Lunnan, R.},
+  \bibinfo{author}{Drout, M.~R.}, et~al.}
+\newblock \bibinfo{title}{{GRB 130606A as a Probe of the Intergalactic Medium
+  and the Interstellar Medium in a Star-forming Galaxy in the First Gyr After
+  the Big Bang}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{774}}:\bibinfo{pages}{26} (\bibinfo{year}{2013}).
 \newblock \doi{10.1088/0004-637X/774/1/26}.
 
-\bibitem[Ciardi and Madau(2003)]{Ciardi:2003hg}
-Benedetta Ciardi and Piero Madau.
-\newblock {Probing beyond the epoch of hydrogen reionization with 21 centimeter
-  radiation}.
-\newblock \emph{Astrophys.J.}, 596:\penalty0 1--8, 2003.
+\bibitem[\protect\astroncite{Ciardi and Madau}{2003}]{Ciardi:2003hg}
+\textsc{\bibinfo{author}{Ciardi, B.} and \bibinfo{author}{Madau, P.}}
+\newblock \bibinfo{title}{{Probing beyond the epoch of hydrogen reionization
+  with 21 centimeter radiation}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{596}}:\bibinfo{pages}{1--8} (\bibinfo{year}{2003}).
 \newblock \doi{10.1086/377634}.
 
-\bibitem[Collaboration et~al.(2015)]{planck2015planck}
-Planck Collaboration et~al.
-\newblock Planck 2015 results. xiii. cosmological parameters.
-\newblock \emph{arXiv preprint arXiv:1502.01589}, 2015.
+\bibitem[\protect\astroncite{Collaboration et~al.}{2015}]{planck2015planck}
+\textsc{\bibinfo{author}{Collaboration, P.} et~al.}
+\newblock \bibinfo{title}{Planck 2015 results. XIII. Cosmological parameters}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:1502.01589}
+  (\bibinfo{year}{2015}).
 
-\bibitem[Cooke et~al.(2013)Cooke, Pettini, Jorgenson, Murphy, and
-  Steidel]{Cooke:2013cba}
-Ryan Cooke, Max Pettini, Regina~A. Jorgenson, Michael~T. Murphy, and Charles~C.
-  Steidel.
-\newblock {Precision measures of the primordial abundance of deuterium}.
-\newblock 2013.
+\bibitem[\protect\astroncite{Cooke et~al.}{2013}]{Cooke:2013cba}
+\textsc{\bibinfo{author}{Cooke, R.}, \bibinfo{author}{Pettini, M.},
+  \bibinfo{author}{Jorgenson, R.~A.}, \bibinfo{author}{Murphy, M.~T.}, and
+  \bibinfo{author}{Steidel, C.~C.}}
+\newblock \bibinfo{title}{{Precision measures of the primordial abundance of
+  deuterium}} (\bibinfo{year}{2013}).
 
-\bibitem[Cooray and Sheth(2002)]{Cooray:2002dia}
-Asantha Cooray and Ravi~K. Sheth.
-\newblock {Halo models of large scale structure}.
-\newblock \emph{Phys.Rept.}, 372:\penalty0 1--129, 2002.
+\bibitem[\protect\astroncite{Cooray and Sheth}{2002}]{Cooray:2002dia}
+\textsc{\bibinfo{author}{Cooray, A.} and \bibinfo{author}{Sheth, R.~K.}}
+\newblock \bibinfo{title}{{Halo models of large scale structure}}.
+\newblock \bibinfo{journal}{Phys.Rept.},
+  \textbf{\bibinfo{volume}{372}}:\bibinfo{pages}{1--129}
+  (\bibinfo{year}{2002}).
 \newblock \doi{10.1016/S0370-1573(02)00276-4}.
 
-\bibitem[Croft et~al.(2002)Croft, Weinberg, Bolte, Burles, Hernquist,
-  et~al.]{Croft:2000hs}
-Rupert~A.C. Croft, David~H. Weinberg, Mike Bolte, Scott Burles, Lars Hernquist,
-  et~al.
-\newblock {Towards a precise measurement of matter clustering: Lyman alpha
-  forest data at redshifts 2-4}.
-\newblock \emph{Astrophys.J.}, 581:\penalty0 20--52, 2002.
+\bibitem[\protect\astroncite{Croft et~al.}{2002}]{Croft:2000hs}
+\textsc{\bibinfo{author}{Croft, R.~A.}, \bibinfo{author}{Weinberg, D.~H.},
+  \bibinfo{author}{Bolte, M.}, \bibinfo{author}{Burles, S.},
+  \bibinfo{author}{Hernquist, L.}, et~al.}
+\newblock \bibinfo{title}{{Towards a precise measurement of matter clustering:
+  Lyman alpha forest data at redshifts 2-4}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{581}}:\bibinfo{pages}{20--52}
+  (\bibinfo{year}{2002}).
 \newblock \doi{10.1086/344099}.
 
-\bibitem[Datta et~al.(2010)Datta, Bowman, and Carilli]{Datta:2010pk}
-A.~Datta, J.D. Bowman, and C.L. Carilli.
-\newblock {Bright Source Subtraction Requirements For Redshifted 21 cm
-  Measurements}.
-\newblock \emph{Astrophys.J.}, 724:\penalty0 526--538, 2010.
+\bibitem[\protect\astroncite{Datta et~al.}{2010}]{Datta:2010pk}
+\textsc{\bibinfo{author}{Datta, A.}, \bibinfo{author}{Bowman, J.}, and
+  \bibinfo{author}{Carilli, C.}}
+\newblock \bibinfo{title}{{Bright Source Subtraction Requirements For
+  Redshifted 21 cm Measurements}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{724}}:\bibinfo{pages}{526--538}
+  (\bibinfo{year}{2010}).
 \newblock \doi{10.1088/0004-637X/724/1/526}.
 
-\bibitem[Datta et~al.(2007)Datta, Bharadwaj, and Choudhury]{Datta:2007nj}
-Kanan~K. Datta, Somnath Bharadwaj, and T.~Roy Choudhury.
-\newblock {Detecting ionized bubbles in redshifted 21 cm maps}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 382:\penalty0 809, 2007.
+\bibitem[\protect\astroncite{Datta et~al.}{2007}]{Datta:2007nj}
+\textsc{\bibinfo{author}{Datta, K.~K.}, \bibinfo{author}{Bharadwaj, S.}, and
+  \bibinfo{author}{Choudhury, T.~R.}}
+\newblock \bibinfo{title}{{Detecting ionized bubbles in redshifted 21 cm
+  maps}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{382}}:\bibinfo{pages}{809} (\bibinfo{year}{2007}).
 \newblock \doi{10.1111/j.1365-2966.2007.12421.x}.
 
-\bibitem[Datta et~al.(2008)Datta, Majumdar, Bharadwaj, and
-  Choudhury]{Datta:2008ry}
-Kanan~K. Datta, Suman Majumdar, Somnath Bharadwaj, and T.~Roy Choudhury.
-\newblock {Simulating the impact of HI fluctuations on matched filter search
-  for ionized bubbles in redshifted 21 cm maps}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 391:\penalty0 1900, 2008.
+\bibitem[\protect\astroncite{Datta et~al.}{2008}]{Datta:2008ry}
+\textsc{\bibinfo{author}{Datta, K.~K.}, \bibinfo{author}{Majumdar, S.},
+  \bibinfo{author}{Bharadwaj, S.}, and \bibinfo{author}{Choudhury, T.~R.}}
+\newblock \bibinfo{title}{{Simulating the impact of HI fluctuations on matched
+  filter search for ionized bubbles in redshifted 21 cm maps}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{391}}:\bibinfo{pages}{1900} (\bibinfo{year}{2008}).
 
-\bibitem[Datta et~al.(2011)Datta, Mellema, Mao, Iliev, Shapiro,
-  et~al.]{Datta:2011hv}
-Kanan~K. Datta, Garrelt Mellema, Yi~Mao, Ilian~T. Iliev, Paul~R. Shapiro,
-  et~al.
-\newblock {Light cone effect on the reionization 21-cm power spectrum}.
-\newblock 2011.
+\bibitem[\protect\astroncite{Datta et~al.}{2011}]{Datta:2011hv}
+\textsc{\bibinfo{author}{Datta, K.~K.}, \bibinfo{author}{Mellema, G.},
+  \bibinfo{author}{Mao, Y.}, \bibinfo{author}{Iliev, I.~T.},
+  \bibinfo{author}{Shapiro, P.~R.}, et~al.}
+\newblock \bibinfo{title}{{Light cone effect on the reionization 21-cm power
+  spectrum}} (\bibinfo{year}{2011}).
 
-\bibitem[Dijkstra et~al.(2004)Dijkstra, Lidz, and Hui]{Dijkstra:2003pd}
-Mark Dijkstra, Adam Lidz, and Lam Hui.
-\newblock {Beyond Lyman alpha: Constraints and consistency tests from the Lyman
-  beta forest}.
-\newblock \emph{Astrophys.J.}, 605:\penalty0 7--13, 2004.
+\bibitem[\protect\astroncite{Dijkstra et~al.}{2004}]{Dijkstra:2003pd}
+\textsc{\bibinfo{author}{Dijkstra, M.}, \bibinfo{author}{Lidz, A.}, and
+  \bibinfo{author}{Hui, L.}}
+\newblock \bibinfo{title}{{Beyond Lyman alpha: Constraints and consistency
+  tests from the Lyman beta forest}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{605}}:\bibinfo{pages}{7--13} (\bibinfo{year}{2004}).
 \newblock \doi{10.1086/382199}.
 
-\bibitem[Djorgovski et~al.(2001)Djorgovski, Castro, Stern, and
-  Mahabal]{Djorgovski:2001ez}
-S.G. Djorgovski, S.M. Castro, D.~Stern, and A.~Mahabal.
-\newblock {On the threshold of the reionization epoch}.
-\newblock 2001.
+\bibitem[\protect\astroncite{Djorgovski et~al.}{2001}]{Djorgovski:2001ez}
+\textsc{\bibinfo{author}{Djorgovski, S.}, \bibinfo{author}{Castro, S.},
+  \bibinfo{author}{Stern, D.}, and \bibinfo{author}{Mahabal, A.}}
+\newblock \bibinfo{title}{{On the threshold of the reionization epoch}}
+  (\bibinfo{year}{2001}).
 
-\bibitem[{Doroshkevich}(1970)]{1970Afz.....6..581D}
-A.~G. {Doroshkevich}.
-\newblock {The space structure of perturbations and the origin of rotation of
-  galaxies in the theory of fluctuation.}
-\newblock \emph{Astrofizika}, 6:\penalty0 581--600, 1970.
+\bibitem[\protect\astroncite{{Doroshkevich}}{1970}]{1970Afz.....6..581D}
+\textsc{\bibinfo{author}{{Doroshkevich}, A.~G.}}
+\newblock \bibinfo{title}{{The space structure of perturbations and the origin
+  of rotation of galaxies in the theory of fluctuation.}}
+\newblock \bibinfo{journal}{Astrofizika},
+  \textbf{\bibinfo{volume}{6}}:\bibinfo{pages}{581--600}
+  (\bibinfo{year}{1970}).
 
-\bibitem[Dunkley et~al.(2009)]{Dunkley:2008ie}
-J.~Dunkley et~al.
-\newblock {Five-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations:
-  Likelihoods and Parameters from the WMAP data}.
-\newblock \emph{Astrophys.J.Suppl.}, 180:\penalty0 306--329, 2009.
+\bibitem[\protect\astroncite{Dunkley et~al.}{2009}]{Dunkley:2008ie}
+\textsc{\bibinfo{author}{Dunkley, J.} et~al.}
+\newblock \bibinfo{title}{{Five-Year Wilkinson Microwave Anisotropy Probe
+  (WMAP) Observations: Likelihoods and Parameters from the WMAP data}}.
+\newblock \bibinfo{journal}{Astrophys.J.Suppl.},
+  \textbf{\bibinfo{volume}{180}}:\bibinfo{pages}{306--329}
+  (\bibinfo{year}{2009}).
 \newblock \doi{10.1088/0067-0049/180/2/306}.
 
-\bibitem[{Fan} et~al.(2006){Fan}, {Strauss}, {Becker}, {White}, {Gunn},
-  {Knapp}, {Richards}, {Schneider}, {Brinkmann}, and {Fukugita}]{Fan2006a}
-X.~{Fan}, M.~A. {Strauss}, R.~H. {Becker}, R.~L. {White}, J.~E. {Gunn}, G.~R.
-  {Knapp}, G.~T. {Richards}, D.~P. {Schneider}, J.~{Brinkmann}, and
-  M.~{Fukugita}.
-\newblock {Constraining the Evolution of the Ionizing Background and the Epoch
-  of Reionization with z{$\sim$}6 Quasars. II. A Sample of 19 Quasars}.
-\newblock \emph{Astrophysical Journal}, 132:\penalty0 117--136, July 2006.
+\bibitem[\protect\astroncite{Fan et~al.}{2002}]{fan2002evolution}
+\textsc{\bibinfo{author}{Fan, X.}, \bibinfo{author}{Narayanan, V.~K.},
+  \bibinfo{author}{Strauss, M.~A.}, \bibinfo{author}{White, R.~L.},
+  \bibinfo{author}{Becker, R.~H.}, \bibinfo{author}{Pentericci, L.}, and
+  \bibinfo{author}{Rix, H.-W.}}
+\newblock \bibinfo{title}{Evolution of the Ionizing Background and the Epoch of
+  Reionization from the Spectra of z{$\sim$} 6 Quasars}.
+\newblock \bibinfo{journal}{The Astronomical Journal},
+  \textbf{\bibinfo{volume}{123}}(\bibinfo{number}{3}):\bibinfo{pages}{1247}
+  (\bibinfo{year}{2002}).
+
+\bibitem[\protect\astroncite{{Fan} et~al.}{2006}]{Fan2006a}
+\textsc{\bibinfo{author}{{Fan}, X.}, \bibinfo{author}{{Strauss}, M.~A.},
+  \bibinfo{author}{{Becker}, R.~H.}, \bibinfo{author}{{White}, R.~L.},
+  \bibinfo{author}{{Gunn}, J.~E.}, \bibinfo{author}{{Knapp}, G.~R.},
+  \bibinfo{author}{{Richards}, G.~T.}, \bibinfo{author}{{Schneider}, D.~P.},
+  et~al.}
+\newblock \bibinfo{title}{{Constraining the Evolution of the Ionizing
+  Background and the Epoch of Reionization with z{$\sim$}6 Quasars. II. A
+  Sample of 19 Quasars}}.
+\newblock \bibinfo{journal}{Astrophysical Journal},
+  \textbf{\bibinfo{volume}{132}}:\bibinfo{pages}{117--136}
+  (\bibinfo{year}{2006}).
 \newblock \doi{10.1086/504836}.
 
-\bibitem[Fan et~al.(2006)Fan, Strauss, Becker, White, Gunn, et~al.]{Fan:2005es}
-Xiao-Hui Fan, Michael~A. Strauss, Robert~H. Becker, Richard~L. White, James~E.
-  Gunn, et~al.
-\newblock {Constraining the evolution of the ionizing background and the epoch
-  of reionization with z~6 quasars. 2. a sample of 19 quasars}.
-\newblock \emph{Astron.J.}, 132:\penalty0 117--136, 2006.
-\newblock \doi{10.1086/504836}.
-
-\bibitem[Fan et~al.(2002)Fan, Narayanan, Strauss, White, Becker, Pentericci,
-  and Rix]{fan2002evolution}
-Xiaohui Fan, Vijay~K Narayanan, Michael~A Strauss, Richard~L White, Robert~H
-  Becker, Laura Pentericci, and Hans-Walter Rix.
-\newblock Evolution of the ionizing background and the epoch of reionization
-  from the spectra of z{$\sim$} 6 quasars.
-\newblock \emph{The Astronomical Journal}, 123\penalty0 (3):\penalty0 1247,
-  2002.
-
-\bibitem[Fan et~al.(2001)]{Fan:2001ff}
-Xiaohui Fan et~al.
-\newblock {A Survey of {$z > 5.8$} quasars in the Sloan Digital Sky Survey I:
-  Discovery of three new quasars and the spatial density of luminous quasars at
-  z ~ 6}.
-\newblock \emph{Astron.J.}, 122:\penalty0 2833, 2001.
+\bibitem[\protect\astroncite{Fan et~al.}{2001}]{Fan:2001ff}
+\textsc{\bibinfo{author}{Fan, X.} et~al.}
+\newblock \bibinfo{title}{{A Survey of {$z > 5.8$} quasars in the Sloan Digital
+  Sky Survey I: Discovery of three new quasars and the spatial density of
+  luminous quasars at z ~ 6}}.
+\newblock \bibinfo{journal}{Astron.J.},
+  \textbf{\bibinfo{volume}{122}}:\bibinfo{pages}{2833} (\bibinfo{year}{2001}).
 \newblock \doi{10.1086/324111}.
 
-\bibitem[{Faucher-Gigu{\`e}re} et~al.(2008){Faucher-Gigu{\`e}re}, {Prochaska},
-  {Lidz}, {Hernquist}, and {Zaldarriaga}]{2008ApJ...681..831F}
-C.-A. {Faucher-Gigu{\`e}re}, J.~X. {Prochaska}, A.~{Lidz}, L.~{Hernquist}, and
-  M.~{Zaldarriaga}.
-\newblock {A Direct Precision Measurement of the Intergalactic Lya Opacity at 2
-  {<}= z {<}= 4.2}.
-\newblock \emph{ApJ}, 681:\penalty0 831--855, July 2008.
-\newblock \doi{10.1086/588648}.
+\bibitem[\protect\astroncite{Fan et~al.}{2006}]{Fan:2005es}
+\textsc{\bibinfo{author}{Fan, X.-H.}, \bibinfo{author}{Strauss, M.~A.},
+  \bibinfo{author}{Becker, R.~H.}, \bibinfo{author}{White, R.~L.},
+  \bibinfo{author}{Gunn, J.~E.}, et~al.}
+\newblock \bibinfo{title}{{Constraining the evolution of the ionizing
+  background and the epoch of reionization with z~6 quasars. 2. a sample of 19
+  quasars}}.
+\newblock \bibinfo{journal}{Astron.J.},
+  \textbf{\bibinfo{volume}{132}}:\bibinfo{pages}{117--136}
+  (\bibinfo{year}{2006}).
+\newblock \doi{10.1086/504836}.
 
-\bibitem[Faucher-Giguere et~al.(2008)Faucher-Giguere, Lidz, Zaldarriaga, and
-  Hernquist]{FaucherGiguere:2007jc}
-Claude-Andre Faucher-Giguere, A.~Lidz, M.~Zaldarriaga, and L.~Hernquist.
-\newblock {The Line-of-Sight Proximity Effect and the Mass of Quasar Host
-  Halos}.
-\newblock \emph{Astrophys.J.}, 673:\penalty0 39, 2008.
+\bibitem[\protect\astroncite{Faucher-Giguere
+  et~al.}{2008}]{FaucherGiguere:2007jc}
+\textsc{\bibinfo{author}{Faucher-Giguere, C.-A.}, \bibinfo{author}{Lidz, A.},
+  \bibinfo{author}{Zaldarriaga, M.}, and \bibinfo{author}{Hernquist, L.}}
+\newblock \bibinfo{title}{{The Line-of-Sight Proximity Effect and the Mass of
+  Quasar Host Halos}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{673}}:\bibinfo{pages}{39} (\bibinfo{year}{2008}).
 \newblock \doi{10.1086/521639}.
 
-\bibitem[Finlator(2012)]{finlator2012recent}
-Kristian Finlator.
-\newblock Recent advances in cosmological hydrogen reionization.
-\newblock \emph{arXiv preprint arXiv:1203.4862}, 2012.
+\bibitem[\protect\astroncite{{Faucher-Gigu{\`e}re}
+  et~al.}{2008}]{2008ApJ...681..831F}
+\textsc{\bibinfo{author}{{Faucher-Gigu{\`e}re}, C.-A.},
+  \bibinfo{author}{{Prochaska}, J.~X.}, \bibinfo{author}{{Lidz}, A.},
+  \bibinfo{author}{{Hernquist}, L.}, and \bibinfo{author}{{Zaldarriaga}, M.}}
+\newblock \bibinfo{title}{{A Direct Precision Measurement of the Intergalactic
+  Lya Opacity at 2 {<}= z {<}= 4.2}}.
+\newblock \bibinfo{journal}{ApJ},
+  \textbf{\bibinfo{volume}{681}}:\bibinfo{pages}{831--855}
+  (\bibinfo{year}{2008}).
+\newblock \doi{10.1086/588648}.
 
-\bibitem[Friedrich et~al.(2012)Friedrich, Datta, Mellema, and
-  Iliev]{Friedrich:2012fy}
-Martina~M. Friedrich, Kanan~K. Datta, Garrelt Mellema, and Ilian~T. Iliev.
-\newblock {Prospects of observing a quasar HII region during the Epoch of
-  Reionization with redshifted 21cm}.
-\newblock 2012.
-
-\bibitem[Furlanetto and Oh(2009)]{Furlanetto:2009kr}
-Steven Furlanetto and S.~Peng Oh.
-\newblock {The Equation of State of the Intergalactic Medium After Hydrogen
+\bibitem[\protect\astroncite{Finlator}{2012}]{finlator2012recent}
+\textsc{\bibinfo{author}{Finlator, K.}}
+\newblock \bibinfo{title}{Recent Advances in Cosmological Hydrogen
   Reionization}.
-\newblock 2009.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:1203.4862}
+  (\bibinfo{year}{2012}).
 
-\bibitem[Furlanetto et~al.(2004{\natexlab{a}})Furlanetto, Zaldarriaga, and
-  Hernquist]{Furlanetto:2004ha}
-Steven Furlanetto, Matias Zaldarriaga, and Lars Hernquist.
-\newblock {Statistical probes of reionization with 21 cm tomography}.
-\newblock \emph{Astrophys.J.}, 613:\penalty0 16--22, 2004{\natexlab{a}}.
+\bibitem[\protect\astroncite{Friedrich et~al.}{2012}]{Friedrich:2012fy}
+\textsc{\bibinfo{author}{Friedrich, M.~M.}, \bibinfo{author}{Datta, K.~K.},
+  \bibinfo{author}{Mellema, G.}, and \bibinfo{author}{Iliev, I.~T.}}
+\newblock \bibinfo{title}{{Prospects of observing a quasar HII region during
+  the Epoch of Reionization with redshifted 21cm}} (\bibinfo{year}{2012}).
+
+\bibitem[\protect\astroncite{Furlanetto and Oh}{2009}]{Furlanetto:2009kr}
+\textsc{\bibinfo{author}{Furlanetto, S.} and \bibinfo{author}{Oh, S.~P.}}
+\newblock \bibinfo{title}{{The Equation of State of the Intergalactic Medium
+  After Hydrogen Reionization}} (\bibinfo{year}{2009}).
+
+\bibitem[\protect\astroncite{Furlanetto
+  et~al.}{2006{\natexlab{a}}}]{Furlanetto2006}
+\textsc{\bibinfo{author}{Furlanetto, S.}, \bibinfo{author}{Oh, S.~P.}, and
+  \bibinfo{author}{Briggs, F.}}
+\newblock \bibinfo{title}{{Cosmology at Low Frequencies: The 21 cm Transition
+  and the High-Redshift Universe}}.
+\newblock \bibinfo{journal}{Phys.Rept.},
+  \textbf{\bibinfo{volume}{433}}:\bibinfo{pages}{181--301}
+  (\bibinfo{year}{2006}{\natexlab{a}}).
+
+\bibitem[\protect\astroncite{Furlanetto
+  et~al.}{2006{\natexlab{b}}}]{Furlanetto:2006jb}
+\textsc{\bibinfo{author}{Furlanetto, S.}, \bibinfo{author}{Oh, S.~P.}, and
+  \bibinfo{author}{Briggs, F.}}
+\newblock \bibinfo{title}{{Cosmology at Low Frequencies: The 21 cm Transition
+  and the High-Redshift Universe}}.
+\newblock \bibinfo{journal}{Phys.Rept.},
+  \textbf{\bibinfo{volume}{433}}:\bibinfo{pages}{181--301}
+  (\bibinfo{year}{2006}{\natexlab{b}}).
+
+\bibitem[\protect\astroncite{Furlanetto
+  et~al.}{2004{\natexlab{a}}}]{Furlanetto:2004ha}
+\textsc{\bibinfo{author}{Furlanetto, S.}, \bibinfo{author}{Zaldarriaga, M.},
+  and \bibinfo{author}{Hernquist, L.}}
+\newblock \bibinfo{title}{{Statistical probes of reionization with 21 cm
+  tomography}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{613}}:\bibinfo{pages}{16--22}
+  (\bibinfo{year}{2004}{\natexlab{a}}).
 \newblock \doi{10.1086/423028}.
 
-\bibitem[Furlanetto et~al.(2004{\natexlab{b}})Furlanetto, Zaldarriaga, and
-  Hernquist]{Furlanetto:2004nh}
-Steven Furlanetto, Matias Zaldarriaga, and Lars Hernquist.
-\newblock {The Growth of HII regions during reionization}.
-\newblock \emph{Astrophys.J.}, 613:\penalty0 1--15, 2004{\natexlab{b}}.
+\bibitem[\protect\astroncite{Furlanetto
+  et~al.}{2004{\natexlab{b}}}]{Furlanetto:2004nh}
+\textsc{\bibinfo{author}{Furlanetto, S.}, \bibinfo{author}{Zaldarriaga, M.},
+  and \bibinfo{author}{Hernquist, L.}}
+\newblock \bibinfo{title}{{The Growth of HII regions during reionization}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{613}}:\bibinfo{pages}{1--15}
+  (\bibinfo{year}{2004}{\natexlab{b}}).
 \newblock \doi{10.1086/423025}.
 
-\bibitem[Furlanetto et~al.(2006{\natexlab{a}})Furlanetto, Oh, and
-  Briggs]{Furlanetto2006}
-Steven Furlanetto, S.~Peng Oh, and Frank Briggs.
-\newblock {Cosmology at Low Frequencies: The 21 cm Transition and the
-  High-Redshift Universe}.
-\newblock \emph{Phys.Rept.}, 433:\penalty0 181--301, 2006{\natexlab{a}}.
-
-\bibitem[Furlanetto et~al.(2006{\natexlab{b}})Furlanetto, Oh, and
-  Briggs]{Furlanetto:2006jb}
-Steven Furlanetto, S.~Peng Oh, and Frank Briggs.
-\newblock {Cosmology at Low Frequencies: The 21 cm Transition and the
-  High-Redshift Universe}.
-\newblock \emph{Phys.Rept.}, 433:\penalty0 181--301, 2006{\natexlab{b}}.
-
-\bibitem[Gallerani et~al.(2006)Gallerani, Choudhury, and
-  Ferrara]{Gallerani:2005mf}
-Simona Gallerani, T.~Roy Choudhury, and A.~Ferrara.
-\newblock {Constraining the reionization history with qso absorption spectra}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 370:\penalty0 1401--1421, 2006.
+\bibitem[\protect\astroncite{Gallerani et~al.}{2006}]{Gallerani:2005mf}
+\textsc{\bibinfo{author}{Gallerani, S.}, \bibinfo{author}{Choudhury, T.~R.},
+  and \bibinfo{author}{Ferrara, A.}}
+\newblock \bibinfo{title}{{Constraining the reionization history with qso
+  absorption spectra}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{370}}:\bibinfo{pages}{1401--1421}
+  (\bibinfo{year}{2006}).
 \newblock \doi{10.1111/j.1365-2966.2006.10553.x}.
 
-\bibitem[Gnedin and Hui(1998)]{Gnedin:1997td}
-Nickolay~Y. Gnedin and Lam Hui.
-\newblock {Probing the universe with the Lyman alpha forest: 1. Hydrodynamics
-  of the low density IGM}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 296:\penalty0 44--55, 1998.
+\bibitem[\protect\astroncite{Gnedin and Hui}{1998}]{Gnedin:1997td}
+\textsc{\bibinfo{author}{Gnedin, N.~Y.} and \bibinfo{author}{Hui, L.}}
+\newblock \bibinfo{title}{{Probing the universe with the Lyman alpha forest: 1.
+  Hydrodynamics of the low density IGM}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{296}}:\bibinfo{pages}{44--55}
+  (\bibinfo{year}{1998}).
 
-\bibitem[{Gunn} and {Peterson}(1965)]{1965ApJ...142.1633G}
-J.~E. {Gunn} and B.~A. {Peterson}.
-\newblock {On the Density of Neutral Hydrogen in Intergalactic Space.}
-\newblock \emph{ApJ}, 142:\penalty0 1633--1641, November 1965.
+\bibitem[\protect\astroncite{{Gunn} and {Peterson}}{1965}]{1965ApJ...142.1633G}
+\textsc{\bibinfo{author}{{Gunn}, J.~E.} and \bibinfo{author}{{Peterson},
+  B.~A.}}
+\newblock \bibinfo{title}{{On the Density of Neutral Hydrogen in Intergalactic
+  Space.}}
+\newblock \bibinfo{journal}{ApJ},
+  \textbf{\bibinfo{volume}{142}}:\bibinfo{pages}{1633--1641}
+  (\bibinfo{year}{1965}).
 \newblock \doi{10.1086/148444}.
 
-\bibitem[Haehnelt and Tegmark(1996)]{Haehnelt:1995dg}
-Martin~G. Haehnelt and Max Tegmark.
-\newblock {Using the kinematic Sunyaev-Zeldovich effect to determine the
-  peculiar velocities of clusters of galaxies}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 279:\penalty0 545--556, 1996.
+\bibitem[\protect\astroncite{Haehnelt and Tegmark}{1996}]{Haehnelt:1995dg}
+\textsc{\bibinfo{author}{Haehnelt, M.~G.} and \bibinfo{author}{Tegmark, M.}}
+\newblock \bibinfo{title}{{Using the kinematic Sunyaev-Zeldovich effect to
+  determine the peculiar velocities of clusters of galaxies}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{279}}:\bibinfo{pages}{545--556}
+  (\bibinfo{year}{1996}).
 
-\bibitem[Harker et~al.(2009)Harker, Zaroubi, Bernardi, Brentjens, de~Bruyn,
-  et~al.]{Harker:2009hg}
-Geraint Harker, Saleem Zaroubi, Gianni Bernardi, Michiel~A. Brentjens, A.G.
-  de~Bruyn, et~al.
-\newblock {Non-parametric foreground subtraction for 21cm epoch of reionization
-  experiments}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 397:\penalty0 1138, 2009.
+\bibitem[\protect\astroncite{Harker et~al.}{2009}]{Harker:2009hg}
+\textsc{\bibinfo{author}{Harker, G.}, \bibinfo{author}{Zaroubi, S.},
+  \bibinfo{author}{Bernardi, G.}, \bibinfo{author}{Brentjens, M.~A.},
+  \bibinfo{author}{de~Bruyn, A.}, et~al.}
+\newblock \bibinfo{title}{{Non-parametric foreground subtraction for 21cm epoch
+  of reionization experiments}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{397}}:\bibinfo{pages}{1138} (\bibinfo{year}{2009}).
 
-\bibitem[Harker et~al.(2010)Harker, Zaroubi, Bernardi, Brentjens, de~Bruyn,
-  et~al.]{Harker:2010ht}
-Geraint Harker, Saleem Zaroubi, Gianni Bernardi, Michiel~A. Brentjens, A.G.
-  de~Bruyn, et~al.
-\newblock {Power spectrum extraction for redshifted 21-cm epoch of reionization
-  experiments: the LOFAR case}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 405:\penalty0 2492--2504, 2010.
+\bibitem[\protect\astroncite{Harker et~al.}{2010}]{Harker:2010ht}
+\textsc{\bibinfo{author}{Harker, G.}, \bibinfo{author}{Zaroubi, S.},
+  \bibinfo{author}{Bernardi, G.}, \bibinfo{author}{Brentjens, M.~A.},
+  \bibinfo{author}{de~Bruyn, A.}, et~al.}
+\newblock \bibinfo{title}{{Power spectrum extraction for redshifted 21-cm epoch
+  of reionization experiments: the LOFAR case}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{405}}:\bibinfo{pages}{2492--2504}
+  (\bibinfo{year}{2010}).
 
-\bibitem[Harker et~al.(2012)Harker, Pritchard, Burns, and
-  Bowman]{harker2012mcmc}
-Geraint~JA Harker, Jonathan~R Pritchard, Jack~O Burns, and Judd~D Bowman.
-\newblock An mcmc approach to extracting the global 21-cm signal during the
-  cosmic dawn from sky-averaged radio observations.
-\newblock \emph{Monthly Notices of the Royal Astronomical Society},
-  419\penalty0 (2):\penalty0 1070--1084, 2012.
+\bibitem[\protect\astroncite{Harker et~al.}{2012}]{harker2012mcmc}
+\textsc{\bibinfo{author}{Harker, G.~J.}, \bibinfo{author}{Pritchard, J.~R.},
+  \bibinfo{author}{Burns, J.~O.}, and \bibinfo{author}{Bowman, J.~D.}}
+\newblock \bibinfo{title}{An MCMC approach to extracting the global 21-cm
+  signal during the cosmic dawn from sky-averaged radio observations}.
+\newblock \bibinfo{journal}{Monthly Notices of the Royal Astronomical Society},
+  \textbf{\bibinfo{volume}{419}}(\bibinfo{number}{2}):\bibinfo{pages}{1070--1084}
+  (\bibinfo{year}{2012}).
 
-\bibitem[Hennawi and Spergel(2004)]{Hennawi:2004ai}
-Joseph~F. Hennawi and David~N. Spergel.
-\newblock {Mass selected cluster cosmology. 1: Tomography and optimal
-  filtering}.
-\newblock \emph{Astrophys.J.}, 2004.
+\bibitem[\protect\astroncite{Hennawi and Spergel}{2004}]{Hennawi:2004ai}
+\textsc{\bibinfo{author}{Hennawi, J.~F.} and \bibinfo{author}{Spergel, D.~N.}}
+\newblock \bibinfo{title}{{Mass selected cluster cosmology. 1: Tomography and
+  optimal filtering}}.
+\newblock \bibinfo{journal}{Astrophys.J.} (\bibinfo{year}{2004}).
 
-\bibitem[{Hui} and {Gnedin}(1997)]{Hui1997}
-L.~{Hui} and N.~Y. {Gnedin}.
-\newblock {Equation of state of the photoionized intergalactic medium}.
-\newblock \emph{MNRAS}, 292:\penalty0 27, November 1997.
-
-\bibitem[Hui and Gnedin(1997)]{Hui:1997dp}
-Lam Hui and Nickolay~Y. Gnedin.
-\newblock {Equation of state of the photoionized intergalactic medium}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 292:\penalty0 27, 1997.
-
-\bibitem[Hui and Haiman(2003)]{Hui:2003hn}
-Lam Hui and Zoltan Haiman.
-\newblock {The Thermal memory of reionization history}.
-\newblock \emph{Astrophys.J.}, 596:\penalty0 9--18, 2003.
-\newblock \doi{10.1086/377229}.
-
-\bibitem[Hui et~al.(2000)Hui, Kofman, and Shandarin]{Hui:1999ku}
-Lam Hui, Lev Kofman, and Sergei~F. Shandarin.
-\newblock {Multiple-streaming and the probability distribution of density in
-  redshift space}.
-\newblock \emph{Astrophys.J.}, 537:\penalty0 12--20, 2000.
-\newblock \doi{10.1086/308991}.
-
-\bibitem[Hui et~al.(2001)Hui, Burles, Seljak, Rutledge, Magnier,
-  et~al.]{Hui:2000rw}
-Lam Hui, Scott Burles, Uros Seljak, Robert~E. Rutledge, Eugene Magnier, et~al.
-\newblock {On Estimating the QSO transmission power spectrum}.
-\newblock \emph{Astrophys.J.}, 552:\penalty0 15, 2001.
+\bibitem[\protect\astroncite{Hui et~al.}{2001}]{Hui:2000rw}
+\textsc{\bibinfo{author}{Hui, L.}, \bibinfo{author}{Burles, S.},
+  \bibinfo{author}{Seljak, U.}, \bibinfo{author}{Rutledge, R.~E.},
+  \bibinfo{author}{Magnier, E.}, et~al.}
+\newblock \bibinfo{title}{{On Estimating the QSO transmission power spectrum}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{552}}:\bibinfo{pages}{15} (\bibinfo{year}{2001}).
 \newblock \doi{10.1086/320436}.
 
-\bibitem[Iliev et~al.(2006)Iliev, Mellema, Pen, Merz, Shapiro,
-  et~al.]{Iliev:2005sz}
-Ilian~T. Iliev, Garrelt Mellema, Ue-Li Pen, Hugh Merz, Paul~R. Shapiro, et~al.
-\newblock {Simulating cosmic reionization at large scales. 1. the geometry of
-  reionization}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 369:\penalty0 1625--1638, 2006.
+\bibitem[\protect\astroncite{{Hui} and {Gnedin}}{1997}]{Hui1997}
+\textsc{\bibinfo{author}{{Hui}, L.} and \bibinfo{author}{{Gnedin}, N.~Y.}}
+\newblock \bibinfo{title}{{Equation of state of the photoionized intergalactic
+  medium}}.
+\newblock \bibinfo{journal}{MNRAS},
+  \textbf{\bibinfo{volume}{292}}:\bibinfo{pages}{27} (\bibinfo{year}{1997}).
+
+\bibitem[\protect\astroncite{Hui and Gnedin}{1997}]{Hui:1997dp}
+\textsc{\bibinfo{author}{Hui, L.} and \bibinfo{author}{Gnedin, N.~Y.}}
+\newblock \bibinfo{title}{{Equation of state of the photoionized intergalactic
+  medium}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{292}}:\bibinfo{pages}{27} (\bibinfo{year}{1997}).
+
+\bibitem[\protect\astroncite{Hui and Haiman}{2003}]{Hui:2003hn}
+\textsc{\bibinfo{author}{Hui, L.} and \bibinfo{author}{Haiman, Z.}}
+\newblock \bibinfo{title}{{The Thermal memory of reionization history}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{596}}:\bibinfo{pages}{9--18} (\bibinfo{year}{2003}).
+\newblock \doi{10.1086/377229}.
+
+\bibitem[\protect\astroncite{Hui et~al.}{2000}]{Hui:1999ku}
+\textsc{\bibinfo{author}{Hui, L.}, \bibinfo{author}{Kofman, L.}, and
+  \bibinfo{author}{Shandarin, S.~F.}}
+\newblock \bibinfo{title}{{Multiple-streaming and the probability distribution
+  of density in redshift space}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{537}}:\bibinfo{pages}{12--20}
+  (\bibinfo{year}{2000}).
+\newblock \doi{10.1086/308991}.
+
+\bibitem[\protect\astroncite{Iliev et~al.}{2006}]{Iliev:2005sz}
+\textsc{\bibinfo{author}{Iliev, I.~T.}, \bibinfo{author}{Mellema, G.},
+  \bibinfo{author}{Pen, U.-L.}, \bibinfo{author}{Merz, H.},
+  \bibinfo{author}{Shapiro, P.~R.}, et~al.}
+\newblock \bibinfo{title}{{Simulating cosmic reionization at large scales. 1.
+  the geometry of reionization}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{369}}:\bibinfo{pages}{1625--1638}
+  (\bibinfo{year}{2006}).
 \newblock \doi{10.1111/j.1365-2966.2006.10502.x}.
 
-\bibitem[{Kohler} et~al.(2007){Kohler}, {Gnedin}, and
-  {Hamilton}]{2007ApJ...657...15K}
-K.~{Kohler}, N.~Y. {Gnedin}, and A.~J.~S. {Hamilton}.
-\newblock {Large-Scale Simulations of Reionization}.
-\newblock \emph{ApJ}, 657:\penalty0 15--29, March 2007.
+\bibitem[\protect\astroncite{Kasuya and Kawasaki}{2004}]{kasuya2004early}
+\textsc{\bibinfo{author}{Kasuya, S.} and \bibinfo{author}{Kawasaki, M.}}
+\newblock \bibinfo{title}{Early reionization by decaying particles and cosmic
+  microwave background radiation}.
+\newblock \bibinfo{journal}{Physical Review D},
+  \textbf{\bibinfo{volume}{70}}(\bibinfo{number}{10}):\bibinfo{pages}{103519}
+  (\bibinfo{year}{2004}).
+
+\bibitem[\protect\astroncite{{Kohler} et~al.}{2007}]{2007ApJ...657...15K}
+\textsc{\bibinfo{author}{{Kohler}, K.}, \bibinfo{author}{{Gnedin}, N.~Y.}, and
+  \bibinfo{author}{{Hamilton}, A.~J.~S.}}
+\newblock \bibinfo{title}{{Large-Scale Simulations of Reionization}}.
+\newblock \bibinfo{journal}{ApJ},
+  \textbf{\bibinfo{volume}{657}}:\bibinfo{pages}{15--29}
+  (\bibinfo{year}{2007}).
 \newblock \doi{10.1086/509907}.
 
-\bibitem[Komatsu et~al.(2011)]{Komatsu:2010fb}
-E.~Komatsu et~al.
-\newblock {Seven-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations:
-  Cosmological Interpretation}.
-\newblock \emph{Astrophys.J.Suppl.}, 192:\penalty0 18, 2011.
+\bibitem[\protect\astroncite{Komatsu et~al.}{2011}]{Komatsu:2010fb}
+\textsc{\bibinfo{author}{Komatsu, E.} et~al.}
+\newblock \bibinfo{title}{{Seven-Year Wilkinson Microwave Anisotropy Probe
+  (WMAP) Observations: Cosmological Interpretation}}.
+\newblock \bibinfo{journal}{Astrophys.J.Suppl.},
+  \textbf{\bibinfo{volume}{192}}:\bibinfo{pages}{18} (\bibinfo{year}{2011}).
 \newblock \doi{10.1088/0067-0049/192/2/18}.
 
-\bibitem[{Kuhlen} and {Faucher-Gigu{\`e}re}(2012)]{KuhlenConcordance}
-M.~{Kuhlen} and C.-A. {Faucher-Gigu{\`e}re}.
-\newblock {Concordance models of reionization: implications for faint galaxies
-  and escape fraction evolution}.
-\newblock \emph{MNRAS}, 423:\penalty0 862--876, June 2012.
+\bibitem[\protect\astroncite{Kuhlen and Faucher-Giguere}{2012}]{Kuhlen:2012vy}
+\textsc{\bibinfo{author}{Kuhlen, M.} and \bibinfo{author}{Faucher-Giguere, C.}}
+\newblock \bibinfo{title}{{Concordance models of reionization: implications for
+  faint galaxies and escape fraction evolution}} (\bibinfo{year}{2012}).
+
+\bibitem[\protect\astroncite{{Kuhlen} and
+  {Faucher-Gigu{\`e}re}}{2012}]{KuhlenConcordance}
+\textsc{\bibinfo{author}{{Kuhlen}, M.} and
+  \bibinfo{author}{{Faucher-Gigu{\`e}re}, C.-A.}}
+\newblock \bibinfo{title}{{Concordance models of reionization: implications for
+  faint galaxies and escape fraction evolution}}.
+\newblock \bibinfo{journal}{MNRAS},
+  \textbf{\bibinfo{volume}{423}}:\bibinfo{pages}{862--876}
+  (\bibinfo{year}{2012}).
 \newblock \doi{10.1111/j.1365-2966.2012.20924.x}.
 
-\bibitem[Kuhlen and Faucher-Giguere(2012)]{Kuhlen:2012vy}
-M.~Kuhlen and C.A. Faucher-Giguere.
-\newblock {Concordance models of reionization: implications for faint galaxies
-  and escape fraction evolution}.
-\newblock 2012.
-
-\bibitem[Lai et~al.(2006)Lai, Lidz, Hernquist, and Zaldarriaga]{Lai:2005ha}
-Kamson Lai, Adam Lidz, Lars Hernquist, and Matias Zaldarriaga.
-\newblock {The impact of temperature fluctuations on the lyman-alpha forest
-  power spectrum}.
-\newblock \emph{Astrophys.J.}, 644:\penalty0 61--70, 2006.
+\bibitem[\protect\astroncite{Lai et~al.}{2006}]{Lai:2005ha}
+\textsc{\bibinfo{author}{Lai, K.}, \bibinfo{author}{Lidz, A.},
+  \bibinfo{author}{Hernquist, L.}, and \bibinfo{author}{Zaldarriaga, M.}}
+\newblock \bibinfo{title}{{The impact of temperature fluctuations on the
+  lyman-alpha forest power spectrum}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{644}}:\bibinfo{pages}{61--70}
+  (\bibinfo{year}{2006}).
 \newblock \doi{10.1086/503320}.
 
-\bibitem[Lee(2013)]{Lee:2013fga}
-Hee-Won Lee.
-\newblock {Asymmetric Absorption Profiles of Lyα and Lyβ in Damped Lyα
-  Systems}.
-\newblock \emph{Astrophys.J.}, 772:\penalty0 123, 2013.
+\bibitem[\protect\astroncite{Lee}{2013}]{Lee:2013fga}
+\textsc{\bibinfo{author}{Lee, H.-W.}}
+\newblock \bibinfo{title}{{Asymmetric Absorption Profiles of Lyα and Lyβ in
+  Damped Lyα Systems}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{772}}:\bibinfo{pages}{123} (\bibinfo{year}{2013}).
 \newblock \doi{10.1088/0004-637X/772/2/123}.
 
-\bibitem[Levi et~al.(2013)]{Levi:2013gra}
-Michael Levi et~al.
-\newblock {The DESI Experiment, a whitepaper for Snowmass 2013}.
-\newblock 2013.
+\bibitem[\protect\astroncite{Levi et~al.}{2013}]{Levi:2013gra}
+\textsc{\bibinfo{author}{Levi, M.} et~al.}
+\newblock \bibinfo{title}{{The DESI Experiment, a whitepaper for Snowmass
+  2013}} (\bibinfo{year}{2013}).
 
-\bibitem[{Lidz} et~al.(2010){Lidz}, {Faucher-Gigu{\`e}re}, {Dall'Aglio},
-  {McQuinn}, {Fechner}, {Zaldarriaga}, {Hernquist}, and {Dutta}]{Lidz2010}
-A.~{Lidz}, C.-A. {Faucher-Gigu{\`e}re}, A.~{Dall'Aglio}, M.~{McQuinn},
-  C.~{Fechner}, M.~{Zaldarriaga}, L.~{Hernquist}, and S.~{Dutta}.
-\newblock {A Measurement of Small-scale Structure in the {$2.2 \leq z \leq
-  4.2$} Lya Forest}.
-\newblock \emph{ApJ}, 718:\penalty0 199--230, July 2010.
+\bibitem[\protect\astroncite{{Lidz} et~al.}{2010}]{Lidz2010}
+\textsc{\bibinfo{author}{{Lidz}, A.}, \bibinfo{author}{{Faucher-Gigu{\`e}re},
+  C.-A.}, \bibinfo{author}{{Dall'Aglio}, A.}, \bibinfo{author}{{McQuinn}, M.},
+  \bibinfo{author}{{Fechner}, C.}, \bibinfo{author}{{Zaldarriaga}, M.},
+  \bibinfo{author}{{Hernquist}, L.}, and \bibinfo{author}{{Dutta}, S.}}
+\newblock \bibinfo{title}{{A Measurement of Small-scale Structure in the {$2.2
+  \leq z \leq 4.2$} Lya Forest}}.
+\newblock \bibinfo{journal}{ApJ},
+  \textbf{\bibinfo{volume}{718}}:\bibinfo{pages}{199--230}
+  (\bibinfo{year}{2010}).
 \newblock \doi{10.1088/0004-637X/718/1/199}.
 
-\bibitem[Lidz and Malloy(2014)]{Lidz:2014jxa}
-Adam Lidz and Matthew Malloy.
-\newblock {On Modeling and Measuring the Temperature of the z~5 intergalactic
-  medium}.
-\newblock \emph{Astrophys.J.}, 788:\penalty0 175, 2014.
+\bibitem[\protect\astroncite{Lidz et~al.}{2010}]{Lidz:2009ca}
+\textsc{\bibinfo{author}{Lidz, A.}, \bibinfo{author}{Faucher-Giguere, C.-A.},
+  \bibinfo{author}{Dall'Aglio, A.}, \bibinfo{author}{McQuinn, M.},
+  \bibinfo{author}{Fechner, C.}, et~al.}
+\newblock \bibinfo{title}{{A Measurement of Small Scale Structure in the 2.2 <
+  z < 4.2 Lyman-alpha Forest}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{718}}:\bibinfo{pages}{199--231}
+  (\bibinfo{year}{2010}).
+\newblock \doi{10.1088/0004-637X/718/1/199}.
+
+\bibitem[\protect\astroncite{Lidz and Malloy}{2014}]{Lidz:2014jxa}
+\textsc{\bibinfo{author}{Lidz, A.} and \bibinfo{author}{Malloy, M.}}
+\newblock \bibinfo{title}{{On Modeling and Measuring the Temperature of the z~5
+  intergalactic medium}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{788}}:\bibinfo{pages}{175} (\bibinfo{year}{2014}).
 \newblock \doi{10.1088/0004-637X/788/2/175}.
 
-\bibitem[Lidz et~al.(2007{\natexlab{a}})Lidz, McQuinn, and
-  Zaldarriaga]{Lidz:2007mz}
-Adam Lidz, Matthew McQuinn, and Matias Zaldarriaga.
-\newblock {Quasar Proximity Zones and Patchy Reionization}.
-\newblock \emph{Astrophys.J.}, 670:\penalty0 39--59, 2007{\natexlab{a}}.
+\bibitem[\protect\astroncite{Lidz et~al.}{2007{\natexlab{a}}}]{Lidz:2007mz}
+\textsc{\bibinfo{author}{Lidz, A.}, \bibinfo{author}{McQuinn, M.}, and
+  \bibinfo{author}{Zaldarriaga, M.}}
+\newblock \bibinfo{title}{{Quasar Proximity Zones and Patchy Reionization}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{670}}:\bibinfo{pages}{39--59}
+  (\bibinfo{year}{2007}{\natexlab{a}}).
 \newblock \doi{10.1086/521974}.
 
-\bibitem[Lidz et~al.(2007{\natexlab{b}})Lidz, Zahn, McQuinn, Zaldarriaga, and
-  Dutta]{Lidz:2006vj}
-Adam Lidz, Oliver Zahn, Matthew McQuinn, Matias Zaldarriaga, and Suvendra
-  Dutta.
-\newblock {Higher Order Contributions to the 21 cm Power Spectrum}.
-\newblock \emph{Astrophys.J.}, 659:\penalty0 865--876, 2007{\natexlab{b}}.
+\bibitem[\protect\astroncite{Lidz et~al.}{2007{\natexlab{b}}}]{Lidz:2006vj}
+\textsc{\bibinfo{author}{Lidz, A.}, \bibinfo{author}{Zahn, O.},
+  \bibinfo{author}{McQuinn, M.}, \bibinfo{author}{Zaldarriaga, M.}, and
+  \bibinfo{author}{Dutta, S.}}
+\newblock \bibinfo{title}{{Higher Order Contributions to the 21 cm Power
+  Spectrum}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{659}}:\bibinfo{pages}{865--876}
+  (\bibinfo{year}{2007}{\natexlab{b}}).
 \newblock \doi{10.1086/511670}.
 
-\bibitem[Lidz et~al.(2008{\natexlab{a}})Lidz, Zahn, McQuinn, Zaldarriaga, and
-  Hernquist]{Lidz2008}
-Adam Lidz, Oliver Zahn, Matthew McQuinn, Matias Zaldarriaga, and Lars
-  Hernquist.
-\newblock {Detecting the Rise and Fall of 21 cm Fluctuations with the Murchison
-  Widefield Array}.
-\newblock \emph{Astrophys.J.}, 680:\penalty0 962--974, 2008{\natexlab{a}}.
+\bibitem[\protect\astroncite{Lidz et~al.}{2008{\natexlab{a}}}]{Lidz2008}
+\textsc{\bibinfo{author}{Lidz, A.}, \bibinfo{author}{Zahn, O.},
+  \bibinfo{author}{McQuinn, M.}, \bibinfo{author}{Zaldarriaga, M.}, and
+  \bibinfo{author}{Hernquist, L.}}
+\newblock \bibinfo{title}{{Detecting the Rise and Fall of 21 cm Fluctuations
+  with the Murchison Widefield Array}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{680}}:\bibinfo{pages}{962--974}
+  (\bibinfo{year}{2008}{\natexlab{a}}).
 \newblock \doi{10.1086/587618}.
 
-\bibitem[Lidz et~al.(2008{\natexlab{b}})Lidz, Zahn, McQuinn, Zaldarriaga, and
-  Hernquist]{Lidz:2007az}
-Adam Lidz, Oliver Zahn, Matthew McQuinn, Matias Zaldarriaga, and Lars
-  Hernquist.
-\newblock {Detecting the Rise and Fall of 21 cm Fluctuations with the Murchison
-  Widefield Array}.
-\newblock \emph{Astrophys.J.}, 680:\penalty0 962--974, 2008{\natexlab{b}}.
+\bibitem[\protect\astroncite{Lidz et~al.}{2008{\natexlab{b}}}]{Lidz:2007az}
+\textsc{\bibinfo{author}{Lidz, A.}, \bibinfo{author}{Zahn, O.},
+  \bibinfo{author}{McQuinn, M.}, \bibinfo{author}{Zaldarriaga, M.}, and
+  \bibinfo{author}{Hernquist, L.}}
+\newblock \bibinfo{title}{{Detecting the Rise and Fall of 21 cm Fluctuations
+  with the Murchison Widefield Array}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{680}}:\bibinfo{pages}{962--974}
+  (\bibinfo{year}{2008}{\natexlab{b}}).
 \newblock \doi{10.1086/587618}.
 
-\bibitem[Lidz et~al.(2010)Lidz, Faucher-Giguere, Dall'Aglio, McQuinn, Fechner,
-  et~al.]{Lidz:2009ca}
-Adam Lidz, C.-A. Faucher-Giguere, Aldo Dall'Aglio, Matthew McQuinn, Cora
-  Fechner, et~al.
-\newblock {A Measurement of Small Scale Structure in the 2.2 < z < 4.2
-  Lyman-alpha Forest}.
-\newblock \emph{Astrophys.J.}, 718:\penalty0 199--231, 2010.
-\newblock \doi{10.1088/0004-637X/718/1/199}.
-
-\bibitem[Liu and Tegmark(2012)]{Liu:2011ih}
-Adrian Liu and Max Tegmark.
-\newblock {How well can we measure and understand foregrounds with 21 cm
-  experiments?}
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 419:\penalty0 3491--3504, 2012.
+\bibitem[\protect\astroncite{Liu and Tegmark}{2012}]{Liu:2011ih}
+\textsc{\bibinfo{author}{Liu, A.} and \bibinfo{author}{Tegmark, M.}}
+\newblock \bibinfo{title}{{How well can we measure and understand foregrounds
+  with 21 cm experiments?}}
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{419}}:\bibinfo{pages}{3491--3504}
+  (\bibinfo{year}{2012}).
 \newblock \doi{10.1111/j.1365-2966.2011.19989.x}.
 
-\bibitem[Liu et~al.(2009)Liu, Tegmark, Bowman, Hewitt, and
-  Zaldarriaga]{Liu:2009qga}
-Adrian Liu, Max Tegmark, Judd Bowman, Jacqueline Hewitt, and Matias
-  Zaldarriaga.
-\newblock {An Improved Method for 21cm Foreground Removal}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 298:\penalty0 401, 2009.
+\bibitem[\protect\astroncite{Liu et~al.}{2009}]{Liu:2009qga}
+\textsc{\bibinfo{author}{Liu, A.}, \bibinfo{author}{Tegmark, M.},
+  \bibinfo{author}{Bowman, J.}, \bibinfo{author}{Hewitt, J.}, and
+  \bibinfo{author}{Zaldarriaga, M.}}
+\newblock \bibinfo{title}{{An Improved Method for 21cm Foreground Removal}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{298}}:\bibinfo{pages}{401} (\bibinfo{year}{2009}).
 
-\bibitem[Lonsdale et~al.(2009)Lonsdale, Cappallo, Morales, Briggs, Benkevitch,
-  et~al.]{Lonsdale:2009cb}
-Colin~J. Lonsdale, Roger~J. Cappallo, Miguel~F. Morales, Frank~H. Briggs,
-  Leonid Benkevitch, et~al.
-\newblock {The Murchison Widefield Array: Design Overview}.
-\newblock \emph{IEEEP}, 97:\penalty0 1497, 2009.
+\bibitem[\protect\astroncite{Lonsdale et~al.}{2009}]{Lonsdale:2009cb}
+\textsc{\bibinfo{author}{Lonsdale, C.~J.}, \bibinfo{author}{Cappallo, R.~J.},
+  \bibinfo{author}{Morales, M.~F.}, \bibinfo{author}{Briggs, F.~H.},
+  \bibinfo{author}{Benkevitch, L.}, et~al.}
+\newblock \bibinfo{title}{{The Murchison Widefield Array: Design Overview}}.
+\newblock \bibinfo{journal}{IEEEP},
+  \textbf{\bibinfo{volume}{97}}:\bibinfo{pages}{1497} (\bibinfo{year}{2009}).
 
-\bibitem[{Madau} et~al.(1999){Madau}, {Haardt}, and
-  {Rees}]{1999ApJ...514..648M}
-P.~{Madau}, F.~{Haardt}, and M.~J. {Rees}.
-\newblock {Radiative Transfer in a Clumpy Universe. III. The Nature of
-  Cosmological Ionizing Sources}.
-\newblock \emph{ApJ}, 514:\penalty0 648--659, April 1999.
+\bibitem[\protect\astroncite{{Madau} et~al.}{1999}]{1999ApJ...514..648M}
+\textsc{\bibinfo{author}{{Madau}, P.}, \bibinfo{author}{{Haardt}, F.}, and
+  \bibinfo{author}{{Rees}, M.~J.}}
+\newblock \bibinfo{title}{{Radiative Transfer in a Clumpy Universe. III. The
+  Nature of Cosmological Ionizing Sources}}.
+\newblock \bibinfo{journal}{ApJ},
+  \textbf{\bibinfo{volume}{514}}:\bibinfo{pages}{648--659}
+  (\bibinfo{year}{1999}).
 \newblock \doi{10.1086/306975}.
 
-\bibitem[Madau et~al.(1997)Madau, Meiksin, and Rees]{Madau:1996cs}
-Piero Madau, Avery Meiksin, and Martin~J. Rees.
-\newblock {21-CM tomography of the intergalactic medium at high redshift}.
-\newblock \emph{Astrophys.J.}, 475:\penalty0 429, 1997.
+\bibitem[\protect\astroncite{Madau et~al.}{1997}]{Madau:1996cs}
+\textsc{\bibinfo{author}{Madau, P.}, \bibinfo{author}{Meiksin, A.}, and
+  \bibinfo{author}{Rees, M.~J.}}
+\newblock \bibinfo{title}{{21-CM tomography of the intergalactic medium at high
+  redshift}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{475}}:\bibinfo{pages}{429} (\bibinfo{year}{1997}).
 \newblock \doi{10.1086/303549}.
 
-\bibitem[Mao et~al.(2012)Mao, Shapiro, Mellema, Iliev, Koda,
-  et~al.]{Mao:2011xp}
-Yi~Mao, Paul~R. Shapiro, Garrelt Mellema, Ilian~T. Iliev, Jun Koda, et~al.
-\newblock {Redshift Space Distortion of the 21cm Background from the Epoch of
-  Reionization I: Methodology Re-examined}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 422:\penalty0 926--954, 2012.
+\bibitem[\protect\astroncite{Malloy and Lidz}{2013}]{malloy2013identifying}
+\textsc{\bibinfo{author}{Malloy, M.} and \bibinfo{author}{Lidz, A.}}
+\newblock \bibinfo{title}{Identifying Ionized Regions in Noisy Redshifted 21 cm
+  Data Sets}.
+\newblock \bibinfo{journal}{The Astrophysical Journal},
+  \textbf{\bibinfo{volume}{767}}(\bibinfo{number}{1}):\bibinfo{pages}{68}
+  (\bibinfo{year}{2013}).
+
+\bibitem[\protect\astroncite{Malloy and Lidz}{2015}]{malloy2015search}
+\textsc{\bibinfo{author}{Malloy, M.} and \bibinfo{author}{Lidz, A.}}
+\newblock \bibinfo{title}{How to Search for Islands of Neutral Hydrogen in the
+  z\~{} 5.5 IGM}.
+\newblock \bibinfo{journal}{The Astrophysical Journal},
+  \textbf{\bibinfo{volume}{799}}(\bibinfo{number}{2}):\bibinfo{pages}{179}
+  (\bibinfo{year}{2015}).
+
+\bibitem[\protect\astroncite{Mao et~al.}{2012}]{Mao:2011xp}
+\textsc{\bibinfo{author}{Mao, Y.}, \bibinfo{author}{Shapiro, P.~R.},
+  \bibinfo{author}{Mellema, G.}, \bibinfo{author}{Iliev, I.~T.},
+  \bibinfo{author}{Koda, J.}, et~al.}
+\newblock \bibinfo{title}{{Redshift Space Distortion of the 21cm Background
+  from the Epoch of Reionization I: Methodology Re-examined}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{422}}:\bibinfo{pages}{926--954}
+  (\bibinfo{year}{2012}).
 \newblock \doi{10.1111/j.1365-2966.2012.20471.x}.
 
-\bibitem[Marian et~al.(2009)Marian, Smith, and Bernstein]{Marian:2008fd}
-Laura Marian, Robert~E. Smith, and Gary~M. Bernstein.
-\newblock {The cosmology dependence of weak lensing cluster counts}.
-\newblock \emph{Astrophys.J.}, 698:\penalty0 L33--L36, 2009.
+\bibitem[\protect\astroncite{Mapelli et~al.}{2006}]{mapelli2006impact}
+\textsc{\bibinfo{author}{Mapelli, M.}, \bibinfo{author}{Ferrara, A.}, and
+  \bibinfo{author}{Pierpaoli, E.}}
+\newblock \bibinfo{title}{Impact of dark matter decays and annihilations on
+  reionization}.
+\newblock \bibinfo{journal}{Monthly Notices of the Royal Astronomical Society},
+  \textbf{\bibinfo{volume}{369}}(\bibinfo{number}{4}):\bibinfo{pages}{1719--1724}
+  (\bibinfo{year}{2006}).
+
+\bibitem[\protect\astroncite{Marian et~al.}{2009}]{Marian:2008fd}
+\textsc{\bibinfo{author}{Marian, L.}, \bibinfo{author}{Smith, R.~E.}, and
+  \bibinfo{author}{Bernstein, G.~M.}}
+\newblock \bibinfo{title}{{The cosmology dependence of weak lensing cluster
+  counts}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{698}}:\bibinfo{pages}{L33--L36}
+  (\bibinfo{year}{2009}).
 \newblock \doi{10.1088/0004-637X/698/1/L33}.
 
-\bibitem[McDonald et~al.(2001)McDonald, Miralda-Escude, Rauch, Sargent, Barlow,
-  et~al.]{McDonald:2000nn}
-Patrick McDonald, Jordi Miralda-Escude, Michael Rauch, Wallace~L.W. Sargent,
-  Tom~A. Barlow, et~al.
-\newblock {A measurement of the temperature-density relation in the
-  intergalactic medium using a new Lyman-alpha absorption line fitting method}.
-\newblock \emph{Astrophys.J.}, 562:\penalty0 52--75, 2001.
+\bibitem[\protect\astroncite{McDonald et~al.}{2001}]{McDonald:2000nn}
+\textsc{\bibinfo{author}{McDonald, P.}, \bibinfo{author}{Miralda-Escude, J.},
+  \bibinfo{author}{Rauch, M.}, \bibinfo{author}{Sargent, W.~L.},
+  \bibinfo{author}{Barlow, T.~A.}, et~al.}
+\newblock \bibinfo{title}{{A measurement of the temperature-density relation in
+  the intergalactic medium using a new Lyman-alpha absorption line fitting
+  method}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{562}}:\bibinfo{pages}{52--75}
+  (\bibinfo{year}{2001}).
 \newblock \doi{10.1086/323426}.
 
-\bibitem[McDonald et~al.(2006)]{McDonald:2004eu}
-Patrick McDonald et~al.
-\newblock {The Lyman-alpha forest power spectrum from the Sloan Digital Sky
-  Survey}.
-\newblock \emph{Astrophys.J.Suppl.}, 163:\penalty0 80--109, 2006.
+\bibitem[\protect\astroncite{McDonald et~al.}{2006}]{McDonald:2004eu}
+\textsc{\bibinfo{author}{McDonald, P.} et~al.}
+\newblock \bibinfo{title}{{The Lyman-alpha forest power spectrum from the Sloan
+  Digital Sky Survey}}.
+\newblock \bibinfo{journal}{Astrophys.J.Suppl.},
+  \textbf{\bibinfo{volume}{163}}:\bibinfo{pages}{80--109}
+  (\bibinfo{year}{2006}).
 \newblock \doi{10.1086/444361}.
 
-\bibitem[McGreer et~al.(2015)McGreer, Mesinger, and D'Odorico]{McGreer:2014qwa}
-Ian McGreer, Andrei Mesinger, and Valentina D'Odorico.
-\newblock {Model-independent evidence in favour of an end to reionization by
-  {$z \approx$ 6}}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 447\penalty0 (1):\penalty0 499--505,
-  2015.
+\bibitem[\protect\astroncite{McGreer et~al.}{2015}]{McGreer:2014qwa}
+\textsc{\bibinfo{author}{McGreer, I.}, \bibinfo{author}{Mesinger, A.}, and
+  \bibinfo{author}{D'Odorico, V.}}
+\newblock \bibinfo{title}{{Model-independent evidence in favour of an end to
+  reionization by {$z \approx$ 6}}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{447}}(\bibinfo{number}{1}):\bibinfo{pages}{499--505}
+  (\bibinfo{year}{2015}).
 \newblock \doi{10.1093/mnras/stu2449}.
 
-\bibitem[McGreer et~al.(2011)McGreer, Mesinger, and Fan]{McGreer:2011dm}
-Ian~D. McGreer, Andrei Mesinger, and Xiaohui Fan.
-\newblock {The first (nearly) model-independent constraint on the neutral
-  hydrogen fraction at z~5--6}.
-\newblock 2011.
+\bibitem[\protect\astroncite{McGreer et~al.}{2011}]{McGreer:2011dm}
+\textsc{\bibinfo{author}{McGreer, I.~D.}, \bibinfo{author}{Mesinger, A.}, and
+  \bibinfo{author}{Fan, X.}}
+\newblock \bibinfo{title}{{The first (nearly) model-independent constraint on
+  the neutral hydrogen fraction at z~5--6}} (\bibinfo{year}{2011}).
 
-\bibitem[McQuinn(2012)]{McQuinn:2012bq}
-Matthew McQuinn.
-\newblock {Constraints on X-ray Emissions from the Reionization Era}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 426:\penalty0 1349--1360, 2012.
+\bibitem[\protect\astroncite{McQuinn}{2012}]{McQuinn:2012bq}
+\textsc{\bibinfo{author}{McQuinn, M.}}
+\newblock \bibinfo{title}{{Constraints on X-ray Emissions from the Reionization
+  Era}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{426}}:\bibinfo{pages}{1349--1360}
+  (\bibinfo{year}{2012}).
 \newblock \doi{10.1111/j.1365-2966.2012.21792.x}.
 
-\bibitem[McQuinn et~al.(2006{\natexlab{a}})McQuinn, Zahn, Zaldarriaga,
-  Hernquist, and Furlanetto]{McQuinn2006}
-Matthew McQuinn, Oliver Zahn, Matias Zaldarriaga, Lars Hernquist, and Steven~R.
-  Furlanetto.
-\newblock {Cosmological parameter estimation using 21 cm radiation from the
-  epoch of reionization}.
-\newblock \emph{Astrophys.J.}, 653:\penalty0 815--830, 2006{\natexlab{a}}.
-\newblock \doi{10.1086/505167}.
+\bibitem[\protect\astroncite{McQuinn
+  et~al.}{2011{\natexlab{a}}}]{McQuinn:2010mq}
+\textsc{\bibinfo{author}{McQuinn, M.}, \bibinfo{author}{Hernquist, L.},
+  \bibinfo{author}{Lidz, A.}, and \bibinfo{author}{Zaldarriaga, M.}}
+\newblock \bibinfo{title}{{The Signatures of Large-scale Temperature and
+  Intensity Fluctuations in the Lyman-alpha Forest}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{415}}:\bibinfo{pages}{977--992}
+  (\bibinfo{year}{2011}{\natexlab{a}}).
 
-\bibitem[McQuinn et~al.(2006{\natexlab{b}})McQuinn, Zahn, Zaldarriaga,
-  Hernquist, and Furlanetto]{McQuinn:2005hk}
-Matthew McQuinn, Oliver Zahn, Matias Zaldarriaga, Lars Hernquist, and Steven~R.
-  Furlanetto.
-\newblock {Cosmological parameter estimation using 21 cm radiation from the
-  epoch of reionization}.
-\newblock \emph{Astrophys.J.}, 653:\penalty0 815--830, 2006{\natexlab{b}}.
-\newblock \doi{10.1086/505167}.
+\bibitem[\protect\astroncite{McQuinn
+  et~al.}{2007{\natexlab{a}}}]{McQuinn:2007dy}
+\textsc{\bibinfo{author}{McQuinn, M.}, \bibinfo{author}{Hernquist, L.},
+  \bibinfo{author}{Zaldarriaga, M.}, and \bibinfo{author}{Dutta, S.}}
+\newblock \bibinfo{title}{{Studying Reionization with Ly-alpha Emitters}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{381}}:\bibinfo{pages}{75--96}
+  (\bibinfo{year}{2007}{\natexlab{a}}).
 
-\bibitem[McQuinn et~al.(2007{\natexlab{a}})McQuinn, Hernquist, Zaldarriaga, and
-  Dutta]{McQuinn:2007dy}
-Matthew McQuinn, Lars Hernquist, Matias Zaldarriaga, and Suvendra Dutta.
-\newblock {Studying Reionization with Ly-alpha Emitters}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 381:\penalty0 75--96,
-  2007{\natexlab{a}}.
-
-\bibitem[McQuinn et~al.(2007{\natexlab{b}})McQuinn, Lidz, Zahn, Dutta,
-  Hernquist, et~al.]{McQuinn2007}
-Matthew McQuinn, Adam Lidz, Oliver Zahn, Suvendra Dutta, Lars Hernquist, et~al.
-\newblock {The Morphology of HII Regions during Reionization}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 377:\penalty0 1043--1063,
-  2007{\natexlab{b}}.
+\bibitem[\protect\astroncite{McQuinn et~al.}{2007{\natexlab{b}}}]{McQuinn2007}
+\textsc{\bibinfo{author}{McQuinn, M.}, \bibinfo{author}{Lidz, A.},
+  \bibinfo{author}{Zahn, O.}, \bibinfo{author}{Dutta, S.},
+  \bibinfo{author}{Hernquist, L.}, et~al.}
+\newblock \bibinfo{title}{{The Morphology of HII Regions during Reionization}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{377}}:\bibinfo{pages}{1043--1063}
+  (\bibinfo{year}{2007}{\natexlab{b}}).
 \newblock \doi{10.1111/j.1365-2966.2007.11489.x}.
 
-\bibitem[McQuinn et~al.(2007{\natexlab{c}})McQuinn, Lidz, Zahn, Dutta,
-  Hernquist, et~al.]{McQuinn:2006et}
-Matthew McQuinn, Adam Lidz, Oliver Zahn, Suvendra Dutta, Lars Hernquist, et~al.
-\newblock {The Morphology of HII Regions during Reionization}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 377:\penalty0 1043--1063,
-  2007{\natexlab{c}}.
+\bibitem[\protect\astroncite{McQuinn
+  et~al.}{2007{\natexlab{c}}}]{McQuinn:2006et}
+\textsc{\bibinfo{author}{McQuinn, M.}, \bibinfo{author}{Lidz, A.},
+  \bibinfo{author}{Zahn, O.}, \bibinfo{author}{Dutta, S.},
+  \bibinfo{author}{Hernquist, L.}, et~al.}
+\newblock \bibinfo{title}{{The Morphology of HII Regions during Reionization}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{377}}:\bibinfo{pages}{1043--1063}
+  (\bibinfo{year}{2007}{\natexlab{c}}).
 \newblock \doi{10.1111/j.1365-2966.2007.11489.x}.
 
-\bibitem[McQuinn et~al.(2009)McQuinn, Lidz, Zaldarriaga, Hernquist, Hopkins,
-  et~al.]{McQuinn:2008am}
-Matthew McQuinn, Adam Lidz, Matias Zaldarriaga, Lars Hernquist, Philip~F.
-  Hopkins, et~al.
-\newblock {HeII Reionization and its Effect on the IGM}.
-\newblock \emph{Astrophys.J.}, 694:\penalty0 842--866, 2009.
+\bibitem[\protect\astroncite{McQuinn et~al.}{2009}]{McQuinn:2008am}
+\textsc{\bibinfo{author}{McQuinn, M.}, \bibinfo{author}{Lidz, A.},
+  \bibinfo{author}{Zaldarriaga, M.}, \bibinfo{author}{Hernquist, L.},
+  \bibinfo{author}{Hopkins, P.~F.}, et~al.}
+\newblock \bibinfo{title}{{HeII Reionization and its Effect on the IGM}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{694}}:\bibinfo{pages}{842--866}
+  (\bibinfo{year}{2009}).
 \newblock \doi{10.1088/0004-637X/694/2/842}.
 
-\bibitem[McQuinn et~al.(2011{\natexlab{a}})McQuinn, Hernquist, Lidz, and
-  Zaldarriaga]{McQuinn:2010mq}
-Matthew McQuinn, Lars Hernquist, Adam Lidz, and Matias Zaldarriaga.
-\newblock {The Signatures of Large-scale Temperature and Intensity Fluctuations
-  in the Lyman-alpha Forest}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 415:\penalty0 977--992,
-  2011{\natexlab{a}}.
+\bibitem[\protect\astroncite{McQuinn
+  et~al.}{2011{\natexlab{b}}}]{McQuinn:2011aa}
+\textsc{\bibinfo{author}{McQuinn, M.}, \bibinfo{author}{Oh, S.~P.}, and
+  \bibinfo{author}{Faucher-Giguere, C.-A.}}
+\newblock \bibinfo{title}{{On Lyman-limit Systems and the Evolution of the
+  Intergalactic Ionizing Background}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{743}}:\bibinfo{pages}{82}
+  (\bibinfo{year}{2011}{\natexlab{b}}).
 
-\bibitem[McQuinn et~al.(2011{\natexlab{b}})McQuinn, Oh, and
-  Faucher-Giguere]{McQuinn:2011aa}
-Matthew McQuinn, S.~Peng Oh, and Claude-Andre Faucher-Giguere.
-\newblock {On Lyman-limit Systems and the Evolution of the Intergalactic
-  Ionizing Background}.
-\newblock \emph{Astrophys.J.}, 743:\penalty0 82, 2011{\natexlab{b}}.
+\bibitem[\protect\astroncite{McQuinn et~al.}{2006{\natexlab{a}}}]{McQuinn2006}
+\textsc{\bibinfo{author}{McQuinn, M.}, \bibinfo{author}{Zahn, O.},
+  \bibinfo{author}{Zaldarriaga, M.}, \bibinfo{author}{Hernquist, L.}, and
+  \bibinfo{author}{Furlanetto, S.~R.}}
+\newblock \bibinfo{title}{{Cosmological parameter estimation using 21 cm
+  radiation from the epoch of reionization}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{653}}:\bibinfo{pages}{815--830}
+  (\bibinfo{year}{2006}{\natexlab{a}}).
+\newblock \doi{10.1086/505167}.
 
-\bibitem[Meiksin(2009)]{meiksin2009physics}
-Avery~A Meiksin.
-\newblock The physics of the intergalactic medium.
-\newblock \emph{Reviews of modern physics}, 81\penalty0 (4):\penalty0 1405,
-  2009.
+\bibitem[\protect\astroncite{McQuinn
+  et~al.}{2006{\natexlab{b}}}]{McQuinn:2005hk}
+\textsc{\bibinfo{author}{McQuinn, M.}, \bibinfo{author}{Zahn, O.},
+  \bibinfo{author}{Zaldarriaga, M.}, \bibinfo{author}{Hernquist, L.}, and
+  \bibinfo{author}{Furlanetto, S.~R.}}
+\newblock \bibinfo{title}{{Cosmological parameter estimation using 21 cm
+  radiation from the epoch of reionization}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{653}}:\bibinfo{pages}{815--830}
+  (\bibinfo{year}{2006}{\natexlab{b}}).
+\newblock \doi{10.1086/505167}.
 
-\bibitem[{Mesinger}(2010)]{2010MNRAS.407.1328M}
-A.~{Mesinger}.
-\newblock {Was reionization complete by z {$\sim$} 5-6?}
-\newblock \emph{MNRAS}, 407:\penalty0 1328--1337, September 2010.
+\bibitem[\protect\astroncite{Meiksin}{2009}]{meiksin2009physics}
+\textsc{\bibinfo{author}{Meiksin, A.~A.}}
+\newblock \bibinfo{title}{The physics of the intergalactic medium}.
+\newblock \bibinfo{journal}{Reviews of modern physics},
+  \textbf{\bibinfo{volume}{81}}(\bibinfo{number}{4}):\bibinfo{pages}{1405}
+  (\bibinfo{year}{2009}).
+
+\bibitem[\protect\astroncite{Mesinger}{2009}]{Mesinger:2009mv}
+\textsc{\bibinfo{author}{Mesinger, A.}}
+\newblock \bibinfo{title}{{Was reionization complete by z ~ 5-6?}}
+  (\bibinfo{year}{2009}).
+
+\bibitem[\protect\astroncite{{Mesinger}}{2010}]{2010MNRAS.407.1328M}
+\textsc{\bibinfo{author}{{Mesinger}, A.}}
+\newblock \bibinfo{title}{{Was reionization complete by z {$\sim$} 5-6?}}
+\newblock \bibinfo{journal}{MNRAS},
+  \textbf{\bibinfo{volume}{407}}:\bibinfo{pages}{1328--1337}
+  (\bibinfo{year}{2010}).
 \newblock \doi{10.1111/j.1365-2966.2010.16995.x}.
 
-\bibitem[Mesinger(2009)]{Mesinger:2009mv}
-Andrei Mesinger.
-\newblock {Was reionization complete by z ~ 5-6?}
-\newblock 2009.
+\bibitem[\protect\astroncite{Mesinger and Furlanetto}{2007}]{Mesinger:2007pd}
+\textsc{\bibinfo{author}{Mesinger, A.} and \bibinfo{author}{Furlanetto, S.}}
+\newblock \bibinfo{title}{{Efficient Simulations of Early Structure Formation
+  and Reionization}} (\bibinfo{year}{2007}).
 
-\bibitem[Mesinger and Furlanetto(2007)]{Mesinger:2007pd}
-Andrei Mesinger and Steven Furlanetto.
-\newblock {Efficient Simulations of Early Structure Formation and
-  Reionization}.
-\newblock 2007.
+\bibitem[\protect\astroncite{Mesinger et~al.}{2010}]{Mesinger:2010ne}
+\textsc{\bibinfo{author}{Mesinger, A.}, \bibinfo{author}{Furlanetto, S.}, and
+  \bibinfo{author}{Cen, R.}}
+\newblock \bibinfo{title}{{21cmFAST: A Fast, Semi-Numerical Simulation of the
+  High-Redshift 21-cm Signal}}.
+\newblock \bibinfo{journal}{MNRAS},
+  \textbf{\bibinfo{volume}{411}}:\bibinfo{pages}{955} (\bibinfo{year}{2010}).
 
-\bibitem[Mesinger and Haiman(2007)]{Mesinger:2006kn}
-Andrei Mesinger and Zoltan Haiman.
-\newblock {Constraints on Reionization and Source Properties from the
-  Absorption Spectra of {$z>6.2$} Quasars}.
-\newblock \emph{Astrophys.J.}, 660:\penalty0 923--932, 2007.
+\bibitem[\protect\astroncite{Mesinger and Haiman}{2007}]{Mesinger:2006kn}
+\textsc{\bibinfo{author}{Mesinger, A.} and \bibinfo{author}{Haiman, Z.}}
+\newblock \bibinfo{title}{{Constraints on Reionization and Source Properties
+  from the Absorption Spectra of {$z>6.2$} Quasars}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{660}}:\bibinfo{pages}{923--932}
+  (\bibinfo{year}{2007}).
 \newblock \doi{10.1086/513688}.
 
-\bibitem[Mesinger et~al.(2010)Mesinger, Furlanetto, and Cen]{Mesinger:2010ne}
-Andrei Mesinger, Steven Furlanetto, and Renyue Cen.
-\newblock {21cmFAST: A Fast, Semi-Numerical Simulation of the High-Redshift
-  21-cm Signal}.
-\newblock \emph{MNRAS}, 411:\penalty0 955, 2010.
+\bibitem[\protect\astroncite{Mesinger et~al.}{2012}]{mesinger2012kinetic}
+\textsc{\bibinfo{author}{Mesinger, A.}, \bibinfo{author}{McQuinn, M.}, and
+  \bibinfo{author}{Spergel, D.~N.}}
+\newblock \bibinfo{title}{The kinetic Sunyaev--Zel’dovich signal from
+  inhomogeneous reionization: a parameter space study}.
+\newblock \bibinfo{journal}{Monthly Notices of the Royal Astronomical Society},
+  \textbf{\bibinfo{volume}{422}}(\bibinfo{number}{2}):\bibinfo{pages}{1403--1417}
+  (\bibinfo{year}{2012}).
 
-\bibitem[Mesinger et~al.(2012)Mesinger, McQuinn, and
-  Spergel]{mesinger2012kinetic}
-Andrei Mesinger, Matthew McQuinn, and David~N Spergel.
-\newblock The kinetic sunyaev--zel’dovich signal from inhomogeneous
-  reionization: a parameter space study.
-\newblock \emph{Monthly Notices of the Royal Astronomical Society},
-  422\penalty0 (2):\penalty0 1403--1417, 2012.
-
-\bibitem[{Miralda-Escud{\'e}} and {Rees}(1994)]{1994MNRAS.266..343M}
-J.~{Miralda-Escud{\'e}} and M.~J. {Rees}.
-\newblock {Reionization and thermal evolution of a photoionized intergalactic
-  medium.}
-\newblock \emph{MNRAS}, 266:\penalty0 343--352, January 1994.
-
-\bibitem[Miralda-Escude(1998)]{MiraldaEscude:1997qb}
-Jordi Miralda-Escude.
-\newblock {Reionization of the intergalactic medium and the damping wing of the
-  Gunn-Peterson trough}.
-\newblock \emph{Astrophys.J.}, 501:\penalty0 15--22, 1998.
+\bibitem[\protect\astroncite{Miralda-Escude}{1998}]{MiraldaEscude:1997qb}
+\textsc{\bibinfo{author}{Miralda-Escude, J.}}
+\newblock \bibinfo{title}{{Reionization of the intergalactic medium and the
+  damping wing of the Gunn-Peterson trough}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{501}}:\bibinfo{pages}{15--22}
+  (\bibinfo{year}{1998}).
 \newblock \doi{10.1086/305799}.
 
-\bibitem[Miralda-Escude and Rees(1997)]{MiraldaEscude:1997en}
-Jordi Miralda-Escude and Martin~J. Rees.
-\newblock {Searching for the earliest galaxies using the Gunn-Peterson trough
-  and the Lyman alpha emission line}.
-\newblock 1997.
-
-\bibitem[Miralda-Escude et~al.(1996)Miralda-Escude, Cen, Ostriker, and
-  Rauch]{MiraldaEscude:1995bu}
-Jordi Miralda-Escude, Ren-yue Cen, Jeremiah~P. Ostriker, and Michael Rauch.
-\newblock {The Lyman alpha forest from gravitational collapse in the CDM +
-  Lambda Model}.
-\newblock \emph{Astrophys.J.}, 471:\penalty0 582, 1996.
+\bibitem[\protect\astroncite{Miralda-Escude
+  et~al.}{1996}]{MiraldaEscude:1995bu}
+\textsc{\bibinfo{author}{Miralda-Escude, J.}, \bibinfo{author}{Cen, R.-y.},
+  \bibinfo{author}{Ostriker, J.~P.}, and \bibinfo{author}{Rauch, M.}}
+\newblock \bibinfo{title}{{The Lyman alpha forest from gravitational collapse
+  in the CDM + Lambda Model}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{471}}:\bibinfo{pages}{582} (\bibinfo{year}{1996}).
 \newblock \doi{10.1086/177992}.
 
-\bibitem[Morales and Hewitt(2004)]{Morales:2003vn}
-Miguel~F. Morales and Jacqueline Hewitt.
-\newblock {Toward epoch of re-ionization measurements with wide - field LOFAR
-  observations}.
-\newblock \emph{Astrophys.J.}, 615:\penalty0 7--18, 2004.
+\bibitem[\protect\astroncite{{Miralda-Escud{\'e}} and
+  {Rees}}{1994}]{1994MNRAS.266..343M}
+\textsc{\bibinfo{author}{{Miralda-Escud{\'e}}, J.} and \bibinfo{author}{{Rees},
+  M.~J.}}
+\newblock \bibinfo{title}{{Reionization and thermal evolution of a photoionized
+  intergalactic medium.}}
+\newblock \bibinfo{journal}{MNRAS},
+  \textbf{\bibinfo{volume}{266}}:\bibinfo{pages}{343--352}
+  (\bibinfo{year}{1994}).
+
+\bibitem[\protect\astroncite{Miralda-Escude and
+  Rees}{1997}]{MiraldaEscude:1997en}
+\textsc{\bibinfo{author}{Miralda-Escude, J.} and \bibinfo{author}{Rees, M.~J.}}
+\newblock \bibinfo{title}{{Searching for the earliest galaxies using the
+  Gunn-Peterson trough and the Lyman alpha emission line}}
+  (\bibinfo{year}{1997}).
+
+\bibitem[\protect\astroncite{Morales et~al.}{2012}]{Morales:2012kf}
+\textsc{\bibinfo{author}{Morales, M.~F.}, \bibinfo{author}{Hazelton, B.},
+  \bibinfo{author}{Sullivan, I.}, and \bibinfo{author}{Beardsley, A.}}
+\newblock \bibinfo{title}{{Four Fundamental Foreground Power Spectrum Shapes
+  for 21 cm Cosmology Observations}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{752}}:\bibinfo{pages}{137} (\bibinfo{year}{2012}).
+
+\bibitem[\protect\astroncite{Morales and Hewitt}{2004}]{Morales:2003vn}
+\textsc{\bibinfo{author}{Morales, M.~F.} and \bibinfo{author}{Hewitt, J.}}
+\newblock \bibinfo{title}{{Toward epoch of re-ionization measurements with wide
+  - field LOFAR observations}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{615}}:\bibinfo{pages}{7--18} (\bibinfo{year}{2004}).
 \newblock \doi{10.1086/424437}.
 
-\bibitem[Morales and Wyithe(2009)]{morales2009reionization}
-Miguel~F Morales and J~Stuart~B Wyithe.
-\newblock Reionization and cosmology with 21 cm fluctuations.
-\newblock \emph{arXiv preprint arXiv:0910.3010}, 2009.
+\bibitem[\protect\astroncite{Morales and
+  Wyithe}{2009}]{morales2009reionization}
+\textsc{\bibinfo{author}{Morales, M.~F.} and \bibinfo{author}{Wyithe, J.
+  S.~B.}}
+\newblock \bibinfo{title}{Reionization and Cosmology with 21 cm Fluctuations}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:0910.3010}
+  (\bibinfo{year}{2009}).
 
-\bibitem[Morales et~al.(2012)Morales, Hazelton, Sullivan, and
-  Beardsley]{Morales:2012kf}
-Miguel~F. Morales, Bryna Hazelton, Ian Sullivan, and Adam Beardsley.
-\newblock {Four Fundamental Foreground Power Spectrum Shapes for 21 cm
-  Cosmology Observations}.
-\newblock \emph{Astrophys.J.}, 752:\penalty0 137, 2012.
+\bibitem[\protect\astroncite{Mortlock
+  et~al.}{2011{\natexlab{a}}}]{Mortlock2011}
+\textsc{\bibinfo{author}{Mortlock, D.~J.}, \bibinfo{author}{Warren, S.~J.},
+  \bibinfo{author}{Venemans, B.~P.}, \bibinfo{author}{Patel, M.},
+  \bibinfo{author}{Hewett, P.~C.}, et~al.}
+\newblock \bibinfo{title}{{A luminous quasar at a redshift of z = 7.085}}.
+\newblock \bibinfo{journal}{Nature},
+  \textbf{\bibinfo{volume}{474}}:\bibinfo{pages}{616}
+  (\bibinfo{year}{2011}{\natexlab{a}}).
 
-\bibitem[Mortlock et~al.(2011{\natexlab{a}})Mortlock, Warren, Venemans, Patel,
-  Hewett, et~al.]{Mortlock2011}
-Daniel~J. Mortlock, Stephen~J. Warren, Bram~P. Venemans, Mitesh Patel, Paul~C.
-  Hewett, et~al.
-\newblock {A luminous quasar at a redshift of z = 7.085}.
-\newblock \emph{Nature}, 474:\penalty0 616, 2011{\natexlab{a}}.
+\bibitem[\protect\astroncite{Mortlock
+  et~al.}{2011{\natexlab{b}}}]{Mortlock:2011va}
+\textsc{\bibinfo{author}{Mortlock, D.~J.}, \bibinfo{author}{Warren, S.~J.},
+  \bibinfo{author}{Venemans, B.~P.}, \bibinfo{author}{Patel, M.},
+  \bibinfo{author}{Hewett, P.~C.}, et~al.}
+\newblock \bibinfo{title}{{A luminous quasar at a redshift of z = 7.085}}.
+\newblock \bibinfo{journal}{Nature},
+  \textbf{\bibinfo{volume}{474}}:\bibinfo{pages}{616}
+  (\bibinfo{year}{2011}{\natexlab{b}}).
 
-\bibitem[Mortlock et~al.(2011{\natexlab{b}})Mortlock, Warren, Venemans, Patel,
-  Hewett, et~al.]{Mortlock:2011va}
-Daniel~J. Mortlock, Stephen~J. Warren, Bram~P. Venemans, Mitesh Patel, Paul~C.
-  Hewett, et~al.
-\newblock {A luminous quasar at a redshift of z = 7.085}.
-\newblock \emph{Nature}, 474:\penalty0 616, 2011{\natexlab{b}}.
+\bibitem[\protect\astroncite{Ouchi et~al.}{2010{\natexlab{a}}}]{Ouchi2010}
+\textsc{\bibinfo{author}{Ouchi, M.}, \bibinfo{author}{Shimasaku, K.},
+  \bibinfo{author}{Furusawa, H.}, et~al.}
+\newblock \bibinfo{title}{{Statistics of 207 Lya Emitters at a Redshift Near 7:
+  Constraints on Reionization and Galaxy Formation Models}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{723}}:\bibinfo{pages}{869}
+  (\bibinfo{year}{2010}{\natexlab{a}}).
 
-\bibitem[Ouchi et~al.(2010{\natexlab{a}})Ouchi, Shimasaku, Furusawa,
-  et~al.]{Ouchi2010}
-Masami Ouchi, Kazuhiro Shimasaku, Hisanori Furusawa, et~al.
-\newblock {Statistics of 207 Lya Emitters at a Redshift Near 7: Constraints on
-  Reionization and Galaxy Formation Models}.
-\newblock \emph{Astrophys.J.}, 723:\penalty0 869, 2010{\natexlab{a}}.
+\bibitem[\protect\astroncite{Ouchi et~al.}{2010{\natexlab{b}}}]{Ouchi:2010}
+\textsc{\bibinfo{author}{Ouchi, M.}, \bibinfo{author}{Shimasaku, K.},
+  \bibinfo{author}{Furusawa, H.}, et~al.}
+\newblock \bibinfo{title}{{Statistics of 207 Lya Emitters at a Redshift Near 7:
+  Constraints on Reionization and Galaxy Formation Models}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{723}}:\bibinfo{pages}{869}
+  (\bibinfo{year}{2010}{\natexlab{b}}).
 
-\bibitem[Ouchi et~al.(2010{\natexlab{b}})Ouchi, Shimasaku, Furusawa,
-  et~al.]{Ouchi:2010}
-Masami Ouchi, Kazuhiro Shimasaku, Hisanori Furusawa, et~al.
-\newblock {Statistics of 207 Lya Emitters at a Redshift Near 7: Constraints on
-  Reionization and Galaxy Formation Models}.
-\newblock \emph{Astrophys.J.}, 723:\penalty0 869, 2010{\natexlab{b}}.
-
-\bibitem[Owen and Sathyaprakash(1999)]{Owen:1998dk}
-Benjamin~J. Owen and B.S. Sathyaprakash.
-\newblock {Matched filtering of gravitational waves from inspiraling compact
-  binaries: Computational cost and template placement}.
-\newblock \emph{Phys.Rev.}, D60:\penalty0 022002, 1999.
+\bibitem[\protect\astroncite{Owen and Sathyaprakash}{1999}]{Owen:1998dk}
+\textsc{\bibinfo{author}{Owen, B.~J.} and \bibinfo{author}{Sathyaprakash, B.}}
+\newblock \bibinfo{title}{{Matched filtering of gravitational waves from
+  inspiraling compact binaries: Computational cost and template placement}}.
+\newblock \bibinfo{journal}{Phys.Rev.},
+  \textbf{\bibinfo{volume}{D60}}:\bibinfo{pages}{022002}
+  (\bibinfo{year}{1999}).
 \newblock \doi{10.1103/PhysRevD.60.022002}.
 
-\bibitem[Paciga et~al.(2011{\natexlab{a}})Paciga, Chang, Gupta, Nityanada,
-  Odegova, et~al.]{Paciga2011}
-Gregory Paciga, Tzu-Ching Chang, Yashwant Gupta, Rajaram Nityanada, Julia
-  Odegova, et~al.
-\newblock {The GMRT Epoch of Reionization experiment: A New upper limit on the
-  neutral hydrogen power spectrum at z~8.6}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 413:\penalty0 1174--1183,
-  2011{\natexlab{a}}.
+\bibitem[\protect\astroncite{Paciga et~al.}{2011{\natexlab{a}}}]{Paciga2011}
+\textsc{\bibinfo{author}{Paciga, G.}, \bibinfo{author}{Chang, T.-C.},
+  \bibinfo{author}{Gupta, Y.}, \bibinfo{author}{Nityanada, R.},
+  \bibinfo{author}{Odegova, J.}, et~al.}
+\newblock \bibinfo{title}{{The GMRT Epoch of Reionization experiment: A New
+  upper limit on the neutral hydrogen power spectrum at z~8.6}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{413}}:\bibinfo{pages}{1174--1183}
+  (\bibinfo{year}{2011}{\natexlab{a}}).
 \newblock \doi{10.1111/j.1365-2966.2011.18208.x}.
 
-\bibitem[Paciga et~al.(2011{\natexlab{b}})Paciga, Chang, Gupta, Nityanada,
-  Odegova, et~al.]{Paciga:2010yy}
-Gregory Paciga, Tzu-Ching Chang, Yashwant Gupta, Rajaram Nityanada, Julia
-  Odegova, et~al.
-\newblock {The GMRT Epoch of Reionization experiment: A New upper limit on the
-  neutral hydrogen power spectrum at z~8.6}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 413:\penalty0 1174--1183,
-  2011{\natexlab{b}}.
+\bibitem[\protect\astroncite{Paciga et~al.}{2011{\natexlab{b}}}]{Paciga:2010yy}
+\textsc{\bibinfo{author}{Paciga, G.}, \bibinfo{author}{Chang, T.-C.},
+  \bibinfo{author}{Gupta, Y.}, \bibinfo{author}{Nityanada, R.},
+  \bibinfo{author}{Odegova, J.}, et~al.}
+\newblock \bibinfo{title}{{The GMRT Epoch of Reionization experiment: A New
+  upper limit on the neutral hydrogen power spectrum at z~8.6}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{413}}:\bibinfo{pages}{1174--1183}
+  (\bibinfo{year}{2011}{\natexlab{b}}).
 \newblock \doi{10.1111/j.1365-2966.2011.18208.x}.
 
-\bibitem[Parsons et~al.(2009)Parsons, Backer, Bradley, Aguirre, Benoit,
-  et~al.]{Parsons:2009in}
-Aaron~R. Parsons, Donald~C. Backer, Richard~F. Bradley, James~E. Aguirre,
-  Erin~E. Benoit, et~al.
-\newblock {The Precision Array for Probing the Epoch of Reionization: 8 Station
-  Results}.
-\newblock 2009.
+\bibitem[\protect\astroncite{Parsons et~al.}{2009}]{Parsons:2009in}
+\textsc{\bibinfo{author}{Parsons, A.~R.}, \bibinfo{author}{Backer, D.~C.},
+  \bibinfo{author}{Bradley, R.~F.}, \bibinfo{author}{Aguirre, J.~E.},
+  \bibinfo{author}{Benoit, E.~E.}, et~al.}
+\newblock \bibinfo{title}{{The Precision Array for Probing the Epoch of
+  Reionization: 8 Station Results}} (\bibinfo{year}{2009}).
 
-\bibitem[Parsons et~al.(2012{\natexlab{a}})Parsons, Pober, Aguirre, Carilli,
-  Jacobs, Moore, et~al.]{Parsons2012}
-Aaron~R. Parsons, Jonathan~C. Pober, James~E. Aguirre, Christopher~L. Carilli,
-  Daniel~C. Jacobs, David Moore, et~al.
-\newblock {A Per-Baseline, Delay-Spectrum Technique for Accessing the 21cm
-  Cosmic Reionization Signature}.
-\newblock 2012{\natexlab{a}}.
+\bibitem[\protect\astroncite{Parsons et~al.}{2012{\natexlab{a}}}]{Parsons2012}
+\textsc{\bibinfo{author}{Parsons, A.~R.}, \bibinfo{author}{Pober, J.~C.},
+  \bibinfo{author}{Aguirre, J.~E.}, \bibinfo{author}{Carilli, C.~L.},
+  \bibinfo{author}{Jacobs, D.~C.}, \bibinfo{author}{Moore, D.}, et~al.}
+\newblock \bibinfo{title}{{A Per-Baseline, Delay-Spectrum Technique for
+  Accessing the 21cm Cosmic Reionization Signature}}
+  (\bibinfo{year}{2012}{\natexlab{a}}).
 
-\bibitem[Parsons et~al.(2012{\natexlab{b}})Parsons, Pober, Aguirre, Carilli,
-  Jacobs, Moore, et~al.]{Parsons:2012qh}
-Aaron~R. Parsons, Jonathan~C. Pober, James~E. Aguirre, Christopher~L. Carilli,
-  Daniel~C. Jacobs, David Moore, et~al.
-\newblock {A Per-Baseline, Delay-Spectrum Technique for Accessing the 21cm
-  Cosmic Reionization Signature}.
-\newblock 2012{\natexlab{b}}.
+\bibitem[\protect\astroncite{Parsons
+  et~al.}{2012{\natexlab{b}}}]{Parsons:2012qh}
+\textsc{\bibinfo{author}{Parsons, A.~R.}, \bibinfo{author}{Pober, J.~C.},
+  \bibinfo{author}{Aguirre, J.~E.}, \bibinfo{author}{Carilli, C.~L.},
+  \bibinfo{author}{Jacobs, D.~C.}, \bibinfo{author}{Moore, D.}, et~al.}
+\newblock \bibinfo{title}{{A Per-Baseline, Delay-Spectrum Technique for
+  Accessing the 21cm Cosmic Reionization Signature}}
+  (\bibinfo{year}{2012}{\natexlab{b}}).
 
-\bibitem[Pawlik et~al.(2008)Pawlik, Schaye, and van
-  Scherpenzeel]{Pawlik:2008mr}
-Andreas~H. Pawlik, Joop Schaye, and Eveline van Scherpenzeel.
-\newblock {Keeping the Universe ionised: Photo-ionisation heating and the
-  critical star formation rate at redshift z = 6}.
-\newblock 2008.
+\bibitem[\protect\astroncite{Pawlik et~al.}{2008}]{Pawlik:2008mr}
+\textsc{\bibinfo{author}{Pawlik, A.~H.}, \bibinfo{author}{Schaye, J.}, and
+  \bibinfo{author}{van Scherpenzeel, E.}}
+\newblock \bibinfo{title}{{Keeping the Universe ionised: Photo-ionisation
+  heating and the critical star formation rate at redshift z = 6}}
+  (\bibinfo{year}{2008}).
 
-\bibitem[Peeples et~al.(2010)Peeples, Weinberg, Dave, Fardal, and
-  Katz]{Peeples:2009ue}
-Molly~S. Peeples, David~H. Weinberg, Romeel Dave, Mark~A. Fardal, and Neal
-  Katz.
-\newblock {Pressure Support vs. Thermal Broadening in the Lyman-alpha Forest
-  II: Effects of the Equation of State on Transverse Structure}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 404:\penalty0 1295--1305, 2010.
+\bibitem[\protect\astroncite{Peeples et~al.}{2010}]{Peeples:2009ue}
+\textsc{\bibinfo{author}{Peeples, M.~S.}, \bibinfo{author}{Weinberg, D.~H.},
+  \bibinfo{author}{Dave, R.}, \bibinfo{author}{Fardal, M.~A.}, and
+  \bibinfo{author}{Katz, N.}}
+\newblock \bibinfo{title}{{Pressure Support vs. Thermal Broadening in the
+  Lyman-alpha Forest II: Effects of the Equation of State on Transverse
+  Structure}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{404}}:\bibinfo{pages}{1295--1305}
+  (\bibinfo{year}{2010}).
 
-\bibitem[Pentericci et~al.(2011)Pentericci, Fontana, Vanzella, Castellano,
-  Grazian, Dijkstra, Boutsia, Cristiani, Dickinson, Giallongo,
-  et~al.]{pentericci2011spectroscopic}
-L~Pentericci, A~Fontana, E~Vanzella, M~Castellano, A~Grazian, M~Dijkstra,
-  K~Boutsia, S~Cristiani, M~Dickinson, E~Giallongo, et~al.
-\newblock Spectroscopic confirmation of z{$\sim$} 7 lyman break galaxies:
-  probing the earliest galaxies and the epoch of reionization.
-\newblock \emph{The Astrophysical Journal}, 743\penalty0 (2):\penalty0 132,
-  2011.
+\bibitem[\protect\astroncite{Pentericci
+  et~al.}{2011}]{pentericci2011spectroscopic}
+\textsc{\bibinfo{author}{Pentericci, L.}, \bibinfo{author}{Fontana, A.},
+  \bibinfo{author}{Vanzella, E.}, \bibinfo{author}{Castellano, M.},
+  \bibinfo{author}{Grazian, A.}, \bibinfo{author}{Dijkstra, M.},
+  \bibinfo{author}{Boutsia, K.}, \bibinfo{author}{Cristiani, S.}, et~al.}
+\newblock \bibinfo{title}{Spectroscopic confirmation of z{$\sim$} 7 Lyman break
+  galaxies: probing the earliest galaxies and the epoch of reionization}.
+\newblock \bibinfo{journal}{The Astrophysical Journal},
+  \textbf{\bibinfo{volume}{743}}(\bibinfo{number}{2}):\bibinfo{pages}{132}
+  (\bibinfo{year}{2011}).
 
-\bibitem[Pentericci et~al.(2014)Pentericci, Vanzella, Fontana, Castellano,
-  Treu, et~al.]{Pentericci:2014nia}
-L.~Pentericci, E.~Vanzella, A.~Fontana, M.~Castellano, T.~Treu, et~al.
-\newblock {New observations of z~7 galaxies: evidence for a patchy
-  reionization}.
-\newblock 2014.
+\bibitem[\protect\astroncite{Pentericci et~al.}{2014}]{Pentericci:2014nia}
+\textsc{\bibinfo{author}{Pentericci, L.}, \bibinfo{author}{Vanzella, E.},
+  \bibinfo{author}{Fontana, A.}, \bibinfo{author}{Castellano, M.},
+  \bibinfo{author}{Treu, T.}, et~al.}
+\newblock \bibinfo{title}{{New observations of z~7 galaxies: evidence for a
+  patchy reionization}} (\bibinfo{year}{2014}).
 
-\bibitem[Petrovic and Oh(2010)]{Petrovic:2010me}
-Nada Petrovic and S.~Peng Oh.
-\newblock {Systematic Effects of Foreground Removal in 21cm Surveys of
-  Reionization}.
-\newblock 2010.
+\bibitem[\protect\astroncite{Petrovic and Oh}{2010}]{Petrovic:2010me}
+\textsc{\bibinfo{author}{Petrovic, N.} and \bibinfo{author}{Oh, S.~P.}}
+\newblock \bibinfo{title}{{Systematic Effects of Foreground Removal in 21cm
+  Surveys of Reionization}} (\bibinfo{year}{2010}).
 
-\bibitem[Pober et~al.(2015)Pober, Ali, Parsons, McQuinn, Aguirre, Bernardi,
-  Bradley, Carilli, Cheng, DeBoer, et~al.]{pober2015paper}
-Jonathan~C Pober, Zaki~S Ali, Aaron~R Parsons, Matthew McQuinn, James~E
-  Aguirre, Gianni Bernardi, Richard~F Bradley, Chris~L Carilli, Carina Cheng,
-  David~R DeBoer, et~al.
-\newblock Paper-64 constraints on reionization ii: The temperature of the z=
-  8.4 intergalactic medium.
-\newblock \emph{arXiv preprint arXiv:1503.00045}, 2015.
+\bibitem[\protect\astroncite{Pierpaoli}{2004}]{pierpaoli2004decaying}
+\textsc{\bibinfo{author}{Pierpaoli, E.}}
+\newblock \bibinfo{title}{Decaying particles and the reionization history of
+  the universe}.
+\newblock \bibinfo{journal}{Physical review letters},
+  \textbf{\bibinfo{volume}{92}}(\bibinfo{number}{3}):\bibinfo{pages}{031301}
+  (\bibinfo{year}{2004}).
 
-\bibitem[Press et~al.(2002)Press, Teukolsky, Vetterling, and
-  Flannery]{NRecipes}
-William Press, Saul Teukolsky, William Vetterling, and Brian Flannery.
-\newblock \emph{{Numerical Recipes in C++: The Art of Scientific Computing}}.
-\newblock Cambridge University Press, 2002.
+\bibitem[\protect\astroncite{Pober et~al.}{2015}]{pober2015paper}
+\textsc{\bibinfo{author}{Pober, J.~C.}, \bibinfo{author}{Ali, Z.~S.},
+  \bibinfo{author}{Parsons, A.~R.}, \bibinfo{author}{McQuinn, M.},
+  \bibinfo{author}{Aguirre, J.~E.}, \bibinfo{author}{Bernardi, G.},
+  \bibinfo{author}{Bradley, R.~F.}, \bibinfo{author}{Carilli, C.~L.}, et~al.}
+\newblock \bibinfo{title}{PAPER-64 Constraints On Reionization II: The
+  Temperature Of The z= 8.4 Intergalactic Medium}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:1503.00045}
+  (\bibinfo{year}{2015}).
 
-\bibitem[Prochaska et~al.(2005)Prochaska, Herbert-Fort, and
-  Wolfe]{Prochaska:2005wy}
-Jason~X. Prochaska, Stephane Herbert-Fort, and Arthur~M. Wolfe.
-\newblock {The sdss damped lya survey: data release 3}.
-\newblock \emph{Astrophys.J.}, 635:\penalty0 123--142, 2005.
+\bibitem[\protect\astroncite{Press et~al.}{2002}]{NRecipes}
+\textsc{\bibinfo{author}{Press, W.}, \bibinfo{author}{Teukolsky, S.},
+  \bibinfo{author}{Vetterling, W.}, and \bibinfo{author}{Flannery, B.}}
+\newblock \bibinfo{title}{{Numerical Recipes in C++: The Art of Scientific
+  Computing}}.
+\newblock \bibinfo{publisher}{Cambridge University Press}
+  (\bibinfo{year}{2002}).
+
+\bibitem[\protect\astroncite{Prochaska et~al.}{2005}]{Prochaska:2005wy}
+\textsc{\bibinfo{author}{Prochaska, J.~X.}, \bibinfo{author}{Herbert-Fort, S.},
+  and \bibinfo{author}{Wolfe, A.~M.}}
+\newblock \bibinfo{title}{{The sdss damped lya survey: data release 3}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{635}}:\bibinfo{pages}{123--142}
+  (\bibinfo{year}{2005}).
 \newblock \doi{10.1086/497287}.
 
-\bibitem[Rahmati and Schaye(2013)]{Rahmati:2013hsa}
-Alireza Rahmati and Joop Schaye.
-\newblock {Predictions for the relation between strong HI absorbers and
-  galaxies at redshift 3}.
-\newblock 2013.
+\bibitem[\protect\astroncite{Prochaska et~al.}{2009}]{prochaska2009direct}
+\textsc{\bibinfo{author}{Prochaska, J.~X.}, \bibinfo{author}{Worseck, G.}, and
+  \bibinfo{author}{O’Meara, J.~M.}}
+\newblock \bibinfo{title}{A Direct Measurement of the Intergalactic Medium
+  Opacity to HI Ionizing Photons}.
+\newblock \bibinfo{journal}{The Astrophysical Journal Letters},
+  \textbf{\bibinfo{volume}{705}}(\bibinfo{number}{2}):\bibinfo{pages}{L113}
+  (\bibinfo{year}{2009}).
 
-\bibitem[Raskutti et~al.(2012)Raskutti, Bolton, Wyithe, and
-  Becker]{Raskutti:2012qz}
-Sudhir Raskutti, James~S. Bolton, J.~Stuart~B. Wyithe, and George~D. Becker.
-\newblock {Thermal constraints on the reionisation of hydrogen by population-II
-  stellar sources}.
-\newblock 2012.
+\bibitem[\protect\astroncite{Rahmati and Schaye}{2013}]{Rahmati:2013hsa}
+\textsc{\bibinfo{author}{Rahmati, A.} and \bibinfo{author}{Schaye, J.}}
+\newblock \bibinfo{title}{{Predictions for the relation between strong HI
+  absorbers and galaxies at redshift 3}} (\bibinfo{year}{2013}).
 
-\bibitem[{Reisenegger} and {Miralda-Escude}(1995)]{1995ApJ...449..476R}
-A.~{Reisenegger} and J.~{Miralda-Escude}.
-\newblock {The Gunn-Peterson Effect from Underdense Regions in a Photoionized
-  Intergalactic Medium}.
-\newblock \emph{ApJ}, 449:\penalty0 476, August 1995.
+\bibitem[\protect\astroncite{Raskutti et~al.}{2012}]{Raskutti:2012qz}
+\textsc{\bibinfo{author}{Raskutti, S.}, \bibinfo{author}{Bolton, J.~S.},
+  \bibinfo{author}{Wyithe, J. S.~B.}, and \bibinfo{author}{Becker, G.~D.}}
+\newblock \bibinfo{title}{{Thermal constraints on the reionisation of hydrogen
+  by population-II stellar sources}} (\bibinfo{year}{2012}).
+
+\bibitem[\protect\astroncite{{Reisenegger} and
+  {Miralda-Escude}}{1995}]{1995ApJ...449..476R}
+\textsc{\bibinfo{author}{{Reisenegger}, A.} and
+  \bibinfo{author}{{Miralda-Escude}, J.}}
+\newblock \bibinfo{title}{{The Gunn-Peterson Effect from Underdense Regions in
+  a Photoionized Intergalactic Medium}}.
+\newblock \bibinfo{journal}{ApJ},
+  \textbf{\bibinfo{volume}{449}}:\bibinfo{pages}{476} (\bibinfo{year}{1995}).
 \newblock \doi{10.1086/176072}.
 
-\bibitem[Ricotti et~al.(2000)Ricotti, Gnedin, and Shull]{Ricotti:1999hx}
-Massimo Ricotti, Nickolay~Y. Gnedin, and J.~Michael Shull.
-\newblock {The evolution of the effective equation of state of the igm}.
-\newblock \emph{Astrophys.J.}, 534:\penalty0 41--56, 2000.
+\bibitem[\protect\astroncite{Ricotti et~al.}{2000}]{Ricotti:1999hx}
+\textsc{\bibinfo{author}{Ricotti, M.}, \bibinfo{author}{Gnedin, N.~Y.}, and
+  \bibinfo{author}{Shull, J.~M.}}
+\newblock \bibinfo{title}{{The evolution of the effective equation of state of
+  the igm}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{534}}:\bibinfo{pages}{41--56}
+  (\bibinfo{year}{2000}).
 \newblock \doi{10.1086/308733}.
 
-\bibitem[{Robertson} et~al.(2013){Robertson}, {Furlanetto}, {Schneider},
-  {Charlot}, {Ellis}, {Stark}, {McLure}, {Dunlop}, {Koekemoer}, {Schenker},
-  {Ouchi}, {Ono}, {Curtis-Lake}, {Rogers}, {Bowler}, and
-  {Cirasuolo}]{Robertson2013}
-B.~E. {Robertson}, S.~R. {Furlanetto}, E.~{Schneider}, S.~{Charlot}, R.~S.
-  {Ellis}, D.~P. {Stark}, R.~J. {McLure}, J.~S. {Dunlop}, A.~{Koekemoer}, M.~A.
-  {Schenker}, M.~{Ouchi}, Y.~{Ono}, E.~{Curtis-Lake}, A.~B. {Rogers}, R.~A.~A.
-  {Bowler}, and M.~{Cirasuolo}.
-\newblock {New Constraints on Cosmic Reionization from the 2012 Hubble Ultra
-  Deep Field Campaign}.
-\newblock \emph{ApJ}, 768:\penalty0 71, May 2013.
+\bibitem[\protect\astroncite{Robertson et~al.}{2015}]{robertson2015cosmic}
+\textsc{\bibinfo{author}{Robertson, B.~E.}, \bibinfo{author}{Ellis, R.~S.},
+  \bibinfo{author}{Furlanetto, S.~R.}, and \bibinfo{author}{Dunlop, J.~S.}}
+\newblock \bibinfo{title}{Cosmic Reionization and Early Star-forming Galaxies:
+  A Joint Analysis of New Constraints from Planck and the Hubble Space
+  Telescope}.
+\newblock \bibinfo{journal}{The Astrophysical Journal Letters},
+  \textbf{\bibinfo{volume}{802}}(\bibinfo{number}{2}):\bibinfo{pages}{L19}
+  (\bibinfo{year}{2015}).
+
+\bibitem[\protect\astroncite{{Robertson} et~al.}{2013}]{Robertson2013}
+\textsc{\bibinfo{author}{{Robertson}, B.~E.}, \bibinfo{author}{{Furlanetto},
+  S.~R.}, \bibinfo{author}{{Schneider}, E.}, \bibinfo{author}{{Charlot}, S.},
+  \bibinfo{author}{{Ellis}, R.~S.}, \bibinfo{author}{{Stark}, D.~P.},
+  \bibinfo{author}{{McLure}, R.~J.}, \bibinfo{author}{{Dunlop}, J.~S.}, et~al.}
+\newblock \bibinfo{title}{{New Constraints on Cosmic Reionization from the 2012
+  Hubble Ultra Deep Field Campaign}}.
+\newblock \bibinfo{journal}{ApJ},
+  \textbf{\bibinfo{volume}{768}}:\bibinfo{eid}{71} (\bibinfo{year}{2013}).
 \newblock \doi{10.1088/0004-637X/768/1/71}.
 
-\bibitem[Robertson et~al.(2013)Robertson, Furlanetto, Schneider, Charlot,
-  Ellis, et~al.]{Robertson:2013bq}
-Brant~E. Robertson, Steven~R. Furlanetto, Evan Schneider, Stephane Charlot,
-  Richard~S. Ellis, et~al.
-\newblock {New Constraints on Cosmic Reionization from the 2012 Hubble Ultra
-  Deep Field Campaign}.
-\newblock \emph{Astrophys.J.}, 768:\penalty0 71, 2013.
+\bibitem[\protect\astroncite{Robertson et~al.}{2013}]{Robertson:2013bq}
+\textsc{\bibinfo{author}{Robertson, B.~E.}, \bibinfo{author}{Furlanetto,
+  S.~R.}, \bibinfo{author}{Schneider, E.}, \bibinfo{author}{Charlot, S.},
+  \bibinfo{author}{Ellis, R.~S.}, et~al.}
+\newblock \bibinfo{title}{{New Constraints on Cosmic Reionization from the 2012
+  Hubble Ultra Deep Field Campaign}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{768}}:\bibinfo{pages}{71} (\bibinfo{year}{2013}).
 \newblock \doi{10.1088/0004-637X/768/1/71}.
 
-\bibitem[Robertson et~al.(2015)Robertson, Ellis, Furlanetto, and
-  Dunlop]{robertson2015cosmic}
-Brant~E Robertson, Richard~S Ellis, Steven~R Furlanetto, and James~S Dunlop.
-\newblock Cosmic reionization and early star-forming galaxies: A joint analysis
-  of new constraints from planck and the hubble space telescope.
-\newblock \emph{The Astrophysical Journal Letters}, 802\penalty0 (2):\penalty0
-  L19, 2015.
+\bibitem[\protect\astroncite{Rybicki and Lightman}{1979}]{rybicki1979radiative}
+\textsc{\bibinfo{author}{Rybicki, G.} and \bibinfo{author}{Lightman, A.}}
+\newblock \bibinfo{title}{Radiative Processes in Astrophysics}.
+\newblock A Wiley-Interscience publication. \bibinfo{publisher}{Wiley}
+  (\bibinfo{year}{1979}).
+\newblock ISBN \bibinfo{isbn}{9780471827597}.
 
-\bibitem[Rybicki and Lightman(1979)]{rybicki1979radiative}
-G.B. Rybicki and A.P. Lightman.
-\newblock \emph{Radiative Processes in Astrophysics}.
-\newblock A Wiley-Interscience publication. Wiley, 1979.
-\newblock ISBN 9780471827597.
+\bibitem[\protect\astroncite{Sakurai and Napolitano}{2011}]{sakurai2011modern}
+\textsc{\bibinfo{author}{Sakurai, J.} and \bibinfo{author}{Napolitano, J.}}
+\newblock \bibinfo{title}{Modern Quantum Mechanics}.
+\newblock Classical Physics Textbook. \bibinfo{publisher}{Addison-Wesley}
+  (\bibinfo{year}{2011}).
+\newblock ISBN \bibinfo{isbn}{9780805382914}.
 
-\bibitem[Sakurai and Napolitano(2011)]{sakurai2011modern}
-J.J. Sakurai and J.~Napolitano.
-\newblock \emph{Modern Quantum Mechanics}.
-\newblock Classical Physics Textbook. Addison-Wesley, 2011.
-\newblock ISBN 9780805382914.
+\bibitem[\protect\astroncite{Salvaterra}{2015}]{Salvaterra:2015gpa}
+\textsc{\bibinfo{author}{Salvaterra, R.}}
+\newblock \bibinfo{title}{{High redshift Gamma-Ray Bursts}}
+  (\bibinfo{year}{2015}).
 
-\bibitem[Salvaterra(2015)]{Salvaterra:2015gpa}
-R.~Salvaterra.
-\newblock {High redshift Gamma-Ray Bursts}.
-\newblock 2015.
-
-\bibitem[Schaye et~al.(2000)Schaye, Theuns, Rauch, Efstathiou, and
-  Sargent]{Schaye:1999vr}
-Joop Schaye, Tom Theuns, Michael Rauch, George Efstathiou, and Wallace~L.W.
-  Sargent.
-\newblock {The Thermal history of the intergalactic medium}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 318:\penalty0 817, 2000.
+\bibitem[\protect\astroncite{Schaye et~al.}{2000}]{Schaye:1999vr}
+\textsc{\bibinfo{author}{Schaye, J.}, \bibinfo{author}{Theuns, T.},
+  \bibinfo{author}{Rauch, M.}, \bibinfo{author}{Efstathiou, G.}, and
+  \bibinfo{author}{Sargent, W.~L.}}
+\newblock \bibinfo{title}{{The Thermal history of the intergalactic medium}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{318}}:\bibinfo{pages}{817} (\bibinfo{year}{2000}).
 \newblock \doi{10.1046/j.1365-8711.2000.03815.x}.
 
-\bibitem[{Schenker} et~al.(2012){Schenker}, {Stark}, {Ellis}, {Robertson},
-  {Dunlop}, {McLure}, {Kneib}, and {Richard}]{2012ApJ...744..179S}
-M.~A. {Schenker}, D.~P. {Stark}, R.~S. {Ellis}, B.~E. {Robertson}, J.~S.
-  {Dunlop}, R.~J. {McLure}, J.-P. {Kneib}, and J.~{Richard}.
-\newblock {Keck Spectroscopy of Faint {$3 < z < 8$} Lyman Break Galaxies:
-  Evidence for a Declining Fraction of Emission Line Sources in the Redshift
-  Range {$6 < z < 8$}}.
-\newblock \emph{ApJ}, 744:\penalty0 179, January 2012.
+\bibitem[\protect\astroncite{Schenker
+  et~al.}{2012{\natexlab{a}}}]{Schenker2012}
+\textsc{\bibinfo{author}{Schenker, M.}, \bibinfo{author}{Stark, D.},
+  \bibinfo{author}{Ellis, R.}, \bibinfo{author}{Robertson, B.},
+  \bibinfo{author}{Dunlop, J.}, et~al.}
+\newblock \bibinfo{title}{{Keck Spectroscopy of Faint {$3 < z < 8$} Lyman Break
+  Galaxies:- Evidence for a Declining Fraction of Emission Line Sources In the
+  Redshift Range {$6 < z < 8$}}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{744}}:\bibinfo{pages}{179}
+  (\bibinfo{year}{2012}{\natexlab{a}}).
 \newblock \doi{10.1088/0004-637X/744/2/179}.
 
-\bibitem[Schenker et~al.(2012{\natexlab{a}})Schenker, Stark, Ellis, Robertson,
-  Dunlop, et~al.]{Schenker2012}
-M.A. Schenker, D.P Stark, R.S. Ellis, B.E. Robertson, J.S. Dunlop, et~al.
-\newblock {Keck Spectroscopy of Faint {$3 < z < 8$} Lyman Break Galaxies:-
-  Evidence for a Declining Fraction of Emission Line Sources In the Redshift
-  Range {$6 < z < 8$}}.
-\newblock \emph{Astrophys.J.}, 744:\penalty0 179, 2012{\natexlab{a}}.
+\bibitem[\protect\astroncite{Schenker
+  et~al.}{2012{\natexlab{b}}}]{Schenker:2011ea}
+\textsc{\bibinfo{author}{Schenker, M.}, \bibinfo{author}{Stark, D.},
+  \bibinfo{author}{Ellis, R.}, \bibinfo{author}{Robertson, B.},
+  \bibinfo{author}{Dunlop, J.}, et~al.}
+\newblock \bibinfo{title}{{Keck Spectroscopy of Faint 3<z<8 Lyman Break
+  Galaxies:- Evidence for a Declining Fraction of Emission Line Sources In the
+  Redshift Range 6<z<8}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{744}}:\bibinfo{pages}{179}
+  (\bibinfo{year}{2012}{\natexlab{b}}).
 \newblock \doi{10.1088/0004-637X/744/2/179}.
 
-\bibitem[Schenker et~al.(2012{\natexlab{b}})Schenker, Stark, Ellis, Robertson,
-  Dunlop, et~al.]{Schenker:2011ea}
-M.A. Schenker, D.P Stark, R.S. Ellis, B.E. Robertson, J.S. Dunlop, et~al.
-\newblock {Keck Spectroscopy of Faint 3<z<8 Lyman Break Galaxies:- Evidence for
-  a Declining Fraction of Emission Line Sources In the Redshift Range 6<z<8}.
-\newblock \emph{Astrophys.J.}, 744:\penalty0 179, 2012{\natexlab{b}}.
+\bibitem[\protect\astroncite{{Schenker} et~al.}{2012}]{2012ApJ...744..179S}
+\textsc{\bibinfo{author}{{Schenker}, M.~A.}, \bibinfo{author}{{Stark}, D.~P.},
+  \bibinfo{author}{{Ellis}, R.~S.}, \bibinfo{author}{{Robertson}, B.~E.},
+  \bibinfo{author}{{Dunlop}, J.~S.}, \bibinfo{author}{{McLure}, R.~J.},
+  \bibinfo{author}{{Kneib}, J.-P.}, and \bibinfo{author}{{Richard}, J.}}
+\newblock \bibinfo{title}{{Keck Spectroscopy of Faint {$3 < z < 8$} Lyman Break
+  Galaxies: Evidence for a Declining Fraction of Emission Line Sources in the
+  Redshift Range {$6 < z < 8$}}}.
+\newblock \bibinfo{journal}{ApJ},
+  \textbf{\bibinfo{volume}{744}}:\bibinfo{eid}{179} (\bibinfo{year}{2012}).
 \newblock \doi{10.1088/0004-637X/744/2/179}.
 
-\bibitem[{Schroeder} et~al.(2013){Schroeder}, {Mesinger}, and
-  {Haiman}]{2013MNRAS.428.3058S}
-J.~{Schroeder}, A.~{Mesinger}, and Z.~{Haiman}.
-\newblock {Evidence of Gunn-Peterson damping wings in high-z quasar spectra:
-  strengthening the case for incomplete reionization at {$z \sim 6-7$}}.
-\newblock \emph{MNRAS}, 428:\penalty0 3058--3071, February 2013.
+\bibitem[\protect\astroncite{{Schroeder} et~al.}{2013}]{2013MNRAS.428.3058S}
+\textsc{\bibinfo{author}{{Schroeder}, J.}, \bibinfo{author}{{Mesinger}, A.},
+  and \bibinfo{author}{{Haiman}, Z.}}
+\newblock \bibinfo{title}{{Evidence of Gunn-Peterson damping wings in high-z
+  quasar spectra: strengthening the case for incomplete reionization at {$z
+  \sim 6-7$}}}.
+\newblock \bibinfo{journal}{MNRAS},
+  \textbf{\bibinfo{volume}{428}}:\bibinfo{pages}{3058--3071}
+  (\bibinfo{year}{2013}).
 \newblock \doi{10.1093/mnras/sts253}.
 
-\bibitem[{Shapiro} and {Giroux}(1987)]{1987ApJ...321L.107S}
-P.~R. {Shapiro} and M.~L. {Giroux}.
-\newblock {Cosmological H II regions and the photoionization of the
-  intergalactic medium}.
-\newblock \emph{ApJl}, 321:\penalty0 L107--L112, October 1987.
+\bibitem[\protect\astroncite{{Shapiro} and
+  {Giroux}}{1987}]{1987ApJ...321L.107S}
+\textsc{\bibinfo{author}{{Shapiro}, P.~R.} and \bibinfo{author}{{Giroux},
+  M.~L.}}
+\newblock \bibinfo{title}{{Cosmological H II regions and the photoionization of
+  the intergalactic medium}}.
+\newblock \bibinfo{journal}{ApJl},
+  \textbf{\bibinfo{volume}{321}}:\bibinfo{pages}{L107--L112}
+  (\bibinfo{year}{1987}).
 \newblock \doi{10.1086/185015}.
 
-\bibitem[Sheth et~al.(2001)Sheth, Mo, and Tormen]{Sheth:1999su}
-Ravi~K. Sheth, H.J. Mo, and Giuseppe Tormen.
-\newblock {Ellipsoidal collapse and an improved model for the number and
-  spatial distribution of dark matter haloes}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 323:\penalty0 1, 2001.
+\bibitem[\protect\astroncite{Sheth et~al.}{2001}]{Sheth:1999su}
+\textsc{\bibinfo{author}{Sheth, R.~K.}, \bibinfo{author}{Mo, H.}, and
+  \bibinfo{author}{Tormen, G.}}
+\newblock \bibinfo{title}{{Ellipsoidal collapse and an improved model for the
+  number and spatial distribution of dark matter haloes}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{323}}:\bibinfo{pages}{1} (\bibinfo{year}{2001}).
 \newblock \doi{10.1046/j.1365-8711.2001.04006.x}.
 
-\bibitem[{Simcoe} et~al.(2012){Simcoe}, {Sullivan}, {Cooksey}, {Kao},
-  {Matejek}, and {Burgasser}]{Simcoe}
-R.~A. {Simcoe}, P.~W. {Sullivan}, K.~L. {Cooksey}, M.~M. {Kao}, M.~S.
-  {Matejek}, and A.~J. {Burgasser}.
-\newblock {Extremely metal-poor gas at a redshift of 7}.
-\newblock \emph{Nature}, 492:\penalty0 79--82, December 2012.
+\bibitem[\protect\astroncite{{Simcoe} et~al.}{2012}]{Simcoe}
+\textsc{\bibinfo{author}{{Simcoe}, R.~A.}, \bibinfo{author}{{Sullivan}, P.~W.},
+  \bibinfo{author}{{Cooksey}, K.~L.}, \bibinfo{author}{{Kao}, M.~M.},
+  \bibinfo{author}{{Matejek}, M.~S.}, and \bibinfo{author}{{Burgasser}, A.~J.}}
+\newblock \bibinfo{title}{{Extremely metal-poor gas at a redshift of 7}}.
+\newblock \bibinfo{journal}{Nature},
+  \textbf{\bibinfo{volume}{492}}:\bibinfo{pages}{79--82}
+  (\bibinfo{year}{2012}).
 \newblock \doi{10.1038/nature11612}.
 
-\bibitem[{Springel}(2005)]{2005MNRAS.364.1105S}
-V.~{Springel}.
-\newblock {The cosmological simulation code GADGET-2}.
-\newblock \emph{MNRAS}, 364:\penalty0 1105--1134, December 2005.
+\bibitem[\protect\astroncite{{Springel}}{2005}]{2005MNRAS.364.1105S}
+\textsc{\bibinfo{author}{{Springel}, V.}}
+\newblock \bibinfo{title}{{The cosmological simulation code GADGET-2}}.
+\newblock \bibinfo{journal}{MNRAS},
+  \textbf{\bibinfo{volume}{364}}:\bibinfo{pages}{1105--1134}
+  (\bibinfo{year}{2005}).
 \newblock \doi{10.1111/j.1365-2966.2005.09655.x}.
 
-\bibitem[Syphers et~al.(2011)Syphers, Anderson, Zheng, Smith, Pieri,
-  et~al.]{Syphers:2011uw}
-David Syphers, Scott~F. Anderson, Wei Zheng, Britton Smith, Matthew Pieri,
-  et~al.
-\newblock {He II Ly{$\beta$} Gunn-Peterson Absorption: New HST Observations,
-  and Theoretical Expectations}.
-\newblock \emph{Astrophys.J.}, 742:\penalty0 99, 2011.
+\bibitem[\protect\astroncite{Syphers et~al.}{2011}]{Syphers:2011uw}
+\textsc{\bibinfo{author}{Syphers, D.}, \bibinfo{author}{Anderson, S.~F.},
+  \bibinfo{author}{Zheng, W.}, \bibinfo{author}{Smith, B.},
+  \bibinfo{author}{Pieri, M.}, et~al.}
+\newblock \bibinfo{title}{{He II Ly{$\beta$} Gunn-Peterson Absorption: New HST
+  Observations, and Theoretical Expectations}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{742}}:\bibinfo{pages}{99} (\bibinfo{year}{2011}).
 \newblock \doi{10.1088/0004-637X/742/2/99}.
 
-\bibitem[Taylor and Lidz(2013)]{Taylor:2013qia}
-Jessie Taylor and Adam Lidz.
-\newblock {What do observations of the Lyman-alpha fraction tell us about
-  reionization?}
-\newblock 2013.
+\bibitem[\protect\astroncite{Taylor and Lidz}{2013}]{Taylor:2013qia}
+\textsc{\bibinfo{author}{Taylor, J.} and \bibinfo{author}{Lidz, A.}}
+\newblock \bibinfo{title}{{What do observations of the Lyman-alpha fraction
+  tell us about reionization?}} (\bibinfo{year}{2013}).
 
-\bibitem[{Theuns} et~al.(2002){Theuns}, {Zaroubi}, {Kim}, {Tzanavaris}, and
-  {Carswell}]{Theuns2002a}
-T.~{Theuns}, S.~{Zaroubi}, T.-S. {Kim}, P.~{Tzanavaris}, and R.~F. {Carswell}.
-\newblock {Temperature fluctuations in the intergalactic medium}.
-\newblock \emph{MNRAS}, 332:\penalty0 367--382, May 2002.
-\newblock \doi{10.1046/j.1365-8711.2002.05316.x}.
-
-\bibitem[Theuns et~al.(2002{\natexlab{a}})Theuns, Schaye, Zaroubi, Kim,
-  Tzanavaris, et~al.]{Theuns:2002yc}
-Tom Theuns, Joop Schaye, Saleem Zaroubi, Tae-Sun Kim, Panayiotis Tzanavaris,
-  et~al.
-\newblock {Constraints on reionization from the thermal history of the
-  intergalactic medium}.
-\newblock \emph{Astrophys.J.}, 567:\penalty0 L103, 2002{\natexlab{a}}.
+\bibitem[\protect\astroncite{Theuns et~al.}{2002}]{Theuns:2002yc}
+\textsc{\bibinfo{author}{Theuns, T.}, \bibinfo{author}{Schaye, J.},
+  \bibinfo{author}{Zaroubi, S.}, \bibinfo{author}{Kim, T.-S.},
+  \bibinfo{author}{Tzanavaris, P.}, et~al.}
+\newblock \bibinfo{title}{{Constraints on reionization from the thermal history
+  of the intergalactic medium}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{567}}:\bibinfo{pages}{L103} (\bibinfo{year}{2002}).
 \newblock \doi{10.1086/339998}.
 
-\bibitem[Theuns et~al.(2002{\natexlab{b}})Theuns, Zaroubi, Kim, Tzanavaris, and
-  Carswell]{Theuns:2001my}
-Tom Theuns, Saleem Zaroubi, Tae-Sun Kim, Panayiotis Tzanavaris, and Robert~F.
-  Carswell.
-\newblock {Temperature fluctuations in the intergalactic medium}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 332:\penalty0 367--382,
-  2002{\natexlab{b}}.
+\bibitem[\protect\astroncite{{Theuns} et~al.}{2002}]{Theuns2002a}
+\textsc{\bibinfo{author}{{Theuns}, T.}, \bibinfo{author}{{Zaroubi}, S.},
+  \bibinfo{author}{{Kim}, T.-S.}, \bibinfo{author}{{Tzanavaris}, P.}, and
+  \bibinfo{author}{{Carswell}, R.~F.}}
+\newblock \bibinfo{title}{{Temperature fluctuations in the intergalactic
+  medium}}.
+\newblock \bibinfo{journal}{MNRAS},
+  \textbf{\bibinfo{volume}{332}}:\bibinfo{pages}{367--382}
+  (\bibinfo{year}{2002}).
 \newblock \doi{10.1046/j.1365-8711.2002.05316.x}.
 
-\bibitem[Tingay et~al.(2012{\natexlab{a}})Tingay, Goeke, Bowman, Emrich, Ord,
-  et~al.]{Tingay2012}
-S.J. Tingay, R.~Goeke, J.D. Bowman, D.~Emrich, S.M. Ord, et~al.
-\newblock {The Murchison Widefield Array: the Square Kilometre Array Precursor
-  at low radio frequencies}.
-\newblock 2012{\natexlab{a}}.
+\bibitem[\protect\astroncite{Theuns et~al.}{2002}]{Theuns:2001my}
+\textsc{\bibinfo{author}{Theuns, T.}, \bibinfo{author}{Zaroubi, S.},
+  \bibinfo{author}{Kim, T.-S.}, \bibinfo{author}{Tzanavaris, P.}, and
+  \bibinfo{author}{Carswell, R.~F.}}
+\newblock \bibinfo{title}{{Temperature fluctuations in the intergalactic
+  medium}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.},
+  \textbf{\bibinfo{volume}{332}}:\bibinfo{pages}{367--382}
+  (\bibinfo{year}{2002}).
+\newblock \doi{10.1046/j.1365-8711.2002.05316.x}.
 
-\bibitem[Tingay et~al.(2012{\natexlab{b}})Tingay, Goeke, Bowman, Emrich, Ord,
-  et~al.]{Tingay:2012ps}
-S.J. Tingay, R.~Goeke, J.D. Bowman, D.~Emrich, S.M. Ord, et~al.
-\newblock {The Murchison Widefield Array: the Square Kilometre Array Precursor
-  at low radio frequencies}.
-\newblock 2012{\natexlab{b}}.
+\bibitem[\protect\astroncite{Tingay et~al.}{2012{\natexlab{a}}}]{Tingay2012}
+\textsc{\bibinfo{author}{Tingay, S.}, \bibinfo{author}{Goeke, R.},
+  \bibinfo{author}{Bowman, J.}, \bibinfo{author}{Emrich, D.},
+  \bibinfo{author}{Ord, S.}, et~al.}
+\newblock \bibinfo{title}{{The Murchison Widefield Array: the Square Kilometre
+  Array Precursor at low radio frequencies}}
+  (\bibinfo{year}{2012}{\natexlab{a}}).
 
-\bibitem[Totani et~al.(2006)Totani, Kawai, Kosugi, Aoki, Yamada,
-  et~al.]{Totani:2005ng}
-Tomonori Totani, Nobuyuki Kawai, George Kosugi, Kentaro Aoki, Toru Yamada,
-  et~al.
-\newblock {Implications for the cosmic reionization from the optical afterglow
-  spectrum of the gamma-ray burst 050904 at z = 6.3}.
-\newblock \emph{Publ.Astron.Soc.Jap.}, 58:\penalty0 485--498, 2006.
+\bibitem[\protect\astroncite{Tingay et~al.}{2012{\natexlab{b}}}]{Tingay:2012ps}
+\textsc{\bibinfo{author}{Tingay, S.}, \bibinfo{author}{Goeke, R.},
+  \bibinfo{author}{Bowman, J.}, \bibinfo{author}{Emrich, D.},
+  \bibinfo{author}{Ord, S.}, et~al.}
+\newblock \bibinfo{title}{{The Murchison Widefield Array: the Square Kilometre
+  Array Precursor at low radio frequencies}}
+  (\bibinfo{year}{2012}{\natexlab{b}}).
 
-\bibitem[Trac et~al.(2008)Trac, Cen, and Loeb]{Trac:2008yz}
-Hy~Trac, Renyue Cen, and Abraham Loeb.
-\newblock {Imprint of Inhomogeneous Hydrogen Reionization on the Temperature
-  Distribution of the Intergalactic Medium}.
-\newblock 2008.
+\bibitem[\protect\astroncite{Totani et~al.}{2006}]{Totani:2005ng}
+\textsc{\bibinfo{author}{Totani, T.}, \bibinfo{author}{Kawai, N.},
+  \bibinfo{author}{Kosugi, G.}, \bibinfo{author}{Aoki, K.},
+  \bibinfo{author}{Yamada, T.}, et~al.}
+\newblock \bibinfo{title}{{Implications for the cosmic reionization from the
+  optical afterglow spectrum of the gamma-ray burst 050904 at z = 6.3}}.
+\newblock \bibinfo{journal}{Publ.Astron.Soc.Jap.},
+  \textbf{\bibinfo{volume}{58}}:\bibinfo{pages}{485--498}
+  (\bibinfo{year}{2006}).
 
-\bibitem[Viel et~al.(2013)Viel, Becker, Bolton, and Haehnelt]{Viel:2013fqw}
-Matteo Viel, George~D. Becker, James~S. Bolton, and Martin~G. Haehnelt.
-\newblock {Warm dark matter as a solution to the small scale crisis: New
-  constraints from high redshift Lyman-α forest data}.
-\newblock \emph{Phys.Rev.}, D88\penalty0 (4):\penalty0 043502, 2013.
-\newblock \doi{10.1103/PhysRevD.88.043502}.
+\bibitem[\protect\astroncite{Trac et~al.}{2008}]{Trac:2008yz}
+\textsc{\bibinfo{author}{Trac, H.}, \bibinfo{author}{Cen, R.}, and
+  \bibinfo{author}{Loeb, A.}}
+\newblock \bibinfo{title}{{Imprint of Inhomogeneous Hydrogen Reionization on
+  the Temperature Distribution of the Intergalactic Medium}}
+  (\bibinfo{year}{2008}).
 
-\bibitem[Visbal and Loeb(2012)]{visbal2012gauging}
-Eli Visbal and Abraham Loeb.
-\newblock Gauging the contribution of x-ray sources to reionization through the
-  kinetic sunyaev-zel'dovich effect.
-\newblock \emph{Journal of Cosmology and Astroparticle Physics}, 2012\penalty0
-  (05):\penalty0 007, 2012.
+\bibitem[\protect\astroncite{Viel et~al.}{2013}]{Viel:2013fqw}
+\textsc{\bibinfo{author}{Viel, M.}, \bibinfo{author}{Becker, G.~D.},
+  \bibinfo{author}{Bolton, J.~S.}, and \bibinfo{author}{Haehnelt, M.~G.}}
+\newblock \bibinfo{title}{{Warm Dark Matter as a solution to the small scale
+  crisis: new constraints from high redshift Lyman-alpha forest data}}.
+\newblock \bibinfo{journal}{Physical Review},
+  \textbf{\bibinfo{volume}{D88}}(\bibinfo{number}{4}):\bibinfo{pages}{043502}
+  (\bibinfo{year}{2013}).
 
-\bibitem[Wang et~al.(2006)Wang, Tegmark, Santos, and Knox]{Wang:2005zj}
-Xiao-Min Wang, Max Tegmark, Mario Santos, and Lloyd Knox.
-\newblock {Twenty-one centimeter tomography with foregrounds}.
-\newblock \emph{Astrophys.J.}, 650:\penalty0 529--537, 2006.
+\bibitem[\protect\astroncite{Visbal and Loeb}{2012}]{visbal2012gauging}
+\textsc{\bibinfo{author}{Visbal, E.} and \bibinfo{author}{Loeb, A.}}
+\newblock \bibinfo{title}{Gauging the contribution of X-ray sources to
+  reionization through the kinetic Sunyaev-Zel'dovich effect}.
+\newblock \bibinfo{journal}{Journal of Cosmology and Astroparticle Physics},
+  \textbf{\bibinfo{volume}{2012}}(\bibinfo{number}{05}):\bibinfo{pages}{007}
+  (\bibinfo{year}{2012}).
+
+\bibitem[\protect\astroncite{Wang et~al.}{2006}]{Wang:2005zj}
+\textsc{\bibinfo{author}{Wang, X.-M.}, \bibinfo{author}{Tegmark, M.},
+  \bibinfo{author}{Santos, M.}, and \bibinfo{author}{Knox, L.}}
+\newblock \bibinfo{title}{{Twenty-one centimeter tomography with foregrounds}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{650}}:\bibinfo{pages}{529--537}
+  (\bibinfo{year}{2006}).
 \newblock \doi{10.1086/506597}.
 
-\bibitem[Wolfe et~al.(2005)Wolfe, Gawiser, and Prochaska]{Wolfe:2005jd}
-Arthur~M. Wolfe, Eric Gawiser, and Jason~X. Prochaska.
-\newblock {Damped lyman alpha systems}.
-\newblock \emph{Ann.Rev.Astron.Astrophys.}, 43:\penalty0 861--918, 2005.
+\bibitem[\protect\astroncite{Wolfe et~al.}{2005}]{Wolfe:2005jd}
+\textsc{\bibinfo{author}{Wolfe, A.~M.}, \bibinfo{author}{Gawiser, E.}, and
+  \bibinfo{author}{Prochaska, J.~X.}}
+\newblock \bibinfo{title}{{Damped lyman alpha systems}}.
+\newblock \bibinfo{journal}{Ann.Rev.Astron.Astrophys.},
+  \textbf{\bibinfo{volume}{43}}:\bibinfo{pages}{861--918}
+  (\bibinfo{year}{2005}).
 \newblock \doi{10.1146/annurev.astro.42.053102.133950}.
 
-\bibitem[Worseck et~al.(2011)Worseck, Prochaska, McQuinn, Dall'Aglio, Fechner,
-  et~al.]{Worseck:2011qk}
-Gabor Worseck, J.~Xavier Prochaska, Matthew McQuinn, Aldo Dall'Aglio, Cora
-  Fechner, et~al.
-\newblock {The End of Helium Reionization at z~2.7 Inferred from Cosmic
-  Variance in HST/COS HeII Lyman Alpha Absorption Spectra}.
-\newblock \emph{Astrophys.J.}, 733:\penalty0 L24, 2011.
+\bibitem[\protect\astroncite{Worseck et~al.}{2011}]{Worseck:2011qk}
+\textsc{\bibinfo{author}{Worseck, G.}, \bibinfo{author}{Prochaska, J.~X.},
+  \bibinfo{author}{McQuinn, M.}, \bibinfo{author}{Dall'Aglio, A.},
+  \bibinfo{author}{Fechner, C.}, et~al.}
+\newblock \bibinfo{title}{{The End of Helium Reionization at z~2.7 Inferred
+  from Cosmic Variance in HST/COS HeII Lyman Alpha Absorption Spectra}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{733}}:\bibinfo{pages}{L24} (\bibinfo{year}{2011}).
 \newblock \doi{10.1088/2041-8205/733/2/L24}.
 
-\bibitem[Worseck et~al.(2014)Worseck, Prochaska, O'Meara, Becker, Ellison,
-  et~al.]{Worseck:2014fya}
-G�bor Worseck, J.~Xavier Prochaska, John~M. O'Meara, George~D. Becker, Sara
-  Ellison, et~al.
-\newblock {The Giant Gemini GMOS survey of {$z>4.4$} quasars - I. Measuring the
-  mean free path across cosmic time}.
-\newblock 2014.
+\bibitem[\protect\astroncite{Worseck et~al.}{2014}]{Worseck:2014fya}
+\textsc{\bibinfo{author}{Worseck, G.}, \bibinfo{author}{Prochaska, J.~X.},
+  \bibinfo{author}{O'Meara, J.~M.}, \bibinfo{author}{Becker, G.~D.},
+  \bibinfo{author}{Ellison, S.}, et~al.}
+\newblock \bibinfo{title}{{The Giant Gemini GMOS survey of {$z>4.4$} quasars -
+  I. Measuring the mean free path across cosmic time}} (\bibinfo{year}{2014}).
 
-\bibitem[Wyithe and Loeb(2004)]{Wyithe:2004ta}
-J.~Stuart~B. Wyithe and Abraham Loeb.
-\newblock {Redshifted 21cm signatures around the highest redshift quasars}.
-\newblock \emph{Astrophys.J.}, 610:\penalty0 117--127, 2004.
+\bibitem[\protect\astroncite{Wyithe and Loeb}{2004}]{Wyithe:2004ta}
+\textsc{\bibinfo{author}{Wyithe, J. S.~B.} and \bibinfo{author}{Loeb, A.}}
+\newblock \bibinfo{title}{{Redshifted 21cm signatures around the highest
+  redshift quasars}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{610}}:\bibinfo{pages}{117--127}
+  (\bibinfo{year}{2004}).
 \newblock \doi{10.1086/421042}.
 
-\bibitem[Wyithe and Morales(2007)]{Wyithe:2007if}
-Stuart Wyithe and Miguel~F. Morales.
-\newblock {Biased Reionisation and Non-Gaussianity in Redshifted 21cm Intensity
-  Maps of the Reionisation Epoch}.
-\newblock \emph{Mon.Not.Roy.Astron.Soc.}, 2007.
+\bibitem[\protect\astroncite{Wyithe and Morales}{2007}]{Wyithe:2007if}
+\textsc{\bibinfo{author}{Wyithe, S.} and \bibinfo{author}{Morales, M.~F.}}
+\newblock \bibinfo{title}{{Biased Reionisation and Non-Gaussianity in
+  Redshifted 21cm Intensity Maps of the Reionisation Epoch}}.
+\newblock \bibinfo{journal}{Mon.Not.Roy.Astron.Soc.} (\bibinfo{year}{2007}).
 
-\bibitem[Xu et~al.(2014)Xu, Yue, Su, Fan, and Chen]{Xu:2013npa}
-Yidong Xu, Bin Yue, Meng Su, Zuhui Fan, and Xuelei Chen.
-\newblock {An analytical model of the large neutral regions during the late
-  stage of reionization}.
-\newblock \emph{Astrophys.J.}, 781:\penalty0 97, 2014.
+\bibitem[\protect\astroncite{Xu et~al.}{2014}]{Xu:2013npa}
+\textsc{\bibinfo{author}{Xu, Y.}, \bibinfo{author}{Yue, B.},
+  \bibinfo{author}{Su, M.}, \bibinfo{author}{Fan, Z.}, and
+  \bibinfo{author}{Chen, X.}}
+\newblock \bibinfo{title}{{An analytical model of the large neutral regions
+  during the late stage of reionization}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{781}}:\bibinfo{pages}{97} (\bibinfo{year}{2014}).
 \newblock \doi{10.1088/0004-637X/781/2/97}.
 
-\bibitem[{Yatawatta} et~al.(2013){Yatawatta}, {de Bruyn}, {Brentjens},
-  {Labropoulos}, {Pandey}, {Kazemi}, {Zaroubi}, {Koopmans}, {Offringa},
-  {Jeli{\'c}}, {Martinez Rubi}, {Veligatla}, {Wijnholds}, {Brouw}, {Bernardi},
-  {Ciardi}, {Daiboo}, {Harker}, {Mellema}, {Schaye}, {Thomas}, {Vedantham},
-  {Chapman}, {Abdalla}, {Alexov}, {Anderson}, {Avruch}, {Batejat}, {Bell},
-  {Bell}, {Bentum}, {Best}, {Bonafede}, {Bregman}, {Breitling}, {van de Brink},
-  {Broderick}, {Br{\"u}ggen}, {Conway}, {de Gasperin}, {de Geus}, {Duscha},
-  {Falcke}, {Fallows}, {Ferrari}, {Frieswijk}, {Garrett}, {Griessmeier},
-  {Gunst}, {Hassall}, {Hessels}, {Hoeft}, {Iacobelli}, {Juette},
-  {Karastergiou}, {Kondratiev}, {Kramer}, {Kuniyoshi}, {Kuper}, {van Leeuwen},
-  {Maat}, {Mann}, {McKean}, {Mevius}, {Mol}, {Munk}, {Nijboer}, {Noordam},
-  {Norden}, {Orru}, {Paas}, {Pandey-Pommier}, {Pizzo}, {Polatidis}, {Reich},
-  {R{\"o}ttgering}, {Sluman}, {Smirnov}, {Stappers}, {Steinmetz}, {Tagger},
-  {Tang}, {Tasse}, {ter Veen}, {Vermeulen}, {van Weeren}, {Wise}, {Wucknitz},
-  and {Zarka}]{2013A&A...550A.136Y}
-S.~{Yatawatta}, A.~G. {de Bruyn}, M.~A. {Brentjens}, P.~{Labropoulos}, V.~N.
-  {Pandey}, S.~{Kazemi}, S.~{Zaroubi}, L.~V.~E. {Koopmans}, A.~R. {Offringa},
-  V.~{Jeli{\'c}}, O.~{Martinez Rubi}, V.~{Veligatla}, S.~J. {Wijnholds}, W.~N.
-  {Brouw}, G.~{Bernardi}, B.~{Ciardi}, S.~{Daiboo}, G.~{Harker}, G.~{Mellema},
-  J.~{Schaye}, R.~{Thomas}, H.~{Vedantham}, E.~{Chapman}, F.~B. {Abdalla},
-  A.~{Alexov}, J.~{Anderson}, I.~M. {Avruch}, F.~{Batejat}, M.~E. {Bell}, M.~R.
-  {Bell}, M.~{Bentum}, P.~{Best}, A.~{Bonafede}, J.~{Bregman}, F.~{Breitling},
-  R.~H. {van de Brink}, J.~W. {Broderick}, M.~{Br{\"u}ggen}, J.~{Conway},
-  F.~{de Gasperin}, E.~{de Geus}, S.~{Duscha}, H.~{Falcke}, R.~A. {Fallows},
-  C.~{Ferrari}, W.~{Frieswijk}, M.~A. {Garrett}, J.~M. {Griessmeier}, A.~W.
-  {Gunst}, T.~E. {Hassall}, J.~W.~T. {Hessels}, M.~{Hoeft}, M.~{Iacobelli},
-  E.~{Juette}, A.~{Karastergiou}, V.~I. {Kondratiev}, M.~{Kramer},
-  M.~{Kuniyoshi}, G.~{Kuper}, J.~{van Leeuwen}, P.~{Maat}, G.~{Mann}, J.~P.
-  {McKean}, M.~{Mevius}, J.~D. {Mol}, H.~{Munk}, R.~{Nijboer}, J.~E. {Noordam},
-  M.~J. {Norden}, E.~{Orru}, H.~{Paas}, M.~{Pandey-Pommier}, R.~{Pizzo}, A.~G.
-  {Polatidis}, W.~{Reich}, H.~J.~A. {R{\"o}ttgering}, J.~{Sluman},
-  O.~{Smirnov}, B.~{Stappers}, M.~{Steinmetz}, M.~{Tagger}, Y.~{Tang},
-  C.~{Tasse}, S.~{ter Veen}, R.~{Vermeulen}, R.~J. {van Weeren}, M.~{Wise},
-  O.~{Wucknitz}, and P.~{Zarka}.
-\newblock {Initial deep LOFAR observations of epoch of reionization windows. I.
-  The north celestial pole}.
-\newblock \emph{AAP}, 550:\penalty0 A136, February 2013.
+\bibitem[\protect\astroncite{{Yatawatta} et~al.}{2013}]{2013A&A...550A.136Y}
+\textsc{\bibinfo{author}{{Yatawatta}, S.}, \bibinfo{author}{{de Bruyn}, A.~G.},
+  \bibinfo{author}{{Brentjens}, M.~A.}, \bibinfo{author}{{Labropoulos}, P.},
+  \bibinfo{author}{{Pandey}, V.~N.}, \bibinfo{author}{{Kazemi}, S.},
+  \bibinfo{author}{{Zaroubi}, S.}, \bibinfo{author}{{Koopmans}, L.~V.~E.},
+  et~al.}
+\newblock \bibinfo{title}{{Initial deep LOFAR observations of epoch of
+  reionization windows. I. The north celestial pole}}.
+\newblock \bibinfo{journal}{AAP},
+  \textbf{\bibinfo{volume}{550}}:\bibinfo{eid}{A136} (\bibinfo{year}{2013}).
 \newblock \doi{10.1051/0004-6361/201220874}.
 
-\bibitem[Zahn et~al.(2012{\natexlab{a}})Zahn, Reichardt, Shaw, Lidz, Aird,
-  et~al.]{Zahn2012}
-O.~Zahn, C.L. Reichardt, L.~Shaw, A.~Lidz, K.A. Aird, et~al.
-\newblock {Cosmic microwave background constraints on the duration and timing
-  of reionization from the South Pole Telescope}.
-\newblock \emph{Astrophys.J.}, 756:\penalty0 65, 2012{\natexlab{a}}.
-\newblock \doi{10.1088/0004-637X/756/1/65}.
-
-\bibitem[Zahn et~al.(2012{\natexlab{b}})Zahn, Reichardt, Shaw, Lidz, Aird,
-  et~al.]{Zahn:2011vp}
-O.~Zahn, C.L. Reichardt, L.~Shaw, A.~Lidz, K.A. Aird, et~al.
-\newblock {Cosmic microwave background constraints on the duration and timing
-  of reionization from the South Pole Telescope}.
-\newblock \emph{Astrophys.J.}, 756:\penalty0 65, 2012{\natexlab{b}}.
-\newblock \doi{10.1088/0004-637X/756/1/65}.
-
-\bibitem[Zahn et~al.(2006{\natexlab{a}})Zahn, Lidz, McQuinn, Dutta, Hernquist,
-  et~al.]{Zahn2006}
-Oliver Zahn, Adam Lidz, Matthew McQuinn, Suvendra Dutta, Lars Hernquist, et~al.
-\newblock {Simulations and Analytic Calculations of Bubble Growth During
-  Hydrogen Reionization}.
-\newblock \emph{Astrophys.J.}, 654:\penalty0 12--26, 2006{\natexlab{a}}.
+\bibitem[\protect\astroncite{Zahn et~al.}{2006}]{Zahn:2006sg}
+\textsc{\bibinfo{author}{Zahn, O.}, \bibinfo{author}{Lidz, A.},
+  \bibinfo{author}{McQuinn, M.}, \bibinfo{author}{Dutta, S.},
+  \bibinfo{author}{Hernquist, L.}, et~al.}
+\newblock \bibinfo{title}{{Simulations and Analytic Calculations of Bubble
+  Growth During Hydrogen Reionization}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{654}}:\bibinfo{pages}{12--26}
+  (\bibinfo{year}{2006}).
 \newblock \doi{10.1086/509597}.
 
-\bibitem[Zahn et~al.(2006{\natexlab{b}})Zahn, Lidz, McQuinn, Dutta, Hernquist,
-  et~al.]{Zahn:2006sg}
-Oliver Zahn, Adam Lidz, Matthew McQuinn, Suvendra Dutta, Lars Hernquist, et~al.
-\newblock {Simulations and Analytic Calculations of Bubble Growth During
-  Hydrogen Reionization}.
-\newblock \emph{Astrophys.J.}, 654:\penalty0 12--26, 2006{\natexlab{b}}.
-\newblock \doi{10.1086/509597}.
+\bibitem[\protect\astroncite{Zahn et~al.}{2010}]{Zahn:2010yw}
+\textsc{\bibinfo{author}{Zahn, O.}, \bibinfo{author}{Mesinger, A.},
+  \bibinfo{author}{McQuinn, M.}, \bibinfo{author}{Trac, H.},
+  \bibinfo{author}{Cen, R.}, et~al.}
+\newblock \bibinfo{title}{{Comparison Of Reionization Models: Radiative
+  Transfer Simulations And Approximate, Semi-Numeric Models}}
+  (\bibinfo{year}{2010}).
 
-\bibitem[Zahn et~al.(2010)Zahn, Mesinger, McQuinn, Trac, Cen,
-  et~al.]{Zahn:2010yw}
-Oliver Zahn, Andrei Mesinger, Matthew McQuinn, Hy~Trac, Renyue Cen, et~al.
-\newblock {Comparison Of Reionization Models: Radiative Transfer Simulations
-  And Approximate, Semi-Numeric Models}.
-\newblock 2010.
+\bibitem[\protect\astroncite{Zahn et~al.}{2012{\natexlab{a}}}]{Zahn2012}
+\textsc{\bibinfo{author}{Zahn, O.}, \bibinfo{author}{Reichardt, C.},
+  \bibinfo{author}{Shaw, L.}, \bibinfo{author}{Lidz, A.},
+  \bibinfo{author}{Aird, K.}, et~al.}
+\newblock \bibinfo{title}{{Cosmic microwave background constraints on the
+  duration and timing of reionization from the South Pole Telescope}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{756}}:\bibinfo{pages}{65}
+  (\bibinfo{year}{2012}{\natexlab{a}}).
+\newblock \doi{10.1088/0004-637X/756/1/65}.
 
-\bibitem[Zaldarriaga(2002)]{zaldarriaga2002searching}
-Matias Zaldarriaga.
-\newblock Searching for fluctuations in the intergalactic medium temperature
-  using the lya forest.
-\newblock \emph{The Astrophysical Journal}, 564\penalty0 (1):\penalty0 153,
-  2002.
+\bibitem[\protect\astroncite{Zahn et~al.}{2012{\natexlab{b}}}]{Zahn:2011vp}
+\textsc{\bibinfo{author}{Zahn, O.}, \bibinfo{author}{Reichardt, C.},
+  \bibinfo{author}{Shaw, L.}, \bibinfo{author}{Lidz, A.},
+  \bibinfo{author}{Aird, K.}, et~al.}
+\newblock \bibinfo{title}{{Cosmic microwave background constraints on the
+  duration and timing of reionization from the South Pole Telescope}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{756}}:\bibinfo{pages}{65}
+  (\bibinfo{year}{2012}{\natexlab{b}}).
+\newblock \doi{10.1088/0004-637X/756/1/65}.
 
-\bibitem[Zaldarriaga et~al.(2001)Zaldarriaga, Hui, and
-  Tegmark]{Zaldarriaga:2000mz}
-Matias Zaldarriaga, Lam Hui, and Max Tegmark.
-\newblock {Constraints from the Lyman alpha forest power spectrum}.
-\newblock \emph{Astrophys.J.}, 557:\penalty0 519--526, 2001.
-\newblock \doi{10.1086/321652}.
+\bibitem[\protect\astroncite{Zaldarriaga}{2002}]{zaldarriaga2002searching}
+\textsc{\bibinfo{author}{Zaldarriaga, M.}}
+\newblock \bibinfo{title}{Searching for fluctuations in the intergalactic
+  medium temperature using the Lya forest}.
+\newblock \bibinfo{journal}{The Astrophysical Journal},
+  \textbf{\bibinfo{volume}{564}}(\bibinfo{number}{1}):\bibinfo{pages}{153}
+  (\bibinfo{year}{2002}).
 
-\bibitem[Zaldarriaga et~al.(2004)Zaldarriaga, Furlanetto, and
-  Hernquist]{Zaldarriaga:2003du}
-Matias Zaldarriaga, Steven~R. Furlanetto, and Lars Hernquist.
-\newblock {21 Centimeter fluctuations from cosmic gas at high redshifts}.
-\newblock \emph{Astrophys.J.}, 608:\penalty0 622--635, 2004.
+\bibitem[\protect\astroncite{Zaldarriaga et~al.}{2004}]{Zaldarriaga:2003du}
+\textsc{\bibinfo{author}{Zaldarriaga, M.}, \bibinfo{author}{Furlanetto, S.~R.},
+  and \bibinfo{author}{Hernquist, L.}}
+\newblock \bibinfo{title}{{21 Centimeter fluctuations from cosmic gas at high
+  redshifts}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{608}}:\bibinfo{pages}{622--635}
+  (\bibinfo{year}{2004}).
 \newblock \doi{10.1086/386327}.
 
-\bibitem[Zaroubi et~al.(2012)Zaroubi, de~Bruyn, Harker, Thomas, Labropolous,
-  et~al.]{Zaroubi:2012cy}
-S.~Zaroubi, A.G. de~Bruyn, G.~Harker, R.M. Thomas, P.~Labropolous, et~al.
-\newblock {Imaging neutral hydrogen on large-scales during the Epoch of
-  Reionization with LOFAR}.
-\newblock 2012.
+\bibitem[\protect\astroncite{Zaldarriaga et~al.}{2001}]{Zaldarriaga:2000mz}
+\textsc{\bibinfo{author}{Zaldarriaga, M.}, \bibinfo{author}{Hui, L.}, and
+  \bibinfo{author}{Tegmark, M.}}
+\newblock \bibinfo{title}{{Constraints from the Lyman alpha forest power
+  spectrum}}.
+\newblock \bibinfo{journal}{Astrophys.J.},
+  \textbf{\bibinfo{volume}{557}}:\bibinfo{pages}{519--526}
+  (\bibinfo{year}{2001}).
+\newblock \doi{10.1086/321652}.
 
-\bibitem[{Zel'dovich}(1970)]{1970A&A.....5...84Z}
-Y.~B. {Zel'dovich}.
-\newblock {Gravitational instability: An approximate theory for large density
-  perturbations.}
-\newblock \emph{Astronomy and Astrophysics}, 5:\penalty0 84--89, March 1970.
+\bibitem[\protect\astroncite{Zaroubi et~al.}{2012}]{Zaroubi:2012cy}
+\textsc{\bibinfo{author}{Zaroubi, S.}, \bibinfo{author}{de~Bruyn, A.},
+  \bibinfo{author}{Harker, G.}, \bibinfo{author}{Thomas, R.},
+  \bibinfo{author}{Labropolous, P.}, et~al.}
+\newblock \bibinfo{title}{{Imaging neutral hydrogen on large-scales during the
+  Epoch of Reionization with LOFAR}} (\bibinfo{year}{2012}).
 
-\bibitem[{Zuo} and {Phinney}(1993{\natexlab{a}})]{1993ApJ...418...28Z}
-L.~{Zuo} and E.~S. {Phinney}.
-\newblock {Absorption by Discrete Intergalactic Clouds: Theory and Some
-  Applications}.
-\newblock \emph{ApJ}, 418:\penalty0 28, November 1993{\natexlab{a}}.
+\bibitem[\protect\astroncite{{Zel'dovich}}{1970}]{1970A&A.....5...84Z}
+\textsc{\bibinfo{author}{{Zel'dovich}, Y.~B.}}
+\newblock \bibinfo{title}{{Gravitational instability: An approximate theory for
+  large density perturbations.}}
+\newblock \bibinfo{journal}{Astronomy and Astrophysics},
+  \textbf{\bibinfo{volume}{5}}:\bibinfo{pages}{84--89} (\bibinfo{year}{1970}).
+
+\bibitem[\protect\astroncite{{Zuo} and {Phinney}}{1993{\natexlab{a}}}]{Zuo}
+\textsc{\bibinfo{author}{{Zuo}, L.} and \bibinfo{author}{{Phinney}, E.~S.}}
+\newblock \bibinfo{title}{{Absorption by Discrete Intergalactic Clouds: Theory
+  and Some Applications}}.
+\newblock \bibinfo{journal}{ApJ},
+  \textbf{\bibinfo{volume}{418}}:\bibinfo{pages}{28}
+  (\bibinfo{year}{1993}{\natexlab{a}}).
 \newblock \doi{10.1086/173367}.
 
-\bibitem[{Zuo} and {Phinney}(1993{\natexlab{b}})]{Zuo}
-L.~{Zuo} and E.~S. {Phinney}.
-\newblock {Absorption by Discrete Intergalactic Clouds: Theory and Some
-  Applications}.
-\newblock \emph{ApJ}, 418:\penalty0 28, November 1993{\natexlab{b}}.
+\bibitem[\protect\astroncite{{Zuo} and
+  {Phinney}}{1993{\natexlab{b}}}]{1993ApJ...418...28Z}
+\textsc{\bibinfo{author}{{Zuo}, L.} and \bibinfo{author}{{Phinney}, E.~S.}}
+\newblock \bibinfo{title}{{Absorption by Discrete Intergalactic Clouds: Theory
+  and Some Applications}}.
+\newblock \bibinfo{journal}{ApJ},
+  \textbf{\bibinfo{volume}{418}}:\bibinfo{pages}{28}
+  (\bibinfo{year}{1993}{\natexlab{b}}).
 \newblock \doi{10.1086/173367}.
 
 \end{thebibliography}
